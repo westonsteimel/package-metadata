@@ -1,0 +1,6 @@
+name = "keyring"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python"
+product = "keyring"
+

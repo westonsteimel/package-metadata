@@ -1,0 +1,6 @@
+name = "nltk"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "nltk"
+product = "nltk"
+

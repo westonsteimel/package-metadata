@@ -1,0 +1,6 @@
+name = "rtslib-fb"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "rtslib-fb_project"
+product = "rtslib-fb"
+

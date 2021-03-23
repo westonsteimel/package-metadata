@@ -1,0 +1,7 @@
+name = "tornado"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "tornadoweb"
+product = "tornado"
+

@@ -1,0 +1,10 @@
+name = "octavia"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "opendev"
+product = "octavia"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "octavia"

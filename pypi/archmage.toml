@@ -1,0 +1,6 @@
+name = "archmage"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "archmage_project"
+product = "archmage"
+

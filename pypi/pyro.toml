@@ -1,0 +1,6 @@
+name = "pyro"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "pyro_project"
+product = "pyro"
+

@@ -1,0 +1,6 @@
+name = "django-two-factor-auth"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "django_two-factor_authentication_project"
+product = "django_two-factor_authentication"
+

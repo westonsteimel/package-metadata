@@ -1,0 +1,5 @@
+name = "alerta-server"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "alerta_project"
+product = "alerta"

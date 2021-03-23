@@ -1,0 +1,6 @@
+name = "python-muranoclient"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "openstack"
+product = "python-muranoclient"
+

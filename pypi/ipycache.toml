@@ -1,0 +1,6 @@
+name = "ipycache"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "ipycache_project"
+product = "ipycache"
+

@@ -1,0 +1,6 @@
+name = "CoAPthon"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "coapthon_project"
+product = "coapthon"
+

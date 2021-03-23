@@ -1,0 +1,6 @@
+name = "CairoSVG"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "courtbouillon"
+product = "cairosvg"
+

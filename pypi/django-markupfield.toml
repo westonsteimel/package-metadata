@@ -1,0 +1,6 @@
+name = "django-markupfield"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "django-markupfield_project"
+product = "django-markupfield"
+

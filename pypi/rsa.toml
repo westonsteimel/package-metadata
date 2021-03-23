@@ -1,0 +1,11 @@
+name = "rsa"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "python"
+product = "rsa"
+
+[[cpe_configurations]]
+vendor = "python-rsa_project"
+product = "python-rsa"
+

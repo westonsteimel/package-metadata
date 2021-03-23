@@ -1,0 +1,6 @@
+name = "oic"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python_openid_connect_project"
+product = "python_openid_connect"
+

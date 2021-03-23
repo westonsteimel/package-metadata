@@ -1,0 +1,6 @@
+name = "eyed3"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "travis_shirk"
+product = "eyed3"
+

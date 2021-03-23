@@ -1,0 +1,6 @@
+name = "python-dbusmock"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python-dbusmock_project"
+product = "python-dbusmock"
+

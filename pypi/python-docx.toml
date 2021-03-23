@@ -1,0 +1,6 @@
+name = "python-docx"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python-openxml"
+product = "python-docx"
+

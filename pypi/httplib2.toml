@@ -1,0 +1,6 @@
+name = "httplib2"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "httplib2_project"
+product = "httplib2"
+

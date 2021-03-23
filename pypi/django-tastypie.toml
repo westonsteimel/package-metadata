@@ -1,0 +1,6 @@
+name = "django-tastypie"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "djangoproject"
+product = "tastypie"
+

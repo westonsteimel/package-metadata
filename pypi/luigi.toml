@@ -1,0 +1,6 @@
+name = "luigi"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "spotify"
+product = "luigi"
+

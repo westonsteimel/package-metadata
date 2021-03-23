@@ -1,0 +1,6 @@
+name = "parso"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "parso_project"
+product = "parso"
+

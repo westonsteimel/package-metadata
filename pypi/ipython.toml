@@ -1,0 +1,6 @@
+name = "ipython"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "ipython"
+product = "ipython"
+

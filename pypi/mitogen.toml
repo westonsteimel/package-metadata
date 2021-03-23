@@ -1,0 +1,6 @@
+name = "mitogen"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "networkgenomics"
+product = "mitogen"
+

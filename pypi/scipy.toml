@@ -1,0 +1,7 @@
+name = "scipy"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "scipy"
+product = "scipy"
+

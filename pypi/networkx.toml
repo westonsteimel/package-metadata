@@ -1,0 +1,6 @@
+name = "networkx"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python"
+product = "networkx"
+

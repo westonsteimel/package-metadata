@@ -1,0 +1,7 @@
+name = "numpy"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "numpy"
+product = "numpy"
+

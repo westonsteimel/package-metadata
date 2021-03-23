@@ -1,0 +1,6 @@
+name = "nanopb"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "nanopb_project"
+product = "nanopb"
+

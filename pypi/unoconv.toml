@@ -1,0 +1,6 @@
+name = "unoconv"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "universal_office_converter_project"
+product = "universal_office_converter"
+

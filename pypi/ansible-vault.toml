@@ -1,0 +1,7 @@
+name = "ansible-vault"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "ansible-vault_project"
+product = "ansible-vault"
+

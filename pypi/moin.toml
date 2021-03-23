@@ -1,0 +1,10 @@
+name = "moin"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "moinmo"
+product = "moinmoin"
+
+[[cpe_configurations]]
+vendor = "moinmoin"
+product = "moinmoin"

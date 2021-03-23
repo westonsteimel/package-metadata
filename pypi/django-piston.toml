@@ -1,0 +1,6 @@
+name = "django-piston"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "djangoproject"
+product = "piston"
+

@@ -1,0 +1,10 @@
+name = "ipsilon"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "ipsilon-project"
+product = "ipsilon"
+
+[[cpe_configurations]]
+vendor = "ipsilon_project"
+product = "ipsilon"

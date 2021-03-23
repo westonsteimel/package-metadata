@@ -1,0 +1,6 @@
+name = "pykmip"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "pykmip_project"
+product = "pykmip"
+

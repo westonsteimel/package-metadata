@@ -1,0 +1,6 @@
+name = "uvicorn"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "encode"
+product = "uvicorn"
+

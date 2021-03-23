@@ -1,0 +1,6 @@
+name = "wagtail"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "torchbox"
+product = "wagtail"
+

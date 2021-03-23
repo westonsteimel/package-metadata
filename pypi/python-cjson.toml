@@ -1,0 +1,6 @@
+name = "python-cjson"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "dan_pascu"
+product = "python-cjson"
+

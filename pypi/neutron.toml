@@ -1,0 +1,6 @@
+name = "neutron"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "openstack"
+product = "neutron"
+

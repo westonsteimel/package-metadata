@@ -1,0 +1,6 @@
+name = "bleach"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "mozilla"
+product = "bleach"
+

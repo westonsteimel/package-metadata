@@ -1,0 +1,6 @@
+name = "drf-jwt"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "styria"
+product = "django-rest-framework-json_web_tokens"
+

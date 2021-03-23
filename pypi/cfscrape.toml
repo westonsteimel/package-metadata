@@ -1,0 +1,5 @@
+name = "cfscrape"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "cloudflare-scrape_project"
+product = "cloudflare-scrape"

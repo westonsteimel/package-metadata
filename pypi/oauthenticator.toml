@@ -1,0 +1,6 @@
+name = "oauthenticator"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "jupyter"
+product = "oauthenticator"
+

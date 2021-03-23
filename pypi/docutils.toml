@@ -1,0 +1,6 @@
+name = "docutils"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python-docutils_project"
+product = "python-docutils"
+

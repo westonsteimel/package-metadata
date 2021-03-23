@@ -1,0 +1,6 @@
+name = "apache-airflow"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "apache"
+product = "airflow"
+

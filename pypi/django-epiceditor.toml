@@ -1,0 +1,6 @@
+name = "django-epiceditor"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "django-epiceditor_project"
+product = "django-epiceditor"
+

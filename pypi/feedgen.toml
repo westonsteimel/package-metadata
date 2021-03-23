@@ -1,0 +1,7 @@
+name = "feedgen"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "feedgen_project"
+product = "feedgen"
+target_software = "python"
+

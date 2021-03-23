@@ -1,0 +1,5 @@
+name = "tortoise-orm"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "tortoise_orm_project"
+product = "tortoise_orm"

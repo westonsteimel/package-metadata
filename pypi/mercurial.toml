@@ -1,0 +1,6 @@
+name = "mercurial"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "mercurial"
+product = "mercurial"
+

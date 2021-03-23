@@ -1,0 +1,6 @@
+name = "pycsw"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "pycsw"
+product = "pycsw"
+

@@ -1,0 +1,6 @@
+name = "ecdsa"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python-ecdsa_project"
+product = "python-ecdsa"
+

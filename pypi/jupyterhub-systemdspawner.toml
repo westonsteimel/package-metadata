@@ -1,0 +1,6 @@
+name = "jupyterhub-systemdspawner"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "jupyterhub"
+product = "systemdspawner"
+

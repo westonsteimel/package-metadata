@@ -1,0 +1,6 @@
+name = "bottle"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "bottlepy"
+product = "bottle"
+

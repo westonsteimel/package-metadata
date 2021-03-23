@@ -1,0 +1,6 @@
+name = "zodb"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "zope"
+product = "zodb"
+

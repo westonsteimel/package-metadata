@@ -1,0 +1,6 @@
+name = "apache-superset"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "apache"
+product = "incubator_superset"
+

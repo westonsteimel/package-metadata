@@ -1,0 +1,6 @@
+name = "tripleo-heat-templates"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "openstack"
+product = "tripleo_heat_templates"
+

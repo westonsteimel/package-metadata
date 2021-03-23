@@ -1,0 +1,6 @@
+name = "webargs"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "webargs_project"
+product = "webargs"
+

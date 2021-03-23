@@ -1,0 +1,6 @@
+name = "mode"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python-mode_project"
+product = "python-mode"
+

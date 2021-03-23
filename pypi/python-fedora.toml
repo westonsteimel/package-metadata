@@ -1,0 +1,6 @@
+name = "python-fedora"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "fedoraproject"
+product = "python-fedora"
+

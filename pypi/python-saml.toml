@@ -1,0 +1,6 @@
+name = "python-saml"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "onelogin"
+product = "pythonsaml"
+

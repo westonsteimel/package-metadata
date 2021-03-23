@@ -1,0 +1,6 @@
+name = "SQLAlchemy"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "sqlalchemy"
+product = "sqlalchemy"
+

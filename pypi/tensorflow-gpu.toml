@@ -1,0 +1,6 @@
+name = "tensorflow-gpu"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "tensorflow"
+product = "tensorflow"

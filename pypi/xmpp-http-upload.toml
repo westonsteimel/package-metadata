@@ -1,0 +1,6 @@
+name = "xmpp-http-upload"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "xmpp-http-upload_project"
+product = "xmpp-http-upload"
+

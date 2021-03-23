@@ -1,0 +1,6 @@
+name = "owlmixin"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "owlmixin_project"
+product = "owlmixin"
+

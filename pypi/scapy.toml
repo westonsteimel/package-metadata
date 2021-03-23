@@ -1,0 +1,6 @@
+name = "scapy"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "scapy"
+product = "scapy"
+

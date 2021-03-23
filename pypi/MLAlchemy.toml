@@ -1,0 +1,6 @@
+name = "MLAlchemy"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "mlalchemy_project"
+product = "mlalchemy"
+

@@ -1,0 +1,11 @@
+name = "django-crm"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "micropyramid"
+product = "django_crm"
+
+[[cpe_configurations]]
+vendor = "micropyramid"
+product = "django-crm"
+

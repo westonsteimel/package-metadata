@@ -1,0 +1,6 @@
+name = "topydo"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "topydo"
+product = "topydo"
+

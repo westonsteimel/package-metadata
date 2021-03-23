@@ -1,0 +1,6 @@
+name = "ovirt-engine-sdk-python"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "ovirt-engine-sdk-python_project"
+product = "ovirt-engine-sdk-python"
+

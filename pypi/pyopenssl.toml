@@ -1,0 +1,11 @@
+name = "pyopenssl"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pyopenssl"
+product = "pyopenssl"
+
+[[cpe_configurations]]
+vendor = "pyopenssl_project"
+product = "pyopenssl"
+

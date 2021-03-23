@@ -1,0 +1,6 @@
+name = "restkit"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "restkit"
+product = "restkit"
+

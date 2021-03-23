@@ -1,0 +1,6 @@
+name = "Kotti"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "kotti_project"
+product = "kotti"
+

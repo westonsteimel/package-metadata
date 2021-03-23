@@ -1,0 +1,6 @@
+name = "invenio-records"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "inveniosoftware"
+product = "invenio-records"
+

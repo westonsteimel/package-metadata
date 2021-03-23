@@ -1,0 +1,6 @@
+name = "celery"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "celeryproject"
+product = "celery"
+

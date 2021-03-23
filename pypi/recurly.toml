@@ -1,0 +1,5 @@
+name = "recurly"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "recurly"
+product = "recurly_client_python"

@@ -1,0 +1,6 @@
+name = "eve"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python-eve"
+product = "eve"
+

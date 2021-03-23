@@ -1,0 +1,7 @@
+name = "Zope2"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "zope"
+product = "zope"
+

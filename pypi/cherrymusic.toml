@@ -1,0 +1,6 @@
+name = "cherrymusic"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "fomori"
+product = "cherrymusic"
+

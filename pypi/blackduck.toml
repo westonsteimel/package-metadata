@@ -1,0 +1,7 @@
+name = "blackduck"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "synopsys"
+product = "hub-rest-api-python"
+

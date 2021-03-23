@@ -1,0 +1,6 @@
+name = "limnoria"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "limnoria_project"
+product = "limnoria"
+

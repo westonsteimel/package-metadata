@@ -1,0 +1,6 @@
+name = "django-celery-results"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "django-celery-results_project"
+product = "django-celery-results"
+

@@ -1,0 +1,6 @@
+name = "indy-node"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "linuxfoundation"
+product = "indy-node"
+

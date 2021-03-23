@@ -1,0 +1,6 @@
+name = "tryton"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "tryton"
+product = "tryton"
+

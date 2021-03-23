@@ -1,0 +1,6 @@
+name = "pyanyapi"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "pyanyapi_project"
+product = "pyanyapi"
+

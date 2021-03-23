@@ -1,0 +1,6 @@
+name = "django"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "djangoproject"
+product = "django"
+

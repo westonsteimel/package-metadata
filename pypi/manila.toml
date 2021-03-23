@@ -1,0 +1,6 @@
+name = "manila"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "openstack"
+product = "manila"
+

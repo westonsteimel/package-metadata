@@ -1,0 +1,6 @@
+name = "djblets"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "reviewboard"
+product = "djblets"
+

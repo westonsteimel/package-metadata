@@ -1,0 +1,6 @@
+name = "pwntools"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "pwntools_project"
+product = "pwntools"
+

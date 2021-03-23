@@ -1,0 +1,7 @@
+name = "validators"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "validators_project"
+product = "validators"
+target_software = "python"
+

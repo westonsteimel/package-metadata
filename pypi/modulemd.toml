@@ -1,0 +1,6 @@
+name = "modulemd"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "redhat"
+product = "modulemd"
+

@@ -1,0 +1,6 @@
+name = "ironic-discoverd"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "openstack"
+product = "ironic_inspector"
+

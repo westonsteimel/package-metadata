@@ -1,0 +1,6 @@
+name = "django-basic-auth-ip-whitelist"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "django-basic-auth-ip-whitelist_project"
+product = "django-basic-auth-ip-whitelist"
+

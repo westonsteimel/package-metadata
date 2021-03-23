@@ -1,0 +1,6 @@
+name = "websockets"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "myks"
+product = "websockets"
+

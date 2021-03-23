@@ -1,0 +1,6 @@
+name = "misp-maltego"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "misp"
+product = "misp-maltego"
+

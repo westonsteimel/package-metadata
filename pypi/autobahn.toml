@@ -1,0 +1,6 @@
+name = "autobahn"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "crossbar"
+product = "autobahn"
+

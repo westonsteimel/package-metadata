@@ -1,0 +1,6 @@
+name = "formencode"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "formencode"
+product = "formencode"
+

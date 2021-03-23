@@ -1,0 +1,6 @@
+name = "openapi-python-client"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "openapi-python-client_project"
+product = "openapi-python-client"
+

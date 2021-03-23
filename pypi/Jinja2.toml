@@ -1,0 +1,10 @@
+name = "Jinja2"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "palletsprojects"
+product = "jinja"
+
+[[cpe_configurations]]
+vendor = "pocoo"
+product = "jinja2"

@@ -1,0 +1,6 @@
+name = "postfix-mta-sts-resolver"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "postfix-mta-sts-resolver_project"
+product = "postfix-mta-sts-resolver"
+

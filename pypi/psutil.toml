@@ -1,0 +1,6 @@
+name = "psutil"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "psutil_project"
+product = "psutil"
+

@@ -1,0 +1,6 @@
+name = "mistral"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openstack-mistral"
+

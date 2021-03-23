@@ -1,0 +1,6 @@
+name = "aiohttp"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "aiohttp_project"
+product = "aiohttp"
+

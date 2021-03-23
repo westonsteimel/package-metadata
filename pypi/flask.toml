@@ -1,0 +1,6 @@
+name = "flask"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "palletsprojects"
+product = "flask"
+

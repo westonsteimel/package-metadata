@@ -1,0 +1,6 @@
+name = "ymlref"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "ymlref_project"
+product = "ymlref"
+

@@ -1,0 +1,6 @@
+name = "hpack"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python"
+product = "hpack"
+

@@ -1,0 +1,11 @@
+name = "cobbler"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "cobblerd"
+product = "cobbler"
+
+[[cpe_configurations]]
+vendor = "cobbler_project"
+product = "cobbler"
+

@@ -1,0 +1,6 @@
+name = "pyshop"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "guillaume_gauvrit"
+product = "pyshop"
+

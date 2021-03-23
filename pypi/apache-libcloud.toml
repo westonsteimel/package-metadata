@@ -1,0 +1,6 @@
+name = "apache-libcloud"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "apache"
+product = "libcloud"
+

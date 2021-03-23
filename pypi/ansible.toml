@@ -1,0 +1,15 @@
+name = "ansible"
+ecosystem = "pypi"
+source = "https://github.com/ansible/ansible"
+
+[[cpe_configurations]]
+vendor = "ansible"
+product = "ansible"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "ansible"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "ansible_engine"

@@ -1,0 +1,15 @@
+name = "pip"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "python"
+product = "pip"
+
+[[cpe_configurations]]
+vendor = "pypa"
+product = "pip"
+
+[[cpe_configurations]]
+vendor = "pip-installer"
+product = "pip"
+

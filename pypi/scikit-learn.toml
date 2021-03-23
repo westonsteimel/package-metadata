@@ -1,0 +1,7 @@
+name = "scikit-learn"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "scikit-learn"
+product = "scikit-learn"
+

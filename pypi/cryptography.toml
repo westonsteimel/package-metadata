@@ -1,0 +1,7 @@
+name = "cryptography"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "cryptography_project"
+product = "cryptography"
+target_software = "python"
+

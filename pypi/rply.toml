@@ -1,0 +1,10 @@
+name = "rply"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "rply_project"
+product = "rply"
+
+[[cpe_configurations]]
+vendor = "python"
+product = "rply"
+

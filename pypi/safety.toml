@@ -1,0 +1,6 @@
+name = "safety"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "pyup"
+product = "safety"
+

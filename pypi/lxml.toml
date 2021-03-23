@@ -1,0 +1,6 @@
+name = "lxml"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "lxml"
+product = "lxml"
+

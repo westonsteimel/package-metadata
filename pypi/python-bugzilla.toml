@@ -1,0 +1,6 @@
+name = "python-bugzilla"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python_bugzilla_project"
+product = "python-bugzilla"
+

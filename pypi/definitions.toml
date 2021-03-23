@@ -1,0 +1,7 @@
+name = "definitions"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "definitions_project"
+product = "definitions"
+target_software = "python"
+

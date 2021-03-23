@@ -1,0 +1,6 @@
+name = "svglib"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "svglib_project"
+product = "svglib"
+

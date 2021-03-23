@@ -1,0 +1,6 @@
+name = "tlslite-ng"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "tlslite-ng_project"
+product = "tlslite-ng"
+

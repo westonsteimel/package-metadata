@@ -1,0 +1,6 @@
+name = "jsonpickle"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "jsonpickle_project"
+product = "jsonpickle"
+

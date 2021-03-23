@@ -1,0 +1,6 @@
+name = "roundup"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "roundup-tracker"
+product = "roundup"
+

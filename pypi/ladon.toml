@@ -1,0 +1,6 @@
+name = "ladon"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "ladon_project"
+product = "ladon"
+

@@ -1,0 +1,6 @@
+name = "gunicorn"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "gunicorn"
+product = "gunicorn"
+

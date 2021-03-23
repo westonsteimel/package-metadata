@@ -1,0 +1,6 @@
+name = "keystone"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "openstack"
+product = "keystone"
+

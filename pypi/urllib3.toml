@@ -1,0 +1,6 @@
+name = "urllib3"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python"
+product = "urllib3"
+

@@ -1,0 +1,6 @@
+name = "horizon"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "openstack"
+product = "horizon"
+

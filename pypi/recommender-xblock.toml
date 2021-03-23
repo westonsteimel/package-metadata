@@ -1,0 +1,6 @@
+name = "recommender-xblock"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "edx"
+product = "recommender"
+

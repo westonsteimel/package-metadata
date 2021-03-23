@@ -1,0 +1,6 @@
+name = "thrift"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "apache"
+product = "thrift"
+

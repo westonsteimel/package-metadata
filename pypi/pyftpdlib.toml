@@ -1,0 +1,6 @@
+name = "pyftpdlib"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "g.rodola"
+product = "pyftpdlib"
+

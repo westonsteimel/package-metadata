@@ -1,0 +1,6 @@
+name = "ihatemoney"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "ihatemoney"
+product = "i_hate_money"
+

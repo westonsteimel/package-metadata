@@ -1,0 +1,6 @@
+name = "py-bcrypt"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python"
+product = "py-bcrypt"
+

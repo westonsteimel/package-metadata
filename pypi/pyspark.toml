@@ -1,0 +1,6 @@
+name = "pyspark"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "spark"

@@ -1,0 +1,6 @@
+name = "reportlab"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "reportlab"
+product = "reportlab"
+

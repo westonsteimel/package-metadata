@@ -1,0 +1,6 @@
+name = "oslo.middleware"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "openstack"
+product = "oslo.middleware"
+

@@ -1,0 +1,6 @@
+name = "koji"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "koji_project"
+product = "koji"
+

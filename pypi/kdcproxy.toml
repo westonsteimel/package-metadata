@@ -1,0 +1,6 @@
+name = "kdcproxy"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "kdcproxy_project"
+product = "kdcproxy"
+

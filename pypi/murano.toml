@@ -1,0 +1,6 @@
+name = "murano"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "openstack"
+product = "murano"
+

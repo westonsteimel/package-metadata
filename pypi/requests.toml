@@ -1,0 +1,11 @@
+name = "requests"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "python-requests"
+product = "requests"
+
+[[cpe_configurations]]
+vendor = "python"
+product = "requests"
+

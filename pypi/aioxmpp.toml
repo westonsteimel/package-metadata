@@ -1,0 +1,6 @@
+name = "aioxmpp"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "aioxmpp_project"
+product = "aioxmpp"
+

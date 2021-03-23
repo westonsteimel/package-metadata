@@ -1,0 +1,6 @@
+name = "typed-ast"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python"
+product = "typed_ast"
+

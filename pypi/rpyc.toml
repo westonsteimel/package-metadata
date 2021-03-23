@@ -1,0 +1,6 @@
+name = "rpyc"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "rpyc_project"
+product = "rpyc"
+

@@ -1,0 +1,6 @@
+name = "python-libnmap"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "libnmap"
+product = "libnmap"
+

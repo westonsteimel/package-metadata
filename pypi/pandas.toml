@@ -1,0 +1,7 @@
+name = "pandas"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "numfocus"
+product = "pandas"
+

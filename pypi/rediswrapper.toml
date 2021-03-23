@@ -1,0 +1,6 @@
+name = "rediswrapper"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "redis_wrapper_project"
+product = "redis_wrapper"
+

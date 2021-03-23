@@ -1,0 +1,6 @@
+name = "pywbem"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "pywbem_project"
+product = "pywbem"
+

@@ -1,0 +1,6 @@
+name = "flask-cors"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "flask-cors_project"
+product = "flask-cors"
+

@@ -1,0 +1,6 @@
+name = "django_make_app"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "django_make_app_project"
+product = "django_make_app"
+

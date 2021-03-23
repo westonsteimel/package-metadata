@@ -1,0 +1,6 @@
+name = "html5lib"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "html5lib"
+product = "html5lib"
+

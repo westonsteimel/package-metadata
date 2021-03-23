@@ -1,0 +1,6 @@
+name = "python-engineio"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python-engineio_project"
+product = "python-engineio"
+

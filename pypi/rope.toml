@@ -1,0 +1,7 @@
+name = "rope"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "rope_project"
+product = "rope"
+target_software = "python"
+

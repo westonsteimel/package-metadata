@@ -1,0 +1,6 @@
+name = "qutebrowser"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "qutebrowser"
+product = "qutebrowser"
+

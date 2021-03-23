@@ -1,0 +1,10 @@
+name = "freewvs"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "schokokeks"
+product = "freewvs"
+
+[[cpe_configurations]]
+vendor = "freewvs_project"
+product = "freewvs"

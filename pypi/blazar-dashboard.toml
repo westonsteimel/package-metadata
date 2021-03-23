@@ -1,0 +1,6 @@
+name = "blazar-dashboard"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "openstack"
+product = "blazar-dashboard"
+

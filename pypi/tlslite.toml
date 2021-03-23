@@ -1,0 +1,7 @@
+name = "tlslite"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "tlslite_project"
+product = "tlslite"
+target_software = "python"
+

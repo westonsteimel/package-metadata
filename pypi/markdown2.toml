@@ -1,0 +1,6 @@
+name = "markdown2"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python-markdown2_project"
+product = "python-markdown2"
+

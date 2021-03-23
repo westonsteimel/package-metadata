@@ -1,0 +1,5 @@
+name = "aiohttp-session"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "aiohttp-session_project"
+product = "aiohttp-session"

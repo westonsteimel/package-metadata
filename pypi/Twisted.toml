@@ -1,0 +1,6 @@
+name = "Twisted"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "twistedmatrix"
+product = "twisted"
+

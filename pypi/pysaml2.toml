@@ -1,0 +1,6 @@
+name = "pysaml2"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "pysaml2_project"
+product = "pysaml2"
+

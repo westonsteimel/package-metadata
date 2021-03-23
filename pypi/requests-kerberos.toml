@@ -1,0 +1,6 @@
+name = "requests-kerberos"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "requests-kerberos_project"
+product = "requests-kerberos"
+

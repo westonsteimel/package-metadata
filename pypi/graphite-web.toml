@@ -1,0 +1,6 @@
+name = "graphite-web"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "graphite_project"
+product = "graphite"
+

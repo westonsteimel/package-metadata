@@ -1,0 +1,6 @@
+name = "psd-tools"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "psd-tools_project"
+product = "psd-tools"
+

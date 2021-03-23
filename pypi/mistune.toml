@@ -1,0 +1,6 @@
+name = "mistune"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "mistune_project"
+product = "mistune"
+

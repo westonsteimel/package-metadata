@@ -1,0 +1,6 @@
+name = "waitress"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "agendaless"
+product = "waitress"
+

@@ -1,0 +1,7 @@
+name = "splunk-sdk"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "splunk"
+product = "software_development_kit"
+target_software = "python"
+

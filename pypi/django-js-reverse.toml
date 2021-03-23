@@ -1,0 +1,6 @@
+name = "django-js-reverse"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "django_js_reverse_project"
+product = "django_js_reserve"
+

@@ -1,0 +1,6 @@
+name = "clearsilver"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "brandon_long"
+product = "clearsilver"
+

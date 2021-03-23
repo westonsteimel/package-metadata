@@ -1,0 +1,6 @@
+name = "sqla-yaml-fixtures"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "sqla_yaml_fixtures_project"
+product = "sqla_yaml_fixtures"
+

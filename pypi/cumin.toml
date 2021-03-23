@@ -1,0 +1,6 @@
+name = "cumin"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "trevor_mckay"
+product = "cumin"
+

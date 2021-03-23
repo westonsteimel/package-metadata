@@ -1,0 +1,6 @@
+name = "pycrypto"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "dlitz"
+product = "pycrypto"
+

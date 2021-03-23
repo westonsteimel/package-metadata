@@ -1,0 +1,6 @@
+name = "aubio"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "aubio"
+product = "aubio"
+

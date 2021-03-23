@@ -1,0 +1,6 @@
+name = "privacyIDEA"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "privacyidea"
+product = "privacyidea"
+

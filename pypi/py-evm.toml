@@ -1,0 +1,6 @@
+name = "py-evm"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "ethereum"
+product = "py-evm"
+

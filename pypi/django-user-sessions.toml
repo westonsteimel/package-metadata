@@ -1,0 +1,6 @@
+name = "django-user-sessions"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "django-user-sessions_project"
+product = "django-user-sessions"
+

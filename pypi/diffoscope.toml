@@ -1,0 +1,6 @@
+name = "diffoscope"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "reproducible_builds"
+product = "diffoscope"
+

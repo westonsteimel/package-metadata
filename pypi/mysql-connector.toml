@@ -1,0 +1,6 @@
+name = "mysql-connector"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "oracle"
+product = "mysql_connector\\/python"
+

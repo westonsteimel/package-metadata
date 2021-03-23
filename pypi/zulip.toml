@@ -1,0 +1,6 @@
+name = "zulip"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "zulip"
+product = "zulip_server"
+

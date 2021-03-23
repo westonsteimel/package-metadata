@@ -1,0 +1,6 @@
+name = "lookatme"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "lookatme_project"
+product = "lookatme"
+

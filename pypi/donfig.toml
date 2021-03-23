@@ -1,0 +1,6 @@
+name = "donfig"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "pytroll"
+product = "donfig"
+

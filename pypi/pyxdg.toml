@@ -1,0 +1,6 @@
+name = "pyxdg"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python"
+product = "pyxdg"
+

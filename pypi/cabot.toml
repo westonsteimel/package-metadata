@@ -1,0 +1,6 @@
+name = "cabot"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "arachnys"
+product = "cabot"
+

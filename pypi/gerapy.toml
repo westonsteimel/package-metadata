@@ -1,0 +1,6 @@
+name = "gerapy"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "gerapy"
+product = "gerapy"
+

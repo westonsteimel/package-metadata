@@ -1,0 +1,6 @@
+name = "py"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "pytest"
+product = "py"
+

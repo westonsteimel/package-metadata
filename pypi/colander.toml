@@ -1,0 +1,6 @@
+name = "colander"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "pylonsproject"
+product = "colander"
+

@@ -1,0 +1,6 @@
+name = "swift"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "openstack"
+product = "swift"
+

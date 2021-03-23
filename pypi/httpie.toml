@@ -1,0 +1,6 @@
+name = "httpie"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "httpie"
+product = "httpie"
+

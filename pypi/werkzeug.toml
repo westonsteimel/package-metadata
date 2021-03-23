@@ -1,0 +1,6 @@
+name = "werkzeug"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "palletsprojects"
+product = "werkzeug"
+

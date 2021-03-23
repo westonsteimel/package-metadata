@@ -1,0 +1,7 @@
+name = "django-rest-registration"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "django-rest-registration_project"
+product = "django-rest-registration"
+target_software = "django"
+

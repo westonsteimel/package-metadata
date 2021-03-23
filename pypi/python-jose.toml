@@ -1,0 +1,6 @@
+name = "python-jose"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "python-jose_project"
+product = "python-jose"
+

@@ -1,0 +1,6 @@
+name = "matrix-synapse"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "matrix"
+product = "synapse"
+

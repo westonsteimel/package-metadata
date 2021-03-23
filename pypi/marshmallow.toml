@@ -1,0 +1,6 @@
+name = "marshmallow"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "marshmallow_project"
+product = "marshmallow"
+

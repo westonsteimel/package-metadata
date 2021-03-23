@@ -1,0 +1,11 @@
+name = "python-gnupg"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "python"
+product = "python-gnupg"
+
+[[cpe_configurations]]
+vendor = "python-gnupg_project"
+product = "python-gnupg"
+

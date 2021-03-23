@@ -1,0 +1,6 @@
+name = "dulwich"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "dulwich_project"
+product = "dulwich"
+

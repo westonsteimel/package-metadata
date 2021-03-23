@@ -1,0 +1,6 @@
+name = "mailman"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "gnu"
+product = "mailman"
+

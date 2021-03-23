@@ -1,0 +1,6 @@
+name = "flask-admin"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "flask-admin_project"
+product = "flask-admin"
+

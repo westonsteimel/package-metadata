@@ -1,0 +1,6 @@
+name = "confire"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "confire_project"
+product = "confire"
+

@@ -1,0 +1,6 @@
+name = "logilab-common"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "logilab"
+product = "logilab-common"
+

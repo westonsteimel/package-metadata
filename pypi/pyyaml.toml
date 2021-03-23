@@ -1,0 +1,6 @@
+name = "pyyaml"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "pyyaml"
+product = "pyyaml"
+

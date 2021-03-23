@@ -1,0 +1,6 @@
+name = "tweepy"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "tweepy"
+product = "tweepy"
+

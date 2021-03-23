@@ -1,0 +1,6 @@
+name = "feedparser"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "mark_pilgrim"
+product = "feedparser"
+

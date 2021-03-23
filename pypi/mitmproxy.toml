@@ -1,0 +1,6 @@
+name = "mitmproxy"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "mitmproxy"
+product = "mitmproxy"
+

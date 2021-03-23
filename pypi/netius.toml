@@ -1,0 +1,6 @@
+name = "netius"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "hive"
+product = "netius"
+

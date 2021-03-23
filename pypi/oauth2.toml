@@ -1,0 +1,6 @@
+name = "oauth2"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "urbanairship"
+product = "python-oauth2"
+

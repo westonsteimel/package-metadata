@@ -1,0 +1,6 @@
+name = "salt"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "saltstack"
+product = "salt"
+

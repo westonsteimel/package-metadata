@@ -1,0 +1,6 @@
+name = "django-cms"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "django-cms"
+product = "django_cms"
+

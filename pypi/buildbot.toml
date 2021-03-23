@@ -1,0 +1,6 @@
+name = "buildbot"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "buildbot"
+product = "buildbot"
+
