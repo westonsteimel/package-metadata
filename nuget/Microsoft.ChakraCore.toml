@@ -1,0 +1,7 @@
+name = "Microsoft.ChakraCore"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "chakracore"
+

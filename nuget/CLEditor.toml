@@ -1,0 +1,7 @@
+name = "CLEditor"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "premiumsoftware"
+product = "cleditor"
+

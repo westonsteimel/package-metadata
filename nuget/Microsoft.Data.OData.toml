@@ -1,0 +1,7 @@
+name = "Microsoft.Data.OData"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "microsoft.data.odata"
+

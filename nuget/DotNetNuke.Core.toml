@@ -1,0 +1,8 @@
+name = "DotNetNuke.Core"
+ecosystem = "nuget"
+source = "https://github.com/dnnsoftware/Dnn.Platform"
+
+[[cpe_configurations]]
+vendor = "dnnsoftware"
+product = "dotnetnuke"
+

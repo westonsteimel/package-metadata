@@ -1,0 +1,10 @@
+name = "Microsoft.AspNetCore"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "asp.net_core"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "aspnetcore"

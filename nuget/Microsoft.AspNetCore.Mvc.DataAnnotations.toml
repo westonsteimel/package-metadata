@@ -1,0 +1,7 @@
+name = "Microsoft.AspNetCore.Mvc.DataAnnotations"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "microsoft.aspnetcore.mvc.dataannotations"
+

@@ -1,0 +1,7 @@
+name = "System.Net.Http.WinHttpHandler"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "system.net.http.winhttphandler"
+

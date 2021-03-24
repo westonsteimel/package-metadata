@@ -1,0 +1,8 @@
+name = "Microsoft.AspNet.SignalR"
+ecosystem = "nuget"
+source = "https://github.com/SignalR/SignalR"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "asp.net_signalr"
+

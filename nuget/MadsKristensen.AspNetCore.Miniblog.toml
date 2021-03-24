@@ -1,0 +1,8 @@
+name = "MadsKristensen.AspNetCore.Miniblog"
+ecosystem = "nuget"
+source = "https://github.com/madskristensen/Miniblog.Core"
+
+[[cpe_configurations]]
+vendor = "miniblog.core_project"
+product = "miniblog.core"
+

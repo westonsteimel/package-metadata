@@ -1,0 +1,7 @@
+name = "Microsoft.AspNetCore.Mvc.Localization"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "microsoft.aspnetcore.mvc.localization"
+

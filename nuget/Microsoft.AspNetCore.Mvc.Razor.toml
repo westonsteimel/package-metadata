@@ -1,0 +1,7 @@
+name = "Microsoft.AspNetCore.Mvc.Razor"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "microsoft.aspnetcore.mvc.razor"
+

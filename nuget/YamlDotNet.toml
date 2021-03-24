@@ -1,0 +1,8 @@
+name = "YamlDotNet"
+ecosystem = "nuget"
+source = "https://github.com/aaubry/YamlDotNet"
+
+[[cpe_configurations]]
+vendor = "yamldotnet_project"
+product = "yamldotnet"
+

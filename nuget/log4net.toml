@@ -1,0 +1,8 @@
+name = "log4net"
+ecosystem = "nuget"
+source = "https://github.com/apache/logging-log4net"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "log4net"
+

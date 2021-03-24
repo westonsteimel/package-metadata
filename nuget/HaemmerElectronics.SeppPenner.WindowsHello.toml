@@ -1,0 +1,8 @@
+name = "HaemmerElectronics.SeppPenner.WindowsHello"
+ecosystem = "nuget"
+source = "https://github.com/SeppPenner/WindowsHello"
+
+[[cpe_configurations]]
+vendor = "windowshello_project"
+product = "windowshello"
+

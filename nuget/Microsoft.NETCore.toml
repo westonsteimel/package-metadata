@@ -1,0 +1,7 @@
+name = "Microsoft.NETCore"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = ".net_core"
+

@@ -1,0 +1,8 @@
+name = "ServiceStack"
+ecosystem = "nuget"
+source = "https://github.com/ServiceStack/ServiceStack"
+
+[[cpe_configurations]]
+vendor = "servicestack"
+product = "servicestack"
+

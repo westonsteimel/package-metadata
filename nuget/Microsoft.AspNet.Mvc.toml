@@ -1,0 +1,11 @@
+name = "Microsoft.AspNet.Mvc"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "asp.net_mvc"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "asp.net_model_view_controller"
+

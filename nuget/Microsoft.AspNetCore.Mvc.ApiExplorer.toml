@@ -1,0 +1,7 @@
+name = "Microsoft.AspNetCore.Mvc.ApiExplorer"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "microsoft.aspnetcore.mvc.apiexplorer"
+

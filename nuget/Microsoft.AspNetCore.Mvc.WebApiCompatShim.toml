@@ -1,0 +1,7 @@
+name = "Microsoft.AspNetCore.Mvc.WebApiCompatShim"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "microsoft.aspnetcore.webapicompatshim"
+

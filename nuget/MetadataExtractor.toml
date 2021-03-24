@@ -1,0 +1,8 @@
+name = "MetadataExtractor"
+ecosystem = "nuget"
+source = "https://github.com/drewnoakes/metadata-extractor-dotnet"
+
+[[cpe_configurations]]
+vendor = "metadataextractor_project"
+product = "metadataextractor"
+

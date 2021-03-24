@@ -1,0 +1,8 @@
+name = "Auth0.AuthenticationApi"
+ecosystem = "nuget"
+source = "https://github.com/auth0/auth0.net"
+
+[[cpe_configurations]]
+vendor = "auth0"
+product = "auth0.net"
+

@@ -1,0 +1,9 @@
+name = "MessagePack"
+ecosystem = "nuget"
+source = "https://github.com/neuecc/MessagePack-CSharp"
+
+[[cpe_configurations]]
+vendor = "messagepack"
+product = "messagepack"
+target_software = "c\\#"
+

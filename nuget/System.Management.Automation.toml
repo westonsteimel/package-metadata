@@ -1,0 +1,8 @@
+name = "System.Management.Automation"
+ecosystem = "nuget"
+source = "https://github.com/PowerShell/PowerShell"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "powershell_core"
+

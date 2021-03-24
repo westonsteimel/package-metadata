@@ -1,0 +1,8 @@
+name = "Microsoft.AspNet.WebPages"
+ecosystem = "nuget"
+source = "https://github.com/aspnet/AspNetWebStack"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "asp.net_webpages"
+

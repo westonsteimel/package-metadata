@@ -1,0 +1,8 @@
+name = "Sustainsys.Saml2"
+ecosystem = "nuget"
+source = "https://github.com/Sustainsys/Saml2"
+
+[[cpe_configurations]]
+vendor = "sustainsys"
+product = "saml2"
+

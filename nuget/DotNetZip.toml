@@ -1,0 +1,8 @@
+name = "DotNetZip"
+ecosystem = "nuget"
+source = "https://github.com/haf/DotNetZip.Semverd"
+
+[[cpe_configurations]]
+vendor = "dotnetzip.semverd_project"
+product = "dotnetzip.semverd"
+

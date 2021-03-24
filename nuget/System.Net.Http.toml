@@ -1,0 +1,7 @@
+name = "System.IO.Pipelines"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "system.io.pipelines"
+

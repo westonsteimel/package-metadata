@@ -1,0 +1,7 @@
+name = "System.Net.Websockets.Client"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "system.net.websockets.client"
+

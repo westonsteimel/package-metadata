@@ -1,0 +1,7 @@
+name = "bootstrap"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "getbootstrap"
+product = "bootstrap"
+

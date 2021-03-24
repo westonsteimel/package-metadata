@@ -1,0 +1,8 @@
+name = "CefSharp.Common"
+ecosystem = "nuget"
+source = "https://github.com/cefsharp/CefSharp"
+
+[[cpe_configurations]]
+vendor = "google"
+product = "chrome"
+

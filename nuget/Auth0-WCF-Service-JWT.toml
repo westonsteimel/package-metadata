@@ -1,0 +1,6 @@
+name = "Auth0-WCF-Service-JWT"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "auth0"
+product = "auth0-wcf-service-jwt"

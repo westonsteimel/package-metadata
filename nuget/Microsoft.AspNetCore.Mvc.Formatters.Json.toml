@@ -1,0 +1,7 @@
+name = "Microsoft.AspNetCore.Mvc.Formatters.Json"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "microsoft.aspnetcore.mvc.formatters.json"
+

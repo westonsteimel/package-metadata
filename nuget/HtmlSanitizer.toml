@@ -1,0 +1,8 @@
+name = "HtmlSanitizer"
+ecosystem = "nuget"
+source = "https://github.com/mganss/HtmlSanitizer"
+
+[[cpe_configurations]]
+vendor = "htmlsanitizer_project"
+product = "htmlsanitizer"
+

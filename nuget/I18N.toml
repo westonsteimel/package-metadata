@@ -1,0 +1,8 @@
+name = "I18N"
+ecosystem = "nuget"
+source = "https://github.com/turquoiseowl/i18n"
+
+[[cpe_configurations]]
+vendor = "i18n_project"
+product = "i18n"
+

@@ -1,0 +1,8 @@
+name = "SharpZipLib"
+ecosystem = "nuget"
+source = "https://github.com/icsharpcode/SharpZipLib"
+
+[[cpe_configurations]]
+vendor = "sharpziplib_project"
+product = "sharpziplib"
+

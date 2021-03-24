@@ -1,0 +1,7 @@
+name = "UmbracoForms"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "umbraco"
+product = "umbracoforms"
+

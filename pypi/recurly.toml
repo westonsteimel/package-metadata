@@ -1,5 +1,6 @@
 name = "recurly"
 ecosystem = "pypi"
+source = "https://github.com/recurly/recurly-client-python"
 [[cpe_configurations]]
 vendor = "recurly"
 product = "recurly_client_python"

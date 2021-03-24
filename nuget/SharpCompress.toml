@@ -1,0 +1,8 @@
+name = "SharpCompress"
+ecosystem = "nuget"
+source = "https://github.com/adamhathcock/sharpcompress"
+
+[[cpe_configurations]]
+vendor = "sharpcompress_project"
+product = "sharpcompress"
+

@@ -1,0 +1,8 @@
+name = "Recurly"
+ecosystem = "nuget"
+source = "https://github.com/recurly/recurly-client-dotnet"
+
+[[cpe_configurations]]
+vendor = "recurly"
+product = "recurly_client_.net"
+

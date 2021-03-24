@@ -1,0 +1,6 @@
+name = "Bootstrap.Less"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "getbootstrap"
+product = "bootstrap"

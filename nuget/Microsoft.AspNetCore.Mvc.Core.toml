@@ -1,0 +1,7 @@
+name = "Microsoft.AspNetCore.Mvc.Core"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "microsoft.aspnetcore.mvc.core"
+

@@ -1,0 +1,15 @@
+name = "OPCFoundation.NetStandard.Opc.Ua"
+ecosystem = "nuget"
+source = "https://github.com/OPCFoundation/UA-.NETStandard"
+
+[[cpe_configurations]]
+vendor = "opcfoundation"
+product = "ua-.netstandard"
+
+[[cpe_configurations]]
+vendor = "opcfoundation"
+product = "netstandard.opc.ua"
+
+[[cpe_configurations]]
+vendor = "opcfoundation"
+product = "unified_architecture_.net-standard"

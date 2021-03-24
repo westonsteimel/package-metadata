@@ -1,0 +1,8 @@
+name = "Microsoft.IdentityModel.Clients.ActiveDirectory"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "active_directory_authentication_library"
+target_software = ".net"
+

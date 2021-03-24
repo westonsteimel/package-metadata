@@ -1,0 +1,8 @@
+name = "libpng"
+ecosystem = "nuget"
+source = "https://github.com/coapp-packages/libpng"
+
+[[cpe_configurations]]
+vendor = "libpng"
+product = "libpng"
+

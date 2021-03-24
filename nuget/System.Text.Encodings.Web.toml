@@ -1,0 +1,7 @@
+name = "System.Text.Encodings.Web"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "system.text.encodings.web"
+
