@@ -1,0 +1,8 @@
+name = "awscli"
+ecosystem = "pypi"
+source = "https://github.com/aws/aws-cli"
+
+[[cpe_configurations]]
+vendor = "amazon"
+product = "aws_command_line_interface"
+
