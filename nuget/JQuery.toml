@@ -1,0 +1,8 @@
+name = "JQuery"
+ecosystem = "nuget"
+source = "https://github.com/jquery/jquery"
+
+[[cpe_configurations]]
+vendor = "jquery"
+product = "jquery"
+

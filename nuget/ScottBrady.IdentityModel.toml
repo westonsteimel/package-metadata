@@ -1,0 +1,8 @@
+name = "ScottBrady.IdentityModel"
+ecosystem = "nuget"
+source = "https://github.com/scottbrady91/IdentityModel"
+
+[[cpe_configurations]]
+vendor = "identitymodel_project"
+product = "identitymodel"
+

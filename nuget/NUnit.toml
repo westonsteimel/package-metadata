@@ -1,0 +1,8 @@
+name = "NUnit"
+ecosystem = "nuget"
+source = "https://github.com/nunit/nunit"
+
+[[cpe_configurations]]
+vendor = "nunit.org"
+product = "nunit"
+
