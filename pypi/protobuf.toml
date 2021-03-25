@@ -1,0 +1,8 @@
+name = "protobuf"
+ecosystem = "pypi"
+source = "https://github.com/protocolbuffers/protobuf"
+
+[[cpe_configurations]]
+vendor = "google"
+product = "protobuf"
+

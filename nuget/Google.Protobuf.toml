@@ -1,0 +1,8 @@
+name = "Google.Protobuf"
+ecosystem = "nuget"
+source = "https://github.com/protocolbuffers/protobuf"
+
+[[cpe_configurations]]
+vendor = "google"
+product = "protobuf"
+
