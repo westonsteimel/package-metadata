@@ -1,0 +1,9 @@
+name = "@actions/http-client"
+ecosystem = "npm"
+source = "https://github.com/actions/http-client"
+
+[[cpe_configurations]]
+vendor = "http-client_project"
+product = "http-client"
+target_software = "node.js"
+

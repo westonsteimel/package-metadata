@@ -1,0 +1,8 @@
+name = "@novnc/novnc"
+ecosystem = "npm"
+source = "https://github.com/novnc/noVNC"
+
+[[cpe_configurations]]
+vendor = "novnc"
+product = "novnc"
+

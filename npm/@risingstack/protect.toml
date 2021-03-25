@@ -1,0 +1,8 @@
+name = "@risingstack/protect"
+ecosystem = "npm"
+source = "https://github.com/risingstack/protect"
+
+[[cpe_configurations]]
+vendor = "risingstack"
+product = "protect"
+

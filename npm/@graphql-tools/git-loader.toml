@@ -1,0 +1,11 @@
+name = "@graphql-tools/git-loader"
+ecosystem = "npm"
+source = "https://github.com/ardatan/graphql-tools"
+
+[[cpe_configurations]]
+vendor = "the-guild"
+product = "graphql-tools"
+
+[[cpe_configurations]]
+vendor = "graphql-tools"
+product = "graphql-tools"

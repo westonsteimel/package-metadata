@@ -1,0 +1,9 @@
+name = "@uppy/companion"
+ecosystem = "npm"
+source = "https://github.com/transloadit/uppy"
+
+[[cpe_configurations]]
+vendor = "transloadit"
+product = "uppy"
+target_software = "node.js"
+

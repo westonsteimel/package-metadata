@@ -1,0 +1,11 @@
+name = "angular"
+ecosystem = "npm"
+source = "https://github.com/transloadit/uppy"
+
+[[cpe_configurations]]
+vendor = "angularjs"
+product = "angular.js"
+
+[[cpe_configurations]]
+vendor = "angularjs"
+product = "angularjs"

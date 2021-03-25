@@ -1,0 +1,8 @@
+name = "@ensdomains/ens"
+ecosystem = "npm"
+source = "https://github.com/ensdomains/ens"
+
+[[cpe_configurations]]
+vendor = "ens.domains"
+product = "ethereum_name_service"
+

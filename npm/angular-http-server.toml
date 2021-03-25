@@ -1,0 +1,9 @@
+name = "angular-http-server"
+ecosystem = "npm"
+source = "https://github.com/simonh1000/angular-http-server"
+
+[[cpe_configurations]]
+vendor = "angular-http-server_project"
+product = "angular-http-server"
+target_software = "node.js"
+

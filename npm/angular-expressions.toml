@@ -1,0 +1,9 @@
+name = "angular-expressions"
+ecosystem = "npm"
+source = "https://github.com/peerigon/angular-expressions"
+
+[[cpe_configurations]]
+vendor = "peerigon"
+product = "angular-expressions"
+target_software = "node.js"
+

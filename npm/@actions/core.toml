@@ -1,0 +1,9 @@
+name = "@actions/core"
+ecosystem = "npm"
+source = "https://github.com/actions/toolkit"
+
+[[cpe_configurations]]
+vendor = "toolkit_project"
+product = "toolkit"
+target_software = "node.js"
+

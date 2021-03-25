@@ -1,0 +1,8 @@
+name = "@knight-lab/timelinejs"
+ecosystem = "npm"
+source = "https://github.com/NUKnightLab/TimelineJS3"
+
+[[cpe_configurations]]
+vendor = "northwestern"
+product = "timelinejs"
+

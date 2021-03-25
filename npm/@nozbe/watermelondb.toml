@@ -1,0 +1,8 @@
+name = "@nozbe/watermelondb"
+ecosystem = "npm"
+source = "https://github.com/Nozbe/WatermelonDB"
+
+[[cpe_configurations]]
+vendor = "nozbe"
+product = "watermelondb"
+

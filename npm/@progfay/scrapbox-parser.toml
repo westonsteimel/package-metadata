@@ -1,0 +1,9 @@
+name = "@progfay/scrapbox-parser"
+ecosystem = "npm"
+source = "https://github.com/progfay/scrapbox-parser"
+
+[[cpe_configurations]]
+vendor = "scrapbox-parser_project"
+product = "scrapbox-parser"
+target_software = "node.js"
+

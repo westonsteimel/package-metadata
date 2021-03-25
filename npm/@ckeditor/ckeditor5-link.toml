@@ -1,0 +1,12 @@
+name = "@ckeditor/ckeditor5-link"
+ecosystem = "npm"
+source = "https://github.com/ckeditor/ckeditor5"
+
+[[cpe_configurations]]
+vendor = "ckeditor"
+product = "ckeditor_5-link"
+target_software = "ckeditor_5"
+
+[[cpe_configurations]]
+vendor = "ckeditor"
+product = "ckeditor_5"

@@ -1,0 +1,14 @@
+name = "@nuxt/devalue"
+ecosystem = "npm"
+source = "https://github.com/nuxt-community/devalue"
+
+[[cpe_configurations]]
+vendor = "nuxtjs"
+product = "@nuxt/devalue"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "nuxtjs"
+product = "nuxt.js"
+target_software = "node.js"
+

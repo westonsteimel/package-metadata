@@ -1,0 +1,8 @@
+name = "@fraction/oasis"
+ecosystem = "npm"
+source = "https://github.com/fraction/oasis"
+
+[[cpe_configurations]]
+vendor = "fraction"
+product = "oasis"
+

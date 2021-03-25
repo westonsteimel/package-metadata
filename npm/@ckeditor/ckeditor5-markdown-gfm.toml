@@ -1,0 +1,8 @@
+name = "@ckeditor/ckeditor5-markdown-gfm"
+ecosystem = "npm"
+source="https://github.com/ckeditor/ckeditor5"
+
+[[cpe_configurations]]
+vendor = "ckeditor"
+product = "ckeditor_5"
+

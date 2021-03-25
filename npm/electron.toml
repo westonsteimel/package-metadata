@@ -1,0 +1,16 @@
+name = "electron"
+ecosystem = "npm"
+source = "https://github.com/electron/electron"
+
+[[cpe_configurations]]
+vendor = "electronjs"
+product = "electron"
+
+[[cpe_configurations]]
+vendor = "electron"
+product = "electron"
+
+[[cpe_configurations]]
+vendor = "atom"
+product = "electron"
+

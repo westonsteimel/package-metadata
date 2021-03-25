@@ -1,5 +1,7 @@
 name = "websockets"
 ecosystem = "pypi"
+source = "https://github.com/aaugustin/websockets"
+
 [[cpe_configurations]]
 vendor = "myks"
 product = "websockets"
