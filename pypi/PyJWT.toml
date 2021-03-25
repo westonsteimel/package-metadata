@@ -1,0 +1,8 @@
+name = "PyJWT"
+ecosystem = "pypi"
+source = "https://github.com/jpadilla/pyjwt"
+
+[[cpe_configurations]]
+vendor = "pyjwt_project"
+product = "pyjwt"
+

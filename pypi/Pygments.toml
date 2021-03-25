@@ -1,0 +1,8 @@
+name = "Pygments"
+ecosystem = "pypi"
+source = "https://github.com/pygments/pygments"
+
+[[cpe_configurations]]
+vendor = "pygments"
+product = "pygments"
+

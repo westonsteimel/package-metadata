@@ -1,0 +1,8 @@
+name = "tqdm"
+ecosystem = "pypi"
+source = "https://github.com/tqdm/tqdm"
+
+[[cpe_configurations]]
+vendor = "tqdm_project"
+product = "tqdm"
+
