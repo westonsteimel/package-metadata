@@ -1,0 +1,9 @@
+name = "geoip-lite"
+ecosystem = "npm"
+source = "https://github.com/geoip-lite/node-geoip"
+
+[[cpe_configurations]]
+vendor = "adamvr-geoip-lite_project"
+product = "adamvr-geoip-lite"
+target_software = "node.js"
+

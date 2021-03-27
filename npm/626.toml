@@ -1,0 +1,7 @@
+name = "626"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "626_project"
+product = "626"
+target_software = "node.js"
+

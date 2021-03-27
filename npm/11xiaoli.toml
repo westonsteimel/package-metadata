@@ -1,0 +1,7 @@
+name = "11xiaoli"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "11xiaoli_project"
+product = "11xiaoli"
+target_software = "node.js"
+

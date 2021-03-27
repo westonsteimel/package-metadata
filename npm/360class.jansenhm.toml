@@ -1,0 +1,7 @@
+name = "360class.jansenhm"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "360class.jansenhm_project"
+product = "360class.jansenhm"
+target_software = "node.js"
+

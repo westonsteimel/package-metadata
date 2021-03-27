@@ -1,0 +1,9 @@
+name = "debug"
+ecosystem = "npm"
+source = "https://github.com/visionmedia/debug"
+
+[[cpe_configurations]]
+vendor = "debug_project"
+product = "debug"
+target_software = "node.js"
+

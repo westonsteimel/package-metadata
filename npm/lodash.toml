@@ -1,0 +1,9 @@
+name = "lodash"
+ecosystem = "npm"
+source = "https://github.com/lodash/lodash"
+
+[[cpe_configurations]]
+vendor = "lodash"
+product = "lodash"
+target_software = "node.js"
+

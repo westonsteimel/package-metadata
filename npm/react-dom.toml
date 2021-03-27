@@ -1,0 +1,6 @@
+name = "react-dom"
+ecosystem = "npm"
+
+[[cpe_configurations]]
+vendor = "facebook"
+product = "react"

@@ -1,0 +1,7 @@
+name = "22lixian"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "22lixian_project"
+product = "22lixian"
+target_software = "node.js"
+

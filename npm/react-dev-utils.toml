@@ -1,0 +1,11 @@
+name = "react-dev-utils"
+ecosystem = "npm"
+source = "https://github.com/facebook/create-react-app"
+
+[[cpe_configurations]]
+vendor = "facebook"
+product = "react-dev-utils"
+
+[[cpe_configurations]]
+vendor = "create-react-app_project"
+product = "react-dev-utils"

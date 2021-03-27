@@ -1,0 +1,8 @@
+name = "express"
+ecosystem = "npm"
+source = "https://github.com/expressjs/express"
+
+[[cpe_configurations]]
+vendor = "expressjs"
+product = "express"
+
