@@ -1,0 +1,9 @@
+name = "async-git"
+ecosystem = "npm"
+source = "https://github.com/jonschlinkert/assign-deep"
+
+[[cpe_configurations]]
+vendor = "async-git_project"
+product = "async-git"
+target_software = "node.js"
+

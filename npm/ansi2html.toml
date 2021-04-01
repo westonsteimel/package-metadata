@@ -1,0 +1,8 @@
+name = "ansi2html"
+ecosystem = "npm"
+
+[[cpe_configurations]]
+vendor = "ansi2html_project"
+product = "ansi2html"
+target_software = "node.js"
+

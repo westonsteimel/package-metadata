@@ -1,0 +1,8 @@
+name = "aedes"
+ecosystem = "npm"
+source = "https://github.com/moscajs/aedes"
+
+[[cpe_configurations]]
+vendor = "aedes_project"
+product = "aedes"
+

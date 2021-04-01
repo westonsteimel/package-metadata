@@ -1,0 +1,9 @@
+name = "alto-saxophone"
+ecosystem = "npm"
+source = "https://github.com/tobli/alto-saxophone"
+
+[[cpe_configurations]]
+vendor = "alto-saxophone_project"
+product = "alto-saxophone"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "appium-chromedriver"
+ecosystem = "npm"
+source = "https://github.com/appium/appium-chromedriver"
+
+[[cpe_configurations]]
+vendor = "appium"
+product = "appium-chromedriver"
+target_software = "node.js"
+

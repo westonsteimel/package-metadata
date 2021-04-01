@@ -1,0 +1,9 @@
+name = "aerospike"
+ecosystem = "npm"
+source = "https://github.com/aerospike/aerospike-client-nodejs"
+
+[[cpe_configurations]]
+vendor = "aerospike"
+product = "aerospike"
+target_software = "node.js"
+

@@ -1,0 +1,8 @@
+name = "auth0-js"
+ecosystem = "npm"
+source = "https://github.com/auth0/auth0.js"
+
+[[cpe_configurations]]
+vendor = "auth0"
+product = "auth0.js"
+

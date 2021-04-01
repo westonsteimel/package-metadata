@@ -1,0 +1,9 @@
+name = "axios"
+ecosystem = "npm"
+source = "https://github.com/axios/axios"
+
+[[cpe_configurations]]
+vendor = "axios"
+product = "axios"
+target_software = "node.js"
+

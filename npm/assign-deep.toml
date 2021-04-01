@@ -1,0 +1,9 @@
+name = "assign-deep"
+ecosystem = "npm"
+source = "https://github.com/jonschlinkert/assign-deep"
+
+[[cpe_configurations]]
+vendor = "assign-deep_project"
+product = "assign-deep"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "aegir"
+ecosystem = "npm"
+source = "https://github.com/ipfs/aegir"
+
+[[cpe_configurations]]
+vendor = "aegir_project"
+product = "aegir"
+target_software = "node.js"
+

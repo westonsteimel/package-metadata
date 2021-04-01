@@ -1,0 +1,8 @@
+name = "aws-lambda"
+ecosystem = "npm"
+source = "https://github.com/awspilot/cli-lambda-deploy"
+
+[[cpe_configurations]]
+vendor = "amazon"
+product = "aws-lambda"
+

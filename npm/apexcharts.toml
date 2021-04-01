@@ -1,0 +1,9 @@
+name = "apexcharts"
+ecosystem = "npm"
+source = "https://github.com/apexcharts/apexcharts.js"
+
+[[cpe_configurations]]
+vendor = "fusioncharts"
+product = "apexcharts"
+target_software = "node.js"
+

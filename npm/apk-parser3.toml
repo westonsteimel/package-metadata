@@ -1,0 +1,9 @@
+name = "apk-parser3"
+ecosystem = "npm"
+source = "https://github.com/zhao0/node-apk-parser3"
+
+[[cpe_configurations]]
+vendor = "apk-parser3_project"
+product = "apk-parser3"
+target_software = "node.js"
+

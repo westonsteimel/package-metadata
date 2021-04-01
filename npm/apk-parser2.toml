@@ -1,0 +1,9 @@
+name = "apk-parser2"
+ecosystem = "npm"
+source = "https://github.com/gergelyke/node-apk-parser2"
+
+[[cpe_configurations]]
+vendor = "apk-parser2_project"
+product = "apk-parser2"
+target_software = "node.js"
+

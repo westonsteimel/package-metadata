@@ -1,0 +1,9 @@
+name = "apk-parser"
+ecosystem = "npm"
+source = "https://github.com/rubenv/node-apk-parser"
+
+[[cpe_configurations]]
+vendor = "apk-parser_project"
+product = "apk-parser"
+target_software = "node.js"
+

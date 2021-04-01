@@ -1,0 +1,9 @@
+name = "apex-publish-static-files"
+ecosystem = "npm"
+source = "https://github.com/vincentmorneau/apex-publish-static-files"
+
+[[cpe_configurations]]
+vendor = "apex-publish-static-files_project"
+product = "apex-publish-static-files"
+target_software = "node.js"
+

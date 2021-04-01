@@ -1,0 +1,9 @@
+name = "adm-zip"
+ecosystem = "npm"
+source = "https://github.com/cthackers/adm-zip"
+
+[[cpe_configurations]]
+vendor = "adm-zip_project"
+product = "adm-zip"
+target_software = "node.js"
+

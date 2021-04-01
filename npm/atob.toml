@@ -1,0 +1,9 @@
+name = "atob"
+ecosystem = "npm"
+source = "https://git.coolaj86.com/coolaj86/atob.js.git"
+
+[[cpe_configurations]]
+vendor = "atob_project"
+product = "atob"
+target_software = "node.js"
+

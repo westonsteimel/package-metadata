@@ -1,0 +1,10 @@
+name = "arrayfire_js"
+ecosystem = "npm"
+source = https://github.com/arrayfire/arrayfire-js
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "arrayfire-js_project"
+product = "arrayfire-js"
+target_software = "node.js"
+

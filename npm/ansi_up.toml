@@ -1,0 +1,9 @@
+name = "ansi_up"
+ecosystem = "npm"
+source = "https://github.com/drudru/ansi_up"
+
+[[cpe_configurations]]
+vendor = "ansi_up_project"
+product = "ansi_up"
+target_software = "node.js"
+

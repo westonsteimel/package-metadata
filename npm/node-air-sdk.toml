@@ -1,0 +1,8 @@
+name = "node-air-sdk"
+ecosystem = "npm"
+
+[[cpe_configurations]]
+vendor = "node-air-sdk_project"
+product = "node-air-sdk"
+target_software = "node.js"
+

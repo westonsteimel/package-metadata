@@ -1,0 +1,9 @@
+name = "arcanist"
+ecosystem = "npm"
+source = "https://github.com/Hujiang-FE/arcanist"
+
+[[cpe_configurations]]
+vendor = "hujiang"
+product = "arcanist"
+target_software = "node.js"
+

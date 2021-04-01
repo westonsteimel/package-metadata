@@ -1,0 +1,10 @@
+name = "airbrake"
+ecosystem = "npm"
+source = https://github.com/airbrake/node-airbrake
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "airbrake"
+product = "airbrake"
+target_software = "node.js"
+

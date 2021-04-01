@@ -1,0 +1,9 @@
+name = "atom-node-module-installer"
+ecosystem = "npm"
+source = "https://github.com/probablycorey/atom-node-module-installer"
+
+[[cpe_configurations]]
+vendor = "atom-node-module-installer_project"
+product = "atom-node-module-installer"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "augustine"
+ecosystem = "npm"
+source = "https://github.com/princetoad/augustine"
+
+[[cpe_configurations]]
+vendor = "augustine_project"
+product = "augustine"
+target_software = "node.js"
+

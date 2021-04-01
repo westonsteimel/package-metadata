@@ -1,0 +1,9 @@
+name = "aws-lambda-multipart-parser"
+ecosystem = "npm"
+source = "https://github.com/myshenin/aws-lambda-multipart-parser"
+
+[[cpe_configurations]]
+vendor = "aws-lambda-multipart-parser_project"
+product = "aws-lambda-multipart-parser"
+target_software = "node.js"
+
