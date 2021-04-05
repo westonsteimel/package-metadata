@@ -1,0 +1,8 @@
+name = "apkleaks"
+ecosystem = "pypi"
+source = "https://github.com/dwisiswant0/apkleaks"
+
+[[cpe_configurations]]
+vendor = "apkleaks_project"
+product = "apkleaks"
+
