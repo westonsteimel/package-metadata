@@ -1,0 +1,8 @@
+name = "bcoin"
+ecosystem = "npm"
+source = "https://github.com/bcoin-org/bcoin"
+
+[[cpe_configurations]]
+vendor = "bcoin"
+product = "bcoin"
+

@@ -1,0 +1,9 @@
+name = "bassmaster"
+ecosystem = "npm"
+source = "https://github.com/hapijs/bassmaster"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "bassmaster_project"
+product = "bassmaster"
+

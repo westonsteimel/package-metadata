@@ -1,0 +1,9 @@
+name = "baryton-saxophone"
+ecosystem = "npm"
+source = "https://github.com/tobli/baryton-saxophone"
+
+[[cpe_configurations]]
+vendor = "baryton-saxophone_project"
+product = "baryton-saxophone"
+target_software = "node.js"
+

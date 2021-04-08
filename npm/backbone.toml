@@ -1,0 +1,9 @@
+name = "backbone"
+ecosystem = "npm"
+source = "https://github.com/jashkenas/backbone"
+
+[[cpe_configurations]]
+vendor = "backbone_project"
+product = "backbone"
+target_software = "node.js"
+

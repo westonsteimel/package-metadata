@@ -1,0 +1,9 @@
+name = "bcrypt"
+ecosystem = "npm"
+source = "https://github.com/kelektiv/node.bcrypt.js"
+
+[[cpe_configurations]]
+vendor = "node.bcrypt.js_project"
+product = "node.bcrypt.js"
+target_software = "node.js"
+
