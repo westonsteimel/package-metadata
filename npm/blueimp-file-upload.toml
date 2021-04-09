@@ -1,0 +1,8 @@
+name = "blueimp-file-upload"
+ecosystem = "npm"
+source = "https://github.com/blueimp/jQuery-File-Upload"
+
+[[cpe_configurations]]
+vendor = "jquery_file_upload_project"
+product = "jquery_file_upload"
+

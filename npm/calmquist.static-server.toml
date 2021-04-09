@@ -1,0 +1,7 @@
+name = "calmquist.static-server"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "calmquist.static-server_project"
+product = "calmquist.static-server"
+target_software = "node.js"
+

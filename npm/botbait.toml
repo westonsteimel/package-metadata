@@ -1,0 +1,8 @@
+name = "botbait"
+ecosystem = "npm"
+
+[[cpe_configurations]]
+vendor = "botbait_project"
+product = "botbait"
+target_software = "node.js"
+

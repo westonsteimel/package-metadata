@@ -1,0 +1,9 @@
+name = "cached-path-relative"
+ecosystem = "npm"
+source = "https://github.com/ashaffer/cached-path-relative"
+
+[[cpe_configurations]]
+vendor = "cached-path-relative_project"
+product = "cached-path-relative"
+target_software = "node.js"
+

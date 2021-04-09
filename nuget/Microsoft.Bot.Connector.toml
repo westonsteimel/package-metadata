@@ -1,0 +1,9 @@
+name = "Microsoft.Bot.Connector"
+ecosystem = "pypi"
+source = "https://github.com/Microsoft/botbuilder-dotnet"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "bot_framework_software_development_kit"
+target_software = ".net_framework"
+

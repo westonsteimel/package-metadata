@@ -1,0 +1,9 @@
+name = "botframework-connector"
+ecosystem = "pypi"
+source = "https://github.com/Microsoft/botbuilder-python"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "bot_framework_software_development_kit"
+target_software = "python"
+

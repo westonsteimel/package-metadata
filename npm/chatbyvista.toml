@@ -1,0 +1,7 @@
+name = "chatbyvista"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "chatbyvista_project"
+product = "chatbyvista"
+target_software = "node.js"
+

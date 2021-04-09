@@ -1,0 +1,9 @@
+name = "bitty"
+ecosystem = "npm"
+source = "https://github.com/caspervonb/bitty"
+
+[[cpe_configurations]]
+vendor = "bitty_project"
+product = "bitty"
+target_software = "node.js"
+

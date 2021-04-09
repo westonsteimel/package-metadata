@@ -1,0 +1,9 @@
+name = "browserify-hmr"
+ecosystem = "npm"
+source = "https://github.com/Macil/browserify-hmr"
+
+[[cpe_configurations]]
+vendor = "browserify-hot_module_replacement_project"
+product = "browserify-hot_module_replacement"
+target_software = "browserify"
+

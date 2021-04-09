@@ -1,0 +1,8 @@
+name = "bootstrap"
+ecosystem = "npm"
+source = "https://github.com/twbs/bootstrap"
+
+[[cpe_configurations]]
+vendor = "getbootstrap"
+product = "bootstrap"
+

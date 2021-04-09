@@ -1,0 +1,9 @@
+name = "@hapi/call"
+ecosystem = "npm"
+source = "https://github.com/hapijs/call"
+
+[[cpe_configurations]]
+vendor = "call_project"
+product = "call"
+target_software = "node.js"
+

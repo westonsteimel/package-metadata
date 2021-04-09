@@ -1,0 +1,9 @@
+name = "botframework-connector"
+ecosystem = "npm"
+source = "https://github.com/Microsoft/botbuilder-js"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "bot_framework_software_development_kit"
+target_software = "javascript"
+

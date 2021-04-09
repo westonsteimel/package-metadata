@@ -1,0 +1,9 @@
+name = "censorify.tanisjr"
+ecosystem = "npm"
+source = "https://github.com/tanisjr/nodeServer"
+
+[[cpe_configurations]]
+vendor = "censorify.tanisjr_project"
+product = "censorify.tanisjr"
+target_software = "node.js"
+

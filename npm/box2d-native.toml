@@ -1,0 +1,9 @@
+name = "box2d-native"
+ecosystem = "npm"
+source = "https://github.com/zuker/box2d-native"
+
+[[cpe_configurations]]
+vendor = "box2d-native_project"
+product = "box2d-native"
+target_software = "node.js"
+

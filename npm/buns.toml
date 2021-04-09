@@ -1,0 +1,9 @@
+name = "buns"
+ecosystem = "npm"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "buns_project"
+product = "buns"
+target_software = "node.js"
+

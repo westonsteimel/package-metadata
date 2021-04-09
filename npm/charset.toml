@@ -1,0 +1,9 @@
+name = "charset"
+ecosystem = "npm"
+source = "https://github.com/node-modules/charset"
+
+[[cpe_configurations]]
+vendor = "charset_project"
+product = "charset"
+target_software = "node.js"
+

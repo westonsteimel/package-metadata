@@ -1,0 +1,9 @@
+name = "bionode-sra"
+ecosystem = "npm"
+source = "https://github.com/bionode/bionode-sra"
+
+[[cpe_configurations]]
+vendor = "bionode"
+product = "bionode-sra"
+target_software = "node.js"
+

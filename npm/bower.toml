@@ -1,0 +1,9 @@
+name = "bower"
+ecosystem = "npm"
+source = "https://github.com/bower/bower"
+
+[[cpe_configurations]]
+vendor = "bower"
+product = "bower"
+target_software = "node.js"
+

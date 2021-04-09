@@ -1,0 +1,8 @@
+name = "brace-expansion"
+ecosystem = "npm"
+source = "https://github.com/juliangruber/brace-expansion"
+
+[[cpe_configurations]]
+vendor = "brace_expansion_project"
+product = "brace_expansion"
+

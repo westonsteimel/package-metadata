@@ -1,0 +1,7 @@
+name = "caolilinode"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "caolilinode_project"
+product = "caolilinode"
+target_software = "node.js"
+

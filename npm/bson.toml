@@ -1,0 +1,12 @@
+name = "bson"
+ecosystem = "npm"
+source = "https://github.com/mongodb/js-bson"
+
+[[cpe_configurations]]
+vendor = "mongodb"
+product = "js-bson"
+
+[[cpe_configurations]]
+vendor = "mongodb"
+product = "bson"
+target_software = "node.js"

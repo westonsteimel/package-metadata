@@ -1,0 +1,9 @@
+name = "bracket-template"
+ecosystem = "npm"
+source = "https://github.com/danlevan/bracket"
+
+[[cpe_configurations]]
+vendor = "bracket-template_project"
+product = "bracket-template"
+target_software = "node.js"
+

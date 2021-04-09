@@ -1,0 +1,9 @@
+name = "bkjs-wand"
+ecosystem = "npm"
+source = "https://github.com/vseryakov/bkjs-wand"
+
+[[cpe_configurations]]
+vendor = "bkjs-wand_project"
+product = "bkjs-wand"
+target_software = "node.js"
+

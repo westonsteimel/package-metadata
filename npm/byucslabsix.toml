@@ -1,0 +1,7 @@
+name = "byucslabsix"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "byucslabsix_project"
+product = "byucslabsix"
+target_software = "node.js"
+

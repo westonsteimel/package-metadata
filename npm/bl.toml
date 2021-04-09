@@ -1,0 +1,8 @@
+name = "bl"
+ecosystem = "npm"
+source = "https://github.com/rvagg/bl"
+
+[[cpe_configurations]]
+vendor = "bufferlist_project"
+product = "bufferlist"
+target_software = "node.js"

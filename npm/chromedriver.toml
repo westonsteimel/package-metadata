@@ -1,0 +1,9 @@
+name = "chromedriver"
+ecosystem = "npm"
+source = "https://github.com/giggio/node-chromedriver"
+
+[[cpe_configurations]]
+vendor = "chromedriver_project"
+product = "chromedriver"
+target_software = "node.js"
+

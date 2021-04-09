@@ -1,0 +1,9 @@
+name = "broccoli-closure"
+ecosystem = "npm"
+source = "https://github.com/markuskobler/broccoli-closure-plugin"
+
+[[cpe_configurations]]
+vendor = "broccoli-closure_project"
+product = "broccoli-closure"
+target_software = "node.js"
+

@@ -1,0 +1,7 @@
+name = "bootstrap-sass"
+ecosystem = "npm"
+source = "https://github.com/twbs/bootstrap-sass"
+
+[[cpe_configurations]]
+vendor = "getbootstrap"
+product = "bootstrap-sass"

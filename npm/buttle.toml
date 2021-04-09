@@ -1,0 +1,9 @@
+name = "buttle"
+ecosystem = "npm"
+source = "https://github.com/jtrussell/buttle"
+
+[[cpe_configurations]]
+vendor = "buttle_project"
+product = "buttle"
+target_software = "node.js"
+

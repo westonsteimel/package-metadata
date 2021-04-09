@@ -1,0 +1,9 @@
+name = "bittorrent-dht"
+ecosystem = "npm"
+source = "https://github.com/webtorrent/bittorrent-dht"
+
+[[cpe_configurations]]
+vendor = "webtorrent"
+product = "bittorrent-dht"
+target_software = "node.js"
+

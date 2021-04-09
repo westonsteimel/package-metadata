@@ -1,0 +1,13 @@
+name = "bson"
+ecosystem = "rubygems"
+source = "https://github.com/mongodb/bson-ruby"
+
+[[cpe_configurations]]
+vendor = "mongodb"
+product = "bson"
+target_software = "ruby"
+
+[[cpe_configurations]]
+vendor = "bson_project"
+product = "bson"
+target_software = "ruby"
