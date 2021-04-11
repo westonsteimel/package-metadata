@@ -1,0 +1,8 @@
+name = "confinit"
+ecosystem = "npm"
+source = "https://github.com/davideicardi/confinit"
+[[cpe_configurations]]
+vendor = "confinit_project"
+product = "confinit"
+target_software = "node.js"
+

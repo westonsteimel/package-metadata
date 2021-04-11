@@ -1,0 +1,10 @@
+name = "closurecompiler"
+ecosystem = "npm"
+source = "https://github.com/dcodeIO/ClosureCompiler.js"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "closurecompiler_project"
+product = "closurecompiler"
+target_software = "node.js"
+

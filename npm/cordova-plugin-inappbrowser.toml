@@ -1,0 +1,8 @@
+name = "cordova-plugin-inappbrowser"
+ecosystem = "npm"
+source = "https://github.com/apache/cordova-plugin-inappbrowser"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "cordova_inappbrowser"
+

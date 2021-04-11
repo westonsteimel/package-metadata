@@ -1,0 +1,7 @@
+name = "cuciuci"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "cuciuci_project"
+product = "cuciuci"
+target_software = "node.js"
+

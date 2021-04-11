@@ -1,0 +1,8 @@
+name = "cyberchef"
+ecosystem = "npm"
+source = "https://github.com/gchq/CyberChef"
+
+[[cpe_configurations]]
+vendor = "gchq"
+product = "cyberchef"
+

@@ -1,0 +1,9 @@
+name = "datatables"
+ecosystem = "npm"
+source = "https://github.com/DataTables/DataTables"
+
+[[cpe_configurations]]
+vendor = "sprymedia"
+product = "datatables"
+target_software = "jquery"
+

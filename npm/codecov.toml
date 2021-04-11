@@ -1,0 +1,13 @@
+name = "codecov"
+ecosystem = "npm"
+source = "https://github.com/codecov/codecov-node"
+
+[[cpe_configurations]]
+vendor = "codecov"
+product = "codecov"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "codecov"
+product = "nodejs_uploader"
+target_software = "node.js"

@@ -1,0 +1,9 @@
+name = "csrf-lite"
+ecosystem = "npm"
+source = "https://github.com/isaacs/csrf-lite"
+
+[[cpe_configurations]]
+vendor = "csrf-lite_project"
+product = "csrf-lite"
+target_software = "node.js"
+

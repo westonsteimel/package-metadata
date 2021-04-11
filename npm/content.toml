@@ -1,0 +1,10 @@
+name = "content"
+ecosystem = "npm"
+source = "https://github.com/hapijs/content"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "content_project"
+product = "content"
+target_software = "node.js"
+

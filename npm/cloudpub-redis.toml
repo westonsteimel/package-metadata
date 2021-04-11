@@ -1,0 +1,7 @@
+name = "cloudpub-redis"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "cloudpub-redis_project"
+product = "cloudpub-redis"
+target_software = "node.js"
+

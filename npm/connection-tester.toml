@@ -1,0 +1,9 @@
+name = "connection-tester"
+ecosystem = "npm"
+source = "https://github.com/skoranga/node-connection-tester"
+
+[[cpe_configurations]]
+vendor = "connection-tester_project"
+product = "connection-tester"
+target_software = "node.js"
+

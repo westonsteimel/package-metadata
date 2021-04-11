@@ -1,0 +1,9 @@
+name = "dalek-browser-ie"
+ecosystem = "npm"
+source = "https://github.com/dalekjs/dalek-browser-ie"
+
+[[cpe_configurations]]
+vendor = "dalekjs"
+product = "dalekjs"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "class-transformer"
+ecosystem = "npm"
+source = "https://github.com/typestack/class-transformer"
+
+[[cpe_configurations]]
+vendor = "class-transformer_project"
+product = "class-transformer"
+target_software = "node.js"
+

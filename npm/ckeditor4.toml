@@ -1,0 +1,15 @@
+name = "ckeditor4"
+ecosystem = "npm"
+source = "https://github.com/ckeditor/ckeditor4-releases"
+
+[[cpe_configurations]]
+vendor = "ckeditor"
+product = "ckeditor"
+
+[[cpe_configurations]]
+vendor = "ckeditor"
+product = "ckeditor_4"
+
+[[cpe_configurations]]
+vendor = "ckeditor"
+product = "ckeditor4"

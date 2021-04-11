@@ -1,0 +1,8 @@
+name = "codem-transcode"
+ecosystem = "npm"
+source = "http://github.com/madebyhiro/codem-transcode"
+
+[[cpe_configurations]]
+vendor = "codem-transcode_project"
+product = "codem-transcode"
+

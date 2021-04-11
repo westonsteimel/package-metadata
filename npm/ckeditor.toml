@@ -1,0 +1,8 @@
+name = "ckeditor"
+ecosystem = "npm"
+source = "https://github.com/ckeditor/ckeditor-releases"
+deprecated = true
+[[cpe_configurations]]
+vendor = "ckeditor"
+product = "ckeditor"
+

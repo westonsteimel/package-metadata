@@ -1,0 +1,9 @@
+name = "cue-sdk-node"
+ecosystem = "npm"
+source = "https://github.com/Yannicked/node-cue-sdk"
+
+[[cpe_configurations]]
+vendor = "cue-sdk-node_project"
+product = "cue-sdk-node"
+target_software = "node.js"
+

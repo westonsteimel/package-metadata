@@ -1,0 +1,9 @@
+name = "curlrequest"
+ecosystem = "npm"
+source = "https://github.com/node-js-libs/curlrequest"
+
+[[cpe_configurations]]
+vendor = "curlrequest_project"
+product = "curlrequest"
+target_software = "node.js"
+

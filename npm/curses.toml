@@ -1,0 +1,9 @@
+name = "curses"
+ecosystem = "npm"
+source = "https://github.com/fresc81/node-curses"
+
+[[cpe_configurations]]
+vendor = "curses_project"
+product = "curses"
+target_software = "node.js"
+

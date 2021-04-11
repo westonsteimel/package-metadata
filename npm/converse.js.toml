@@ -1,0 +1,8 @@
+name = "converse.js"
+ecosystem = "npm"
+source = "https://github.com/conversejs/converse.js"
+
+[[cpe_configurations]]
+vendor = "conversejs"
+product = "converse.js"
+

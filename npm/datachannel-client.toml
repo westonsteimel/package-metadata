@@ -1,0 +1,9 @@
+name = "datachannel-client"
+ecosystem = "npm"
+source = "https://github.com/muaz-khan/Reliable-Signaler"
+
+[[cpe_configurations]]
+vendor = "datachannel-client_project"
+product = "datachannel-client"
+target_software = "node.js"
+

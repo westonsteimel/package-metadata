@@ -1,0 +1,9 @@
+name = "date-and-time"
+ecosystem = "npm"
+source = "https://github.com/knowledgecode/date-and-time"
+
+[[cpe_configurations]]
+vendor = "date-and-time_project"
+product = "date-and-time"
+target_software = "node.js"
+

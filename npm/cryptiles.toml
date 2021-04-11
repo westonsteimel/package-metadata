@@ -1,0 +1,12 @@
+name = "cryptiles"
+ecosystem = "npm"
+source = "https://github.com/hapijs/cryptiles"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "cryptiles_project"
+product = "cryptiles"
+
+[[cpe_configurations]]
+vendor = "hapijs"
+product = "cryptiles"

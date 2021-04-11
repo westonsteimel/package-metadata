@@ -1,0 +1,9 @@
+name = "closure-util"
+ecosystem = "npm"
+source = "https://github.com/openlayers/closure-util"
+
+[[cpe_configurations]]
+vendor = "openlayers"
+product = "closure-util"
+target_software = "node.js"
+

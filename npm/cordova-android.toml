@@ -1,0 +1,9 @@
+name = "cordova-android"
+ecosystem = "npm"
+source = "https://github.com/apache/cordova-android"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "cordova"
+target_software = "android"
+

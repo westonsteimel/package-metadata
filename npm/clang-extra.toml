@@ -1,0 +1,7 @@
+name = "clang-extra"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "clang-extra_project"
+product = "clang-extra"
+target_software = "node.js"
+

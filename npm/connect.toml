@@ -1,0 +1,9 @@
+name = "connect"
+ecosystem = "npm"
+source = "https://github.com/senchalabs/connect"
+
+[[cpe_configurations]]
+vendor = "sencha"
+product = "connect"
+target_software = "node.js"
+

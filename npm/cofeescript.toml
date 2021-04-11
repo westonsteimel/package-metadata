@@ -1,0 +1,10 @@
+name = "cofeescript"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "cofeescript_project"
+product = "cofeescript"
+target_software = "node.js"
+

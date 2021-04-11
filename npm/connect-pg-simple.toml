@@ -1,0 +1,9 @@
+name = "connect-pg-simple"
+ecosystem = "npm"
+source = "https://github.com/voxpelli/node-connect-pg-simple"
+
+[[cpe_configurations]]
+vendor = "connect-pg-simple_project"
+product = "connect-pg-simple"
+target_software = "node.js"
+

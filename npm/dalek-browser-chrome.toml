@@ -1,0 +1,9 @@
+name = "dalek-browser-chrome"
+ecosystem = "npm"
+source = "https://github.com/dalekjs/dalek-browser-chrome"
+
+[[cpe_configurations]]
+vendor = "dalekjs"
+product = "dalekjs"
+target_software = "node.js"
+

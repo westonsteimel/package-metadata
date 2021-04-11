@@ -1,0 +1,7 @@
+name = "co-cli-installer"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "co-cli-installer_project"
+product = "co-cli-installer"
+target_software = "node.js"
+

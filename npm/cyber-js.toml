@@ -1,0 +1,9 @@
+name = "cyber-js"
+ecosystem = "npm"
+source = "https://github.com/cyber-js/node-server"
+
+[[cpe_configurations]]
+vendor = "cyber-js_project"
+product = "cyber-js"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "datatables.net"
+ecosystem = "npm"
+source = "https://github.com/DataTables/Dist-DataTables"
+
+[[cpe_configurations]]
+vendor = "datatables"
+product = "datatables.net"
+target_software = "node.js"
+

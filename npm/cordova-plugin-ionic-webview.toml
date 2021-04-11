@@ -1,0 +1,9 @@
+name = "cordova-plugin-ionic-webview"
+ecosystem = "npm"
+source = "https://github.com/ionic-team/cordova-plugin-ionic-webview"
+
+[[cpe_configurations]]
+vendor = "ionicframework"
+product = "ionic_web_view"
+target_software = "cordova"
+

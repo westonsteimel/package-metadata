@@ -1,0 +1,7 @@
+name = "dasafio"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "dasafio_project"
+product = "dasafio"
+target_software = "node.js"
+

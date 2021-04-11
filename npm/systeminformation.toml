@@ -1,0 +1,9 @@
+name = "systeminformation"
+ecosystem = "npm"
+source = "https://github.com/sebhildebrandt/systeminformation"
+
+[[cpe_configurations]]
+vendor = "systeminformation"
+product = "systeminformation"
+target_software = "node.js"
+

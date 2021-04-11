@@ -1,0 +1,7 @@
+name = "cypserver"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "cypserver_project"
+product = "cypserver"
+target_software = "node.js"
+

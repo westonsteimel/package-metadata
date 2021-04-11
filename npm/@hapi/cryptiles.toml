@@ -1,0 +1,11 @@
+name = "@hapi/cryptiles"
+ecosystem = "npm"
+source = "https://github.com/hapijs/cryptiles"
+
+[[cpe_configurations]]
+vendor = "cryptiles_project"
+product = "cryptiles"
+
+[[cpe_configurations]]
+vendor = "hapijs"
+product = "cryptiles"

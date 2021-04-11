@@ -1,13 +1,13 @@
-name = "@hapi/call"
+name = "@hapi/content"
 ecosystem = "npm"
-source = "https://github.com/hapijs/call"
+source = "https://github.com/hapijs/content"
 
 [[cpe_configurations]]
-vendor = "call_project"
-product = "call"
+vendor = "content_project"
+product = "content"
 target_software = "node.js"
 
 [[cpe_configurations]]
 vendor = "hapijs"
-product = "call"
+product = "content"
 target_software = "node.js"

@@ -1,0 +1,9 @@
+name = "crud-file-server"
+ecosystem = "npm"
+source = "https://github.com/omphalos/crud-file-server"
+
+[[cpe_configurations]]
+vendor = "crud-file-server_project"
+product = "crud-file-server"
+target_software = "node.js"
+

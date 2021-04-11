@@ -1,0 +1,9 @@
+name = "commentapp.stetsonwood"
+ecosystem = "npm"
+source = "https://github.com/AxothAcaelus/commentapp"
+
+[[cpe_configurations]]
+vendor = "commentapp.stetsonwood_project"
+product = "commentapp.stetsonwood"
+target_software = "node.js"
+

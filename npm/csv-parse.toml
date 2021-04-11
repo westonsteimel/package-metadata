@@ -1,0 +1,9 @@
+name = "csv-parse"
+ecosystem = "npm"
+source = "https://github.com/wdavidw/node-csv-parse"
+
+[[cpe_configurations]]
+vendor = "csv-parse_project"
+product = "csv-parse"
+target_software = "node.js"
+

@@ -1,0 +1,10 @@
+name = "cryo"
+ecosystem = "npm"
+source = "https://github.com/hunterloftis/cryo"
+
+[[cpe_configurations]]
+part = "o"
+vendor = "cryo_project"
+product = "cryo"
+target_software = "node.js"
+

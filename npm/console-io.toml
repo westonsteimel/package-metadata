@@ -1,0 +1,9 @@
+name = "console-io"
+ecosystem = "npm"
+source = "https://github.com/cloudcmd/console-io"
+
+[[cpe_configurations]]
+vendor = "console-io_project"
+product = "console-io"
+target_software = "node.js"
+

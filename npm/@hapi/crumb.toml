@@ -1,0 +1,9 @@
+name = "@hapi/crumb"
+ecosystem = "npm"
+source = "https://github.com/hapijs/crumb"
+
+[[cpe_configurations]]
+vendor = "hapijs"
+product = "crumb"
+target_software = "node.js"
+

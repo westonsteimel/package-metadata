@@ -1,0 +1,10 @@
+name = "citypredict.whauwiller"
+ecosystem = "npm"
+source = "https://github.com/npm/deprecate-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "citypredict.whauwiller_project"
+product = "citypredict.whauwiller"
+target_software = "node.js"
+

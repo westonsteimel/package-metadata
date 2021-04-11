@@ -1,0 +1,9 @@
+name = "cmake"
+ecosystem = "npm"
+source = "https://github.com/stanley-gu/cmake"
+
+[[cpe_configurations]]
+vendor = "cmake_project"
+product = "cmake"
+target_software = "node.js"
+

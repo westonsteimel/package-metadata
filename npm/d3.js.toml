@@ -1,0 +1,10 @@
+name = "d3.js"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "d3.js_project"
+product = "d3.js"
+target_software = "node.js"
+

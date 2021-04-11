@@ -1,0 +1,9 @@
+name = "cookie-signature"
+ecosystem = "npm"
+source = "https://github.com/visionmedia/node-cookie-signature"
+
+[[cpe_configurations]]
+vendor = "cookie-signature_project"
+product = "cookie-signature"
+target_software = "node.js"
+

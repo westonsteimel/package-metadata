@@ -1,0 +1,10 @@
+name = "cross-env.js"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "cross-env.js_project"
+product = "cross-env.js"
+target_software = "node.js"
+

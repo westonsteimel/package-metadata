@@ -1,0 +1,10 @@
+name = "corenlp-js-interface"
+ecosystem = "npm"
+source = "https://github.com/noahDess/corenlp-js-prefab/tree/master"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "corenlp-js-interface_project"
+product = "corenlp-js-interface"
+target_software = "node.js"
+

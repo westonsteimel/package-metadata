@@ -1,0 +1,7 @@
+name = "cobalt-cli"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "cobalt-cli_project"
+product = "cobalt-cli"
+target_software = "node.js"
+
