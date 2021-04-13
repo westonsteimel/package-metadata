@@ -1,0 +1,9 @@
+name = "express-jwt"
+ecosystem = "npm"
+source = "https://github.com/auth0/express-jwt"
+
+[[cpe_configurations]]
+vendor = "auth0"
+product = "express-jwt"
+target_software = "node.js"
+

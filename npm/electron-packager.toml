@@ -1,0 +1,9 @@
+name = "electron-packager"
+ecosystem = "npm"
+source = "https://github.com/electron/electron-packager"
+
+[[cpe_configurations]]
+vendor = "electron-packager_project"
+product = "electron-packager"
+target_software = "node.js"
+

@@ -1,0 +1,7 @@
+name = "ember"
+ecosystem = "npm"
+source = "https://github.com/emberjs/ember"
+
+[[cpe_configurations]]
+vendor = "emberjs"
+product = "ember.js"

@@ -1,0 +1,8 @@
+name = "express-fileupload"
+ecosystem = "npm"
+source = "https://github.com/richardgirges/express-fileupload"
+
+[[cpe_configurations]]
+vendor = "express-fileupload_project"
+product = "express-fileupload"
+

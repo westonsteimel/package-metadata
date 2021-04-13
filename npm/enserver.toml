@@ -1,0 +1,9 @@
+name = "enserver"
+ecosystem = "npm"
+source = "https://github.com/yepbug/enserver"
+
+[[cpe_configurations]]
+vendor = "enserver_project"
+product = "enserver"
+target_software = "node.js"
+

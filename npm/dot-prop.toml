@@ -1,0 +1,9 @@
+name = "dot-prop"
+ecosystem = "npm"
+source = "https://github.com/sindresorhus/dot-prop"
+
+[[cpe_configurations]]
+vendor = "dot-prop_project"
+product = "dot-prop"
+target_software = "node.js"
+

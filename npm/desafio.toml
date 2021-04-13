@@ -1,0 +1,7 @@
+name = "desafio"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "desafio_project"
+product = "desafio"
+target_software = "node.js"
+

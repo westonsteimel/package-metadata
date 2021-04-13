@@ -1,0 +1,8 @@
+name = "dompurify"
+ecosystem = "npm"
+source = "https://github.com/cure53/DOMPurify"
+
+[[cpe_configurations]]
+vendor = "cure53"
+product = "dompurify"
+

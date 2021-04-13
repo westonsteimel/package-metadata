@@ -1,0 +1,9 @@
+name = "deep-extend"
+ecosystem = "npm"
+source = "https://github.com/unclechu/node-deep-extend"
+
+[[cpe_configurations]]
+vendor = "deep_extend_project"
+product = "deep_extend"
+target_software = "node.js"
+

@@ -1,0 +1,8 @@
+name = "ejs"
+ecosystem = "npm"
+source = "https://github.com/mde/ejs"
+
+[[cpe_configurations]]
+vendor = "ejs"
+product = "ejs"
+

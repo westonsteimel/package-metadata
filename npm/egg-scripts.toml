@@ -1,0 +1,9 @@
+name = "egg-scripts"
+ecosystem = "npm"
+source = "https://github.com/eggjs/egg-scripts"
+
+[[cpe_configurations]]
+vendor = "eggjs"
+product = "egg-scripts"
+target_software = "node.js"
+

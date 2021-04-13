@@ -1,0 +1,7 @@
+name = "dcserver"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "dcserver_project"
+product = "dcserver"
+target_software = "node.js"
+

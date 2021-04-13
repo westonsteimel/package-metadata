@@ -1,0 +1,9 @@
+name = "express-restify-mongoose"
+ecosystem = "npm"
+source = "https://github.com/florianholzapfel/express-restify-mongoose"
+
+[[cpe_configurations]]
+vendor = "express-restify-mongoose_project"
+product = "express-restify-mongoose"
+target_software = "node.js"
+

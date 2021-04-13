@@ -1,0 +1,9 @@
+name = "dynamoose"
+ecosystem = "npm"
+source = "https://github.com/dynamoose/dynamoose"
+
+[[cpe_configurations]]
+vendor = "dynamoosejs"
+product = "dynamoose"
+target_software = "node.js"
+

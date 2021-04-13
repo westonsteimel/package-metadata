@@ -1,0 +1,9 @@
+name = "eslint-utils"
+ecosystem = "npm"
+source = "https://github.com/mysticatea/eslint-utils"
+
+[[cpe_configurations]]
+vendor = "eslint-utils_project"
+product = "eslint-utils"
+target_software = "node.js"
+

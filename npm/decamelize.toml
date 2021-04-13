@@ -1,0 +1,8 @@
+name = "decamelize"
+ecosystem = "npm"
+source = "https://github.com/sindresorhus/decamelize"
+
+[[cpe_configurations]]
+vendor = "decamelize_project"
+product = "decamelize"
+

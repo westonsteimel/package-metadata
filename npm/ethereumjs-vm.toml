@@ -1,0 +1,8 @@
+name = "ethereumjs-vm"
+ecosystem = "npm"
+source = "https://github.com/ethereumjs/ethereumjs-vm"
+
+[[cpe_configurations]]
+vendor = "ethereumjs-vm_project"
+product = "ethereumjs-vm"
+

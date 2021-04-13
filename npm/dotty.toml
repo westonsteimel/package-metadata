@@ -1,0 +1,8 @@
+name = "dotty"
+ecosystem = "npm"
+source = "https://github.com/deoxxa/dotty"
+
+[[cpe_configurations]]
+vendor = "dotty_project"
+product = "dotty"
+

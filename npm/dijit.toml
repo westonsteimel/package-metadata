@@ -1,0 +1,8 @@
+name = "dijit"
+ecosystem = "npm"
+source = "https://github.com/dojo/dijit"
+
+[[cpe_configurations]]
+vendor = "openjsf"
+product = "dijit"
+

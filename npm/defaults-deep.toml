@@ -1,0 +1,9 @@
+name = "defaults-deep"
+ecosystem = "npm"
+source = "https://github.com/jonschlinkert/defaults-deep"
+
+[[cpe_configurations]]
+vendor = "defaults-deep_project"
+product = "defaults-deep"
+target_software = "node.js"
+

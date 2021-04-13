@@ -1,0 +1,11 @@
+name = "dojox"
+ecosystem = "npm"
+source = "https://github.com/dojo/dojox"
+
+[[cpe_configurations]]
+vendor = "dojotoolkit"
+product = "dojo"
+
+[[cpe_configurations]]
+vendor = "openjsf"
+product = "dojox"

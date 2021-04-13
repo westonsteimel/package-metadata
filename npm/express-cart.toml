@@ -1,0 +1,9 @@
+name = "express-cart"
+ecosystem = "npm"
+source = "https://github.com/mrvautin/expressCart"
+
+[[cpe_configurations]]
+vendor = "express-cart_project"
+product = "express-cart"
+target_software = "node.js"
+

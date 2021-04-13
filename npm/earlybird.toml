@@ -1,0 +1,9 @@
+name = "earlybird"
+ecosystem = "npm"
+source = "https://github.com/marcusbaer/earlybird"
+
+[[cpe_configurations]]
+vendor = "earlybird_project"
+product = "earlybird"
+target_software = "node.js"
+

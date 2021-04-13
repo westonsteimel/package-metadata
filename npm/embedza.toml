@@ -1,0 +1,9 @@
+name = "embedza"
+ecosystem = "npm"
+source = "https://github.com/nodeca/embedza"
+
+[[cpe_configurations]]
+vendor = "embedza_project"
+product = "embedza"
+target_software = "node.js"
+

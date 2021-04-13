@@ -1,0 +1,10 @@
+name = "ecstatic"
+ecosystem = "npm"
+source = "https://github.com/jfhbrook/node-ecstatic"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "ecstatic_project"
+product = "ecstatic"
+target_software = "node.js"
+

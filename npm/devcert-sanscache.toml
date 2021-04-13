@@ -1,0 +1,8 @@
+name = "devcert-sanscache"
+ecosystem = "npm"
+source = "https://github.com/guybedford/devcert"
+
+[[cpe_configurations]]
+vendor = "devcert-sanscache_project"
+product = "devcert-sanscache"
+

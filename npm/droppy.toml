@@ -1,0 +1,9 @@
+name = "droppy"
+ecosystem = "npm"
+source = "https://github.com/silverwind/droppy"
+
+[[cpe_configurations]]
+vendor = "droppy_project"
+product = "droppy"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "easyquick"
+ecosystem = "npm"
+source = "https://github.com/marcusbaer/easyquick"
+
+[[cpe_configurations]]
+vendor = "easyquick_project"
+product = "easyquick"
+target_software = "node.js"
+

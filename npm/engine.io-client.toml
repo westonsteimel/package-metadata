@@ -1,0 +1,9 @@
+name = "engine.io-client"
+ecosystem = "npm"
+source = "https://github.com/socketio/engine.io-client"
+
+[[cpe_configurations]]
+vendor = "socket"
+product = "engine.io-client"
+target_software = "node.js"
+

@@ -1,0 +1,8 @@
+name = "dns-sync"
+ecosystem = "npm"
+source = "https://github.com/skoranga/node-dns-sync"
+
+[[cpe_configurations]]
+vendor = "node-dns-sync_project"
+product = "node-dns-sync"
+

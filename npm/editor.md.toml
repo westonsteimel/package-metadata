@@ -1,0 +1,8 @@
+name = "editor.md"
+ecosystem = "npm"
+source = "https://github.com/pandao/editor.md"
+
+[[cpe_configurations]]
+vendor = "ipandao"
+product = "editor.md"
+

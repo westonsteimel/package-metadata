@@ -1,0 +1,10 @@
+name = "discordi.js"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "discordi.js_project"
+product = "discordi.js"
+target_software = "node.js"
+

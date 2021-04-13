@@ -1,0 +1,9 @@
+name = "dwebp-bin"
+ecosystem = "npm"
+source = "https://github.com/1000ch/dwebp-bin"
+
+[[cpe_configurations]]
+vendor = "dwebp-bin_project"
+product = "dwebp-bin"
+target_software = "node.js"
+

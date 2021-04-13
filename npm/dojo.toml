@@ -1,0 +1,8 @@
+name = "dojo"
+ecosystem = "npm"
+source = "https://github.com/dojo/dojo"
+
+[[cpe_configurations]]
+vendor = "dojotoolkit"
+product = "dojo"
+

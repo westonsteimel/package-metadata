@@ -1,0 +1,9 @@
+name = "elliptic"
+ecosystem = "npm"
+source = "https://github.com/indutny/elliptic"
+
+[[cpe_configurations]]
+vendor = "elliptic_project"
+product = "elliptic"
+target_software = "node.js"
+

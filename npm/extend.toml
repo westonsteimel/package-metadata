@@ -1,0 +1,9 @@
+name = "extend"
+ecosystem = "npm"
+source = "https://github.com/justmoon/node-extend"
+
+[[cpe_configurations]]
+vendor = "extend_project"
+product = "extend"
+target_software = "node.js"
+

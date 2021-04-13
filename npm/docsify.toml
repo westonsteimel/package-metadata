@@ -1,0 +1,8 @@
+name = "docsify"
+ecosystem = "npm"
+source = "https://github.com/docsifyjs/docsify"
+
+[[cpe_configurations]]
+vendor = "docsifyjs"
+product = "docsify"
+

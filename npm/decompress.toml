@@ -1,0 +1,9 @@
+name = "decompress"
+ecosystem = "npm"
+source = "https://github.com/kevva/decompress"
+
+[[cpe_configurations]]
+vendor = "decompress_project"
+product = "decompress"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "dgard8.lab6"
+ecosystem = "npm"
+source = "https://github.com/dgard8/lab6"
+
+[[cpe_configurations]]
+vendor = "dgard8.lab6_project"
+product = "dgard8.lab6"
+target_software = "node.js"
+

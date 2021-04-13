@@ -1,0 +1,9 @@
+name = "elding"
+ecosystem = "npm"
+source = "https://gitlab.com/jacksarick/elding"
+
+[[cpe_configurations]]
+vendor = "elding_project"
+product = "elding"
+target_software = "node.js"
+

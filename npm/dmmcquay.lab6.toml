@@ -1,0 +1,7 @@
+name = "dmmcquay.lab6"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "dmmcquay.lab6_project"
+product = "dmmcquay.lab6"
+target_software = "node.js"
+

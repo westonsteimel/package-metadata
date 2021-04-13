@@ -1,0 +1,9 @@
+name = "exceljs"
+ecosystem = "npm"
+source = "https://github.com/exceljs/exceljs"
+
+[[cpe_configurations]]
+vendor = "exceljs_project"
+product = "exceljs"
+target_software = "node.js"
+

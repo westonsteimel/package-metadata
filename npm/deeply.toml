@@ -1,0 +1,9 @@
+name = "deeply"
+ecosystem = "npm"
+source = "https://github.com/alexindigo/deeply"
+
+[[cpe_configurations]]
+vendor = "deeply_project"
+product = "deeply"
+target_software = "node.js"
+

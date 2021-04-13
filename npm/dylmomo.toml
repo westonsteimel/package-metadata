@@ -1,0 +1,7 @@
+name = "dylmomo"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "dylmomo_project"
+product = "dylmomo"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "exxxxxxxxxxx"
+ecosystem = "npm"
+source = "https://github.com/FySuper/eX"
+
+[[cpe_configurations]]
+vendor = "exxxxxxxxxxx_project"
+product = "exxxxxxxxxxx"
+target_software = "node.js"
+
