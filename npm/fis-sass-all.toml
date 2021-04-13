@@ -1,0 +1,9 @@
+name = "fis-sass-all"
+ecosystem = "npm"
+source = "https://github.com/fis-dev/fis-sass"
+
+[[cpe_configurations]]
+vendor = "fis-sass-all_project"
+product = "fis-sass-all"
+target_software = "node.js"
+

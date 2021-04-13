@@ -1,0 +1,7 @@
+name = "gfe-sass"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "gfe-sass_project"
+product = "gfe-sass"
+target_software = "node.js"
+

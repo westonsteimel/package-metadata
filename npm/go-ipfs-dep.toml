@@ -1,0 +1,10 @@
+name = "go-ipfs-dep"
+ecosystem = "npm"
+source = "https://github.com/ipfs/npm-go-ipfs-dep"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "ipfs"
+product = "go-ipfs-dep"
+target_software = "node.js"
+

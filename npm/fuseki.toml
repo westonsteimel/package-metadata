@@ -1,0 +1,9 @@
+name = "fuseki"
+ecosystem = "npm"
+source = "https://github.com/bergos/fuseki"
+
+[[cpe_configurations]]
+vendor = "fuseki_project"
+product = "fuseki"
+target_software = "node.js"
+

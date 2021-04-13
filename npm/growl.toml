@@ -1,0 +1,9 @@
+name = "growl"
+ecosystem = "npm"
+source = "https://github.com/tj/node-growl"
+
+[[cpe_configurations]]
+vendor = "growl_project"
+product = "growl"
+target_software = "node.js"
+

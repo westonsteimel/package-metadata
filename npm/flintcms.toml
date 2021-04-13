@@ -1,0 +1,9 @@
+name = "flintcms"
+ecosystem = "npm"
+source = "https://github.com/JasonEtco/flintcms"
+
+[[cpe_configurations]]
+vendor = "flintcms"
+product = "flintcms"
+target_software = "node.js"
+

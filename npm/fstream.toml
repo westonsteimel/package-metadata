@@ -1,0 +1,12 @@
+name = "fstream"
+ecosystem = "npm"
+source = "https://github.com/npm/fstream"
+
+[[cpe_configurations]]
+vendor = "fstream_project"
+product = "fstream"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "npmjs"
+product = "fstream"

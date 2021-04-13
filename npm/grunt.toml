@@ -1,0 +1,9 @@
+name = "grunt"
+ecosystem = "npm"
+source = "https://github.com/gruntjs/grunt"
+
+[[cpe_configurations]]
+vendor = "gruntjs"
+product = "grunt"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "fbr-client"
+ecosystem = "npm"
+source = "https://github.com/muaz-khan/FileBufferReader"
+
+[[cpe_configurations]]
+vendor = "webrtc-experiment"
+product = "fbr-client"
+target_software = "node.js"
+

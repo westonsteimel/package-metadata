@@ -1,0 +1,10 @@
+name = "fabric-js"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "fabric-js_project"
+product = "fabric-js"
+target_software = "node.js"
+

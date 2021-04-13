@@ -1,0 +1,9 @@
+name = "gsap"
+ecosystem = "npm"
+source = "https://github.com/greensock/GSAP"
+
+[[cpe_configurations]]
+vendor = "greensock"
+product = "greensock_animation_platform"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "fastify-reply-from"
+ecosystem = "npm"
+source = "https://github.com/fastify/fastify-reply-from"
+
+[[cpe_configurations]]
+vendor = "fastify-reply-from_project"
+product = "fastify-reply-from"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "fancy-server"
+ecosystem = "npm"
+source = "https://github.com/dtao/fancy-server"
+
+[[cpe_configurations]]
+vendor = "fancy-server_project"
+product = "fancy-server"
+target_software = "node.js"
+

@@ -1,0 +1,7 @@
+name = "fibjs"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "fibjs_project"
+product = "fibjs"
+target_software = "node.js"
+

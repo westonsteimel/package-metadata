@@ -1,0 +1,9 @@
+name = "fastify-http-proxy"
+ecosystem = "npm"
+source = "https://github.com/fastify/fastify-http-proxy"
+
+[[cpe_configurations]]
+vendor = "fastify-http-proxy_project"
+product = "fastify-http-proxy"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "fast-csv"
+ecosystem = "npm"
+source = "https://github.com/C2FO/fast-csv"
+
+[[cpe_configurations]]
+vendor = "c2fo"
+product = "fast-csv"
+target_software = "node.js"
+

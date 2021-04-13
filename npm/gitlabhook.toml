@@ -1,0 +1,9 @@
+name = "gitlabhook"
+ecosystem = "npm"
+source = "https://github.com/rolfn/node-gitlab-hook"
+
+[[cpe_configurations]]
+vendor = "gitlabhook_project"
+product = "gitlabhook"
+target_software = "node.js"
+

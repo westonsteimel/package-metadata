@@ -1,0 +1,9 @@
+name = "geoip-lite-country"
+ecosystem = "npm"
+source = "https://github.com/arve0/node-geoip-country"
+
+[[cpe_configurations]]
+vendor = "geoip-lite-country_project"
+product = "geoip-lite-country"
+target_software = "node.js"
+

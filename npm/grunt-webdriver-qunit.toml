@@ -1,0 +1,9 @@
+name = "grunt-webdriver-qunit"
+ecosystem = "npm"
+source = "https://github.com/bulain/grunt-webdriver-qunit"
+
+[[cpe_configurations]]
+vendor = "grunt-webdriver-qunit_project"
+product = "grunt-webdriver-qunit"
+target_software = "node.js"
+

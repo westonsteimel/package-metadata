@@ -1,0 +1,9 @@
+name = "ftp-srv"
+ecosystem = "npm"
+source = "https://github.com/autovance/ftp-srv"
+
+[[cpe_configurations]]
+vendor = "ftp-srv_project"
+product = "ftp-srv"
+target_software = "node.js"
+

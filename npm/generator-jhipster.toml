@@ -1,0 +1,7 @@
+name = "generator-jhipster"
+ecosystem = "npm"
+source = "https://github.com/jhipster/generator-jhipster"
+
+[[cpe_configurations]]
+vendor = "jhipster"
+product = "jhipster"

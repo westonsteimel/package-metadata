@@ -1,0 +1,9 @@
+name = "graphql-playground-middleware-koa"
+ecosystem = "npm"
+source = "https://github.com/graphcool/graphql-playground"
+
+[[cpe_configurations]]
+vendor = "prisma"
+product = "graphql-playground-middleware-koa"
+target_software = "node.js"
+

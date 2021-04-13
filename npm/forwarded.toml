@@ -1,0 +1,9 @@
+name = "forwarded"
+ecosystem = "npm"
+source = "https://github.com/jshttp/forwarded"
+
+[[cpe_configurations]]
+vendor = "forwarded_project"
+product = "forwarded"
+target_software = "node.js"
+

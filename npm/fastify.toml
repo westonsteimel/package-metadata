@@ -1,0 +1,9 @@
+name = "fastify"
+ecosystem = "npm"
+source = "https://github.com/fastify/fastify"
+
+[[cpe_configurations]]
+vendor = "fastify"
+product = "fastify"
+target_software = "node.js"
+

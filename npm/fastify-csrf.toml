@@ -1,0 +1,9 @@
+name = "fastify-csrf"
+ecosystem = "npm"
+source = "https://github.com/fastify/fastify-csrf"
+
+[[cpe_configurations]]
+vendor = "fastify"
+product = "fastify-csrf"
+target_software = "node.js"
+

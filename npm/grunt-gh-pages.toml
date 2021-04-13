@@ -1,0 +1,9 @@
+name = "grunt-gh-pages"
+ecosystem = "npm"
+source = "https://github.com/tschaub/grunt-gh-pages"
+
+[[cpe_configurations]]
+vendor = "grunt-gh-pages_project"
+product = "grunt-gh-pages"
+target_software = "node.js"
+

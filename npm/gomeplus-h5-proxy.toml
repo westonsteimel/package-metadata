@@ -1,0 +1,9 @@
+name = "gomeplus-h5-proxy"
+ecosystem = "npm"
+source = "https://github.com/gomeplusFED/meixin-h5-proxy"
+
+[[cpe_configurations]]
+vendor = "gomeplus-h5-proxy_project"
+product = "gomeplus-h5-proxy"
+target_software = "node.js"
+

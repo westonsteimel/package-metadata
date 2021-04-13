@@ -1,0 +1,9 @@
+name = "goserv"
+ecosystem = "npm"
+source = "https://github.com/ablankenship10/goserv"
+
+[[cpe_configurations]]
+vendor = "goserv_project"
+product = "goserv"
+target_software = "node.js"
+

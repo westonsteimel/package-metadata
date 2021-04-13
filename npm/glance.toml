@@ -1,0 +1,9 @@
+name = "glance"
+ecosystem = "npm"
+source = "https://github.com/jarofghosts/glance"
+
+[[cpe_configurations]]
+vendor = "glance_project"
+product = "glance"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "getcityapi.yoehoehne"
+ecosystem = "npm"
+source = "https://github.com/yoehoehne/cs360_getcity"
+
+[[cpe_configurations]]
+vendor = "getcityapi.yoehoehne_project"
+product = "getcityapi.yoehoehne"
+target_software = "node.js"
+

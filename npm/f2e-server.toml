@@ -1,0 +1,9 @@
+name = "f2e-server"
+ecosystem = "npm"
+source = "https://github.com/shy2850/f2e-server"
+
+[[cpe_configurations]]
+vendor = "f2e-server_project"
+product = "f2e-server"
+target_software = "node.js"
+

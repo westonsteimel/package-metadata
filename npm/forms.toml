@@ -1,0 +1,9 @@
+name = "forms"
+ecosystem = "npm"
+source = "https://github.com/caolan/forms"
+
+[[cpe_configurations]]
+vendor = "forms_project"
+product = "forms"
+target_software = "node.js"
+

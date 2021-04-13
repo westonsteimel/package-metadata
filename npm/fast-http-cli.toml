@@ -1,0 +1,9 @@
+name = "fast-http-cli"
+ecosystem = "npm"
+source = "https://github.com/cedced19/fast-http"
+
+[[cpe_configurations]]
+vendor = "fast-http-cli_project"
+product = "fast-http-cli"
+target_software = "node.js"
+

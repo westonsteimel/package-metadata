@@ -1,0 +1,8 @@
+name = "find-my-way"
+ecosystem = "npm"
+source = "https://github.com/delvedor/find-my-way"
+
+[[cpe_configurations]]
+vendor = "find-my-way_project"
+product = "find-my-way"
+

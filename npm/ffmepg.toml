@@ -1,0 +1,10 @@
+name = "ffmepg"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "ffmepg_project"
+product = "ffmepg"
+target_software = "node.js"
+

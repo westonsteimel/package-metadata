@@ -1,0 +1,10 @@
+name = "geddy"
+ecosystem = "npm"
+source = "https://github.com/geddy/geddy"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "geddyjs"
+product = "geddy"
+target_software = "node.js"
+

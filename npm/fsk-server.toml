@@ -1,0 +1,7 @@
+name = "fsk-server"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "fsk-server_project"
+product = "fsk-server"
+target_software = "node.js"
+

@@ -1,0 +1,13 @@
+name = "galenframework-cli"
+ecosystem = "npm"
+source = "https://github.com/hypery2k/galenframework-cli"
+
+[[cpe_configurations]]
+vendor = "galenframework"
+product = "galenframework-cli"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "galenframework-cli_project"
+product = "galenframework-cli"
+target_software = "node.js"

@@ -1,0 +1,9 @@
+name = "google-closure-tools-latest"
+ecosystem = "npm"
+source = "https://github.com/vsonix-bub/node-google-closure-tools-latest"
+
+[[cpe_configurations]]
+vendor = "google-closure-tools-latest_project"
+product = "google-closure-tools-latest"
+target_software = "node.js"
+

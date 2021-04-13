@@ -1,0 +1,9 @@
+name = "grunt-images"
+ecosystem = "npm"
+source = "https://github.com/gcpantazis/grunt-images"
+
+[[cpe_configurations]]
+vendor = "grunt-images_project"
+product = "grunt-images"
+target_software = "node.js"
+

@@ -1,0 +1,10 @@
+name = "gruntcli"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "gruntcli_project"
+product = "gruntcli"
+target_software = "node.js"
+

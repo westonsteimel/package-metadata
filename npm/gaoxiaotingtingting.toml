@@ -1,0 +1,7 @@
+name = "gaoxiaotingtingting"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "gaoxiaotingtingting_project"
+product = "gaoxiaotingtingting"
+target_software = "node.js"
+

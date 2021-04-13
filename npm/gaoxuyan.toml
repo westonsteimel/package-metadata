@@ -1,0 +1,6 @@
+name = "gaoxuyan"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "gaoxuyan_project"
+product = "gaoxuyan"
+

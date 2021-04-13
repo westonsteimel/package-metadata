@@ -1,0 +1,9 @@
+name = "fileview"
+ecosystem = "npm"
+source = "https://github.com/lygoods/fileview"
+
+[[cpe_configurations]]
+vendor = "itwork"
+product = "fileview"
+target_software = "node.js"
+

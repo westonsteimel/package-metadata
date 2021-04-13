@@ -1,0 +1,9 @@
+name = "git-dummy-commit"
+ecosystem = "npm"
+source = "https://github.com/stevemao/git-dummy-commit"
+
+[[cpe_configurations]]
+vendor = "git-dummy-commit_project"
+product = "git-dummy-commit"
+target_software = "node.js"
+

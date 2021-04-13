@@ -1,0 +1,9 @@
+name = "graphql-playground-html"
+ecosystem = "npm"
+source = "https://github.com/graphcool/graphql-playground"
+
+[[cpe_configurations]]
+vendor = "prisma"
+product = "graphql-playground-html"
+target_software = "node.js"
+

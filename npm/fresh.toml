@@ -1,0 +1,9 @@
+name = "fresh"
+ecosystem = "npm"
+source = "https://github.com/jshttp/fresh"
+
+[[cpe_configurations]]
+vendor = "fresh_project"
+product = "fresh"
+target_software = "node.js"
+

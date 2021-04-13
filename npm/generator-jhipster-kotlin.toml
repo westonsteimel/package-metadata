@@ -1,0 +1,11 @@
+name = "generator-jhipster-kotlin"
+ecosystem = "npm"
+source = "https://github.com/jhipster/jhipster-kotlin"
+
+[[cpe_configurations]]
+vendor = "jhipster"
+product = "jhipster_kotlin"
+
+[[cpe_configurations]]
+vendor = "jhipster"
+product = "generator-jhipster-kotlin"

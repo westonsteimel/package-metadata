@@ -1,0 +1,9 @@
+name = "fis-parser-sass-bin"
+ecosystem = "npm"
+source = "https://github.com/fis-stuff/fis-parser-sass-bin"
+
+[[cpe_configurations]]
+vendor = "fis-parser-sass-bin_project"
+product = "fis-parser-sass-bin"
+target_software = "node.js"
+

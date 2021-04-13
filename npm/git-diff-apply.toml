@@ -1,0 +1,8 @@
+name = "git-diff-apply"
+ecosystem = "npm"
+source = "https://github.com/kellyselden/git-diff-apply"
+
+[[cpe_configurations]]
+vendor = "git-diff-apply_project"
+product = "git-diff-apply"
+

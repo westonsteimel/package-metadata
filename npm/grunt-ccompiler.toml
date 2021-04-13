@@ -1,0 +1,9 @@
+name = "grunt-ccompiler"
+ecosystem = "npm"
+source = "https://github.com/alfonso/grunt-ccompiler"
+
+[[cpe_configurations]]
+vendor = "grunt-ccompiler_project"
+product = "grunt-ccompiler"
+target_software = "node.js"
+

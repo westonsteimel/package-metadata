@@ -1,0 +1,13 @@
+name = "go-ipfs"
+ecosystem = "npm"
+source = "https://github.com/ipfs/npm-go-ipfs"
+
+[[cpe_configurations]]
+vendor = "ipfs"
+product = "go-ipfs-dep"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "ipfs"
+product = "go-ipfs"
+target_software = "node.js"

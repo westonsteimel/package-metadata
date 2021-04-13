@@ -1,0 +1,7 @@
+name = "frames-compiler"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "frames-compiler_project"
+product = "frames-compiler"
+target_software = "node.js"
+
