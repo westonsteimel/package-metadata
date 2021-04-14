@@ -1,0 +1,9 @@
+name = "ipip-coffee"
+ecosystem = "npm"
+source = "https://github.com/ym/node-ipip"
+
+[[cpe_configurations]]
+vendor = "ipip"
+product = "ipip-coffee"
+target_software = "node.js"
+

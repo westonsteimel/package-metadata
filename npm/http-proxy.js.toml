@@ -1,0 +1,10 @@
+name = "http-proxy.js"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "http-proxy.js_project"
+product = "http-proxy.js"
+target_software = "node.js"
+

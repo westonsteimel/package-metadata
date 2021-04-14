@@ -1,0 +1,9 @@
+name = "iedriver"
+ecosystem = "npm"
+source = "https://github.com/barretts/node-iedriver"
+
+[[cpe_configurations]]
+vendor = "iedriver_project"
+product = "iedriver"
+target_software = "node.js"
+

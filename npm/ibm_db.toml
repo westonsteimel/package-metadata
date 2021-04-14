@@ -1,0 +1,9 @@
+name = "ibm_db"
+ecosystem = "npm"
+source = "https://github.com/ibmdb/node-ibm_db"
+
+[[cpe_configurations]]
+vendor = "ibm"
+product = "ibm_db"
+target_software = "node.js"
+

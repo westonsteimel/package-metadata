@@ -1,0 +1,9 @@
+name = "http-proxy"
+ecosystem = "npm"
+source = "https://github.com/http-party/node-http-proxy"
+
+[[cpe_configurations]]
+vendor = "http-proxy_project"
+product = "http-proxy"
+target_software = "node.js"
+

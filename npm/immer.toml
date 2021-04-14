@@ -1,0 +1,9 @@
+name = "immer"
+ecosystem = "npm"
+source = "https://github.com/immerjs/immer"
+
+[[cpe_configurations]]
+vendor = "immer_project"
+product = "immer"
+target_software = "node.js"
+

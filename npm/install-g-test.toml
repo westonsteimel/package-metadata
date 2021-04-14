@@ -1,0 +1,7 @@
+name = "install-g-test"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "install-g-test_project"
+product = "install-g-test"
+target_software = "node.js"
+

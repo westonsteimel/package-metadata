@@ -1,0 +1,9 @@
+name = "http-file-server"
+ecosystem = "npm"
+source = "https://github.com/unclechu/node-http-file-server"
+
+[[cpe_configurations]]
+vendor = "http-file-server_project"
+product = "http-file-server"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "iter-http"
+ecosystem = "npm"
+source = "https://github.com/git-lt/iterhttp"
+
+[[cpe_configurations]]
+vendor = "iter-http_project"
+product = "iter-http"
+target_software = "node.js"
+

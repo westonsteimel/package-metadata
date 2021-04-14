@@ -1,0 +1,9 @@
+name = "ini"
+ecosystem = "npm"
+source = "https://github.com/isaacs/ini"
+
+[[cpe_configurations]]
+vendor = "ini_project"
+product = "ini"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "iobroker.js-controller"
+ecosystem = "npm"
+source = "https://github.com/ioBroker/ioBroker.js-controller"
+
+[[cpe_configurations]]
+vendor = "iobroker"
+product = "iobroker.js-controller"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "html-pages"
+ecosystem = "npm"
+source = "https://github.com/danielcardoso/html-pages"
+
+[[cpe_configurations]]
+vendor = "html-pages_project"
+product = "html-pages"
+target_software = "node.js"
+

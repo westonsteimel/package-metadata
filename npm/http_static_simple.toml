@@ -1,0 +1,9 @@
+name = "http_static_simple"
+ecosystem = "npm"
+source = "https://github.com/JaredMH/Lab6-Node.JS"
+
+[[cpe_configurations]]
+vendor = "http_static_simple_project"
+product = "http_static_simple"
+target_software = "node.js"
+

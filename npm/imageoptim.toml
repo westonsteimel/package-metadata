@@ -1,0 +1,9 @@
+name = "imageoptim"
+ecosystem = "npm"
+source = "https://github.com/bem/image-optim"
+
+[[cpe_configurations]]
+vendor = "imageoptim_project"
+product = "imageoptim"
+target_software = "node.js"
+

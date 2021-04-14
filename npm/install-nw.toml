@@ -1,0 +1,9 @@
+name = "install-nw"
+ecosystem = "npm"
+source = "https://github.com/davidmarkclements/install-nw"
+
+[[cpe_configurations]]
+vendor = "install-nw_project"
+product = "install-nw"
+target_software = "node.js"
+

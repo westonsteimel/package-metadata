@@ -1,0 +1,8 @@
+name = "i18n-node-angular"
+ecosystem = "npm"
+source = "https://github.com/oliversalzburg/i18n-node-angular"
+
+[[cpe_configurations]]
+vendor = "i18n-node-angular_project"
+product = "i18n-node-angular"
+

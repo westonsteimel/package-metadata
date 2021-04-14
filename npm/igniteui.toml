@@ -1,0 +1,8 @@
+name = "igniteui"
+ecosystem = "npm"
+deprecated = true
+[[cpe_configurations]]
+vendor = "infragistics"
+product = "igniteui"
+target_software = "node.js"
+

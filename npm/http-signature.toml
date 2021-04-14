@@ -1,0 +1,9 @@
+name = "http-signature"
+ecosystem = "npm"
+source = "https://github.com/joyent/node-http-signature"
+
+[[cpe_configurations]]
+vendor = "joyent"
+product = "http-signature"
+target_software = "node.js"
+

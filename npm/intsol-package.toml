@@ -1,0 +1,7 @@
+name = "intsol-package"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "intsol-package_project"
+product = "intsol-package"
+target_software = "node.js"
+

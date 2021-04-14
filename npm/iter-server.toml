@@ -1,0 +1,7 @@
+name = "iter-server"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "iter-server_project"
+product = "iter-server"
+target_software = "node.js"
+

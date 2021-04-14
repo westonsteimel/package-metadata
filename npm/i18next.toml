@@ -1,0 +1,9 @@
+name = "i18next"
+ecosystem = "npm"
+source = "https://github.com/i18next/i18next"
+
+[[cpe_configurations]]
+vendor = "i18next"
+product = "i18next"
+target_software = "node.js"
+

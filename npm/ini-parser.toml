@@ -1,0 +1,8 @@
+name = "ini-parser"
+ecosystem = "npm"
+source = "https://github.com/rawiroaisen/node-ini-parser"
+
+[[cpe_configurations]]
+vendor = "ini-parser_project"
+product = "ini-parser"
+

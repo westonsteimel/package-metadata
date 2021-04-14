@@ -1,0 +1,7 @@
+name = "ibapi"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "interactivebrokers"
+product = "ibapi"
+target_software = "node.js"
+

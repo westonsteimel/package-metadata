@@ -1,0 +1,9 @@
+name = "http-live-simulator"
+ecosystem = "npm"
+souce = "https://github.com/prahladyeri/http-live-simulator"
+
+[[cpe_configurations]]
+vendor = "http-live-simulator_project"
+product = "http-live-simulator"
+target_software = "node.js"
+

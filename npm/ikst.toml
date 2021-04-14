@@ -1,0 +1,10 @@
+name = "ikst"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "ikst_project"
+product = "ikst"
+target_software = "node.js"
+

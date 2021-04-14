@@ -1,0 +1,10 @@
+name = "httpsync"
+ecosystem = "npm"
+source = "https://github.com/fengmk2/node-curl"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "httpsync_project"
+product = "httpsync"
+target_software = "node.js"
+

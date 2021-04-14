@@ -1,0 +1,7 @@
+name = "http_server"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "http_server_project"
+product = "http_server"
+target_software = "node.js"
+

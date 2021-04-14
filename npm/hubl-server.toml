@@ -1,0 +1,9 @@
+name = "hubl-server"
+ecosystem = "npm"
+source = "https://github.com/disusered/hubl-server"
+
+[[cpe_configurations]]
+vendor = "hubspot"
+product = "hubl-server"
+target_software = "node.js"
+

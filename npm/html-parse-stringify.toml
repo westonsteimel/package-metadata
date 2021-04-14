@@ -1,0 +1,9 @@
+name = "html-parse-stringify"
+ecosystem = "npm"
+source = "https://github.com/henrikjoreteg/html-parse-stringify"
+
+[[cpe_configurations]]
+vendor = "html-parse-stringify_project"
+product = "html-parse-stringify"
+target_software = "node.js"
+

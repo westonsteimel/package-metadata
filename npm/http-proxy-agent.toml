@@ -1,0 +1,9 @@
+name = "http-proxy-agent"
+ecosystem = "npm"
+source = "https://github.com/TooTallNate/node-http-proxy-agent"
+
+[[cpe_configurations]]
+vendor = "http-proxy-agent_project"
+product = "http-proxy-agent"
+target_software = "node.js"
+

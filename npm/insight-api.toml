@@ -1,0 +1,8 @@
+name = "insight-api"
+ecosystem = "npm"
+source = "https://github.com/bitpay/insight-api"
+
+[[cpe_configurations]]
+vendor = "insight.bitpay"
+product = "insight-api"
+

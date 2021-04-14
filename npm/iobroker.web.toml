@@ -1,0 +1,8 @@
+name = "iobroker.web"
+ecosystem = "npm"
+source = "https://github.com/ioBroker/ioBroker.web"
+[[cpe_configurations]]
+vendor = "iobroker"
+product = "iobroker.web"
+target_software = "node.js"
+

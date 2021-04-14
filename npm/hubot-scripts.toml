@@ -1,0 +1,9 @@
+name = "hubot-scripts"
+ecosystem = "npm"
+source = "https://github.com/github/hubot-scripts"
+
+[[cpe_configurations]]
+vendor = "hubot_scripts_project"
+product = "hubot_scripts"
+target_software = "node.js"
+

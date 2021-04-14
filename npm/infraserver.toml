@@ -1,0 +1,9 @@
+name = "infraserver"
+ecosystem = "npm"
+source = "https://github.com/xuemen/infra"
+
+[[cpe_configurations]]
+vendor = "infraserver_project"
+product = "infraserver"
+target_software = "node.js"
+

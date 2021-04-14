@@ -1,0 +1,9 @@
+name = "i18n"
+ecosystem = "npm"
+source = "https://github.com/mashpie/i18n-node"
+
+[[cpe_configurations]]
+vendor = "i18n_project"
+product = "i18n"
+target_software = "node.js"
+

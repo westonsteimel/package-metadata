@@ -1,0 +1,13 @@
+name = "html-janitor"
+ecosystem = "npm"
+source = "https://github.com/guardian/html-janitor"
+
+[[cpe_configurations]]
+vendor = "html-janitor_project"
+product = "html-janitor"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "theguardian"
+product = "html-janitor"
+target_software = "node.js"

@@ -1,0 +1,9 @@
+name = "html-pdf"
+ecosystem = "npm"
+source = "https://github.com/marcbachmann/node-html-pdf"
+
+[[cpe_configurations]]
+vendor = "html-pdf_project"
+product = "html-pdf"
+target_software = "node.js"
+

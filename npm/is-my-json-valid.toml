@@ -1,0 +1,9 @@
+name = "is-my-json-valid"
+ecosystem = "npm"
+source = "https://github.com/mafintosh/is-my-json-valid"
+
+[[cpe_configurations]]
+vendor = "is_my_json_valid_project"
+product = "is_my_json_valid"
+target_software = "node.js"
+

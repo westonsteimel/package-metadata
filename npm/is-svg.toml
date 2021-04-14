@@ -1,0 +1,9 @@
+name = "is-svg"
+ecosystem = "npm"
+source = "https://github.com/sindresorhus/is-svg"
+
+[[cpe_configurations]]
+vendor = "is-svg_project"
+product = "is-svg"
+target_software = "node.js"
+
