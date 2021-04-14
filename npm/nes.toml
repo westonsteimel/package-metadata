@@ -1,0 +1,10 @@
+name = "nes"
+ecosystem = "npm"
+source = "https://github.com/hapijs/nes"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "hapijs"
+product = "nes"
+target_software = "node.js"
+

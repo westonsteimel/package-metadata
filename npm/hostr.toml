@@ -1,0 +1,9 @@
+name = "hostr"
+ecosystem = "npm"
+source = "https://github.com/henrytseng/hostr"
+
+[[cpe_configurations]]
+vendor = "hostr_project"
+product = "hostr"
+target_software = "node.js"
+

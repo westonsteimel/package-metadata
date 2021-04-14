@@ -1,0 +1,18 @@
+name = "phantomjs-lite"
+ecosystem = "npm"
+source = "https://github.com/kaizhu256/node-phantomjs-lite"
+
+[[cpe_configurations]]
+vendor = "headless-browser-lite_project"
+product = "headless-browser-lite"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "phantomjs-lite_project"
+product = "phantomjs-lite"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "phantomjs"
+product = "phantomjs-lite"
+target_software = "node.js"

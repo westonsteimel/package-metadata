@@ -1,0 +1,13 @@
+name = "handlebars"
+ecosystem = "npm"
+source = "https://github.com/handlebars-lang/handlebars.js"
+
+[[cpe_configurations]]
+vendor = "handlebars.js_project"
+product = "handlebars.js"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "handlebarsjs"
+product = "handlebars"
+target_software = "node.js"

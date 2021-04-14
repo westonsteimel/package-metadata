@@ -1,0 +1,9 @@
+name = "highlight.js"
+ecosystem = "npm"
+source = "https://github.com/highlightjs/highlight.js"
+
+[[cpe_configurations]]
+vendor = "highlightjs"
+product = "highlight.js"
+target_software = "node.js"
+

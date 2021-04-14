@@ -1,0 +1,7 @@
+name = "healthcenter"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "healthcenter_project"
+product = "healthcenter"
+target_software = "node.js"
+

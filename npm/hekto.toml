@@ -1,0 +1,8 @@
+name = "hekto"
+ecosystem = "npm"
+source = "https://github.com/tobihrbr/hekto"
+
+[[cpe_configurations]]
+vendor = "hekto_project"
+product = "hekto"
+

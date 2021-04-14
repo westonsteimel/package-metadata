@@ -1,0 +1,9 @@
+name = "haxe-dev"
+ecosystem = "npm"
+source = "https://github.com/clemos/npm-haxe"
+
+[[cpe_configurations]]
+vendor = "haxe"
+product = "haxe-dev"
+target_software = "node.js"
+

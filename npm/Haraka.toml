@@ -1,0 +1,8 @@
+name = "Haraka"
+ecosystem = "npm"
+source = "https://github.com/haraka/Haraka"
+
+[[cpe_configurations]]
+vendor = "haraka_project"
+product = "haraka"
+

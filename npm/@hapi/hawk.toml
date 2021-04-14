@@ -1,0 +1,9 @@
+name = "@hapi/hawk"
+ecosystem = "npm"
+source = "https://github.com/mozilla/hawk"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "hawk_project"
+product = "hawk"
+

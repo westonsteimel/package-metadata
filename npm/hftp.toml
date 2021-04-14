@@ -1,0 +1,7 @@
+name = "hftp"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "hftp_project"
+product = "hftp"
+target_software = "node.js"
+

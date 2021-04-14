@@ -1,0 +1,9 @@
+name = "hellojs"
+ecosystem = "npm"
+source = "https://github.com/MrSwitch/hello.js"
+
+[[cpe_configurations]]
+vendor = "hello.js_project"
+product = "hello.js"
+target_software = "node.js"
+

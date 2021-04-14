@@ -1,0 +1,9 @@
+name = "@hapi/hoek"
+ecosystem = "npm"
+source = "https://github.com/hapijs/hoek"
+
+[[cpe_configurations]]
+vendor = "hapijs"
+product = "hoek"
+target_software = "node.js"
+

@@ -1,0 +1,8 @@
+name = "highcharts"
+ecosystem = "npm"
+source = "https://github.com/highcharts/highcharts-dist"
+
+[[cpe_configurations]]
+vendor = "highcharts"
+product = "highcharts"
+

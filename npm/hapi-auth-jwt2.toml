@@ -1,0 +1,8 @@
+name = "hapi-auth-jwt2"
+ecosystem = "npm"
+source = "https://github.com/dwyl/hapi-auth-jwt2"
+
+[[cpe_configurations]]
+vendor = "dwyl"
+product = "hapi-auth-jwt2"
+

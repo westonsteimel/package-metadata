@@ -1,0 +1,9 @@
+name = "hot-formula-parser"
+ecosystem = "npm"
+source = "https://github.com/handsontable/formula-parser"
+
+[[cpe_configurations]]
+vendor = "hot-formula-parser_project"
+product = "hot-formula-parser"
+target_software = "node.js"
+

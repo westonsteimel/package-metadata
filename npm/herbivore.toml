@@ -1,0 +1,9 @@
+name = "herbivore"
+ecosystem = "npm"
+source = "https://github.com/samatt/Herbivore"
+
+[[cpe_configurations]]
+vendor = "herbivore_project"
+product = "herbivore"
+target_software = "node.js"
+

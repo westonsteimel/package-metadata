@@ -1,0 +1,8 @@
+name = "@hapi/hapi"
+ecosystem = "npm"
+source = "https://github.com/hapijs/hapi"
+
+[[cpe_configurations]]
+vendor = "hapijs"
+product = "hapi"
+

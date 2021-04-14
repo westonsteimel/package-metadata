@@ -1,0 +1,7 @@
+name = "hcbserver"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "hcbserver_project"
+product = "hcbserver"
+target_software = "node.js"
+

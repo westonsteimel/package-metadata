@@ -1,0 +1,8 @@
+name = "hawk"
+ecosystem = "npm"
+source = "https://github.com/mozilla/hawk"
+
+[[cpe_configurations]]
+vendor = "hawk_project"
+product = "hawk"
+

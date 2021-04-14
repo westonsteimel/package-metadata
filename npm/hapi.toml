@@ -1,0 +1,9 @@
+name = "hapi"
+ecosystem = "npm"
+source = "https://github.com/hapijs/hapi"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "hapijs"
+product = "hapi"
+

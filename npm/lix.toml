@@ -1,0 +1,8 @@
+name = "lix"
+ecosystem = "npm"
+source = "https://github.com/lix-pm/lix"
+
+[[cpe_configurations]]
+vendor = "lix_project"
+product = "lix"
+

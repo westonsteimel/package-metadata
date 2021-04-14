@@ -1,0 +1,10 @@
+name = "haxeshim"
+ecosystem = "npm"
+source = "https://github.com/lix-pm/haxeshim"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "haxeshim_project"
+product = "haxeshim"
+target_software = "node.js"
+

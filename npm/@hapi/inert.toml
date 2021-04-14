@@ -1,0 +1,9 @@
+name = "@hapi/inert"
+ecosystem = "npm"
+source = "https://github.com/hapijs/inert"
+
+[[cpe_configurations]]
+vendor = "hapi"
+product = "inert"
+target_software = "node.js"
+

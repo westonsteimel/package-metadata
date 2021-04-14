@@ -1,0 +1,13 @@
+name = "harp"
+ecosystem = "npm"
+source = "https://github.com/sintaxi/harp"
+
+[[cpe_configurations]]
+vendor = "harpjs"
+product = "harp"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "npmjs"
+product = "harp"
+target_software = "node.js"
