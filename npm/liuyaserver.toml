@@ -1,0 +1,7 @@
+name = "liuyaserver"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "liuyaserver_project"
+product = "liuyaserver"
+target_software = "node.js"
+

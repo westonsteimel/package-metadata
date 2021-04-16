@@ -1,0 +1,9 @@
+name = "jadedown"
+ecosystem = "npm"
+source = "https://github.com/alexyoung/jadedown"
+
+[[cpe_configurations]]
+vendor = "jadedown_project"
+product = "jadedown"
+target_software = "node.js"
+

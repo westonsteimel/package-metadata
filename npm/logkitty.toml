@@ -1,0 +1,8 @@
+name = "logkitty"
+ecosystem = "npm"
+source = "https://github.com/zamotany/logkitty"
+
+[[cpe_configurations]]
+vendor = "logkitty_project"
+product = "logkitty"
+

@@ -1,0 +1,8 @@
+name = "jointjs"
+ecosystem = "npm"
+source = "https://github.com/clientIO/joint"
+
+[[cpe_configurations]]
+vendor = "jointjs"
+product = "jointjs"
+

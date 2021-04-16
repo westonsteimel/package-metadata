@@ -1,0 +1,8 @@
+name = "jquery-file-upload"
+ecosystem = "npm"
+source = "https://github.com/hayageek/jquery-upload-file"
+
+[[cpe_configurations]]
+vendor = "hayageek"
+product = "jquery_upload_file"
+

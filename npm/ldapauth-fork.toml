@@ -1,0 +1,9 @@
+name = "ldapauth-fork"
+ecosystem = "npm"
+source = "https://github.com/vesse/node-ldapauth-fork"
+
+[[cpe_configurations]]
+vendor = "ldapauth-fork_project"
+product = "ldapauth-fork"
+target_software = "node.js"
+

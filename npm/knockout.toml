@@ -1,0 +1,8 @@
+name = "knockout"
+ecosystem = "npm"
+source = "https://github.com/knockout/knockout"
+
+[[cpe_configurations]]
+vendor = "knockoutjs"
+product = "knockout"
+

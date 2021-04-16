@@ -1,0 +1,9 @@
+name = "larvitbase-api"
+ecosystem = "npm"
+source = "https://github.com/larvit/larvitbase-api"
+
+[[cpe_configurations]]
+vendor = "larvit"
+product = "larvitbase"
+target_software = "node.js"
+

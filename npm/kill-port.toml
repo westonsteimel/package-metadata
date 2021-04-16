@@ -1,0 +1,9 @@
+name = "kill-port"
+ecosystem = "npm"
+source = "https://github.com/tiaanduplessis/kill-port"
+
+[[cpe_configurations]]
+vendor = "kill-port_project"
+product = "kill-port"
+target_software = "node.js"
+

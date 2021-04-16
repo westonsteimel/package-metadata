@@ -1,0 +1,7 @@
+name = "lessindex"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "lessindex_project"
+product = "lessindex"
+target_software = "node.js"
+

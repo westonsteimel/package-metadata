@@ -1,0 +1,9 @@
+name = "kindlegen"
+ecosystem = "npm"
+source = "https://github.com/hakatashi/kindlegen"
+
+[[cpe_configurations]]
+vendor = "hakatashi"
+product = "kindlegen"
+target_software = "node.js"
+

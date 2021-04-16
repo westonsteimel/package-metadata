@@ -1,0 +1,10 @@
+name = "lodahs"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "lodahs_project"
+product = "lodahs"
+target_software = "node.js"
+

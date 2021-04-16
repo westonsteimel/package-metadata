@@ -1,0 +1,8 @@
+name = "libyaml"
+ecosystem = "npm"
+source = "https://github.com/stephank/yaml.node"
+
+[[cpe_configurations]]
+vendor = "pyyaml"
+product = "libyaml"
+

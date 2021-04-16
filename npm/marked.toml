@@ -1,0 +1,8 @@
+name = "marked"
+ecosystem = "npm"
+source = "https://github.com/markedjs/marked"
+
+[[cpe_configurations]]
+vendor = "marked_project"
+product = "marked"
+

@@ -1,0 +1,9 @@
+name = "libsbmlsim"
+ecosystem = "npm"
+source = "https://github.com/stanley-gu/libsbmlsim"
+
+[[cpe_configurations]]
+vendor = "libsbmlsim_project"
+product = "libsbmlsim"
+target_software = "node.js"
+

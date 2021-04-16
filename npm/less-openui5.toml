@@ -1,0 +1,9 @@
+name = "less-openui5"
+ecosystem = "npm"
+source = "https://github.com/SAP/less-openui5"
+
+[[cpe_configurations]]
+vendor = "less-openui5_project"
+product = "less-openui5"
+target_software = "node.js"
+

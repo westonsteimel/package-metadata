@@ -1,0 +1,7 @@
+name = "jstestdriver"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "jstestdriver_project"
+product = "jstestdriver"
+target_software = "node.js"
+

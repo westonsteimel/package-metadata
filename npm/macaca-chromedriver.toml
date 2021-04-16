@@ -1,0 +1,9 @@
+name = "macaca-chromedriver"
+ecosystem = "npm"
+source = "https://github.com/macacajs/macaca-chromedriver"
+
+[[cpe_configurations]]
+vendor = "macacajs"
+product = "macaca-chromedriver"
+target_software = "node.js"
+

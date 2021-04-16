@@ -1,0 +1,8 @@
+name = "jquery"
+ecosystem = "npm"
+source = "https://github.com/jquery/jquery"
+
+[[cpe_configurations]]
+vendor = "jquery"
+product = "jquery"
+

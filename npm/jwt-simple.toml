@@ -1,0 +1,9 @@
+name = "jwt-simple"
+ecosystem = "npm"
+source = "https://github.com/hokaccha/node-jwt-simple"
+
+[[cpe_configurations]]
+vendor = "jwt-simple_project"
+product = "jwt-simple"
+target_software = "node.js"
+

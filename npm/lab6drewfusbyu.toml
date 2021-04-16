@@ -1,0 +1,9 @@
+name = "lab6drewfusbyu"
+ecosystem = "npm"
+source = "https://github.com/drewfus/Lab6"
+
+[[cpe_configurations]]
+vendor = "lab6drewfusbyu_project"
+product = "lab6drewfusbyu"
+target_software = "node.js"
+

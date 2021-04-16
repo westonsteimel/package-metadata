@@ -1,0 +1,9 @@
+name = "jikes"
+ecosystem = "npm"
+source = "https://github.com/hypesystem/jikes"
+
+[[cpe_configurations]]
+vendor = "jikes_project"
+product = "jikes"
+target_software = "node.js"
+

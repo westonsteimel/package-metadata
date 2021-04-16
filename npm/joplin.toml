@@ -1,0 +1,8 @@
+name = "joplin"
+ecosystem = "npm"
+source = "https://github.com/laurent22/joplin"
+
+[[cpe_configurations]]
+vendor = "joplin_project"
+product = "joplin"
+

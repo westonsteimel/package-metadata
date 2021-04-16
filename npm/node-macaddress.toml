@@ -1,0 +1,10 @@
+name = "node-macaddress"
+ecosystem = "npm"
+source = "https://github.com/scravy/node-macaddress"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "node-macaddress_project"
+product = "node-macaddress"
+target_software = "node.js"
+

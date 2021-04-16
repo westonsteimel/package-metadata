@@ -1,0 +1,9 @@
+name = "libxl"
+ecosystem = "npm"
+source = "https://github.com/DirtyHairy/node-libxl"
+
+[[cpe_configurations]]
+vendor = "libxl_project"
+product = "libxl"
+target_software = "node.js"
+

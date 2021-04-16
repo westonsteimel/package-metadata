@@ -1,0 +1,9 @@
+name = "js-given"
+ecosystem = "npm"
+source = "https://github.com/jsGiven/jsGiven"
+
+[[cpe_configurations]]
+vendor = "js-given_project"
+product = "js-given"
+target_software = "node.js"
+

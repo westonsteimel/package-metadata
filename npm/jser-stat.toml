@@ -1,0 +1,9 @@
+name = "jser-stat"
+ecosystem = "npm"
+source = "https://github.com/jser/stat-js"
+
+[[cpe_configurations]]
+vendor = "jser-stat_project"
+product = "jser-stat"
+target_software = "node.js"
+

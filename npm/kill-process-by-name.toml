@@ -1,0 +1,7 @@
+name = "kill-process-by-name"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "kill-process-by-name_project"
+product = "kill-process-by-name"
+target_software = "node.js"
+

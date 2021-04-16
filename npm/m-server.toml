@@ -1,0 +1,13 @@
+name = "m-server"
+ecosystem = "npm"
+source = "https://github.com/nunnly/m-server"
+
+[[cpe_configurations]]
+vendor = "m-server_project"
+product = "m-server"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "npmjs"
+product = "m-server"
+target_software = "node.js"

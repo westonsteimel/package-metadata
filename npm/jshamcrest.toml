@@ -1,0 +1,9 @@
+name = "jshamcrest"
+ecosystem = "npm"
+source = "https://github.com/danielfm/jshamcrest"
+
+[[cpe_configurations]]
+vendor = "jshamcrest_project"
+product = "jshamcrest"
+target_software = "node.js"
+

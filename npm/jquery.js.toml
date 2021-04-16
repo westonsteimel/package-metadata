@@ -1,0 +1,10 @@
+name = "jquery.js"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "jquery.js_project"
+product = "jquery.js"
+target_software = "node.js"
+

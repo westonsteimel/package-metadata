@@ -1,0 +1,9 @@
+name = "mariadb"
+ecosystem = "npm"
+source = "https://github.com/mariadb-corporation/mariadb-connector-nodejs"
+
+[[cpe_configurations]]
+vendor = "mariadb"
+product = "mariadb"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "knightjs"
+ecosystem = "npm"
+source = "https://github.com/skyang/knight"
+
+[[cpe_configurations]]
+vendor = "knight_project"
+product = "knight"
+target_software = "node.js"
+

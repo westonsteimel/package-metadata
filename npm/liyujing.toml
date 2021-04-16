@@ -1,0 +1,7 @@
+name = "liyujing"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "liyujing_project"
+product = "liyujing"
+target_software = "node.js"
+

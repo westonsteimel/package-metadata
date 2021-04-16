@@ -1,0 +1,9 @@
+name = "libnotify"
+ecosystem = "npm"
+source = "https://github.com/mytrile/node-libnotify"
+
+[[cpe_configurations]]
+vendor = "libnotify_project"
+product = "libnotify"
+target_software = "node.js"
+

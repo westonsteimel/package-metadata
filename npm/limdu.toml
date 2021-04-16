@@ -1,0 +1,8 @@
+name = "limdu"
+ecosystem = "npm"
+source = "https://github.com/erelsgl/limdu"
+
+[[cpe_configurations]]
+vendor = "limdu_project"
+product = "limdu"
+

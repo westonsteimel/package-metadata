@@ -1,0 +1,8 @@
+name = "jquery-validation"
+ecosystem = "npm"
+source = "https://github.com/jquery-validation/jquery-validation"
+
+[[cpe_configurations]]
+vendor = "jqueryvalidation"
+product = "jquery_validation"
+target_software = "node.js"

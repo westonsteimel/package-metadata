@@ -1,0 +1,7 @@
+name = "looppake"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "looppake_project"
+product = "looppake"
+target_software = "node.js"
+

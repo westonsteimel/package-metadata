@@ -1,0 +1,11 @@
+name = "jquery-ui"
+ecosystem = "npm"
+source = "https://github.com/jquery/jquery-ui"
+
+[[cpe_configurations]]
+vendor = "jquery"
+product = "jquery_ui"
+
+[[cpe_configurations]]
+vendor = "jqueryui"
+product = "jquery_ui"

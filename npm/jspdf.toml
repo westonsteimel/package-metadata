@@ -1,0 +1,9 @@
+name = "jspdf"
+ecosystem = "npm"
+source = "https://github.com/MrRio/jsPDF"
+
+[[cpe_configurations]]
+vendor = "parall"
+product = "jspdf"
+target_software = "node.js"
+

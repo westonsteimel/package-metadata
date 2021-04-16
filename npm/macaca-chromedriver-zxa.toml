@@ -1,0 +1,9 @@
+name = "macaca-chromedriver-zxa"
+ecosystem = "npm"
+source = "https://github.com/xudafeng/macaca-chromedriver"
+
+[[cpe_configurations]]
+vendor = "macaca-chromedriver-zxa_project"
+product = "macaca-chromedriver-zxa"
+target_software = "node.js"
+

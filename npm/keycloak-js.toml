@@ -1,0 +1,7 @@
+name = "keycloak-js"
+ecosystem = "npm"
+source = "https://github.com/keycloak/keycloak"
+
+[[cpe_configurations]]
+vendor = "keycloak"
+product = "keycloak-nodejs-auth-utils"

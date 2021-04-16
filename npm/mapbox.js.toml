@@ -1,0 +1,11 @@
+name = "mapbox.js"
+ecosystem = "npm"
+source = "https://github.com/mapbox/mapbox.js"
+
+[[cpe_configurations]]
+vendor = "mapbox_project"
+product = "mapbox"
+
+[[cpe_configurations]]
+vendor = "mapbox"
+product = "mapbox.js"

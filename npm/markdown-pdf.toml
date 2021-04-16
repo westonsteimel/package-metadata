@@ -1,0 +1,9 @@
+name = "markdown-pdf"
+ecosystem = "npm"
+source = "https://github.com/alanshaw/markdown-pdf"
+
+[[cpe_configurations]]
+vendor = "markdown-pdf_project"
+product = "markdown-pdf"
+target_software = "node.js"
+

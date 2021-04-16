@@ -1,0 +1,9 @@
+name = "madge"
+ecosystem = "npm"
+source = "https://github.com/pahen/madge"
+
+[[cpe_configurations]]
+vendor = "madge_project"
+product = "madge"
+target_software = "node.js"
+

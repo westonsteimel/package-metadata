@@ -1,0 +1,9 @@
+name = "list-n-stream"
+ecosystem = "npm"
+source = "https://github.com/KoryNunn/list-n-stream"
+
+[[cpe_configurations]]
+vendor = "list-n-stream_project"
+product = "list-n-stream"
+target_software = "node.js"
+

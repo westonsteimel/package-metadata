@@ -1,0 +1,9 @@
+name = "just-extend"
+ecosystem = "npm"
+source = "https://github.com/angus-c/just"
+
+[[cpe_configurations]]
+vendor = "just-extend_project"
+product = "just-extend"
+target_software = "node.js"
+

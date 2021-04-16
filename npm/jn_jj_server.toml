@@ -1,0 +1,7 @@
+name = "jn_jj_server"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "jn_jj_server_project"
+product = "jn_jj_server"
+target_software = "node.js"
+

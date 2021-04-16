@@ -1,0 +1,8 @@
+name = "kind-of"
+ecosystem = "npm"
+source = "https://github.com/jonschlinkert/kind-of"
+
+[[cpe_configurations]]
+vendor = "kind-of_project"
+product = "kind-of"
+

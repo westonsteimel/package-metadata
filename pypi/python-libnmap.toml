@@ -1,5 +1,9 @@
 name = "python-libnmap"
 ecosystem = "pypi"
+source = "https://github.com/savon-noir/python-libnmap"
+
+# CPE cpe:2.3:a:libnmap_project:libnmap:*:*:*:*:*:*:*:* refers to the libnmap npm package
+
 [[cpe_configurations]]
 vendor = "libnmap"
 product = "libnmap"

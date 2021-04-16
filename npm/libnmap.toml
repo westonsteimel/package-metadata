@@ -1,0 +1,11 @@
+name = "libnmap"
+ecosystem = "npm"
+source = "https://github.com/jas-/node-libnmap"
+
+# CPE cpe:2.3:a:libnmap:libnmap:*:*:*:*:*:*:*:* refers to the python-libnmap pypi package
+
+[[cpe_configurations]]
+vendor = "libnmap_project"
+product = "libnmap"
+target_software = "node.js"
+

@@ -1,0 +1,8 @@
+name = "js-yaml"
+ecosystem = "npm"
+source = "https://github.com/nodeca/js-yaml"
+
+[[cpe_configurations]]
+vendor = "js-yaml_project"
+product = "js-yaml"
+

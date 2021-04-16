@@ -1,0 +1,9 @@
+name = "jdf-sass"
+ecosystem = "npm"
+source = "https://github.com/jdf2e/jdf-sass"
+
+[[cpe_configurations]]
+vendor = "jdf-sass_project"
+product = "jdf-sass"
+target_software = "node.js"
+

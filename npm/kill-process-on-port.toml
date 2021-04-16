@@ -1,0 +1,9 @@
+name = "kill-process-on-port"
+ecosystem = "npm"
+source = "https://github.com/radarsu/kill-process-on-port"
+
+[[cpe_configurations]]
+vendor = "kill-process-on-port_project"
+product = "kill-process-on-port"
+target_software = "node.js"
+

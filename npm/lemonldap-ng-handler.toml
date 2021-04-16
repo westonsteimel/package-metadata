@@ -1,0 +1,12 @@
+name = "lemonldap-ng-handler"
+ecosystem = "npm"
+source = "https://github.com/LemonLDAPNG/node-lemonldap-ng-handler"
+
+[[cpe_configurations]]
+vendor = "lemonldap-ng"
+product = "lemonldap\\"
+
+[[cpe_configurations]]
+vendor = "lemonldap-ng"
+product = "lemonldap\\"
+

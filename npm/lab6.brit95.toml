@@ -1,0 +1,9 @@
+name = "lab6.brit95"
+ecosystem = "npm"
+source = "https://github.com/brit95/lab6"
+
+[[cpe_configurations]]
+vendor = "lab6.brit95_project"
+product = "lab6.brit95"
+target_software = "node.js"
+

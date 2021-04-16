@@ -1,0 +1,9 @@
+name = "knex"
+ecosystem = "npm"
+source = "https://github.com/knex/knex"
+
+[[cpe_configurations]]
+vendor = "knexjs"
+product = "knex"
+target_software = "node.js"
+

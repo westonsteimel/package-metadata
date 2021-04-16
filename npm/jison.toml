@@ -1,0 +1,9 @@
+name = "jison"
+ecosystem = "npm"
+source = "https://github.com/zaach/jison"
+
+[[cpe_configurations]]
+vendor = "jison_project"
+product = "jison"
+target_software = "node.js"
+

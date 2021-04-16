@@ -1,0 +1,9 @@
+name = "localhost-now"
+ecosystem = "npm"
+source = "https://github.com/DCKT/localhost-now"
+
+[[cpe_configurations]]
+vendor = "localhost-now_project"
+product = "localhost-now"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "keystone"
+ecosystem = "npm"
+source = "https://github.com/keystonejs/keystone"
+
+[[cpe_configurations]]
+vendor = "keystonejs"
+product = "keystone"
+target_software = "node.js"
+

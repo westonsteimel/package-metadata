@@ -1,0 +1,9 @@
+name = "libsbml"
+ecosystem = "npm"
+source = "https://github.com/stanley-gu/libsbml"
+
+[[cpe_configurations]]
+vendor = "libsbml_project"
+product = "libsbml"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "marionette-socket-host"
+ecosystem = "npm"
+source = "https://github.com/mozilla-b2g/marionette-socket-host"
+
+[[cpe_configurations]]
+vendor = "marionette-socket-host_project"
+product = "marionette-socket-host"
+target_software = "node.js"
+

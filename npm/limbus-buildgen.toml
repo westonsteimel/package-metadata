@@ -1,0 +1,9 @@
+name = "limbus-buildgen"
+ecosystem = "npm"
+source = "https://github.com/redien/limbus-buildgen"
+
+[[cpe_configurations]]
+vendor = "limbus-buildgen_project"
+product = "limbus-buildgen"
+target_software = "node.js"
+

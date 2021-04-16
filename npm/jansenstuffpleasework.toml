@@ -1,0 +1,9 @@
+name = "jansenstuffpleasework"
+ecosystem = "npm"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "jansenstuffpleasework_project"
+product = "jansenstuffpleasework"
+target_software = "node.js"
+

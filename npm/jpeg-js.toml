@@ -1,0 +1,9 @@
+name = "jpeg-js"
+ecosystem = "npm"
+source = "https://github.com/eugeneware/jpeg-js"
+
+[[cpe_configurations]]
+vendor = "jpeg-js_project"
+product = "jpeg-js"
+target_software = "node.js"
+

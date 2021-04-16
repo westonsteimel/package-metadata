@@ -1,0 +1,9 @@
+name = "jsonwebtoken"
+ecosystem = "npm"
+source = "https://github.com/auth0/node-jsonwebtoken"
+
+[[cpe_configurations]]
+vendor = "auth0"
+product = "jsonwebtoken"
+target_software = "node.js"
+
