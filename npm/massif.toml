@@ -1,0 +1,9 @@
+name = "massif"
+ecosystem = "npm"
+source = "https://github.com/gaelb/massif"
+
+[[cpe_configurations]]
+vendor = "massif_project"
+product = "massif"
+target_software = "node.js"
+

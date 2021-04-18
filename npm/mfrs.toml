@@ -1,0 +1,7 @@
+name = "mfrs"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "mfrs_project"
+product = "mfrs"
+target_software = "node.js"
+

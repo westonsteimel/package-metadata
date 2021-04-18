@@ -1,0 +1,8 @@
+name = "materialize-css"
+ecosystem = "npm"
+source = "https://github.com/Dogfalo/materialize"
+
+[[cpe_configurations]]
+vendor = "materializecss"
+product = "materialize"
+

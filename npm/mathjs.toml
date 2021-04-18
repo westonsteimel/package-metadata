@@ -1,0 +1,16 @@
+name = "mathjs"
+ecosystem = "npm"
+source = "https://github.com/josdejong/mathjs"
+
+[[cpe_configurations]]
+vendor = "mathjs"
+product = "math.js"
+
+[[cpe_configurations]]
+vendor = "mathjs"
+product = "mathjs"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "mathjs_project"
+product = "mathjs"

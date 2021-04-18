@@ -1,0 +1,9 @@
+name = "merge-deep"
+ecosystem = "npm"
+source = "https://github.com/jonschlinkert/merge-deep"
+
+[[cpe_configurations]]
+vendor = "merge-deep_project"
+product = "merge-deep"
+target_software = "node.js"
+

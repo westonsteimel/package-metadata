@@ -1,0 +1,9 @@
+name = "matrix-react-sdk"
+ecosystem = "npm"
+source = "https://github.com/matrix-org/matrix-react-sdk"
+
+[[cpe_configurations]]
+vendor = "matrix-react-sdk_project"
+product = "matrix-react-sdk"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "merge-options"
+ecosystem = "npm"
+source = "https://github.com/schnittstabil/merge-options"
+
+[[cpe_configurations]]
+vendor = "merge-options_project"
+product = "merge-options"
+target_software = "node.js"
+

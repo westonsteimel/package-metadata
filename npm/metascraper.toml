@@ -1,0 +1,9 @@
+name = "metascraper"
+ecosystem = "npm"
+source = "https://github.com/microlinkhq/metascraper"
+
+[[cpe_configurations]]
+vendor = "metascraper_project"
+product = "metascraper"
+target_software = "node.js"
+

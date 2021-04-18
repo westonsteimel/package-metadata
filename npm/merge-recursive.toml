@@ -1,0 +1,9 @@
+name = "merge-recursive"
+ecosystem = "npm"
+source = "https://github.com/UmbraEngineering/node-merge-recursive"
+
+[[cpe_configurations]]
+vendor = "umbraengineering"
+product = "merge-recursive"
+target_software = "node.js"
+

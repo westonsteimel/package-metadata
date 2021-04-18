@@ -1,0 +1,9 @@
+name = "method-override"
+ecosystem = "npm"
+source = "https://github.com/expressjs/method-override"
+
+[[cpe_configurations]]
+vendor = "expressjs"
+product = "method-override"
+target_software = "node.js"
+

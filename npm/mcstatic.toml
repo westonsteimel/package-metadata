@@ -1,0 +1,9 @@
+name = "mcstatic"
+ecosystem = "npm"
+source = "https://github.com/tjchaplin/mcstatic"
+
+[[cpe_configurations]]
+vendor = "mcstatic_project"
+product = "mcstatic"
+target_software = "node.js"
+

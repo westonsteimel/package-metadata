@@ -1,0 +1,9 @@
+name = "mime"
+ecosystem = "npm"
+source = "https://github.com/broofa/mime"
+
+[[cpe_configurations]]
+vendor = "mime_project"
+product = "mime"
+target_software = "node.js"
+

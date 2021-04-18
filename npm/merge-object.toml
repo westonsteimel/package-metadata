@@ -1,0 +1,9 @@
+name = "merge-object"
+ecosystem = "npm"
+source = "https://github.com/faizalpribadi/merge-object"
+
+[[cpe_configurations]]
+vendor = "merge-object_project"
+product = "merge-object"
+target_software = "node.js"
+

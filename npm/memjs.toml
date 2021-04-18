@@ -1,0 +1,9 @@
+name = "memjs"
+ecosystem = "npm"
+source = "https://github.com/memcachier/memjs"
+
+[[cpe_configurations]]
+vendor = "memcachier"
+product = "memjs"
+target_software = "node.js"
+

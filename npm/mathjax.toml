@@ -1,0 +1,8 @@
+name = "mathjax"
+ecosystem = "npm"
+source = "https://github.com/mathjax/MathJax"
+
+[[cpe_configurations]]
+vendor = "mathjax"
+product = "mathjax"
+

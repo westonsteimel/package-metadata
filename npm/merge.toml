@@ -1,0 +1,9 @@
+name = "merge"
+ecosystem = "npm"
+source = "https://github.com/yeikos/js.merge"
+
+[[cpe_configurations]]
+vendor = "merge_project"
+product = "merge"
+target_software = "node.js"
+

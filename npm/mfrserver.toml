@@ -1,0 +1,7 @@
+name = "mfrserver"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "mfrserver_project"
+product = "mfrserver"
+target_software = "node.js"
+
