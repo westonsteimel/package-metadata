@@ -1,0 +1,9 @@
+name = "node-prompt-here"
+ecosystem = "npm"
+source = "https://github.com/s-a/node-prompt-here"
+
+[[cpe_configurations]]
+vendor = "node-prompt-here_project"
+product = "node-prompt-here"
+target_software = "node.js"
+

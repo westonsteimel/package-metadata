@@ -1,0 +1,9 @@
+name = "mixin-deep"
+ecosystem = "npm"
+source = "https://github.com/jonschlinkert/mixin-deep"
+
+[[cpe_configurations]]
+vendor = "mixin-deep_project"
+product = "mixin-deep"
+target_software = "node.js"
+

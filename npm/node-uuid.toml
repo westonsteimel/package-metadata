@@ -1,0 +1,10 @@
+name = "node-uuid"
+ecosystem = "npm"
+source = "https://github.com/broofa/node-uuid"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "node-uuid_project"
+product = "node-uuid"
+target_software = "node.js"
+

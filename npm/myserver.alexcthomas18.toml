@@ -1,0 +1,9 @@
+name = "myserver.alexcthomas18"
+ecosystem = "npm"
+source = "https://github.com/alexcthomas18/amazonServer"
+
+[[cpe_configurations]]
+vendor = "myserver.alexcthomas18_project"
+product = "myserver.alexcthomas18"
+target_software = "node.js"
+

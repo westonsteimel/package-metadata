@@ -1,0 +1,9 @@
+name = "mosca"
+ecosystem = "npm"
+source = "https://github.com/mcollina/mosca"
+
+[[cpe_configurations]]
+vendor = "mosca_project"
+product = "mosca"
+target_software = "node.js"
+

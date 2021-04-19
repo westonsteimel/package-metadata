@@ -1,0 +1,11 @@
+name = "msrcrypto"
+ecosystem = "npm"
+source = "https://github.com/kevlened/msrCrypto"
+
+# This appears to be a fork of the original at https://www.microsoft.com/en-us/download/details.aspx?id=52439; 
+# however, I'm leaving this CPE mapping for now 
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "research_javascript_cryptography_library"
+

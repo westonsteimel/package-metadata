@@ -1,0 +1,9 @@
+name = "node-serialize"
+ecosystem = "npm"
+source = "https://github.com/luin/serialize"
+
+[[cpe_configurations]]
+vendor = "node-serialize_project"
+product = "node-serialize"
+target_software = "node.js"
+

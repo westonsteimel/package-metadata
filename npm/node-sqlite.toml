@@ -1,0 +1,10 @@
+name = "node-sqlite"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "node-sqlite_project"
+product = "node-sqlite"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "mongo-express"
+ecosystem = "npm"
+source = "https://github.com/mongo-express/mongo-express"
+
+[[cpe_configurations]]
+vendor = "mongo-express_project"
+product = "mongo-express"
+target_software = "node.js"
+

@@ -1,0 +1,13 @@
+name = "moment"
+ecosystem = "npm"
+source = "https://github.com/moment/moment"
+
+[[cpe_configurations]]
+vendor = "moment_project"
+product = "moment"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "momentjs"
+product = "moment"
+target_software = "node.js"

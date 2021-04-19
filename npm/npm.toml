@@ -1,0 +1,16 @@
+name = "npm"
+ecosystem = "npm"
+source = "https://github.com/npm/cli"
+
+[[cpe_configurations]]
+vendor = "cli_project"
+product = "cli"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "npm"
+product = "npm"
+
+[[cpe_configurations]]
+vendor = "npmjs"
+product = "npm"

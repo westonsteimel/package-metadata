@@ -1,0 +1,10 @@
+name = "mongodb-instance"
+ecosystem = "npm"
+source = "https://github.com/Janpot/mongodb-instance"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "mongodb-instance_project"
+product = "mongodb-instance"
+target_software = "node.js"
+

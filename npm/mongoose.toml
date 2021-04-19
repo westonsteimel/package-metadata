@@ -1,0 +1,9 @@
+name = "mongoose"
+ecosystem = "npm"
+source = "https://github.com/Automattic/mongoose"
+
+[[cpe_configurations]]
+vendor = "mongoosejs"
+product = "mongoose"
+target_software = "node.js"
+

@@ -1,0 +1,12 @@
+name = "mysql"
+ecosystem = "npm"
+source = "https://github.com/mysqljs/mysql"
+
+[[cpe_configurations]]
+vendor = "mysqljs"
+product = "mysql_node_module"
+
+[[cpe_configurations]]
+vendor = "mysql_project"
+product = "mysql"
+target_software = "node.js"

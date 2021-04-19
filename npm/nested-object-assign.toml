@@ -1,0 +1,9 @@
+name = "nested-object-assign"
+ecosystem = "npm"
+source = "https://github.com/Geta/NestedObjectAssign"
+
+[[cpe_configurations]]
+vendor = "getadigital"
+product = "nested-object-assign"
+target_software = "node.js"
+

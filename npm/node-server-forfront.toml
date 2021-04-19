@@ -1,0 +1,9 @@
+name = "node-server-forfront"
+ecosystem = "npm"
+source = "https://github.com/wangcaifeng/node-server-forfront"
+
+[[cpe_configurations]]
+vendor = "node-server-forfront_project"
+product = "node-server-forfront"
+target_software = "node.js"
+

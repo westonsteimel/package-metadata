@@ -1,0 +1,8 @@
+name = "nodebb"
+ecosystem = "npm"
+source = "https://github.com/NodeBB/NodeBB"
+
+[[cpe_configurations]]
+vendor = "nodebb"
+product = "nodebb"
+

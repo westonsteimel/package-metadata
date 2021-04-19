@@ -1,0 +1,9 @@
+name = "mockserve"
+ecosystem = "npm"
+source = "https://github.com/peterhel/mockserve"
+
+[[cpe_configurations]]
+vendor = "mockserve_project"
+product = "mockserve"
+target_software = "node.js"
+

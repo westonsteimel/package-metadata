@@ -1,0 +1,10 @@
+name = "node-sass"
+ecosystem = "npm"
+source = "https://github.com/sass/node-sass"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "node-sass_project"
+product = "node-sass"
+target_software = "node.js"
+

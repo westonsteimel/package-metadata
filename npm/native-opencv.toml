@@ -1,0 +1,9 @@
+name = "native-opencv"
+ecosystem = "npm"
+source = "https://github.com/BloodAxe/npm-native-opencv"
+
+[[cpe_configurations]]
+vendor = "native-opencv_project"
+product = "native-opencv"
+target_software = "node.js"
+

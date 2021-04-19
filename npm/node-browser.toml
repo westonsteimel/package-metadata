@@ -1,0 +1,9 @@
+name = "node-browser"
+ecosystem = "npm"
+source = "https://github.com/imsobear/node-browser"
+
+[[cpe_configurations]]
+vendor = "node-browser_project"
+product = "node-browser"
+target_software = "node.js"
+

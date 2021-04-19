@@ -1,0 +1,9 @@
+name = "mystem-fix"
+ecosystem = "npm"
+source = "https://github.com/pulpiks/node-mystem"
+
+[[cpe_configurations]]
+vendor = "mystem-fix_project"
+product = "mystem-fix"
+target_software = "node.js"
+

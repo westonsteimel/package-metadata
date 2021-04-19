@@ -1,0 +1,9 @@
+name = "node-jose"
+ecosystem = "npm"
+source = "https://github.com/cisco/node-jose"
+
+[[cpe_configurations]]
+vendor = "cisco"
+product = "node-jose"
+target_software = "node.js"
+

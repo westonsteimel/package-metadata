@@ -1,0 +1,8 @@
+name = "nunjucks"
+ecosystem = "npm"
+source = "https://github.com/mozilla/nunjucks"
+
+[[cpe_configurations]]
+vendor = "mozilla"
+product = "nunjucks"
+

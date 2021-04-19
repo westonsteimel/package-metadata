@@ -1,0 +1,8 @@
+name = "mversion"
+ecosystem = "npm"
+source = "https://github.com/mikaelbr/mversion"
+
+[[cpe_configurations]]
+vendor = "mversion_project"
+product = "mversion"
+

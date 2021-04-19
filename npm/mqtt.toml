@@ -1,0 +1,10 @@
+name = "mqtt"
+ecosystem = "npm"
+source = "https://github.com/mqttjs/MQTT.js"
+
+[[cpe_configurations]]
+vendor = "mqtt.js_project"
+product = "mqtt.js"
+target_software = "node.js"
+
+# cpe:2.3:a:mqtt:mqtt:*:*:*:*:*:*:*:* refers to the MQTT protocol, not this npm package

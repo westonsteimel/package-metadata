@@ -1,0 +1,11 @@
+name = "serve"
+ecosystem = "npm"
+source = "https://github.com/vercel/serve"
+
+[[cpe_configurations]]
+vendor = "zeit"
+product = "serve"
+
+[[cpe_configurations]]
+vendor = "vercel"
+product = "serve"

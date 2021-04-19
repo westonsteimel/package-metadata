@@ -1,0 +1,10 @@
+name = "node-opencv"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "node-opencv_project"
+product = "node-opencv"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "node-thulac"
+ecosystem = "npm"
+source = "https://github.com/GeoHey-Team/node-thulac"
+
+[[cpe_configurations]]
+vendor = "geohey"
+product = "node-thulac"
+target_software = "node.js"
+

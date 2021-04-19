@@ -1,0 +1,9 @@
+name = "mystem3"
+ecosystem = "npm"
+source = "https://github.com/koorchik/node-mystem3"
+
+[[cpe_configurations]]
+vendor = "mystem3_project"
+product = "mystem3"
+target_software = "node.js"
+

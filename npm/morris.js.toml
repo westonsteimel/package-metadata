@@ -1,0 +1,9 @@
+name = "morris.js"
+ecosystem = "npm"
+source = "https://github.com/morrisjs/morris.js"
+
+[[cpe_configurations]]
+vendor = "morris.js_project"
+product = "morris.js"
+target_software = "node.js"
+

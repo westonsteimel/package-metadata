@@ -1,0 +1,9 @@
+name = "min-http-server"
+ecosystem = "npm"
+source = "https://github.com/zhanyuzhang/min-http-server"
+
+[[cpe_configurations]]
+vendor = "min-http-server_project"
+product = "min-http-server"
+target_software = "node.js"
+

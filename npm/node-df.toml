@@ -1,0 +1,9 @@
+name = "node-df"
+ecosystem = "npm"
+source = "https://github.com/adriano-di-giovanni/node-df"
+
+[[cpe_configurations]]
+vendor = "node-df_project"
+product = "node-df"
+target_software = "node.js"
+

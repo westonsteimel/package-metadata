@@ -1,0 +1,9 @@
+name = "node-red"
+ecosystem = "npm"
+source = "https://github.com/node-red/node-red"
+
+[[cpe_configurations]]
+vendor = "nodered"
+product = "node-red"
+target_software = "node.js"
+

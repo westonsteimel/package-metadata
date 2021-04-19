@@ -1,0 +1,9 @@
+name = "node-fetch"
+ecosystem = "npm"
+source = "https://github.com/bitinn/node-fetch"
+
+[[cpe_configurations]]
+vendor = "node-fetch_project"
+product = "node-fetch"
+target_software = "node.js"
+

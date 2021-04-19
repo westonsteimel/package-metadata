@@ -1,0 +1,9 @@
+name = "msgpack5"
+ecosystem = "npm"
+source = "https://github.com/mcollina/msgpack5"
+
+[[cpe_configurations]]
+vendor = "msgpack5_project"
+product = "msgpack5"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "nodeschnaps"
+ecosystem = "npm"
+source = "https://github.com/killmag10/nodeschnaps"
+
+[[cpe_configurations]]
+vendor = "nodeschnaps_project"
+product = "nodeschnaps"
+target_software = "node.js"
+

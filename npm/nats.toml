@@ -1,0 +1,9 @@
+name = "nats"
+ecosystem = "npm"
+source = "https://github.com/nats-io/nats.js"
+
+[[cpe_configurations]]
+vendor = "linuxfoundation"
+product = "nats.js"
+target_software = "node.js"
+

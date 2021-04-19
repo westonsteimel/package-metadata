@@ -1,0 +1,10 @@
+name = "node-opensl"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "node-opensl_project"
+product = "node-opensl"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "mqtt-packet"
+ecosystem = "npm"
+source = "https://github.com/mqttjs/mqtt-packet"
+
+[[cpe_configurations]]
+vendor = "mqtt-packet_project"
+product = "mqtt-packet"
+target_software = "node.js"
+

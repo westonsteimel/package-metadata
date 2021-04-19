@@ -1,0 +1,10 @@
+name = "mssql-node"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "mssql-node_project"
+product = "mssql-node"
+target_software = "node.js"
+

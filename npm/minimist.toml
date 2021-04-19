@@ -1,0 +1,9 @@
+name = "minimist"
+ecosystem = "npm"
+source = "https://github.com/substack/minimist"
+
+[[cpe_configurations]]
+vendor = "substack"
+product = "minimist"
+target_software = "node.js"
+

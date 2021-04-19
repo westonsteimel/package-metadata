@@ -1,0 +1,9 @@
+name = "mquery"
+ecosystem = "npm"
+source = "https://github.com/aheckmann/mquery"
+
+[[cpe_configurations]]
+vendor = "mquery_project"
+product = "mquery"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "mustache"
+ecosystem = "npm"
+source = "https://github.com/janl/mustache.js"
+
+[[cpe_configurations]]
+vendor = "mustache.js_project"
+product = "mustache.js"
+target_software = "node.js"
+

@@ -1,0 +1,10 @@
+name = "node-printer"
+ecosystem = "npm"
+source = "https://github.com/alepee/node-printer"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "node-printer_project"
+product = "node-printer"
+target_software = "node.js"
+

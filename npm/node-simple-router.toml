@@ -1,0 +1,9 @@
+name = "node-simple-router"
+ecosystem = "npm"
+source = "https://github.com/sandy98/node-simple-router"
+
+[[cpe_configurations]]
+vendor = "node-simple-router"
+product = "node-simple-router"
+target_software = "node.js"
+

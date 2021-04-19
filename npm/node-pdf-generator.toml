@@ -1,0 +1,9 @@
+name = "node-pdf-generator"
+ecosystem = "npm"
+source = "https://github.com/darrenhaken/node-pdf-generator"
+
+[[cpe_configurations]]
+vendor = "node-pdf-generator_project"
+product = "node-pdf-generator"
+target_software = "node.js"
+

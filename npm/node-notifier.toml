@@ -1,0 +1,9 @@
+name = "node-notifier"
+ecosystem = "npm"
+source = "https://github.com/mikaelbr/node-notifier"
+
+[[cpe_configurations]]
+vendor = "node-notifier_project"
+product = "node-notifier"
+target_software = "node.js"
+

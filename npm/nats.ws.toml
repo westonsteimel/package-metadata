@@ -1,0 +1,8 @@
+name = "nats.ws"
+ecosystem = "npm"
+source = "https://github.com/nats-io/nats.ws"
+
+[[cpe_configurations]]
+vendor = "linuxfoundation"
+product = "nats.ws"
+

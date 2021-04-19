@@ -1,0 +1,9 @@
+name = "npm-test-sqlite3-trunk"
+ecosystem = "npm"
+source = "https://github.com/mapbox/node-sqlite3"
+
+[[cpe_configurations]]
+vendor = "mapbox"
+product = "npm-test-sqlite3-trunk"
+target_software = "node.js"
+

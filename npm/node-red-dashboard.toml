@@ -1,0 +1,9 @@
+name = "node-red-dashboard"
+ecosystem = "npm"
+source = "https://github.com/node-red/node-red-dashboard"
+
+[[cpe_configurations]]
+vendor = "nodered"
+product = "node-red-dashboard"
+target_software = "node.js"
+

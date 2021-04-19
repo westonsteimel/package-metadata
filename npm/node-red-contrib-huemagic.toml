@@ -1,0 +1,9 @@
+name = "node-red-contrib-huemagic"
+ecosystem = "npm"
+source = "https://github.com/Foddy/node-red-contrib-huemagic"
+
+[[cpe_configurations]]
+vendor = "node-red-contrib-huemagic_project"
+product = "node-red-contrib-huemagic"
+target_software = "node.js"
+

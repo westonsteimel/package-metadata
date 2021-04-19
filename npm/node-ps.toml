@@ -1,0 +1,9 @@
+name = "node-ps"
+ecosystem = "npm"
+source = "https://github.com/fortruce/node-ps"
+
+[[cpe_configurations]]
+vendor = "node-ps_project"
+product = "node-ps"
+target_software = "node.js"
+

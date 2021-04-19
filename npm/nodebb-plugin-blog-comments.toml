@@ -1,0 +1,9 @@
+name = "nodebb-plugin-blog-comments"
+ecosystem = "npm"
+source = "https://github.com/psychobunny/nodebb-plugin-blog-comments"
+
+[[cpe_configurations]]
+vendor = "nodebb"
+product = "blog_comments"
+target_software = "node.js"
+

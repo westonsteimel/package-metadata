@@ -1,0 +1,10 @@
+name = "nodesass"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "nodesass_project"
+product = "nodesass"
+target_software = "node.js"
+

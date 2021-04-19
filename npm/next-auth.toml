@@ -1,0 +1,9 @@
+name = "next-auth"
+ecosystem = "npm"
+source = "https://github.com/nextauthjs/next-auth"
+
+[[cpe_configurations]]
+vendor = "nextauth.js"
+product = "next-auth"
+target_software = "node.js"
+

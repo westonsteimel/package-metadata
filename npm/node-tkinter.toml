@@ -1,0 +1,10 @@
+name = "node-tkinter"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "node-tkinter_project"
+product = "node-tkinter"
+target_software = "node.js"
+

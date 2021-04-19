@@ -1,0 +1,9 @@
+name = "node-rules"
+ecosystem = "npm"
+source = "https://github.com/mithunsatheesh/node-rules"
+
+[[cpe_configurations]]
+vendor = "node-rules_project"
+product = "node-rules"
+target_software = "node.js"
+

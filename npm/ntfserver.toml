@@ -1,0 +1,9 @@
+name = "ntfserver"
+ecosystem = "npm"
+source = "https://github.com/silas/ntfserver"
+
+[[cpe_configurations]]
+vendor = "shutterstock"
+product = "ntfserver"
+target_software = "node.js"
+

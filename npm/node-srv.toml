@@ -1,0 +1,9 @@
+name = "node-srv"
+ecosystem = "npm"
+source = "https://github.com/nim579/node-srv"
+
+[[cpe_configurations]]
+vendor = "node-srv_project"
+product = "node-srv"
+target_software = "node.js"
+

@@ -1,0 +1,7 @@
+name = "myprolyz"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "myprolyz_project"
+product = "myprolyz"
+target_software = "node.js"
+

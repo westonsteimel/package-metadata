@@ -1,0 +1,9 @@
+name = "node-bsdiff-android"
+ecosystem = "npm"
+source = "https://github.com/arthur-zhang/node-bsdiff-android"
+
+[[cpe_configurations]]
+vendor = "node-bsdiff-android_project"
+product = "node-bsdiff-android"
+target_software = "node.js"
+

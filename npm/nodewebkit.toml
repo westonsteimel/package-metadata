@@ -1,0 +1,10 @@
+name = "nodewebkit"
+ecosystem = "npm"
+source = "https://github.com/shama/nodewebkit"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "nodewebkit_project"
+product = "nodewebkit"
+target_software = "node.js"
+

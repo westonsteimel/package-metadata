@@ -1,0 +1,10 @@
+name = "mysqljs"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "mysqljs_project"
+product = "mysqljs"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "mystem-wrapper"
+ecosystem = "npm"
+source = "https://github.com/titarenko/mystem-wrapper"
+
+[[cpe_configurations]]
+vendor = "mystem-wrapper_project"
+product = "mystem-wrapper"
+target_software = "node.js"
+

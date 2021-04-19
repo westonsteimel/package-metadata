@@ -1,0 +1,9 @@
+name = "nw"
+ecosystem = "npm"
+source = "https://github.com/nwjs/npm-installer"
+
+[[cpe_configurations]]
+vendor = "nwjs"
+product = "nw"
+target_software = "node.js"
+

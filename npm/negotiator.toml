@@ -1,0 +1,9 @@
+name = "negotiator"
+ecosystem = "npm"
+source = "https://github.com/jshttp/negotiator"
+
+[[cpe_configurations]]
+vendor = "negotiator_project"
+product = "negotiator"
+target_software = "node.js"
+

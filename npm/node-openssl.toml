@@ -1,0 +1,10 @@
+name = "node-openssl"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "node-openssl_project"
+product = "node-openssl"
+target_software = "node.js"
+

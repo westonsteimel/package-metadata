@@ -1,0 +1,9 @@
+name = "mpath"
+ecosystem = "npm"
+source = "https://github.com/aheckmann/mpath"
+
+[[cpe_configurations]]
+vendor = "mpath_project"
+product = "mpath"
+target_software = "node.js"
+

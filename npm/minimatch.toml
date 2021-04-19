@@ -1,0 +1,9 @@
+name = "minimatch"
+ecosystem = "npm"
+source = "https://github.com/isaacs/minimatch"
+
+[[cpe_configurations]]
+vendor = "minimatch_project"
+product = "minimatch"
+target_software = "node.js"
+

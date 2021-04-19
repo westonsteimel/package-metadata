@@ -1,0 +1,13 @@
+name = "node-forge"
+ecosystem = "npm"
+source = "https://github.com/digitalbazaar/forge"
+
+[[cpe_configurations]]
+vendor = "digitalbazzar"
+product = "forge"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "digitalbazzar"
+product = "node-forge"
+target_software = "node.js"

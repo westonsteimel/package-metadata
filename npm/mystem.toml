@@ -1,0 +1,9 @@
+name = "mystem"
+ecosystem = "npm"
+source = "https://github.com/olebedev/node-mystem"
+
+[[cpe_configurations]]
+vendor = "mystem_project"
+product = "mystem"
+target_software = "node.js"
+

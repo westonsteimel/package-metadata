@@ -1,0 +1,10 @@
+name = "noderequest"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "noderequest_project"
+product = "noderequest"
+target_software = "node.js"
+

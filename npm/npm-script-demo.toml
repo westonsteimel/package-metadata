@@ -1,0 +1,10 @@
+name = "npm-script-demo"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "npm-script-demo_project"
+product = "npm-script-demo"
+target_software = "node.js"
+

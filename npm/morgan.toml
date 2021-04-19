@@ -1,0 +1,9 @@
+name = "morgan"
+ecosystem = "npm"
+source = "https://github.com/expressjs/morgan"
+
+[[cpe_configurations]]
+vendor = "morgan_project"
+product = "morgan"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "nw-with-arm"
+ecosystem = "npm"
+source = "https://github.com/toni89/nw-with-arm"
+
+[[cpe_configurations]]
+vendor = "nw-with-arm_project"
+product = "nw-with-arm"
+target_software = "node.js"
+

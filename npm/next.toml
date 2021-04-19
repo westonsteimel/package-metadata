@@ -1,0 +1,11 @@
+name = "next"
+ecosystem = "npm"
+source = "https://github.com/vercel/next.js"
+
+[[cpe_configurations]]
+vendor = "zeit"
+product = "next.js"
+
+[[cpe_configurations]]
+vendor = "vercel"
+product = "next.js"

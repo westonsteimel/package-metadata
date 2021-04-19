@@ -1,0 +1,9 @@
+name = "no-case"
+ecosystem = "npm"
+source = "https://github.com/blakeembrey/change-case"
+
+[[cpe_configurations]]
+vendor = "no-case_project"
+product = "no-case"
+target_software = "node.js"
+
