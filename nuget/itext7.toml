@@ -1,0 +1,7 @@
+name = "itext7"
+ecosystem = "nuget"
+source = "https://github.com/itext/itext7"
+
+[[cpe_configurations]]
+vendor = "itextpdf"
+product = "itext"

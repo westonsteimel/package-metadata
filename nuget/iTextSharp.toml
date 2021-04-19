@@ -1,0 +1,7 @@
+name = "iTextSharp"
+ecosystem = "nuget"
+source = "https://github.com/itext/itextsharp"
+
+[[cpe_configurations]]
+vendor = "itextpdf"
+product = "itext"
