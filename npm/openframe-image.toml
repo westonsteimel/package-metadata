@@ -1,0 +1,9 @@
+name = "openframe-image"
+ecosystem = "npm"
+source = "https://github.com/OpenframeProject/Openframe-Image"
+
+[[cpe_configurations]]
+vendor = "openframe-image_project"
+product = "openframe-image"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "object-path"
+ecosystem = "npm"
+source = "https://github.com/mariocasciaro/object-path"
+
+[[cpe_configurations]]
+vendor = "object-path_project"
+product = "object-path"
+target_software = "node.js"
+

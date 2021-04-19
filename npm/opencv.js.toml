@@ -1,0 +1,9 @@
+name = "opencv.js"
+ecosystem = "npm"
+source = "https://github.com/huningxin/opencv"
+
+[[cpe_configurations]]
+vendor = "opencv.js_project"
+product = "opencv.js"
+target_software = "node.js"
+

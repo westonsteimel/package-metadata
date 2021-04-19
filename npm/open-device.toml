@@ -1,0 +1,7 @@
+name = "open-device"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "open-device_project"
+product = "open-device"
+target_software = "node.js"
+

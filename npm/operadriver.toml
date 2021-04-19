@@ -1,0 +1,9 @@
+name = "operadriver"
+ecosystem = "npm"
+source = "https://github.com/cnpm/node-operadriver"
+
+[[cpe_configurations]]
+vendor = "cnpmjs"
+product = "operadriver"
+target_software = "node.js"
+

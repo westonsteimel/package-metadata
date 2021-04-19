@@ -1,0 +1,8 @@
+name = "openpgp"
+ecosystem = "npm"
+source = "https://github.com/openpgpjs/openpgpjs"
+
+[[cpe_configurations]]
+vendor = "openpgpjs"
+product = "openpgpjs"
+

@@ -1,0 +1,9 @@
+name = "openssl.js"
+ecosystem = "npm"
+source = "https://github.com/DigitalArsenal/openssl.js"
+
+[[cpe_configurations]]
+vendor = "openssl.js_project"
+product = "openssl.js"
+target_software = "node.js"
+

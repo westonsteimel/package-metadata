@@ -1,0 +1,9 @@
+name = "openframe-ascii-image"
+ecosystem = "npm"
+source = "https://github.com/OpenframeProject/Openframe-AsciiImage"
+
+[[cpe_configurations]]
+vendor = "openframe-ascii-image_project"
+product = "openframe-ascii-image"
+target_software = "node.js"
+

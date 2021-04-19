@@ -1,0 +1,9 @@
+name = "openframe-glslviewer"
+ecosystem = "npm"
+source = "https://github.com/OpenframeProject/Openframe-glslViewer"
+
+[[cpe_configurations]]
+vendor = "openframe-glslviewer_project"
+product = "openframe-glslviewer"
+target_software = "node.js"
+

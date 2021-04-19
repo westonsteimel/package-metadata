@@ -1,0 +1,9 @@
+name = "object-collider"
+ecosystem = "npm"
+source = "https://github.com/FireBlinkLTD/object-collider"
+
+[[cpe_configurations]]
+vendor = "fireblink"
+product = "object-collider"
+target_software = "node.js"
+
