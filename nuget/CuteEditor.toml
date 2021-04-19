@@ -1,0 +1,15 @@
+name = "CuteEditor"
+ecosystem = "nuget"
+
+[[cpe_configurations]]
+vendor = "cutesoft"
+product = "cute_editor"
+target_software = "asp.net"
+
+[[cpe_configurations]]
+vendor = "cutesoft_components"
+product = "cute_editor"
+
+[[cpe_configurations]]
+vendor = "cutesoft_components"
+product = "cute_editor_for_asp.net"

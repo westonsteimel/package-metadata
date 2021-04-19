@@ -1,0 +1,8 @@
+name = "WinSCP"
+ecosystem = "nuget"
+source = "https://github.com/winscp/winscp"
+
+[[cpe_configurations]]
+vendor = "winscp"
+product = "winscp"
+

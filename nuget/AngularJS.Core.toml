@@ -1,0 +1,11 @@
+name = "AngularJS.Core"
+ecosystem = "nuget"
+source = "https://github.com/angular/angular.js"
+
+[[cpe_configurations]]
+vendor = "angularjs"
+product = "angular.js"
+
+[[cpe_configurations]]
+vendor = "angularjs"
+product = "angularjs"

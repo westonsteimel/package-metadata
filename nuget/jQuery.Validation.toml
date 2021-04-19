@@ -1,0 +1,7 @@
+name = "jQuery.Validation"
+ecosystem = "nuget"
+source = "https://github.com/jquery-validation/jquery-validation"
+
+[[cpe_configurations]]
+vendor = "jqueryvalidation"
+product = "jquery_validation"
