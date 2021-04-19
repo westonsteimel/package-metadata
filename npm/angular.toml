@@ -1,6 +1,6 @@
 name = "angular"
 ecosystem = "npm"
-source = "https://github.com/transloadit/uppy"
+source = "https://github.com/angular/angular.js"
 
 [[cpe_configurations]]
 vendor = "angularjs"
