@@ -1,0 +1,9 @@
+name = "parsejson"
+ecosystem = "npm"
+source = "https://github.com/get/parsejson"
+
+[[cpe_configurations]]
+vendor = "parsejson_project"
+product = "parsejson"
+target_software = "node.js"
+

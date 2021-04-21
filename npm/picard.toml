@@ -1,0 +1,7 @@
+name = "picard"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "picard_project"
+product = "picard"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "phantomjs-cheniu"
+ecosystem = "npm"
+source = "https://github.com/Medium/phantomjs"
+
+[[cpe_configurations]]
+vendor = "phantomjs-cheniu_project"
+product = "phantomjs-cheniu"
+target_software = "node.js"
+

@@ -14,3 +14,7 @@ product = "npm"
 [[cpe_configurations]]
 vendor = "npmjs"
 product = "npm"
+
+[[cpe_configurations]]
+vendor = "npmjs"
+product = "node_packaged_modules"

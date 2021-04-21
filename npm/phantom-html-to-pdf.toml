@@ -1,0 +1,9 @@
+name = "phantom-html-to-pdf"
+ecosystem = "npm"
+source = "https://github.com/pofider/phantom-html-to-pdf"
+
+[[cpe_configurations]]
+vendor = "jsreport"
+product = "phantom-html-to-pdf"
+target_software = "node.js"
+

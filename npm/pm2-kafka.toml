@@ -1,0 +1,9 @@
+name = "pm2-kafka"
+ecosystem = "npm"
+source = "https://github.com/codecapital/pm2-kafka"
+
+[[cpe_configurations]]
+vendor = "pm2-kafka_project"
+product = "pm2-kafka"
+target_software = "node.js"
+

@@ -1,0 +1,8 @@
+name = "parcel"
+ecosystem = "npm"
+source = "https://github.com/parcel-bundler/parcel"
+
+[[cpe_configurations]]
+vendor = "parceljs"
+product = "parcel"
+

@@ -1,0 +1,9 @@
+name = "plotly.js"
+ecosystem = "npm"
+source = "https://github.com/plotly/plotly.js"
+
+[[cpe_configurations]]
+vendor = "plotly"
+product = "plotly.js"
+
+# cpe:2.3:a:plot:plotly:*:*:*:*:*:*:*:* refers to a wordpress plugin

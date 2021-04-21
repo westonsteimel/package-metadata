@@ -1,0 +1,7 @@
+name = "pytservce"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "pytservce_project"
+product = "pytservce"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "protobufjs"
+ecosystem = "npm"
+source = "https://github.com/protobufjs/protobuf.js"
+
+[[cpe_configurations]]
+vendor = "protobufjs_project"
+product = "protobufjs"
+target_software = "node.js"
+

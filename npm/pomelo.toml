@@ -1,0 +1,7 @@
+name = "pomelo"
+ecosystem = "npm"
+source = "https://github.com/NetEase/pomelo"
+
+[[cpe_configurations]]
+vendor = "netease"
+product = "pomelo"

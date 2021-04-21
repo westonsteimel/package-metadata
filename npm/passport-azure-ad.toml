@@ -1,0 +1,7 @@
+name = "passport-azure-ad"
+ecosystem = "npm"
+source = "https://github.com/AzureAD/passport-azure-ad"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "azure_active_directory_passport"

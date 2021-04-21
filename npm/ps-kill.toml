@@ -1,0 +1,9 @@
+name = "ps-kill"
+ecosystem = "npm"
+source = "https://github.com/kraftz/ps-kill"
+
+[[cpe_configurations]]
+vendor = "ps-kill_project"
+product = "ps-kill"
+target_software = "node.js"
+

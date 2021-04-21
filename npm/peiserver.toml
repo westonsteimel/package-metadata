@@ -1,0 +1,7 @@
+name = "peiserver"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "peiserver_project"
+product = "peiserver"
+target_software = "node.js"
+

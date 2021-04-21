@@ -1,0 +1,8 @@
+name = "pym.js"
+ecosystem = "npm"
+source = "https://github.com/nprapps/pym.js"
+
+[[cpe_configurations]]
+vendor = "npr"
+product = "pym.js"
+

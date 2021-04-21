@@ -1,0 +1,11 @@
+name = "parse-server"
+ecosystem = "npm"
+source = "https://github.com/parse-community/parse-server"
+
+[[cpe_configurations]]
+vendor = "parseplatform"
+product = "parse-server"
+
+[[cpe_configurations]]
+vendor = "parseplatform"
+product = "parse_server"

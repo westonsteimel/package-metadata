@@ -1,0 +1,9 @@
+name = "pennyworth"
+ecosystem = "npm"
+source = "https://github.com/karimsa/pennyworth"
+
+[[cpe_configurations]]
+vendor = "pennyworth_project"
+product = "pennyworth"
+target_software = "node.js"
+

@@ -1,0 +1,8 @@
+name = "pannellum"
+ecosystem = "npm"
+source = "https://github.com/mpetroff/pannellum"
+
+[[cpe_configurations]]
+vendor = "pannellum"
+product = "pannellum"
+

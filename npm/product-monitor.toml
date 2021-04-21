@@ -1,0 +1,9 @@
+name = "product-monitor"
+ecosystem = "npm"
+source = "https://github.com/connected-web/product-monitor"
+
+[[cpe_configurations]]
+vendor = "product-monitor_project"
+product = "product-monitor"
+target_software = "node.js"
+

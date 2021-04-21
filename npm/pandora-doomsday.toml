@@ -1,0 +1,10 @@
+name = "pandora-doomsday"
+ecosystem = "npm"
+source = "https://github.com/npm/security-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "pandora-doomsday_project"
+product = "pandora-doomsday"
+target_software = "node.js"
+

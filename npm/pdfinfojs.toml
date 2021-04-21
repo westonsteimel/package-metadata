@@ -1,0 +1,9 @@
+name = "pdfinfojs"
+ecosystem = "npm"
+source = "https://github.com/fagbokforlaget/pdfinfojs"
+
+[[cpe_configurations]]
+vendor = "pdfinfojs_project"
+product = "pdfinfojs"
+target_software = "node.js"
+

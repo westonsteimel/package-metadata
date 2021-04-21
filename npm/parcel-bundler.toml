@@ -1,0 +1,9 @@
+name = "parcel-bundler"
+ecosystem = "npm"
+source = "https://github.com/parcel-bundler/parcel"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "parceljs"
+product = "parcel"
+

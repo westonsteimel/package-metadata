@@ -1,0 +1,9 @@
+name = "prismjs"
+ecosystem = "npm"
+source = "https://github.com/PrismJS/prism"
+
+[[cpe_configurations]]
+vendor = "prismjs"
+product = "prism"
+target_software = "node.js"
+

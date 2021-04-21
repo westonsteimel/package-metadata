@@ -1,0 +1,8 @@
+name = "poco"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "macchina"
+product = "poco"
+target_software = "node.js"
+
+# cpe:2.3:a:pocoproject:poco:*:*:*:*:*:*:*:* appears to be a different project

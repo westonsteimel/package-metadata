@@ -1,0 +1,10 @@
+name = "prince"
+ecosystem = "npm"
+source = "https://github.com/rse/node-prince"
+
+[[cpe_configurations]]
+vendor = "prince_project"
+product = "prince"
+target_software = "node.js"
+
+# cpe:2.3:a:princexml:princexml:*:*:*:*:*:*:*:* refers to http://www.princexml.com/ which this process executes

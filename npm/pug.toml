@@ -1,0 +1,9 @@
+name = "pug"
+ecosystem = "npm"
+source = "https://github.com/pugjs/pug/tree/master/packages/pug"
+
+[[cpe_configurations]]
+vendor = "pugjs"
+product = "pug"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "pooledwebsocket"
+ecosystem = "npm"
+source = "https://github.com/Eeems/PooledWebSocket"
+
+[[cpe_configurations]]
+vendor = "pooledwebsocket_project"
+product = "pooledwebsocket"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "pouchdb"
+ecosystem = "npm"
+source = "https://github.com/pouchdb/pouchdb"
+
+[[cpe_configurations]]
+vendor = "pouchdb"
+product = "pouchdb"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "pngcrush-installer"
+ecosystem = "npm"
+source = "https://github.com/jlembeck/pngcrush-installer"
+
+[[cpe_configurations]]
+vendor = "pngcrush-installer_project"
+product = "pngcrush-installer"
+target_software = "node.js"
+

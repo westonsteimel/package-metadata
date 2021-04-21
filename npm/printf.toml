@@ -1,0 +1,9 @@
+name = "printf"
+ecosystem = "npm"
+source = "https://github.com/adaltas/node-printf"
+
+[[cpe_configurations]]
+vendor = "adaltas"
+product = "printf"
+target_software = "node.js"
+

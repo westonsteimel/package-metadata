@@ -1,0 +1,9 @@
+name = "printer"
+ecosystem = "npm"
+source = "https://github.com/tojocky/node-printer"
+
+[[cpe_configurations]]
+vendor = "node-printer_project"
+product = "node-printer"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "pdf-image"
+ecosystem = "npm"
+source = "https://github.com/mooz/node-pdf-image"
+
+[[cpe_configurations]]
+vendor = "pdf-image_project"
+product = "pdf-image"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "phantomjs-seo"
+ecosystem = "npm"
+source = "https://github.com/areverberi/phantomjs-seo"
+
+[[cpe_configurations]]
+vendor = "phantomjs-seo_project"
+product = "phantomjs-seo"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "pg"
+ecosystem = "npm"
+source = "https://github.com/brianc/node-postgres"
+
+[[cpe_configurations]]
+vendor = "node-postgres"
+product = "pg"
+target_software = "node.js"
+

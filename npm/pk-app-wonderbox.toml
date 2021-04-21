@@ -1,0 +1,7 @@
+name = "pk-app-wonderbox"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "pk-app-wonderbox_project"
+product = "pk-app-wonderbox"
+target_software = "node.js"
+

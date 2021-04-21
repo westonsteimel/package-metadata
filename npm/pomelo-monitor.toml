@@ -1,0 +1,7 @@
+name = "pomelo-monitor"
+ecosystem = "npm"
+source = "https://github.com/halfblood369/monitor"
+
+[[cpe_configurations]]
+vendor = "netease"
+product = "pomelo-monitor"

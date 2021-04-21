@@ -1,0 +1,9 @@
+name = "prebuild-lwip"
+ecosystem = "npm"
+source = "https://github.com/EyalAr/lwip"
+
+[[cpe_configurations]]
+vendor = "prebuild-lwip_project"
+product = "prebuild-lwip"
+target_software = "node.js"
+

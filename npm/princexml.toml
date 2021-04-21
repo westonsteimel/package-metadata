@@ -1,0 +1,12 @@
+name = "princexml"
+ecosystem = "npm"
+source = "https://github.com/ravdocs/princexml"
+
+# The following CPE is for the original source at "https://github.com/rse/node-prince" from which princexml is forked,
+# so it may or may not be relevant, for now I'm including it
+[[cpe_configurations]]
+vendor = "prince_project"
+product = "prince"
+target_software = "node.js"
+
+# cpe:2.3:a:princexml:princexml:*:*:*:*:*:*:*:* refers to http://www.princexml.com/ which this process executes

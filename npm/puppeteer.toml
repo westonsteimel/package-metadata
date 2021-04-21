@@ -1,0 +1,8 @@
+name = "puppeteer"
+ecosystem = "npm"
+source = "https://github.com/puppeteer/puppeteer"
+
+[[cpe_configurations]]
+vendor = "google"
+product = "chrome"
+
