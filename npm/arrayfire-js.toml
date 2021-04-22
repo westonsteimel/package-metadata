@@ -1,6 +1,6 @@
 name = "arrayfire-js"
 ecosystem = "npm"
-source = https://github.com/arrayfire/arrayfire-js
+source = "https://github.com/arrayfire/arrayfire-js"
 
 [[cpe_configurations]]
 vendor = "arrayfire-js_project"

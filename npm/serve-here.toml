@@ -1,0 +1,10 @@
+name = "serve-here"
+ecosystem = "npm"
+source = "https://github.com/vivaxy/here"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "serve-here.js_project"
+product = "serve-here.js"
+target_software = "node.js"
+

@@ -2,7 +2,10 @@ name = "semver"
 ecosystem = "npm"
 source = "https://github.com/npm/node-semver"
 
-# There is currently no more-specific CPE for this module
+# There is not currently a CPE specific to this module 
+# The only current CVE is https://nvd.nist.gov/vuln/detail/CVE-2015-8855 and is associated
+# with the following:
+
 [[cpe_configurations]]
 vendor = "nodejs"
 product = "node.js"

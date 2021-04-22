@@ -1,0 +1,9 @@
+name = "@vivaxy/here"
+ecosystem = "npm"
+source = "https://github.com/vivaxy/here"
+
+[[cpe_configurations]]
+vendor = "serve-here.js_project"
+product = "serve-here.js"
+target_software = "node.js"
+

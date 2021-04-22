@@ -1,0 +1,12 @@
+name = "serve-index"
+ecosystem = "npm"
+source = "https://github.com/expressjs/serve-index"
+
+# There is not currently a CPE specific to this module 
+# The only current CVE is https://nvd.nist.gov/vuln/detail/CVE-2015-8856 and is associated
+# with the following:
+
+[[cpe_configurations]]
+vendor = "nodejs"
+product = "node.js"
+

@@ -1,6 +1,6 @@
 name = "arrayfire_js"
 ecosystem = "npm"
-source = https://github.com/arrayfire/arrayfire-js
+source = "https://github.com/arrayfire/arrayfire-js"
 deprecated = true
 
 [[cpe_configurations]]

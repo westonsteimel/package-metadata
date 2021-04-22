@@ -1,0 +1,9 @@
+name = "serve-static"
+ecosystem = "npm"
+source = "https://github.com/expressjs/serve-static"
+
+[[cpe_configurations]]
+vendor = "serve-static_project"
+product = "serve-static"
+target_software = "node.js"
+
