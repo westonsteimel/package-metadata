@@ -1,0 +1,10 @@
+name = "scott-blanch-weather-app"
+ecosystem = "npm"
+source = "https://github.com/npm/deprecate-holder"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "scott-blanch-weather-app_project"
+product = "scott-blanch-weather-app"
+target_software = "node.js"
+

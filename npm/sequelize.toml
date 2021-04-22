@@ -1,0 +1,13 @@
+name = "sequelize"
+ecosystem = "npm"
+source = "https://github.com/sequelize/sequelize"
+
+[[cpe_configurations]]
+vendor = "sequelizejs"
+product = "sequelize"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "sequelize_project"
+product = "sequelize"
+target_software = "node.js"

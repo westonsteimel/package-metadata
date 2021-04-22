@@ -1,0 +1,8 @@
+name = "schema-inspector"
+ecosystem = "npm"
+source = "https://github.com/Atinux/schema-inspector"
+
+[[cpe_configurations]]
+vendor = "schema-inspector_project"
+product = "schema-inspector"
+

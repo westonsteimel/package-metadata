@@ -1,0 +1,10 @@
+name = "selenium-chromedriver"
+ecosystem = "npm"
+source = "https://github.com/jugglinmike/selenium-chromedriver"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "selenium-chromedriver_project"
+product = "selenium-chromedriver"
+target_software = "node.js"
+

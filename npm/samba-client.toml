@@ -1,0 +1,9 @@
+name = "samba-client"
+ecosystem = "npm"
+source = "https://github.com/eflexsystems/node-samba-client"
+
+[[cpe_configurations]]
+vendor = "samba-client_project"
+product = "samba-client"
+target_software = "node.js"
+

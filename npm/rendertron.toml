@@ -1,0 +1,8 @@
+name = "rendertron"
+ecosystem = "npm"
+source = "https://github.com/GoogleChrome/rendertron"
+
+[[cpe_configurations]]
+vendor = "google"
+product = "rendertron"
+

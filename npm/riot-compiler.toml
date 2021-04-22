@@ -1,0 +1,9 @@
+name = "riot-compiler"
+ecosystem = "npm"
+source = "https://github.com/riot/compiler"
+
+[[cpe_configurations]]
+vendor = "riot.js"
+product = "riot-compiler"
+target_software = "node.js"
+

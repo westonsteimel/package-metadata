@@ -1,0 +1,9 @@
+name = "seneca"
+ecosystem = "npm"
+source = "https://github.com/senecajs/seneca"
+
+[[cpe_configurations]]
+vendor = "senecajs"
+product = "seneca"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "serialize-javascript"
+ecosystem = "npm"
+source = "https://github.com/yahoo/serialize-javascript"
+
+[[cpe_configurations]]
+vendor = "verizon"
+product = "serialize-javascript"
+target_software = "node.js"
+

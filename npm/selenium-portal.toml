@@ -1,0 +1,9 @@
+name = "selenium-portal"
+ecosystem = "npm"
+source = "https://github.com/selenium-portal/portal"
+
+[[cpe_configurations]]
+vendor = "selenium-portal_project"
+product = "selenium-portal"
+target_software = "node.js"
+

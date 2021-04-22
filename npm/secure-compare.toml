@@ -1,0 +1,9 @@
+name = "secure-compare"
+ecosystem = "npm"
+source = "https://github.com/vdemedes/secure-compare"
+
+[[cpe_configurations]]
+vendor = "secure-compare_project"
+product = "secure-compare"
+target_software = "node.js"
+

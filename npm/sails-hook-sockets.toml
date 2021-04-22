@@ -1,0 +1,9 @@
+name = "sails-hook-sockets"
+ecosystem = "npm"
+source = "https://github.com/balderdashy/sails-hook-sockets"
+
+[[cpe_configurations]]
+vendor = "sailsjs"
+product = "sails"
+target_software = "node.js"
+

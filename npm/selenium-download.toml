@@ -1,0 +1,9 @@
+name = "selenium-download"
+ecosystem = "npm"
+source = "https://github.com/groupon/selenium-download"
+
+[[cpe_configurations]]
+vendor = "groupon"
+product = "selenium-download"
+target_software = "node.js"
+

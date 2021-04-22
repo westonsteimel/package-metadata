@@ -1,0 +1,9 @@
+name = "roslib-socketio"
+ecosystem = "npm"
+source = "https://github.com/RobotWebTools/roslibjs/releases"
+
+[[cpe_configurations]]
+vendor = "robotwebtools"
+product = "roslibjs"
+target_software = "node.js"
+

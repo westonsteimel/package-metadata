@@ -1,0 +1,9 @@
+name = "sauce-connect"
+ecosystem = "npm"
+source = "https://github.com/ddopson/node-sauce-connect"
+
+[[cpe_configurations]]
+vendor = "node-sauce-connect_project"
+product = "node-sauce-connect"
+target_software = "node.js"
+

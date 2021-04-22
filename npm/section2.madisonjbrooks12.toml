@@ -1,0 +1,9 @@
+name = "section2.madisonjbrooks12"
+ecosystem = "npm"
+source = "https://github.com/madisonjbrooks12/nodeServer"
+
+[[cpe_configurations]]
+vendor = "section2.madisonjbrooks12_project"
+product = "section2.madisonjbrooks12"
+target_software = "node.js"
+

@@ -1,0 +1,8 @@
+name = "yarn"
+ecosystem = "npm"
+source = "https://github.com/yarnpkg/yarn"
+
+[[cpe_configurations]]
+vendor = "yarnpkg"
+product = "yarn"
+

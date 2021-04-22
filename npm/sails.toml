@@ -1,0 +1,9 @@
+name = "sails"
+ecosystem = "npm"
+source = "https://github.com/balderdashy/sails"
+
+[[cpe_configurations]]
+vendor = "sailsjs"
+product = "sails"
+target_software = "node.js"
+

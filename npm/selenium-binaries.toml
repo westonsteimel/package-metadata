@@ -1,0 +1,9 @@
+name = "selenium-binaries"
+ecosystem = "npm"
+source = "https://github.com/spunjs/selenium-binaries"
+
+[[cpe_configurations]]
+vendor = "spunjs"
+product = "selenium-binaries"
+target_software = "node.js"
+

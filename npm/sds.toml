@@ -1,0 +1,8 @@
+name = "sds"
+ecosystem = "npm"
+source = "https://github.com/monsterkodi/sds"
+
+[[cpe_configurations]]
+vendor = "sds_project"
+product = "sds"
+

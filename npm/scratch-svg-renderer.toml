@@ -1,0 +1,13 @@
+name = "scratch-svg-renderer"
+ecosystem = "npm"
+source = "https://github.com/LLK/scratch-svg-renderer"
+
+[[cpe_configurations]]
+vendor = "mit"
+product = "scratch-svg-renderer"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "scratch"
+product = "scratch-svg-renderer"
+target_software = "node.js"

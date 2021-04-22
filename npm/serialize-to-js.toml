@@ -1,0 +1,9 @@
+name = "serialize-to-js"
+ecosystem = "npm"
+source = "https://github.com/commenthol/serialize-to-js"
+
+[[cpe_configurations]]
+vendor = "serialize-to-js_project"
+product = "serialize-to-js"
+target_software = "node.js"
+

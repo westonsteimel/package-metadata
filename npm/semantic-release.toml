@@ -1,0 +1,8 @@
+name = "semantic-release"
+ecosystem = "npm"
+source = "https://github.com/semantic-release/semantic-release"
+
+[[cpe_configurations]]
+vendor = "semantic-release_project"
+product = "semantic-release"
+

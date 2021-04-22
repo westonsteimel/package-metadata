@@ -1,0 +1,9 @@
+name = "reduce-css-calc"
+ecosystem = "npm"
+source = "https://github.com/MoOx/reduce-css-calc"
+
+[[cpe_configurations]]
+vendor = "reduce-css-calc_project"
+product = "reduce-css-calc"
+target_software = "node.js"
+

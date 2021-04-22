@@ -1,0 +1,9 @@
+name = "serc.js"
+ecosystem = "npm"
+source = "https://github.com/nowk/serc.js"
+
+[[cpe_configurations]]
+vendor = "serc.js_project"
+product = "serc.js"
+target_software = "node.js"
+

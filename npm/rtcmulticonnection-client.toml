@@ -1,0 +1,9 @@
+name = "rtcmulticonnection-client"
+ecosystem = "npm"
+source = "https://github.com/muaz-khan/Reliable-Signaler"
+
+[[cpe_configurations]]
+vendor = "rtcmulticonnection-client_project"
+product = "rtcmulticonnection-client"
+target_software = "node.js"
+

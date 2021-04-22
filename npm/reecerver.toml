@@ -1,0 +1,9 @@
+name = "reecerver"
+ecosystem = "npm"
+source = "https://github.com/kevinjreece/reecerver"
+
+[[cpe_configurations]]
+vendor = "reecerver_project"
+product = "reecerver"
+target_software = "node.js"
+

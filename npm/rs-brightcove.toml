@@ -1,0 +1,7 @@
+name = "rs-brightcove"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "rs-brightcove_project"
+product = "rs-brightcove"
+target_software = "node.js"
+

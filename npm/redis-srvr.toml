@@ -1,0 +1,9 @@
+name = "redis-srvr"
+ecosystem = "npm"
+source = "https://github.com/lennym/redis-srvr"
+
+[[cpe_configurations]]
+vendor = "redis-srvr_project"
+product = "redis-srvr"
+target_software = "node.js"
+

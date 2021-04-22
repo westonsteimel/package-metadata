@@ -1,0 +1,8 @@
+name = "safer-eval"
+ecosystem = "npm"
+source = "https://github.com/commenthol/safer-eval"
+
+[[cpe_configurations]]
+vendor = "safer-eval_project"
+product = "safer-eval"
+

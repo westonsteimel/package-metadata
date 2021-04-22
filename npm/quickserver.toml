@@ -1,0 +1,9 @@
+name = "quickserver"
+ecosystem = "npm"
+source = "https://github.com/Torthu/quickserver"
+
+[[cpe_configurations]]
+vendor = "quickserver_project"
+product = "quickserver"
+target_software = "node.js"
+

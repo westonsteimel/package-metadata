@@ -1,0 +1,9 @@
+name = "rollup-plugin-server"
+ecosystem = "npm"
+source = "https://github.com/fkei/rollup-plugin-server"
+
+[[cpe_configurations]]
+vendor = "rollup-plugin-server_project"
+product = "rollup-plugin-server"
+target_software = "node.js"
+

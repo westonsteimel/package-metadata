@@ -1,0 +1,8 @@
+name = "samlify"
+ecosystem = "npm"
+source = "https://github.com/tngan/samlify"
+
+[[cpe_configurations]]
+vendor = "samlify_project"
+product = "samlify"
+

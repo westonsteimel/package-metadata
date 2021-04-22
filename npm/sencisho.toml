@@ -1,0 +1,9 @@
+name = "sencisho"
+ecosystem = "npm"
+source = "https://github.com/julien/sencisho"
+
+[[cpe_configurations]]
+vendor = "sencisho_project"
+product = "sencisho"
+target_software = "node.js"
+

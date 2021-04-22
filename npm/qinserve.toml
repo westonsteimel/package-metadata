@@ -1,0 +1,7 @@
+name = "qinserve"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "qinserve_project"
+product = "qinserve"
+target_software = "node.js"
+

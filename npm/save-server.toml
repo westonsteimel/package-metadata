@@ -1,0 +1,9 @@
+name = "save-server"
+ecosystem = "npm"
+source = "https://github.com/neztore/save-server"
+
+[[cpe_configurations]]
+vendor = "save-server_project"
+product = "save-server"
+target_software = "node.js"
+

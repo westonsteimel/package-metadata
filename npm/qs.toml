@@ -1,0 +1,8 @@
+name = "qs"
+ecosystem = "npm"
+source = "https://github.com/ljharb/qs"
+
+[[cpe_configurations]]
+vendor = "qs_project"
+product = "qs"
+

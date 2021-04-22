@@ -1,0 +1,11 @@
+name = "scratch-vm"
+ecosystem = "npm"
+source = "https://github.com/LLK/scratch-vm"
+
+[[cpe_configurations]]
+vendor = "mit"
+product = "scratch-vm"
+
+[[cpe_configurations]]
+vendor = "scratch"
+product = "scratch-vm"

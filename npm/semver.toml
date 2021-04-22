@@ -1,0 +1,9 @@
+name = "semver"
+ecosystem = "npm"
+source = "https://github.com/npm/node-semver"
+
+# There is currently no more-specific CPE for this module
+[[cpe_configurations]]
+vendor = "nodejs"
+product = "node.js"
+

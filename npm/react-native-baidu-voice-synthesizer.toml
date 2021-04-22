@@ -1,0 +1,9 @@
+name = "react-native-baidu-voice-synthesizer"
+ecosystem = "npm"
+source = "https://github.com/react-melon/react-native-baidu-voice-synthesizer"
+
+[[cpe_configurations]]
+vendor = "react-native-baidu-voice-synthesizer_project"
+product = "react-native-baidu-voice-synthesizer"
+target_software = "node.js"
+

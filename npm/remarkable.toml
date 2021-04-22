@@ -1,0 +1,8 @@
+name = "remarkable"
+ecosystem = "npm"
+source = "https://github.com/jonschlinkert/remarkable"
+
+[[cpe_configurations]]
+vendor = "remarkable_project"
+product = "remarkable"
+

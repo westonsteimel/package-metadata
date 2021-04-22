@@ -1,0 +1,10 @@
+name = "selenium-wrapper"
+ecosystem = "npm"
+source = "https://github.com/arian/selenium-wrapper"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "selenium-wrapper_project"
+product = "selenium-wrapper"
+target_software = "node.js"
+

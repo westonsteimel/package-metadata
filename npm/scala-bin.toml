@@ -1,0 +1,9 @@
+name = "scala-bin"
+ecosystem = "npm"
+source = "https://github.com/k-kinzal/scala-bin"
+
+[[cpe_configurations]]
+vendor = "scala-bin_project"
+product = "scala-bin"
+target_software = "node.js"
+

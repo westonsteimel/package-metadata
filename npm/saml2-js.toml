@@ -1,0 +1,8 @@
+name = "saml2-js"
+ecosystem = "npm"
+source = "https://github.com/Clever/saml2"
+
+[[cpe_configurations]]
+vendor = "clever"
+product = "saml2-js"
+

@@ -1,0 +1,10 @@
+name = "request"
+ecosystem = "npm"
+source = "https://github.com/request/request"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "request_project"
+product = "request"
+target_software = "node.js"
+

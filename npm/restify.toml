@@ -1,0 +1,9 @@
+name = "restify"
+ecosystem = "npm"
+source = "https://github.com/restify/node-restify"
+
+[[cpe_configurations]]
+vendor = "restify"
+product = "restify"
+target_software = "node.js"
+

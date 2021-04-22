@@ -1,0 +1,9 @@
+name = "query-mysql"
+ecosystem = "npm"
+source = "https://github.com/cenidetiot/query-mysql"
+
+[[cpe_configurations]]
+vendor = "query-mysql_project"
+product = "query-mysql"
+target_software = "node.js"
+

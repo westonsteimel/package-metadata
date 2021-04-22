@@ -1,0 +1,9 @@
+name = "resolve-path"
+ecosystem = "npm"
+source = "https://github.com/pillarjs/resolve-path"
+
+[[cpe_configurations]]
+vendor = "resolve-path_project"
+product = "resolve-path"
+target_software = "node.js"
+

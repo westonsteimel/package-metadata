@@ -1,0 +1,9 @@
+name = "ritp"
+ecosystem = "npm"
+source = "https://github.com/ncuzp/ritp"
+
+[[cpe_configurations]]
+vendor = "ritp_project"
+product = "ritp"
+target_software = "node.js"
+

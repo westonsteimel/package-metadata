@@ -1,0 +1,9 @@
+name = "safe-eval"
+ecosystem = "npm"
+source = "https://github.com/hacksparrow/safe-eval"
+
+[[cpe_configurations]]
+vendor = "safe-eval_project"
+product = "safe-eval"
+target_software = "node.js"
+

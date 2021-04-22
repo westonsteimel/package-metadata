@@ -1,0 +1,9 @@
+name = "qbs"
+ecosystem = "npm"
+source = "https://code.qt.io/qt-labs/qbs.git"
+
+[[cpe_configurations]]
+vendor = "qbs_project"
+product = "qbs"
+target_software = "node.js"
+

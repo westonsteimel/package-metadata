@@ -1,0 +1,9 @@
+name = "randomatic"
+ecosystem = "npm"
+source = "https://github.com/jonschlinkert/randomatic"
+
+[[cpe_configurations]]
+vendor = "randomatic_project"
+product = "randomatic"
+target_software = "node.js"
+

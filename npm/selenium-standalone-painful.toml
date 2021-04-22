@@ -1,0 +1,7 @@
+name = "selenium-standalone-painful"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "selenium-standalone-painful_project"
+product = "selenium-standalone-painful"
+target_software = "node.js"
+

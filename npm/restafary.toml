@@ -1,0 +1,9 @@
+name = "restafary"
+ecosystem = "npm"
+source = "https://github.com/coderaiser/node-restafary"
+
+[[cpe_configurations]]
+vendor = "restafary_project"
+product = "restafary"
+target_software = "node.js"
+

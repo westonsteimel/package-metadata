@@ -1,0 +1,9 @@
+name = "scalajs-standalone-bin"
+ecosystem = "npm"
+source = "https://github.com/k-kinzal/scalajs-standalone-bin"
+
+[[cpe_configurations]]
+vendor = "scalajs-standalone-bin_project"
+product = "scalajs-standalone-bin"
+target_software = "node.js"
+

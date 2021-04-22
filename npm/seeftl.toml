@@ -1,0 +1,9 @@
+name = "seeftl"
+ecosystem = "npm"
+source = "https://github.com/xiangpaopao/seeftl"
+
+[[cpe_configurations]]
+vendor = "seeftl_project"
+product = "seeftl"
+target_software = "node.js"
+

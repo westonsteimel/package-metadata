@@ -1,0 +1,9 @@
+name = "restify-paginate"
+ecosystem = "npm"
+source = "https://github.com/paulvarache/restify-paginate"
+
+[[cpe_configurations]]
+vendor = "restify-paginate_project"
+product = "restify-paginate"
+target_software = "node.js"
+

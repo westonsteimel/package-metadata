@@ -1,0 +1,18 @@
+name = "send"
+ecosystem = "npm"
+
+# previously the source repo was https://github.com/visionmedia/send which currently redirects to the following:
+source = "https://github.com/pillarjs/send" 
+
+# There is not currently a CPE specific to this module 
+# The only current CVE is https://nvd.nist.gov/vuln/detail/CVE-2014-6394 and is associated
+# with the following:
+
+[[cpe_configurations]]
+vendor = "apple"
+product = "xcode"
+
+[[cpe_configurations]]
+vendor = "joyent"
+product = "node.js"
+

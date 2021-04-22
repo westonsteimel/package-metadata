@@ -1,0 +1,9 @@
+name = "sanitize-html"
+ecosystem = "npm"
+source = "https://github.com/apostrophecms/sanitize-html"
+
+[[cpe_configurations]]
+vendor = "punkave"
+product = "sanitize-html"
+target_software = "node.js"
+

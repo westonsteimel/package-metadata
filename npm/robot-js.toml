@@ -1,0 +1,9 @@
+name = "robot-js"
+ecosystem = "npm"
+source = "https://github.com/robot/robot-js"
+
+[[cpe_configurations]]
+vendor = "getrobot"
+product = "robot-js"
+target_software = "node.js"
+

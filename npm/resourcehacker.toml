@@ -1,0 +1,9 @@
+name = "resourcehacker"
+ecosystem = "npm"
+source = "https://github.com/felicienfrancois/node-resourcehacker"
+
+[[cpe_configurations]]
+vendor = "resourcehacker_project"
+product = "resourcehacker"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "selectize-plugin-a11y"
+ecosystem = "npm"
+source = "https://github.com/SLMNBJ/selectize-plugin-a11y"
+
+[[cpe_configurations]]
+vendor = "selectize-plugin-a11y_project"
+product = "selectize-plugin-a11y"
+target_software = "node.js"
+
