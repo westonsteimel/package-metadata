@@ -1,0 +1,8 @@
+name = "matrix-sydent"
+ecosystem = "pypi"
+source = "https://github.com/matrix-org/sydent"
+
+[[cpe_configurations]]
+vendor = "matrix"
+product = "sydent"
+

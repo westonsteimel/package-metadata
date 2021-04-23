@@ -1,5 +1,7 @@
 name = "aiohttp-session"
 ecosystem = "pypi"
+source = "https://github.com/aio-libs/aiohttp-session"
+
 [[cpe_configurations]]
 vendor = "aiohttp-session_project"
 product = "aiohttp-session"

@@ -1,6 +1,16 @@
 name = "Pillow"
 ecosystem = "pypi"
+source = "https://github.com/python-pillow/Pillow"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "pillow"
+
+[[cpe_configurations]]
+vendor = "python_imaging_project"
+product = "python_imaging"
+
+[[cpe_configurations]]
+vendor = "pythonware"
+product = "python_imaging_library"
 

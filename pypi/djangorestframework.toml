@@ -1,6 +1,11 @@
 name = "djangorestframework"
 ecosystem = "pypi"
+source = "https://github.com/encode/django-rest-framework"
+
 [[cpe_configurations]]
 vendor = "encode"
 product = "django-rest-framework"
 
+[[cpe_configurations]]
+vendor = "encode"
+product = "django_rest_framework"

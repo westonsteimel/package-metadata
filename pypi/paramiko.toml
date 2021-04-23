@@ -1,5 +1,7 @@
 name = "paramiko"
 ecosystem = "pypi"
+source = "https://github.com/paramiko/paramiko/"
+
 [[cpe_configurations]]
 vendor = "paramiko"
 product = "paramiko"

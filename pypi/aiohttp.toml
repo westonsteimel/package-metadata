@@ -1,6 +1,11 @@
 name = "aiohttp"
 ecosystem = "pypi"
+source = "https://github.com/aio-libs/aiohttp"
+
 [[cpe_configurations]]
 vendor = "aiohttp_project"
 product = "aiohttp"
 
+[[cpe_configurations]]
+vendor = "aio-libs_project"
+product = "aiohttp"

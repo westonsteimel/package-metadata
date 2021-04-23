@@ -1,0 +1,9 @@
+name = "django-registration"
+ecosystem = "pypi"
+source = "https://github.com/ubernostrum/django-registration"
+
+[[cpe_configurations]]
+vendor = "django-registration_project"
+product = "django-registration"
+target_software = "django"
+

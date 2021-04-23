@@ -1,5 +1,7 @@
 name = "django-piston"
 ecosystem = "pypi"
+source = "http://bitbucket.org/jespern/django-piston"
+
 [[cpe_configurations]]
 vendor = "djangoproject"
 product = "piston"

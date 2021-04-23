@@ -1,5 +1,7 @@
 name = "tryton"
 ecosystem = "pypi"
+source = "https://hg.tryton.org/tryton"
+
 [[cpe_configurations]]
 vendor = "tryton"
 product = "tryton"

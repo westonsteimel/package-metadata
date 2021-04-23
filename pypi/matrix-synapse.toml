@@ -1,5 +1,7 @@
 name = "matrix-synapse"
 ecosystem = "pypi"
+source = " https://github.com/matrix-org/synapse"
+
 [[cpe_configurations]]
 vendor = "matrix"
 product = "synapse"

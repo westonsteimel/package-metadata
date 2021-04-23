@@ -1,0 +1,8 @@
+name = "papermerge"
+ecosystem = "pypi"
+source = "https://github.com/ciur/papermerge"
+
+[[cpe_configurations]]
+vendor = "papermerge"
+product = "papermerge"
+

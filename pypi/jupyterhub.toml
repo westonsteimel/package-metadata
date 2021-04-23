@@ -1,5 +1,7 @@
 name = "jupyterhub"
 ecosystem = "pypi"
+source = "https://github.com/jupyterhub/jupyterhub/"
+
 [[cpe_configurations]]
 vendor = "jupyter"
 product = "jupyterhub"

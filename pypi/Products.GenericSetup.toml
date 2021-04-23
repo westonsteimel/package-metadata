@@ -1,0 +1,6 @@
+name = "Products.GenericSetup"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "zope"
+product = "products.genericsetup"
+

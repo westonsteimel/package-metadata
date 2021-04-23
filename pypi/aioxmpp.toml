@@ -1,5 +1,7 @@
 name = "aioxmpp"
 ecosystem = "pypi"
+source = "https://github.com/horazont/aioxmpp"
+
 [[cpe_configurations]]
 vendor = "aioxmpp_project"
 product = "aioxmpp"

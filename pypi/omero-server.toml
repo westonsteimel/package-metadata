@@ -1,0 +1,8 @@
+name = "omero-server"
+ecosystem = "pypi"
+source = "https://github.com/ome/omero-server"
+
+[[cpe_configurations]]
+vendor = "openmicroscopy"
+product = "omero.server"
+

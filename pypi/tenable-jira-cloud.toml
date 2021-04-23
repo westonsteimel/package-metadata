@@ -1,0 +1,8 @@
+name = "tenable-jira-cloud"
+ecosystem = "pypi"
+source = "https://github.com/tenable/integrations-jira-cloud"
+
+[[cpe_configurations]]
+vendor = "tenable"
+product = "jira_cloud"
+

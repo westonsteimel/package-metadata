@@ -1,0 +1,8 @@
+name = "sickrage"
+ecosystem = "pypi"
+source = "https://git.sickrage.ca/"
+
+[[cpe_configurations]]
+vendor = "sickrage"
+product = "sickrage"
+

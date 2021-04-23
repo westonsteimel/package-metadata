@@ -1,5 +1,6 @@
 name = "notebook"
 ecosystem = "pypi"
+source = ""
 
 [[cpe_configurations]]
 vendor = "jupyter"

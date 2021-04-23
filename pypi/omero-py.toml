@@ -1,0 +1,8 @@
+name = "omero-py"
+ecosystem = "pypi"
+source = "https://github.com/ome/omero-py"
+
+[[cpe_configurations]]
+vendor = "openmicroscopy"
+product = "omero"
+
