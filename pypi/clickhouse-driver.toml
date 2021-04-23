@@ -1,0 +1,8 @@
+name = "clickhouse-driver"
+ecosystem = "pypi"
+source = "https://github.com/mymarilyn/clickhouse-driver"
+
+[[cpe_configurations]]
+vendor = "clickhouse-driver_project"
+product = "clickhouse-driver"
+

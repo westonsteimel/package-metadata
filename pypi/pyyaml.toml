@@ -1,6 +1,11 @@
 name = "pyyaml"
 ecosystem = "pypi"
+source = "https://github.com/yaml/pyyaml"
+
 [[cpe_configurations]]
 vendor = "pyyaml"
 product = "pyyaml"
 
+[[cpe_configurations]]
+vendor = "pyyaml_project"
+product = "pyyaml"

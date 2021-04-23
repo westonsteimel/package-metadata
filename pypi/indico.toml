@@ -1,0 +1,8 @@
+name = "indico"
+ecosystem = "pypi"
+source = "https://github.com/indico/indico/"
+
+[[cpe_configurations]]
+vendor = "cern"
+product = "indico"
+

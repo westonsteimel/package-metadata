@@ -1,6 +1,9 @@
 name = "hyper"
 ecosystem = "pypi"
+source = "https://github.com/python-hyper/hyper"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "hyper"
 
+# cpe:2.3:a:hyper:hyper:*:*:*:*:*:*:*:* refers to the hyper crate for Rust

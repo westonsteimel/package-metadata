@@ -1,5 +1,6 @@
 name = "pyopenssl"
 ecosystem = "pypi"
+source = "https://github.com/pyca/pyopenssl"
 
 [[cpe_configurations]]
 vendor = "pyopenssl"

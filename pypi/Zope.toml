@@ -1,5 +1,7 @@
 name = "Zope"
 ecosystem = "pypi"
+source = "https://github.com/zopefoundation/Zope"
+
 [[cpe_configurations]]
 vendor = "zope"
 product = "zope"

@@ -1,6 +1,6 @@
-name = "Plone"
+name = "plone.app.event"
 ecosystem = "pypi"
-source = "https://github.com/plone/plone"
+source = "https://github.com/plone/plone.app.event"
 
 [[cpe_configurations]]
 vendor = "plone"

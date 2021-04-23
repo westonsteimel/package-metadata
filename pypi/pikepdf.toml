@@ -1,0 +1,8 @@
+name = "pikepdf"
+ecosystem = "pypi"
+source = "https://github.com/pikepdf/pikepdf"
+
+[[cpe_configurations]]
+vendor = "pikepdf_project"
+product = "pikepdf"
+

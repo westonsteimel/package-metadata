@@ -1,0 +1,8 @@
+name = "django-debug-toolbar"
+ecosystem = "pypi"
+source = "https://github.com/jazzband/django-debug-toolbar"
+
+[[cpe_configurations]]
+vendor = "jazzband"
+product = "django_debug_toolbar"
+

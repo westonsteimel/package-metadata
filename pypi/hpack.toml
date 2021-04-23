@@ -1,5 +1,7 @@
 name = "hpack"
 ecosystem = "pypi"
+source = "https://github.com/python-hyper/hpack"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "hpack"

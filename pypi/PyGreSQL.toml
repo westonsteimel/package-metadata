@@ -1,0 +1,8 @@
+name = "PyGreSQL"
+ecosystem = "pypi"
+source = "https://github.com/PyGreSQL/PyGreSQL"
+
+[[cpe_configurations]]
+vendor = "pygresql"
+product = "pygresql"
+

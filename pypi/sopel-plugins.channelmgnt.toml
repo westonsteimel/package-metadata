@@ -1,0 +1,13 @@
+name = "sopel-plugins.channelmgnt"
+ecosystem = "pypi"
+source = "https://github.com/MirahezeBots/sopel-channelmgnt"
+
+[[cpe_configurations]]
+vendor = "miraheze"
+product = "channelmgnt"
+target_software = "sopel"
+
+[[cpe_configurations]]
+vendor = "mirahezebots"
+product = "sopel-channelmgnt"
+

@@ -1,6 +1,6 @@
-name = "Plone"
+name = "plone.supermodel"
 ecosystem = "pypi"
-source = "https://github.com/plone/plone"
+source = "https://github.com/plone/plone.supermodel"
 
 [[cpe_configurations]]
 vendor = "plone"

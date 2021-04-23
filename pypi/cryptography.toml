@@ -1,7 +1,16 @@
 name = "cryptography"
 ecosystem = "pypi"
+source = "https://github.com/pyca/cryptography"
+
 [[cpe_configurations]]
 vendor = "cryptography_project"
 product = "cryptography"
 target_software = "python"
 
+[[cpe_configurations]]
+vendor = "cryptography"
+product = "python-cryptography"
+
+[[cpe_configurations]]
+vendor = "python-cryptography_project"
+product = "python-cryptography"

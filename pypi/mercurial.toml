@@ -1,6 +1,11 @@
 name = "mercurial"
 ecosystem = "pypi"
+source = "https://www.mercurial-scm.org/repo/hg/"
+
 [[cpe_configurations]]
 vendor = "mercurial"
 product = "mercurial"
 
+[[cpe_configurations]]
+vendor = "mercurial-scm"
+product = "mercurial"

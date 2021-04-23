@@ -1,5 +1,6 @@
 name = "python-gnupg"
 ecosystem = "pypi"
+source = "https://bitbucket.org/vinay.sajip/python-gnupg/"
 
 [[cpe_configurations]]
 vendor = "python"
@@ -9,3 +10,6 @@ product = "python-gnupg"
 vendor = "python-gnupg_project"
 product = "python-gnupg"
 
+[[cpe_configurations]]
+vendor = "vinay_sajip"
+product = "python-gnupg"

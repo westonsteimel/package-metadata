@@ -1,5 +1,11 @@
 name = "django"
 ecosystem = "pypi"
+source = "https://github.com/django/django"
+
+[[cpe_configurations]]
+vendor = "django_project"
+product = "django"
+
 [[cpe_configurations]]
 vendor = "djangoproject"
 product = "django"

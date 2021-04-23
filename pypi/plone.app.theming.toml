@@ -1,6 +1,6 @@
-name = "Plone"
+name = "plone.app.theming"
 ecosystem = "pypi"
-source = "https://github.com/plone/plone"
+source = "https://github.com/plone/plone.app.theming"
 
 [[cpe_configurations]]
 vendor = "plone"

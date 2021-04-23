@@ -1,5 +1,7 @@
 name = "urllib3"
 ecosystem = "pypi"
+source = "https://github.com/urllib3/urllib3"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "urllib3"

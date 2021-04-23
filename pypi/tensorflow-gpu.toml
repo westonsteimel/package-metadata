@@ -1,6 +1,11 @@
 name = "tensorflow-gpu"
 ecosystem = "pypi"
+source = "https://github.com/tensorflow/tensorflow"
 
 [[cpe_configurations]]
 vendor = "tensorflow"
+product = "tensorflow"
+
+[[cpe_configurations]]
+vendor = "google"
 product = "tensorflow"

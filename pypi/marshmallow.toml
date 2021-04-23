@@ -1,6 +1,7 @@
 name = "marshmallow"
 ecosystem = "pypi"
+source = "https://github.com/marshmallow-code/marshmallow"
+
 [[cpe_configurations]]
 vendor = "marshmallow_project"
 product = "marshmallow"
-

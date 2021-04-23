@@ -1,0 +1,8 @@
+name = "pyinstaller"
+ecosystem = "pypi"
+source = "https://github.com/pyinstaller/pyinstaller"
+
+[[cpe_configurations]]
+vendor = "pyinstaller"
+product = "pyinstaller"
+

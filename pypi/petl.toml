@@ -1,0 +1,8 @@
+name = "petl"
+ecosystem = "pypi"
+source = "https://github.com/petl-developers/petl"
+
+[[cpe_configurations]]
+vendor = "petl_project"
+product = "petl"
+

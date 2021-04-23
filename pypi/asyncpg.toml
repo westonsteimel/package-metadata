@@ -1,0 +1,8 @@
+name = "asyncpg"
+ecosystem = "pypi"
+source = "https://github.com/MagicStack/asyncpg"
+
+[[cpe_configurations]]
+vendor = "magic"
+product = "asyncpg"
+

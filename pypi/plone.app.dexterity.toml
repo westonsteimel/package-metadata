@@ -1,6 +1,6 @@
-name = "Plone"
+name = "plone.app.dexterity"
 ecosystem = "pypi"
-source = "https://github.com/plone/plone"
+source = "https://github.com/plone/plone.app.dexterity"
 
 [[cpe_configurations]]
 vendor = "plone"
