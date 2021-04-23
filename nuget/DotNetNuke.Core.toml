@@ -6,3 +6,6 @@ source = "https://github.com/dnnsoftware/Dnn.Platform"
 vendor = "dnnsoftware"
 product = "dotnetnuke"
 
+[[cpe_configurations]]
+vendor = "dotnetnuke"
+product = "dotnetnuke"

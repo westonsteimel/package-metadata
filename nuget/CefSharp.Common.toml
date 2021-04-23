@@ -6,3 +6,6 @@ source = "https://github.com/cefsharp/CefSharp"
 vendor = "google"
 product = "chrome"
 
+[[cpe_configurations]]
+vendor = "freetype"
+product = "freetype2"

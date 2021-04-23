@@ -1,0 +1,11 @@
+name = "adplug"
+ecosystem = "nuget"
+source = "https://github.com/adplug/adplug"
+
+[[cpe_configurations]]
+vendor = "adplug_project"
+product = "adplug"
+
+[[cpe_configurations]]
+vendor = "audacious_media_player_team"
+product = "adplug"
