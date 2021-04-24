@@ -1,0 +1,9 @@
+name = "gitlog"
+ecosystem = "npm"
+source = "https://github.com/domharrington/node-gitlog"
+
+[[cpe_configurations]]
+vendor = "gitlog_project"
+product = "gitlog"
+target_software = "node.js"
+

@@ -1,0 +1,7 @@
+name = "@theia/preview"
+ecosystem = "npm"
+
+[[cpe_configurations]]
+vendor = "eclipse"
+product = "theia"
+

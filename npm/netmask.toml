@@ -1,0 +1,9 @@
+name = "netmask"
+ecosystem = "npm"
+source = "https://github.com/rs/node-netmask"
+
+[[cpe_configurations]]
+vendor = "netmask_project"
+product = "netmask"
+target_software = "node.js"
+

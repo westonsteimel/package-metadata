@@ -1,0 +1,6 @@
+name = "slp-validate"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "simpleledger"
+product = "slp-validate"
+

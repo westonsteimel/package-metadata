@@ -1,0 +1,9 @@
+name = "ts-process-promises"
+ecosystem = "npm"
+source = "https://github.com/radarsu/process-promises"
+
+[[cpe_configurations]]
+vendor = "ts-process-promises_project"
+product = "ts-process-promises"
+target_software = "node.js"
+

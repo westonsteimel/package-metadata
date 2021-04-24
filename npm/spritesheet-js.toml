@@ -1,0 +1,9 @@
+name = "spritesheet-js"
+ecosystem = "npm"
+source = "https://github.com/krzysztof-o/spritesheet.js"
+
+[[cpe_configurations]]
+vendor = "spritesheet-js_project"
+product = "spritesheet-js"
+target_software = "node.js"
+

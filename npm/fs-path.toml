@@ -1,0 +1,9 @@
+name = "fs-path"
+ecosystem = "npm"
+source = "https://github.com/pillys/fs-path"
+
+[[cpe_configurations]]
+vendor = "fs-path_project"
+product = "fs-path"
+target_software = "node.js"
+

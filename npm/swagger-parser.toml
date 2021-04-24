@@ -1,0 +1,7 @@
+name = "swagger-parser"
+ecosystem = "npm"
+source = "https://github.com/swagger-api/swagger-ui"
+
+[[cpe_configurations]]
+vendor = "swagger"
+product = "swagger-parser"

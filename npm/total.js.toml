@@ -1,0 +1,9 @@
+name = "total.js"
+ecosystem = "npm"
+source = "https://github.com/totaljs/framework"
+
+[[cpe_configurations]]
+vendor = "totaljs"
+product = "total.js"
+target_software = "node.js"
+

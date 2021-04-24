@@ -1,0 +1,10 @@
+name = "freediskspace"
+ecosystem = "npm"
+source = "https://github.com/palortoff/freediskspace"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "freediskspace_project"
+product = "freediskproject"
+target_software = "node.js"
+

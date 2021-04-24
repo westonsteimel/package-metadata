@@ -1,0 +1,10 @@
+name = "corenlp-js-prefab"
+ecosystem = "npm"
+source = "https://github.com/noahDess/corenlp-js-prefab"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "corenlp-js-prefab_project"
+product = "corenlp-js-prefab"
+target_software = "node.js"
+

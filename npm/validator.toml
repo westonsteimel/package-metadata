@@ -1,0 +1,8 @@
+name = "validator"
+ecosystem = "npm"
+source = "https://github.com/validatorjs/validator.js"
+
+[[cpe_configurations]]
+vendor = "nodejs"
+product = "node.js"
+

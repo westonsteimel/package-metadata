@@ -1,0 +1,9 @@
+name = "launchpad"
+ecosystem = "npm"
+source = "https://github.com/bitovi/launchpad"
+
+[[cpe_configurations]]
+vendor = "bitovi"
+product = "launchpad"
+target_software = "node.js"
+

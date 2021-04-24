@@ -6,3 +6,8 @@ source = "https://github.com/skoranga/node-dns-sync"
 vendor = "node-dns-sync_project"
 product = "node-dns-sync"
 
+[[cpe_configurations]]
+vendor = "dns-sync_project"
+product = "dns-sync"
+target_software = "node.js"
+

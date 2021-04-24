@@ -1,0 +1,9 @@
+name = "macfromip"
+ecosystem = "npm"
+source = "https://github.com/bcamarneiro/macfromip"
+
+[[cpe_configurations]]
+vendor = "macfromip_project"
+product = "macfromip"
+target_software = "node.js"
+

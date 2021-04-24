@@ -1,0 +1,14 @@
+name = "umount"
+ecosystem = "npm"
+source = "https://github.com/jviotti/node-umount"
+
+[[cpe_configurations]]
+vendor = "install-package_project"
+product = "install-package"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "umount_project"
+product = "umount"
+target_software = "node.js"
+

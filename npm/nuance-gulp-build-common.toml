@@ -1,0 +1,6 @@
+name = "nuance-gulp-build-common"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "nuance-gulp-build-common_project"
+product = "nuance-gulp-build-common"
+

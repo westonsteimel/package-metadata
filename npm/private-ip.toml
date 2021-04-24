@@ -1,0 +1,8 @@
+name = "private-ip"
+ecosystem = "npm"
+source = "https://github.com/frenchbread/private-ip"
+
+[[cpe_configurations]]
+vendor = "private-ip_project"
+product = "private-ip"
+

@@ -1,0 +1,9 @@
+name = "tianma-static"
+ecosystem = "npm"
+source = "https://github.com/tianmajs/tianma-static"
+
+[[cpe_configurations]]
+vendor = "tianma-static_project"
+product = "tianma-static"
+target_software = "node.js"
+

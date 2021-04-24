@@ -1,0 +1,9 @@
+name = "tomato"
+ecosystem = "npm"
+source = "https://github.com/leizongmin/tomato"
+
+[[cpe_configurations]]
+vendor = "ucdok"
+product = "tomato"
+target_software = "node.js"
+

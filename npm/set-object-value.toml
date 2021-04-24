@@ -1,0 +1,9 @@
+name = "set-object-value"
+ecosystem = "npm"
+source = "https://github.com/react-atomic/react-atomic-organism"
+
+[[cpe_configurations]]
+vendor = "set-object-value_project"
+product = "set-object-value"
+target_software = "node.js"
+

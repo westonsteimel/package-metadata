@@ -1,0 +1,9 @@
+name = "djv"
+ecosystem = "npm"
+source = "https://github.com/korzio/djv"
+
+[[cpe_configurations]]
+vendor = "djv_project"
+product = "djv"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "multi-ini"
+ecosystem = "npm"
+source = "https://github.com/evangelion1204/multi-ini"
+
+[[cpe_configurations]]
+vendor = "multi-ini_project"
+product = "multi-ini"
+target_software = "node.js"
+

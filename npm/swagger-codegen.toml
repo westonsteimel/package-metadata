@@ -1,0 +1,15 @@
+name = "swagger-codegen"
+ecosystem = "npm"
+source = "https://github.com/steve-gray/swagger-codegen"
+
+[[cpe_configurations]]
+vendor = "smartbear"
+product = "swagger-codegen"
+
+[[cpe_configurations]]
+vendor = "smartbear"
+product = "swagger_codegen"
+
+[[cpe_configurations]]
+vendor = "swagger"
+product = "swagger-codegen"

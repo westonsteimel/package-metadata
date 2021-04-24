@@ -1,0 +1,9 @@
+name = "eslint-fixer"
+ecosystem = "npm"
+source = "https://github.com/ozum/eslint-fixer"
+
+[[cpe_configurations]]
+vendor = "eslint-fixer_project"
+product = "eslint-fixer"
+target_software = "node.js"
+

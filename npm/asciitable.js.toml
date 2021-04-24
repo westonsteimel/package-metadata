@@ -1,0 +1,9 @@
+name = "asciitable.js"
+ecosystem = "npm"
+source = "https://github.com/victornpb/asciitable.js"
+
+[[cpe_configurations]]
+vendor = "asciitable.js_project"
+product = "asciitable.js"
+target_software = "node.js"
+

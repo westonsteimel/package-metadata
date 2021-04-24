@@ -1,0 +1,9 @@
+name = "shell-quote"
+ecosystem = "npm"
+source = "https://github.com/substack/node-shell-quote"
+
+[[cpe_configurations]]
+vendor = "shell-quote_project"
+product = "shell-quote"
+target_software = "node.js"
+

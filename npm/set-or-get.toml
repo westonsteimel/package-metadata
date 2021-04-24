@@ -1,0 +1,9 @@
+name = "set-or-get"
+ecosystem = "npm"
+source = "https://github.com/IonicaBizau/set-or-get.js"
+
+[[cpe_configurations]]
+vendor = "set-or-get_project"
+product = "set-or-get"
+target_software = "node.js"
+

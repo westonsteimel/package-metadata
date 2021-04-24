@@ -1,0 +1,9 @@
+name = "statichttpserver"
+ecosystem = "npm"
+source = "https://github.com/jwbenson/statichttpserver"
+
+[[cpe_configurations]]
+vendor = "statichttpserver_project"
+product = "statichttpserver"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "slpjs"
+ecosystem = "npm"
+source = "https://github.com/simpleledger/slpjs"
+
+[[cpe_configurations]]
+vendor = "simpleledger"
+product = "slpjs"
+target_software = "node.js"
+

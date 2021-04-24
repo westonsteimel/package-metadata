@@ -1,0 +1,11 @@
+name = "swagger-ui"
+ecosystem = "npm"
+source = "https://github.com/swagger-api/swagger-ui"
+
+[[cpe_configurations]]
+vendor = "smartbear"
+product = "swagger-ui"
+
+[[cpe_configurations]]
+vendor = "smartbear"
+product = "swagger_ui"

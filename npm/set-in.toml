@@ -1,0 +1,8 @@
+name = "set-in"
+ecosystem = "npm"
+source = "https://github.com/ahdinosaur/set-in"
+
+[[cpe_configurations]]
+vendor = "set-in_project"
+product = "set-in"
+
