@@ -1,0 +1,9 @@
+name = "simple_captcha2"
+ecosystem = "rubygems"
+source = "http://github.com/pludoni/simple-captcha"
+
+[[cpe_configurations]]
+vendor = "simple_captcha2_project"
+product = "simple_captcha2"
+target_software = "ruby"
+

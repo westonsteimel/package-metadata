@@ -1,0 +1,9 @@
+name = "datagrid"
+ecosystem = "rubygems"
+source = "http://github.com/bogdan/datagrid"
+
+[[cpe_configurations]]
+vendor = "datagrid_project"
+product = "datagrid"
+target_software = "ruby"
+

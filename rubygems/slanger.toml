@@ -1,0 +1,8 @@
+name = "slanger"
+ecosystem = "rubygems"
+source = "https://github.com/stevegraham/slanger"
+
+[[cpe_configurations]]
+vendor = "teller"
+product = "slanger"
+
