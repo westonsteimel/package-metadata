@@ -1,0 +1,8 @@
+name = "redis-store"
+ecosystem = "rubygems"
+source = "https://github.com/jodosha/redis-store/"
+
+[[cpe_configurations]]
+vendor = "redis-store"
+product = "redis-store"
+

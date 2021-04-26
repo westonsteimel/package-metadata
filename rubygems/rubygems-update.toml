@@ -1,0 +1,10 @@
+name = "rubygems-update"
+ecosystem = "rubygems"
+
+[[cpe_configurations]]
+vendor = "rubygems"
+product = "rubygems"
+
+[[cpe_configurations]]
+vendor = "rubyforge"
+product = "rubygems"

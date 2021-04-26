@@ -1,8 +1,0 @@
-name = "active-support"
-ecosystem = "rubygems"
-
-[[cpe_configurations]]
-vendor = "activesupport_project"
-product = "activesupport"
-target_software = "ruby"
-

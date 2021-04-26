@@ -1,0 +1,12 @@
+name = "mini_magick"
+ecosystem = "rubygems"
+source = "https://github.com/minimagick/minimagick"
+
+[[cpe_configurations]]
+vendor = "rubygems"
+product = "mini_magick"
+
+[[cpe_configurations]]
+vendor = "minimagick_project"
+product = "minimagick"
+

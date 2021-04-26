@@ -1,0 +1,8 @@
+name = "devise"
+ecosystem = "rubygems"
+source = "http://github.com/plataformatec/devise"
+
+[[cpe_configurations]]
+vendor = "plataformatec"
+product = "devise"
+

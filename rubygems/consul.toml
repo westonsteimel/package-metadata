@@ -1,0 +1,9 @@
+name = "consul"
+ecosystem = "rubygems"
+source = "https://github.com/makandra/consul"
+
+[[cpe_configurations]]
+vendor = "makandra"
+product = "consul"
+target_software = "ruby"
+

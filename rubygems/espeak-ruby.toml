@@ -1,0 +1,9 @@
+name = "espeak-ruby"
+ecosystem = "rubygems"
+source = "https://github.com/dejan/espeak-ruby"
+
+[[cpe_configurations]]
+vendor = "espeak-ruby_project"
+product = "espeak-ruby"
+target_software = "ruby"
+

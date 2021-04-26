@@ -1,0 +1,8 @@
+name = "airbrake-ruby"
+ecosystem = "rubygems"
+source = "https://github.com/airbrake/airbrake-ruby"
+
+[[cpe_configurations]]
+vendor = "airbrake"
+product = "airbrake_ruby"
+

@@ -1,0 +1,8 @@
+name = "recurly"
+ecosystem = "rubygems"
+source = "https://github.com/recurly/recurly-client-ruby"
+
+[[cpe_configurations]]
+vendor = "recurly"
+product = "recurly_client_ruby"
+

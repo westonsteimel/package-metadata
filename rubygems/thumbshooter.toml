@@ -1,0 +1,8 @@
+name = "thumbshooter"
+ecosystem = "rubygems"
+source = "http://github.com/digineo/thumbshooter"
+
+[[cpe_configurations]]
+vendor = "digineo"
+product = "thumbshooter"
+

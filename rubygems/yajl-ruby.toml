@@ -1,0 +1,13 @@
+name = "yajl-ruby"
+ecosystem = "rubygems"
+source = "http://github.com/brianmario/yajl-ruby"
+
+[[cpe_configurations]]
+vendor = "yajl-ruby_project"
+product = "yajl-ruby"
+target_software = "ruby"
+
+[[cpe_configurations]]
+vendor = "yajl-ruby_project"
+product = "yajl-ruby_gem"
+target_software = "ruby"

@@ -1,0 +1,7 @@
+name = "activestorage"
+ecosystem = "rubygems"
+
+[[cpe_configurations]]
+vendor = "rubyonrails"
+product = "activestorage"
+

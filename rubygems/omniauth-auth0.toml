@@ -1,0 +1,9 @@
+name = "omniauth-auth0"
+ecosystem = "rubygems"
+source = "https://github.com/auth0/omniauth-auth0"
+
+[[cpe_configurations]]
+vendor = "auth0"
+product = "omniauth-auth0"
+target_software = "ruby"
+

@@ -1,0 +1,8 @@
+name = "rwiki"
+ecosystem = "rubygems"
+source = "http://github.com/lucassus/rwiki"
+
+[[cpe_configurations]]
+vendor = "rwiki"
+product = "rwiki"
+

@@ -1,0 +1,9 @@
+name = "puma"
+ecosystem = "rubygems"
+source = "https://github.com/puma/puma"
+
+[[cpe_configurations]]
+vendor = "puma"
+product = "puma"
+target_software = "ruby"
+

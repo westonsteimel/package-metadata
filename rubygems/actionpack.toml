@@ -1,9 +1,7 @@
-name = "actionview"
+name = "actionpack"
 ecosystem = "rubygems"
 source = "https://github.com/rails/rails"
 
 [[cpe_configurations]]
 vendor = "rubyonrails"
-product = "actionview"
-
-
+product = "actionpack"

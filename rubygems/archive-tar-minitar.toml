@@ -1,0 +1,9 @@
+name = "archive-tar-minitar"
+ecosystem = "rubygems"
+source = "https://github.com/halostatue/minitar/"
+
+[[cpe_configurations]]
+vendor = "minitar"
+product = "archive-tar-minitar"
+
+

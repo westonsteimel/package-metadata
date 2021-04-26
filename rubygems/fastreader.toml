@@ -1,0 +1,6 @@
+name = "fastreader"
+ecosystem = "rubygems"
+[[cpe_configurations]]
+vendor = "rubygems"
+product = "fastreader"
+

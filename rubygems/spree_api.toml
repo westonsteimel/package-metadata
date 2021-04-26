@@ -1,0 +1,11 @@
+name = "spree_api"
+ecosystem = "rubygems"
+source = "https://github.com/spree/spree"
+
+[[cpe_configurations]]
+vendor = "spreecommerce"
+product = "spree"
+
+[[cpe_configurations]]
+vendor = "sparksolutions"
+product = "spree"
