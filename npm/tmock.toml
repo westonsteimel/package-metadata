@@ -1,0 +1,7 @@
+name = "tmock"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "tmock_project"
+product = "tmock"
+target_software = "node.js"
+

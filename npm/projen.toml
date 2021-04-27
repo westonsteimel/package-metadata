@@ -1,0 +1,9 @@
+name = "projen"
+ecosystem = "npm"
+source = "https://github.com/projen/projen"
+
+[[cpe_configurations]]
+vendor = "projen_project"
+product = "projen"
+target_software = "node.js"
+

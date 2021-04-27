@@ -1,0 +1,8 @@
+name = "wazuh"
+ecosystem = "npm"
+source = "https://github.com/wazuh/wazuh-kibana-app"
+
+[[cpe_configurations]]
+vendor = "wazuh"
+product = "wazuh"
+

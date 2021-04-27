@@ -1,0 +1,9 @@
+name = "simple-npm-registry"
+ecosystem = "npm"
+source = "https://github.com/OverFlow636/simple-npm-registry"
+
+[[cpe_configurations]]
+vendor = "simple-npm-registry_project"
+product = "simple-npm-registry"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "utils-extend"
+ecosystem = "npm"
+source = "https://github.com/douzi8/utils-extend"
+
+[[cpe_configurations]]
+vendor = "utils-extend_project"
+product = "utils-extend"
+target_software = "node.js"
+

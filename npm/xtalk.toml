@@ -1,0 +1,9 @@
+name = "xtalk"
+ecosystem = "npm"
+source = "https://github.com/sophtwhere/xtalk"
+
+[[cpe_configurations]]
+vendor = "xtalk_project"
+product = "xtalk"
+target_software = "node.js"
+

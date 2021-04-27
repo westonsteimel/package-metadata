@@ -1,0 +1,7 @@
+name = "yttivy"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "yttivy_project"
+product = "yttivy"
+target_software = "node.js"
+

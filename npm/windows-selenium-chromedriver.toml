@@ -1,0 +1,7 @@
+name = "windows-selenium-chromedriver"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "windows-selenium-chromedriver_project"
+product = "windows-selenium-chromedriver"
+target_software = "node.js"
+

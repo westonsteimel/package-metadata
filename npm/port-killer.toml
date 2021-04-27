@@ -1,0 +1,8 @@
+name = "port-killer"
+ecosystem = "npm"
+source = "https://github.com/tylerjpeterson/port-killer"
+
+[[cpe_configurations]]
+vendor = "port-killer_project"
+product = "port-killer"
+

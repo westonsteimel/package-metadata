@@ -1,0 +1,8 @@
+name = "typed-function"
+ecosystem = "npm"
+source = "https://github.com/josdejong/typed-function"
+
+[[cpe_configurations]]
+vendor = "typed_function_project"
+product = "typed_function"
+

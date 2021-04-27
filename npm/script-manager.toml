@@ -1,0 +1,9 @@
+name = "script-manager"
+ecosystem = "npm"
+source = "https://github.com/pofider/node-script-manager"
+
+[[cpe_configurations]]
+vendor = "script-manager_project"
+product = "script-manager"
+target_software = "node.js"
+

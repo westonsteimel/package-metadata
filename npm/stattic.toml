@@ -1,0 +1,9 @@
+name = "stattic"
+ecosystem = "npm"
+source = "https://github.com/jmjuanes/stattic"
+
+[[cpe_configurations]]
+vendor = "stattic_project"
+product = "stattic"
+target_software = "node.js"
+

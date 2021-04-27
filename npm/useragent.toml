@@ -1,0 +1,9 @@
+name = "useragent"
+ecosystem = "npm"
+source = "https://github.com/3rd-Eden/useragent"
+
+[[cpe_configurations]]
+vendor = "useragent_project"
+product = "useragent"
+target_software = "node.js"
+

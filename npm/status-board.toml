@@ -1,0 +1,8 @@
+name = "status-board"
+ecosystem = "npm"
+source = "https://github.com/jameswlane/status-board"
+
+[[cpe_configurations]]
+vendor = "status_board_project"
+product = "status_board"
+

@@ -1,0 +1,9 @@
+name = "slimerjs-edge"
+ecosystem = "npm"
+source = "https://github.com/bitjson/slimerjs-edge"
+
+[[cpe_configurations]]
+vendor = "slimerjs-edge_project"
+product = "slimerjs-edge"
+target_software = "node.js"
+

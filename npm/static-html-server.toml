@@ -1,0 +1,9 @@
+name = "static-html-server"
+ecosystem = "npm"
+source = "https://github.com/duyetdev/static-html-server"
+
+[[cpe_configurations]]
+vendor = "static-html-server_project"
+product = "static-html-server"
+target_software = "node.js"
+

@@ -1,0 +1,8 @@
+name = "strapi"
+ecosystem = "npm"
+source = "https://github.com/strapi/strapi"
+
+[[cpe_configurations]]
+vendor = "strapi"
+product = "strapi"
+

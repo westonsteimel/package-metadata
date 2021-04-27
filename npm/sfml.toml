@@ -1,0 +1,9 @@
+name = "sfml"
+ecosystem = "npm"
+source = "https://github.com/bmeck/node-sfml"
+
+[[cpe_configurations]]
+vendor = "sfml_project"
+product = "sfml"
+target_software = "node.js"
+

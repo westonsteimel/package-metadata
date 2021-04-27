@@ -1,0 +1,8 @@
+name = "shave"
+ecosystem = "npm"
+source = "https://github.com/yowainwright/shave"
+
+[[cpe_configurations]]
+vendor = "dollarshaveclub"
+product = "shave"
+

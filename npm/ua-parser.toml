@@ -1,0 +1,9 @@
+name = "ua-parser"
+ecosystem = "npm"
+source = "https://github.com/tobie/ua-parser"
+
+[[cpe_configurations]]
+vendor = "ua-parser_project"
+product = "ua-parser"
+target_software = "node.js"
+

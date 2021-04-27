@@ -1,0 +1,7 @@
+name = "weather.swlyons"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "weather.swlyons_project"
+product = "weather.swlyons"
+target_software = "node.js"
+

@@ -1,0 +1,7 @@
+name = "serverwg"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "serverwg_project"
+product = "serverwg"
+target_software = "node.js"
+

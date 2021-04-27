@@ -1,0 +1,9 @@
+name = "uws"
+ecosystem = "npm"
+source = "https://github.com/uNetworking/uWebSockets.js"
+
+[[cpe_configurations]]
+vendor = "uws_project"
+product = "uws"
+target_software = "node.js"
+

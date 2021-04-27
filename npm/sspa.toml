@@ -1,0 +1,9 @@
+name = "sspa"
+ecosystem = "npm"
+source = "https://github.com/andreypopp%20/sspa"
+
+[[cpe_configurations]]
+vendor = "sspa_project"
+product = "sspa"
+target_software = "node.js"
+

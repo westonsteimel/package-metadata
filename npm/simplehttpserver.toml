@@ -1,0 +1,9 @@
+name = "simplehttpserver"
+ecosystem = "npm"
+source = "https://github.com/tikonen/blog/tree/master/simplehttpserver"
+
+[[cpe_configurations]]
+vendor = "simplehttpserver_project"
+product = "simplehttpserver"
+target_software = "node.js"
+

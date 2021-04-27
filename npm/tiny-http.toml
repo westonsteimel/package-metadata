@@ -1,0 +1,9 @@
+name = "tiny-http"
+ecosystem = "npm"
+source = "https://github.com/lwdgit/tiny-http"
+
+[[cpe_configurations]]
+vendor = "tiny-http_project"
+product = "tiny-http"
+target_software = "node.js"
+

@@ -1,0 +1,7 @@
+name = "soci"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "soci_project"
+product = "soci"
+target_software = "node.js"
+

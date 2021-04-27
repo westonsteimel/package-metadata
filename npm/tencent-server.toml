@@ -1,0 +1,7 @@
+name = "tencent-server"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "tencent-server_project"
+product = "tencent-server"
+target_software = "node.js"
+

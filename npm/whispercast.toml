@@ -1,0 +1,9 @@
+name = "whispercast"
+ecosystem = "npm"
+source = "https://github.com/manastungare/whispercast"
+
+[[cpe_configurations]]
+vendor = "whispercast_project"
+product = "whispercast"
+target_software = "node.js"
+

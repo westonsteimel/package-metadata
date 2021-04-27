@@ -1,0 +1,8 @@
+name = "ssb-db"
+ecosystem = "npm"
+source = "https://github.com/ssbc/ssb-db"
+
+[[cpe_configurations]]
+vendor = "scuttlebutt"
+product = "ssb-db"
+

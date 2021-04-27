@@ -1,0 +1,7 @@
+name = "shit-server"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "shit-server_project"
+product = "shit-server"
+target_software = "node.js"
+

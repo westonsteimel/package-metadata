@@ -1,0 +1,9 @@
+name = "react-adal"
+ecosystem = "npm"
+source = "https://github.com/salvoravida/react-adal"
+
+[[cpe_configurations]]
+vendor = "react-adal_project"
+product = "react-adal"
+target_software = "node.js"
+

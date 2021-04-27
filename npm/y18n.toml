@@ -1,0 +1,9 @@
+name = "y18n"
+ecosystem = "npm"
+source = "https://github.com/yargs/y18n"
+
+[[cpe_configurations]]
+vendor = "y18n_project"
+product = "y18n"
+target_software = "node.js"
+

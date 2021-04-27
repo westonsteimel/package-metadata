@@ -1,0 +1,9 @@
+name = "unicorn-list"
+ecosystem = "npm"
+source = "https://github.com/vannio/unicorn-framework"
+
+[[cpe_configurations]]
+vendor = "unicorn-list_project"
+product = "unicorn-list"
+target_software = "node.js"
+

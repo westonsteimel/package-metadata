@@ -1,0 +1,9 @@
+name = "ssri"
+ecosystem = "npm"
+source = "https://github.com/zkat/ssri"
+
+[[cpe_configurations]]
+vendor = "ssri_project"
+product = "ssri"
+target_software = "node.js"
+

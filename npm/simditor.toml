@@ -1,0 +1,8 @@
+name = "simditor"
+ecosystem = "npm"
+source = "https://github.com/mycolorway/simditor"
+
+[[cpe_configurations]]
+vendor = "mycolorway"
+product = "simditor"
+

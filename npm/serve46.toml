@@ -1,0 +1,7 @@
+name = "serve46"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "serve46_project"
+product = "serve46"
+target_software = "node.js"
+

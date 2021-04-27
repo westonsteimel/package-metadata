@@ -1,0 +1,7 @@
+name = "welcomyzt"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "welcomyzt_project"
+product = "welcomyzt"
+target_software = "node.js"
+

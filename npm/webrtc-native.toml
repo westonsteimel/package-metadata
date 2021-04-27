@@ -1,0 +1,9 @@
+name = "webrtc-native"
+ecosystem = "npm"
+source = "https://github.com/vmolsa/webrtc-native"
+
+[[cpe_configurations]]
+vendor = "webrtc"
+product = "webrtc-native"
+target_software = "node.js"
+

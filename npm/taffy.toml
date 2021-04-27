@@ -1,0 +1,10 @@
+name = "taffy"
+ecosystem = "npm"
+source = "https://github.com/piscis/taffydb-node"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "taffydb"
+product = "taffy"
+target_software = "node.js"
+

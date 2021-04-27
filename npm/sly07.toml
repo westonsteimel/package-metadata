@@ -1,0 +1,9 @@
+name = "sly07"
+ecosystem = "npm"
+source = "https://github.com/sly07/Lab5/blob/master/"
+
+[[cpe_configurations]]
+vendor = "sly07_project"
+product = "sly07"
+target_software = "node.js"
+

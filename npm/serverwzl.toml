@@ -1,0 +1,7 @@
+name = "serverwzl"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "serverwzl_project"
+product = "serverwzl"
+target_software = "node.js"
+

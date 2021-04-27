@@ -1,0 +1,10 @@
+name = "whereis"
+ecosystem = "npm"
+source = "https://github.com/vvo/node-whereis"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "whereis_project"
+product = "whereis"
+target_software = "node.js"
+

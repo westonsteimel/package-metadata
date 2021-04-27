@@ -1,0 +1,7 @@
+name = "wangguojing123"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "wanggoujing123_project"
+product = "wanggoujing123"
+target_software = "node.js"
+

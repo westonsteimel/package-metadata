@@ -1,0 +1,8 @@
+name = "verdaccio"
+ecosystem = "npm"
+source = "https://github.com/verdaccio/verdaccio"
+
+[[cpe_configurations]]
+vendor = "verdaccio"
+product = "verdaccio"
+

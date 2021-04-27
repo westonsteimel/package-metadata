@@ -1,0 +1,7 @@
+name = "webdriver-launcher"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "webdriver-launcher_project"
+product = "webdriver-launcher"
+target_software = "node.js"
+

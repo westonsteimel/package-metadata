@@ -1,0 +1,9 @@
+name = "windows-seleniumjar"
+ecosystem = "npm"
+source = "https://github.com/ISNTI0/Windows_SeleniumJar"
+
+[[cpe_configurations]]
+vendor = "windows-seleniumjar_project"
+product = "windows-seleniumjar"
+target_software = "node.js"
+

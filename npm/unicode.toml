@@ -1,0 +1,9 @@
+name = "unicode"
+ecosystem = "npm"
+source = "https://github.com/tdanecker/node-unicodetable"
+
+[[cpe_configurations]]
+vendor = "unicode_project"
+product = "unicode"
+target_software = "node.js"
+

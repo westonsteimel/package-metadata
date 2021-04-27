@@ -1,0 +1,9 @@
+name = "windows-latestchromedriver"
+ecosystem = "npm"
+source = "https://github.com/ISNTI0/Windows_LatestChromedriver"
+
+[[cpe_configurations]]
+vendor = "windows-latestchromedriver_project"
+product = "windows-latestchromedriver"
+target_software = "node.js"
+

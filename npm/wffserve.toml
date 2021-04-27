@@ -1,0 +1,7 @@
+name = "wffserve"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "wffserve_project"
+product = "wffserve"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "wixtoolset"
+ecosystem = "npm"
+source = "https://github.com/rewiredpictures/node-wixtoolset"
+
+[[cpe_configurations]]
+vendor = "node-wixtoolset_project"
+product = "node-wixtoolset"
+target_software = "node.js"
+

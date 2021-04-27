@@ -1,0 +1,7 @@
+name = "susu-sum"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "susu-sum_project"
+product = "susu-sum"
+target_software = "node.js"
+

@@ -1,0 +1,7 @@
+name = "tomita"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "tomita_project"
+product = "tomita"
+target_software = "node.js"
+

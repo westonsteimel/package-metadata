@@ -1,0 +1,7 @@
+name = "sgqserve"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "sgqserve_project"
+product = "sgqserve"
+target_software = "node.js"
+

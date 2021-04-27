@@ -1,0 +1,9 @@
+name = "sshpk"
+ecosystem = "npm"
+source = "https://github.com/joyent/node-sshpk"
+
+[[cpe_configurations]]
+vendor = "joyent"
+product = "sshpk"
+target_software = "node.js"
+

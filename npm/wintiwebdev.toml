@@ -1,0 +1,7 @@
+name = "wintiwebdev"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "wintiwebdev_project"
+product = "wintiwebdev"
+target_software = "node.js"
+

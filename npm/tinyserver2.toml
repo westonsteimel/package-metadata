@@ -1,0 +1,9 @@
+name = "tinyserver2"
+ecosystem = "npm"
+source = "http://git.foocode.uk/open-source/TinyServer.git"
+
+[[cpe_configurations]]
+vendor = "tinyserver2_project"
+product = "tinyserver2"
+target_software = "node.js"
+

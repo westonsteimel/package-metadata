@@ -1,0 +1,9 @@
+name = "wasdk"
+ecosystem = "npm"
+source = "https://github.com/wasdk/wasdk"
+
+[[cpe_configurations]]
+vendor = "wasdk_project"
+product = "wasdk"
+target_software = "node.js"
+

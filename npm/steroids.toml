@@ -1,0 +1,10 @@
+name = "steroids"
+ecosystem = "npm"
+source = "https://github.com/AppGyver/steroids"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "appgyver"
+product = "steroids"
+target_software = "node.js"
+

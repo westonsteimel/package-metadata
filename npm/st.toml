@@ -1,0 +1,8 @@
+name = "st"
+ecosystem = "npm"
+source = "https://github.com/isaacs/st"
+
+[[cpe_configurations]]
+vendor = "st_project"
+product = "st"
+

@@ -1,0 +1,10 @@
+name = "takeapeek"
+ecosystem = "npm"
+source = "https://github.com/giodamelio/takeapeek"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "takeapeek_project"
+product = "takeapeek"
+target_software = "node.js"
+

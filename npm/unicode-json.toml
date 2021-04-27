@@ -1,0 +1,9 @@
+name = "unicode-json"
+ecosystem = "npm"
+source = "https://github.com/Zertz/unicode-json"
+
+[[cpe_configurations]]
+vendor = "unicode"
+product = "unicode-json"
+target_software = "node.js"
+

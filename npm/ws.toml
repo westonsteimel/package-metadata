@@ -1,0 +1,9 @@
+name = "ws"
+ecosystem = "npm"
+source = "https://github.com/websockets/ws"
+
+[[cpe_configurations]]
+vendor = "ws_project"
+product = "ws"
+target_software = "node.js"
+

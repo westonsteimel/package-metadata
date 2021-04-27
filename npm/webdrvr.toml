@@ -1,0 +1,9 @@
+name = "webdrvr"
+ecosystem = "npm"
+source = "https://github.com/uxebu/webdrvr"
+
+[[cpe_configurations]]
+vendor = "uxebu"
+product = "webdrvr"
+target_software = "node.js"
+

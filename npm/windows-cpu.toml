@@ -1,0 +1,8 @@
+name = "windows-cpu"
+ecosystem = "npm"
+source = "https://github.com/KyleRoss/windows-cpu"
+
+[[cpe_configurations]]
+vendor = "windows-cpu_project"
+product = "windows-cpu"
+

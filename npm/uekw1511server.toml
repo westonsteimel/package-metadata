@@ -1,0 +1,7 @@
+name = "uekw1511server"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "uekw1511server_project"
+product = "uekw1511server"
+target_software = "node.js"
+

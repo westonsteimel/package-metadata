@@ -1,0 +1,8 @@
+name = "tar-fs"
+ecosystem = "npm"
+source = "https://github.com/mafintosh/tar-fs"
+
+[[cpe_configurations]]
+vendor = "tar-fs_project"
+product = "tar-fs"
+

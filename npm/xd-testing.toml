@@ -1,0 +1,9 @@
+name = "xd-testing"
+ecosystem = "npm"
+source = "https://eday.inf.ethz.ch/spiegelm/xd-testing"
+
+[[cpe_configurations]]
+vendor = "xd-testing_project"
+product = "xd-testing"
+target_software = "node.js"
+

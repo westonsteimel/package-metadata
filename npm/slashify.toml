@@ -1,0 +1,9 @@
+name = "slashify"
+ecosystem = "npm"
+source = "https://github.com/divshot/slashify"
+
+[[cpe_configurations]]
+vendor = "google"
+product = "slashify"
+target_software = "node.js"
+

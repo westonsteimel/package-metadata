@@ -1,0 +1,9 @@
+name = "static-resource-server"
+ecosystem = "npm"
+source = "https://github.com/Hfimy/staticfile-server"
+
+[[cpe_configurations]]
+vendor = "static-resource-server_project"
+product = "static-resource-server"
+target_software = "node.js"
+

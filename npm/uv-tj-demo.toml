@@ -1,0 +1,9 @@
+name = "uv-tj-demo"
+ecosystem = "npm"
+source = "https://github.com/chuans/demo"
+
+[[cpe_configurations]]
+vendor = "uv-tj-demo_project"
+product = "uv-tj-demo"
+target_software = "node.js"
+

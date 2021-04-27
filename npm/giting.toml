@@ -1,0 +1,9 @@
+name = "giting"
+ecosystem = "npm"
+source = "https://github.com/MangoRaft/git"
+
+[[cpe_configurations]]
+vendor = "mangoraft"
+product = "giting"
+target_software = "node.js"
+

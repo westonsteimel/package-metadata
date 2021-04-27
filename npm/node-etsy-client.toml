@@ -1,0 +1,9 @@
+name = "node-etsy-client"
+ecosystem = "npm"
+source = "https://github.com/creharmony/node-etsy-client"
+
+[[cpe_configurations]]
+vendor = "node-etsy-client_project"
+product = "node-etsy-client"
+target_software = "node.js"
+

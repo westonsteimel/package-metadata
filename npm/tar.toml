@@ -2,3 +2,6 @@ name = "tar"
 ecosystem = "npm"
 source = "https://github.com/npm/node-tar"
 
+[[cpe_configurations]]
+vendor = "node-tar_project"
+product = "node-tar"

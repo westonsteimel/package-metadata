@@ -1,0 +1,9 @@
+name = "windows-iedriver"
+ecosystem = "npm"
+source = "https://github.com/ISNTI0/Windows-IEDriver"
+
+[[cpe_configurations]]
+vendor = "windows-iedriver_project"
+product = "windows-iedriver"
+target_software = "node.js"
+

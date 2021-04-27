@@ -1,0 +1,9 @@
+name = "unzipper"
+ecosystem = "npm"
+source = "https://github.com/ZJONSSON/node-unzipper"
+
+[[cpe_configurations]]
+vendor = "unzipper_project"
+product = "unzipper"
+target_software = "node.js"
+

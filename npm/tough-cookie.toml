@@ -1,0 +1,9 @@
+name = "tough-cookie"
+ecosystem = "npm"
+source = "https://github.com/salesforce/tough-cookie"
+
+[[cpe_configurations]]
+vendor = "salesforce"
+product = "tough-cookie"
+target_software = "node.js"
+

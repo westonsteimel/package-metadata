@@ -1,0 +1,7 @@
+name = "serverliujiayi1"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "serverliujiayi1_project"
+product = "serverliujiayi1"
+target_software = "node.js"
+

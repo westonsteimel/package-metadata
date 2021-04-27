@@ -1,0 +1,13 @@
+name = "uglify-js"
+ecosystem = "npm"
+source = "https://github.com/mishoo/UglifyJS"
+
+[[cpe_configurations]]
+vendor = "lisperator"
+product = "uglifyjs"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "uglifyjs_project"
+product = "uglifyjs"
+target_software = "node.js"

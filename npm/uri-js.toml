@@ -1,0 +1,9 @@
+name = "uri-js"
+ecosystem = "npm"
+source = "https://github.com/garycourt/uri-js"
+
+[[cpe_configurations]]
+vendor = "uri-js_project"
+product = "uri-js"
+target_software = "node.js"
+

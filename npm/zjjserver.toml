@@ -1,0 +1,7 @@
+name = "zjjserver"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "zjjserver_project"
+product = "zjjserver"
+target_software = "node.js"
+

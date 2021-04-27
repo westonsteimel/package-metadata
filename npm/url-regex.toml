@@ -1,0 +1,8 @@
+name = "url-regex"
+ecosystem = "npm"
+source = "https://github.com/kevva/url-regex"
+
+[[cpe_configurations]]
+vendor = "url-regex_project"
+product = "url-regex"
+

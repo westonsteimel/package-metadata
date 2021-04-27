@@ -1,0 +1,9 @@
+name = "waterline-sequel"
+ecosystem = "npm"
+source = "https://github.com/balderdashy/waterline-sequel"
+
+[[cpe_configurations]]
+vendor = "balderdash"
+product = "waterline-sequel"
+target_software = "node.js"
+

@@ -1,0 +1,12 @@
+name = "url-parse"
+ecosystem = "npm"
+source = "https://github.com/unshiftio/url-parse"
+
+[[cpe_configurations]]
+vendor = "url-parse_project"
+product = "url-parse"
+part = "o"
+
+[[cpe_configurations]]
+vendor = "url-parse_project"
+product = "url-parse"

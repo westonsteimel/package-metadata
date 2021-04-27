@@ -1,0 +1,8 @@
+name = "uap-core"
+ecosystem = "npm"
+source = "https://github.com/ua-parser/uap-core"
+
+[[cpe_configurations]]
+vendor = "uap-core_project"
+product = "uap-core"
+

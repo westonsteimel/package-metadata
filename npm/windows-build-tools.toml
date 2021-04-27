@@ -1,0 +1,9 @@
+name = "windows-build-tools"
+ecosystem = "npm"
+source = "https://github.com/felixrieseberg/windows-build-tools"
+
+[[cpe_configurations]]
+vendor = "windows-build-tools_project"
+product = "windows-build-tools"
+target_software = "node.js"
+

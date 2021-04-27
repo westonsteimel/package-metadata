@@ -1,0 +1,9 @@
+name = "network-manager"
+ecosystem = "npm"
+source = "https://github.com/deepakk87/network-manager"
+
+[[cpe_configurations]]
+vendor = "network-manager_project"
+product = "network-manager"
+target_software = "node.js"
+

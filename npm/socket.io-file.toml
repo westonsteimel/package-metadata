@@ -1,0 +1,9 @@
+name = "socket.io-file"
+ecosystem = "npm"
+source = "https://github.com/rico345100/socket.io-file"
+
+[[cpe_configurations]]
+vendor = "socket.io-file_project"
+product = "socket.io-file"
+target_software = "node.js"
+

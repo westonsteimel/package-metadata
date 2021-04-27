@@ -1,0 +1,9 @@
+name = "serial-number"
+ecosystem = "npm"
+source = "https://github.com/es128/serial-number"
+
+[[cpe_configurations]]
+vendor = "serial-number_project"
+product = "serial-number"
+target_software = "node.js"
+

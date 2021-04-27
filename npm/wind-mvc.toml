@@ -1,0 +1,7 @@
+name = "wind-mvc"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "wind-mvc_project"
+product = "wind-mvc"
+target_software = "node.js"
+

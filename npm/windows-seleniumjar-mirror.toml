@@ -1,0 +1,9 @@
+name = "windows-seleniumjar-mirror"
+ecosystem = "npm"
+source = "https://github.com/craigallardyce/Windows_SeleniumJar"
+
+[[cpe_configurations]]
+vendor = "windows-seleniumjar-mirror_project"
+product = "windows-seleniumjar-mirror"
+target_software = "node.js"
+

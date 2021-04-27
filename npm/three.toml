@@ -1,0 +1,9 @@
+name = "three"
+ecosystem = "npm"
+source = "https://github.com/mrdoob/three.js"
+
+[[cpe_configurations]]
+vendor = "three_project"
+product = "three"
+target_software = "node.js"
+

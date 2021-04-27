@@ -1,0 +1,9 @@
+name = "tomita-parser"
+ecosystem = "npm"
+source = "https://github.com/ArtiomVao/tomita-parser"
+
+[[cpe_configurations]]
+vendor = "yandex"
+product = "tomita-parser"
+target_software = "node.js"
+

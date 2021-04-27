@@ -1,0 +1,9 @@
+name = "strider-sauce"
+ecosystem = "npm"
+source = "https://github.com/Strider-CD/strider-sauce"
+
+[[cpe_configurations]]
+vendor = "strider-sauce_project"
+product = "strider-sauce"
+target_software = "node.js"
+

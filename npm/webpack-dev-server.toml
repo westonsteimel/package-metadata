@@ -1,0 +1,8 @@
+name = "webpack-dev-server"
+ecosystem = "npm"
+source = "https://github.com/webpack/webpack-dev-server"
+
+[[cpe_configurations]]
+vendor = "webpack.js"
+product = "webpack-dev-server"
+

@@ -1,0 +1,9 @@
+name = "set-value"
+ecosystem = "npm"
+source = "https://github.com/jonschlinkert/set-value"
+
+[[cpe_configurations]]
+vendor = "set-value_project"
+product = "set-value"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "zwserver"
+ecosystem = "npm"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "zwserver_project"
+product = "zwserver"
+target_software = "node.js"
+

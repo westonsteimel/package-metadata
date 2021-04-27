@@ -1,0 +1,9 @@
+name = "utahcityfinder"
+ecosystem = "npm"
+source = "https://github.com/sdaltonb/utahCityFinder"
+
+[[cpe_configurations]]
+vendor = "utahcityfinder_project"
+product = "utahcityfinder"
+target_software = "node.js"
+
