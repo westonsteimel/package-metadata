@@ -1,0 +1,9 @@
+name = "decal"
+ecosystem = "npm"
+source = "https://github.com/gigafied/decal.js"
+
+[[cpe_configurations]]
+vendor = "decal_project"
+product = "decal"
+target_software = "node.js"
+

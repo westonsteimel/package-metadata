@@ -1,0 +1,8 @@
+name = "enpeem"
+ecosystem = "npm"
+source = "https://github.com/mikermcneil/enpeem"
+
+[[cpe_configurations]]
+vendor = "enpeem_project"
+product = "enpeem"
+

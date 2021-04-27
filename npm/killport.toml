@@ -1,0 +1,9 @@
+name = "killport"
+ecosystem = "npm"
+source = "https://github.com/ssnau/killport"
+
+[[cpe_configurations]]
+vendor = "killport_project"
+product = "killport"
+target_software = "node.js"
+

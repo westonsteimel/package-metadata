@@ -1,0 +1,9 @@
+name = "klona"
+ecosystem = "npm"
+source = "https://github.com/lukeed/klona"
+
+[[cpe_configurations]]
+vendor = "klona_project"
+product = "klona"
+target_software = "node.js"
+

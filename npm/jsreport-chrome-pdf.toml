@@ -1,0 +1,9 @@
+name = "jsreport-chrome-pdf"
+ecosystem = "npm"
+source = "https://github.com/jsreport/jsreport-chrome-pdf"
+
+[[cpe_configurations]]
+vendor = "jsreport"
+product = "jsreport-chrome-pdf"
+target_software = "node.js"
+

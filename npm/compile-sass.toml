@@ -1,0 +1,8 @@
+name = "compile-sass"
+ecosystem = "npm"
+source = "https://github.com/eiskalteschatten/compile-sass"
+
+[[cpe_configurations]]
+vendor = "compile-sass_project"
+product = "compile-sass"
+

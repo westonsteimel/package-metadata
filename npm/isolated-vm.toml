@@ -1,0 +1,9 @@
+name = "isolated-vm"
+ecosystem = "npm"
+source = "https://github.com/laverdet/isolated-vm"
+
+[[cpe_configurations]]
+vendor = "isolated-vm_project"
+product = "isolated-vm"
+target_software = "node.js"
+

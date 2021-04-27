@@ -6,3 +6,7 @@ source = "https://github.com/dojo/dojo"
 vendor = "dojotoolkit"
 product = "dojo"
 
+[[cpe_configurations]]
+vendor = "linuxfoundation"
+product = "dojo"
+target_software = "node.js"

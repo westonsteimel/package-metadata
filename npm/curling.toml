@@ -1,0 +1,9 @@
+name = "curling"
+ecosystem = "npm"
+source = "https://github.com/hgarcia/curling"
+
+[[cpe_configurations]]
+vendor = "curling_project"
+product = "curling"
+target_software = "node.js"
+

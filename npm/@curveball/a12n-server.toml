@@ -1,0 +1,9 @@
+name = "@curveball/a12n-server"
+ecosystem = "npm"
+source = "https://github.com/curveball/a12n-server"
+
+[[cpe_configurations]]
+vendor = "curveballjs"
+product = "a12n-server"
+target_software = "node.js"
+

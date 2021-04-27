@@ -1,0 +1,10 @@
+name = "lsof"
+ecosystem = "npm"
+source = "https://github.com/davglass/node-lsof"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "isof_project"
+product = "isof"
+target_software = "node.js"
+

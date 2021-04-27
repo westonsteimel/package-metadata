@@ -1,0 +1,9 @@
+name = "is-user-valid"
+ecosystem = "npm"
+source = "https://github.com/TDAF/is-user-valid"
+
+[[cpe_configurations]]
+vendor = "is-user-valid_project"
+product = "is-user-valid"
+target_software = "node.js"
+

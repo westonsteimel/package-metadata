@@ -1,0 +1,9 @@
+name = "jsreport"
+ecosystem = "npm"
+source = "https://github.com/jsreport/jsreport"
+
+[[cpe_configurations]]
+vendor = "jsreport"
+product = "jsreport"
+target_software = "node.js"
+

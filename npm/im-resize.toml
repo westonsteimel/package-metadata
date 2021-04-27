@@ -1,0 +1,9 @@
+name = "im-resize"
+ecosystem = "npm"
+source = "https://github.com/Turistforeningen/node-im-resize"
+
+[[cpe_configurations]]
+vendor = "dnt"
+product = "im-resize"
+target_software = "node.js"
+

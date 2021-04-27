@@ -1,0 +1,9 @@
+name = "im-metadata"
+ecosystem = "npm"
+source = "https://github.com/Turistforeningen/node-im-metadata"
+
+[[cpe_configurations]]
+vendor = "dnt"
+product = "im-metadata"
+target_software = "node.js"
+

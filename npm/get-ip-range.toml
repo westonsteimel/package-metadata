@@ -1,0 +1,9 @@
+name = "get-ip-range"
+ecosystem = "npm"
+source = "https://github.com/JoeScho/get-ip-range"
+
+[[cpe_configurations]]
+vendor = "get-ip-range_project"
+product = "get-ip-range"
+target_software = "node.js"
+
