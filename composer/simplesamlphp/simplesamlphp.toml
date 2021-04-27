@@ -1,0 +1,8 @@
+name = "simplesamlphp/simplesamlphp"
+ecosystem = "composer"
+source = "https://github.com/simplesamlphp/simplesamlphp"
+
+[[cpe_configurations]]
+vendor = "simplesamlphp"
+product = "simplesamlphp"
+

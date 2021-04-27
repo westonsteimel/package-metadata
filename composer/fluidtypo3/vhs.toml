@@ -1,0 +1,9 @@
+name = "fluidtypo3/vhs"
+ecosystem = "composer"
+source = "https://github.com/FluidTYPO3/vhs/tree/development"
+
+[[cpe_configurations]]
+vendor = "vhs_project"
+product = "vhs"
+target_software = "typo3"
+

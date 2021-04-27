@@ -1,0 +1,8 @@
+name = "sylius/resource-bundle"
+ecosystem = "composer"
+source = "https://github.com/Sylius/SyliusResourceBundle"
+
+[[cpe_configurations]]
+vendor = "sylius"
+product = "syliusresourcebundle"
+

@@ -1,0 +1,11 @@
+name = "mautic/core"
+ecosystem = "composer"
+source = "https://github.com/mautic/mautic"
+
+[[cpe_configurations]]
+vendor = "acquia"
+product = "mautic"
+
+[[cpe_configurations]]
+vendor = "mautic"
+product = "mautic"

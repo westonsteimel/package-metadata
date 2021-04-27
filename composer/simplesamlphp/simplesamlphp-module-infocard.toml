@@ -1,0 +1,9 @@
+name = "simplesamlphp/simplesamlphp-module-infocard"
+ecosystem = "composer"
+source = "https://github.com/simplesamlphp/simplesamlphp-module-infocard"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "simplesamlphp"
+product = "infocard_module"
+

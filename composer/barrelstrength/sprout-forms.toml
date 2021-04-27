@@ -1,0 +1,8 @@
+name = "barrelstrength/sprout-forms"
+ecosystem = "composer"
+source = "https://github.com/barrelstrength/sprout-forms"
+
+[[cpe_configurations]]
+vendor = "barrelstrengthdesign"
+product = "sprout_forms"
+

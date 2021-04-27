@@ -1,0 +1,11 @@
+name = "phpmailer/phpmailer"
+ecosystem = "composer"
+source = "https://github.com/PHPMailer/PHPMailer"
+
+[[cpe_configurations]]
+vendor = "phpmailer_project"
+product = "phpmailer"
+
+[[cpe_configurations]]
+vendor = "phpmailer"
+product = "phpmailer"

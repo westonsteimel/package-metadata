@@ -1,0 +1,8 @@
+name = "symfony/symfony"
+ecosystem = "composer"
+source = "https://github.com/symfony/symfony"
+
+[[cpe_configurations]]
+vendor = "sensiolabs"
+product = "symfony"
+
