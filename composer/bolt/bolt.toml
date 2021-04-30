@@ -1,0 +1,15 @@
+name = "bolt/bolt"
+ecosystem = "composer"
+source = "https://github.com/bolt/bolt"
+
+[[cpe_configurations]]
+vendor = "boltcms"
+product = "bolt"
+
+[[cpe_configurations]]
+vendor = "boltcms"
+product = "bolt"
+
+[[cpe_configurations]]
+vendor = "bolt"
+product = "bolt_cms"

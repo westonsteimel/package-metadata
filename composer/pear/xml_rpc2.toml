@@ -1,0 +1,7 @@
+name = "pear/xml_rpc2"
+ecosystem = "composer"
+source = "hhttps://github.com/pear/XML_RPC2"
+
+[[cpe_configurations]]
+vendor = "pear"
+product = "xml_rpc2"

@@ -1,0 +1,11 @@
+name = "prestashop/productcomments"
+ecosystem = "composer"
+source = "https://github.com/PrestaShop/productcomments"
+
+[[cpe_configurations]]
+vendor = "prestashop"
+product = "productcomments"
+
+[[cpe_configurations]]
+vendor = "prestashop"
+product = "product_comments"

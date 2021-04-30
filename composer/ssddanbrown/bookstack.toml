@@ -1,0 +1,8 @@
+name = "ssddanbrown/bookstack"
+ecosystem = "composer"
+source = "https://github.com/ssddanbrown/BookStack"
+
+[[cpe_configurations]]
+vendor = "bookstackapp"
+product = "bookstack"
+

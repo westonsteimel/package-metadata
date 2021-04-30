@@ -1,0 +1,8 @@
+name = "usmanhalalit/pixie"
+ecosystem = "composer"
+source = "https://github.com/usmanhalalit/pixie"
+
+[[cpe_configurations]]
+vendor = "pixie_project"
+product = "pixie"
+

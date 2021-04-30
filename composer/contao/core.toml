@@ -1,0 +1,11 @@
+name = "contao/core"
+ecosystem = "composer"
+source = "https://github.com/contao/core"
+
+[[cpe_configurations]]
+vendor = "contao"
+product = "contao"
+
+[[cpe_configurations]]
+vendor = "contao"
+product = "contao_cms"

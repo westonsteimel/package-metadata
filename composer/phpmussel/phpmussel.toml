@@ -1,0 +1,8 @@
+name = "phpmussel/phpmussel"
+ecosystem = "composer"
+source = "https://github.com/phpMussel/phpMussel"
+
+[[cpe_configurations]]
+vendor = "phpmussel_project"
+product = "phpmussel"
+

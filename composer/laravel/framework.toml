@@ -1,0 +1,8 @@
+name = "laravel/framework"
+ecosystem = "composer"
+source = "https://github.com/laravel/framework"
+
+[[cpe_configurations]]
+vendor = "laravel"
+product = "framework"
+

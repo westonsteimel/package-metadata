@@ -1,0 +1,8 @@
+name = "getgrav/grav"
+ecosystem = "composer"
+source = "https://github.com/getgrav/grav"
+
+[[cpe_configurations]]
+vendor = "getgrav"
+product = "grav"
+

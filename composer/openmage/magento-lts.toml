@@ -1,0 +1,16 @@
+name = "openmage/magento-lts"
+ecosystem = "composer"
+source = "https://github.com/OpenMage/magento-lts"
+
+[[cpe_configurations]]
+vendor = "openmage"
+product = "magento"
+
+[[cpe_configurations]]
+vendor = "openmage"
+product = "openmage_long_term_support"
+
+[[cpe_configurations]]
+vendor = "openmage"
+product = "openmage"
+

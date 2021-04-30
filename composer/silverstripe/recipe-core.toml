@@ -1,0 +1,8 @@
+name = "silverstripe/recipe-core"
+ecosystem = "composer"
+source = "https://github.com/silverstripe/silverstripe-recipe-core"
+
+[[cpe_configurations]]
+vendor = "silverstripe"
+product = "recipe"
+

@@ -1,0 +1,8 @@
+name = "silverstripe/restfulserver"
+ecosystem = "composer"
+source = "https://github.com/silverstripe/silverstripe-restfulserver"
+
+[[cpe_configurations]]
+vendor = "silverstripe"
+product = "restfulserver"
+

@@ -1,0 +1,8 @@
+name = "moodle/moodle"
+ecosystem = "composer"
+source = "https://github.com/moodle/moodle"
+
+[[cpe_configurations]]
+vendor = "moodle"
+product = "moodle"
+

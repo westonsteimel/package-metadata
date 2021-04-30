@@ -1,0 +1,12 @@
+name = "magento/core"
+ecosystem = "composer"
+source = "https://github.com/bragento/magento-core"
+
+[[cpe_configurations]]
+vendor = "magento"
+product = "magento"
+
+[[cpe_configurations]]
+vendor = "magento"
+product = "magento2"
+

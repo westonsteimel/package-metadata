@@ -1,0 +1,8 @@
+name = "facade/ignition"
+ecosystem = "composer"
+source = "https://github.com/facade/ignition"
+
+[[cpe_configurations]]
+vendor = "facade"
+product = "ignition"
+

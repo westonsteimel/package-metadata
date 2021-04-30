@@ -1,0 +1,7 @@
+name = "prestashop/dashproducts"
+ecosystem = "composer"
+source = "https://github.com/PrestaShop/dashproducts"
+
+[[cpe_configurations]]
+vendor = "prestashop"
+product = "dashboard_products"

@@ -1,0 +1,8 @@
+name = "phpmyadmin/phpmyadmin"
+ecosystem = "composer"
+source = "https://github.com/phpmyadmin/composer"
+
+[[cpe_configurations]]
+vendor = "phpmyadmin"
+product = "phpmyadmin"
+

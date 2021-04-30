@@ -1,0 +1,15 @@
+name = "pear/archive_tar"
+ecosystem = "composer"
+source = "https://github.com/pear/Archive_Tar"
+
+[[cpe_configurations]]
+vendor = "php"
+product = "archive_tar"
+
+[[cpe_configurations]]
+vendor = "pear"
+product = "pear_archive_tar"
+
+[[cpe_configurations]]
+vendor = "php"
+product = "pear_archive_tar"

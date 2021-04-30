@@ -1,0 +1,9 @@
+name = "buddypress/buddypress"
+ecosystem = "composer"
+source = "https://plugins.svn.wordpress.org/buddypress/"
+
+[[cpe_configurations]]
+vendor = "buddypress"
+product = "buddypress"
+target_software = "wordpress"
+

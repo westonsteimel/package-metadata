@@ -1,0 +1,8 @@
+name = "smarty/smarty"
+ecosystem = "composer"
+source = "https://github.com/smarty-php/smarty"
+
+[[cpe_configurations]]
+vendor = "smarty"
+product = "smarty"
+

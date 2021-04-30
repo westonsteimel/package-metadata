@@ -1,0 +1,7 @@
+name = "prestashop/ps_linklist"
+ecosystem = "composer"
+source = "https://github.com/PrestaShop/ps_linklist"
+
+[[cpe_configurations]]
+vendor = "prestashop"
+product = "prestashop_linklist"

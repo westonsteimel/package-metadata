@@ -1,0 +1,8 @@
+name = "oneup/uploader-bundle"
+ecosystem = "composer"
+source = "https://github.com/1up-lab/OneupUploaderBundle"
+
+[[cpe_configurations]]
+vendor = "1up"
+product = "oneupuploaderbundle"
+

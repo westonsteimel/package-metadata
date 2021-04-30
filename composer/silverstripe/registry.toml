@@ -1,0 +1,8 @@
+name = "silverstripe/registry"
+ecosystem = "composer"
+source = "https://github.com/silverstripe/silverstripe-registry"
+
+[[cpe_configurations]]
+vendor = "silverstripe"
+product = "registry"
+

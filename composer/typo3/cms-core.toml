@@ -1,0 +1,8 @@
+name = "typo3/cms-core"
+ecosystem = "composer"
+source = "https://github.com/TYPO3-CMS/core"
+
+[[cpe_configurations]]
+vendor = "typo3"
+product = "typo3"
+

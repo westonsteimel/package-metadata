@@ -1,0 +1,8 @@
+name = "pimcore/pimcore"
+ecosystem = "composer"
+source = "https://github.com/pimcore/pimcore"
+
+[[cpe_configurations]]
+vendor = "pimcore"
+product = "pimcore"
+

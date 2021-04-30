@@ -1,0 +1,8 @@
+name = "centreon/centreon"
+ecosystem = "composer"
+source = "https://github.com/centreon/centreon"
+
+[[cpe_configurations]]
+vendor = "centreon"
+product = "centreon"
+

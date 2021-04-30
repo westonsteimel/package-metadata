@@ -1,0 +1,8 @@
+name = "librenms/librenms"
+ecosystem = "composer"
+source = "https://github.com/librenms/librenms"
+
+[[cpe_configurations]]
+vendor = "librenms"
+product = "librenms"
+
