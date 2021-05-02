@@ -1,0 +1,8 @@
+name = "google-appengine"
+ecosystem = "pypi"
+source = "https://github.com/worrp/gae-sdk"
+
+[[cpe_configurations]]
+vendor = "google"
+product = "app_engine_python_sdk"
+

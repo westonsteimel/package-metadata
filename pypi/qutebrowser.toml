@@ -1,5 +1,7 @@
 name = "qutebrowser"
 ecosystem = "pypi"
+source = "https://github.com/qutebrowser/qutebrowser"
+
 [[cpe_configurations]]
 vendor = "qutebrowser"
 product = "qutebrowser"

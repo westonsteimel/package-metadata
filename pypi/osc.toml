@@ -1,0 +1,8 @@
+name = "osc"
+ecosystem = "pypi"
+source = "https://github.com/openSUSE/osc"
+
+[[cpe_configurations]]
+vendor = "opensuse"
+product = "osc"
+

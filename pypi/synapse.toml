@@ -1,0 +1,6 @@
+name = "synapse"
+ecosystem = "pypi"
+source = "https://github.com/vertexproject/synapse"
+
+# This project is NOT related to matrix:synapse, razer:synapse, or apache:synapse
+

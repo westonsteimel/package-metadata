@@ -1,7 +1,8 @@
 name = "Paste"
 ecosystem = "pypi"
+source = "https://github.com/cdent/paste"
 
 [[cpe_configurations]]
 vendor = "pythonpaste"
-product = "Paste"
+product = "paste"
 

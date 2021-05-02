@@ -1,6 +1,12 @@
 name = "ironic-inspector"
 ecosystem = "pypi"
+source = "https://opendev.org/openstack/ironic-inspector"
+
 [[cpe_configurations]]
 vendor = "openstack"
 product = "ironic_inspector"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "ironic-inspector"
 

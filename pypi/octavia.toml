@@ -1,5 +1,6 @@
 name = "octavia"
 ecosystem = "pypi"
+source = "https://opendev.org/openstack/octavia"
 
 [[cpe_configurations]]
 vendor = "opendev"

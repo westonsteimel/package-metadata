@@ -1,0 +1,6 @@
+name = "xdg"
+ecosystem = "pypi"
+source = "https://github.com/srstevenson/xdg"
+
+# I don't believe that this is relate to python:pyxdg
+

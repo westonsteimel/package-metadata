@@ -1,0 +1,9 @@
+name = "elastic-apm"
+ecosystem = "pypi"
+source = "https://github.com/elastic/apm-agent-python"
+
+[[cpe_configurations]]
+vendor = "elastic"
+product = "apm_agent"
+target_software = "python"
+

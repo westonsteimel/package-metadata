@@ -1,6 +1,0 @@
-name = "python-keystoneclient"
-ecosystem = "pypi"
-[[cpe_configurations]]
-vendor = "openstack"
-product = "python-keystoneclient"
-

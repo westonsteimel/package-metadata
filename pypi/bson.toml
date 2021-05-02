@@ -1,0 +1,6 @@
+name = "bson"
+ecosystem = "pypi"
+source = "http://github.com/py-bson/bson"
+
+# bson_project:bson currently refers to the mongodb bson rubygem
+# mongodb:bson refers to the bson module within mongo itself

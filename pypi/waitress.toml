@@ -1,5 +1,7 @@
 name = "waitress"
 ecosystem = "pypi"
+source = "https://github.com/Pylons/waitress"
+
 [[cpe_configurations]]
 vendor = "agendaless"
 product = "waitress"

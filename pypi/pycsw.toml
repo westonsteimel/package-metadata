@@ -1,5 +1,7 @@
 name = "pycsw"
 ecosystem = "pypi"
+source = "https://github.com/geopython/pycsw"
+
 [[cpe_configurations]]
 vendor = "pycsw"
 product = "pycsw"

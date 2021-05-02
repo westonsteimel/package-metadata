@@ -10,3 +10,6 @@ product = "pyopenssl"
 vendor = "pyopenssl_project"
 product = "pyopenssl"
 
+[[cpe_configurations]]
+vendor = "jean-paul_calderone"
+product = "pyopenssl"

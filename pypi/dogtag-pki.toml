@@ -1,0 +1,8 @@
+name = "dogtag-pki"
+ecosystem = "pypi"
+source = "https://github.com/dogtagpki/pki"
+
+[[cpe_configurations]]
+vendor = "dogtagpki"
+product = "dogtagpki"
+

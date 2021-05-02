@@ -1,6 +1,12 @@
 name = "markdown2"
 ecosystem = "pypi"
+source = "http://github.com/trentm/python-markdown2"
+
 [[cpe_configurations]]
 vendor = "python-markdown2_project"
 product = "python-markdown2"
+
+[[cpe_configurations]]
+vendor = "markdown2_project"
+product = "markdown2"
 

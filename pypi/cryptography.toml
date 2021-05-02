@@ -14,3 +14,7 @@ product = "python-cryptography"
 [[cpe_configurations]]
 vendor = "python-cryptography_project"
 product = "python-cryptography"
+
+[[cpe_configurations]]
+vendor = "cryptography.io"
+product = "cryptography"

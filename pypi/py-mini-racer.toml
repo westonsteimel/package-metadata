@@ -1,5 +1,7 @@
 name = "py-mini-racer"
 ecosystem = "pypi"
+source = "https://github.com/sqreen/PyMiniRacer"
+
 [[cpe_configurations]]
 vendor = "sqreen"
 product = "python_mini_racer"

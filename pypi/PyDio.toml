@@ -1,0 +1,6 @@
+name = "PyDio"
+ecosystem = "pypi"
+source = "https://gitlab.com/zef1r/pydio"
+
+# Seems to be entirely unrelated to pydio:pydio or pydio:cells
+

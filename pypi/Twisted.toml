@@ -1,5 +1,7 @@
 name = "Twisted"
 ecosystem = "pypi"
+source = "https://github.com/twisted/twisted"
+
 [[cpe_configurations]]
 vendor = "twistedmatrix"
 product = "twisted"

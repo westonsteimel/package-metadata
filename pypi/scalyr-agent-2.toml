@@ -1,0 +1,6 @@
+name = "scalyr-agent-2"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "scalyr"
+product = "scalyr_agent"
+

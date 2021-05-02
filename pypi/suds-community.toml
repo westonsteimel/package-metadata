@@ -1,0 +1,8 @@
+name = "suds-community"
+ecosystem = "pypi"
+source = "https://github.com/suds-community/suds"
+
+[[cpe_configurations]]
+vendor = "jeff_ortel"
+product = "suds"
+

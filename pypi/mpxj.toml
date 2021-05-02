@@ -1,0 +1,8 @@
+name = "mpxj"
+ecosystem = "pypi"
+source = "https://github.com/joniles/mpxj"
+
+[[cpe_configurations]]
+vendor = "mpxj"
+product = "mpxj"
+

@@ -1,5 +1,7 @@
 name = "lxml"
 ecosystem = "pypi"
+source = "https://github.com/lxml/lxml"
+
 [[cpe_configurations]]
 vendor = "lxml"
 product = "lxml"

@@ -1,8 +1,13 @@
 name = "Beaker"
 ecosystem = "pypi"
+source = "https://github.com/bbangert/beaker"
 
 [[cpe_configurations]]
 vendor = "python"
 product = "beaker"
 
+[[cpe_configurations]]
+vendor = "beakerbrowser"
+product = "beaker"
+target_software = "python"
 

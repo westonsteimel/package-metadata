@@ -1,6 +1,6 @@
-name = "python-saml"
+name = "python3-saml"
 ecosystem = "pypi"
-source = "https://github.com/onelogin/python-saml"
+source = "https://github.com/onelogin/python3-saml"
 
 [[cpe_configurations]]
 vendor = "onelogin"

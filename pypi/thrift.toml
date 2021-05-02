@@ -1,5 +1,7 @@
 name = "thrift"
 ecosystem = "pypi"
+source = "https://www.github.com/apache/thrift/"
+
 [[cpe_configurations]]
 vendor = "apache"
 product = "thrift"

@@ -1,0 +1,8 @@
+name = "bsdiff4"
+ecosystem = "pypi"
+source = "https://github.com/ilanschnell/bsdiff4"
+
+[[cpe_configurations]]
+vendor = "pypi"
+product = "bsdiff4"
+

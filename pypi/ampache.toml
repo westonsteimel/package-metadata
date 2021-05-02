@@ -1,0 +1,8 @@
+name = "ampache"
+ecosystem = "pypi"
+source = "https://github.com/ampache/python3-ampache"
+
+[[cpe_configurations]]
+vendor = "ampache"
+product = "ampache"
+
