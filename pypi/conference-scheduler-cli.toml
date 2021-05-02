@@ -1,5 +1,7 @@
 name = "conference-scheduler-cli"
 ecosystem = "pypi"
+source = "https://github.com/pyconuk/conferencescheduler-cli"
+
 [[cpe_configurations]]
 vendor = "pyconuk"
 product = "conference-scheduler-cli"

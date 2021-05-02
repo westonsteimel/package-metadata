@@ -1,5 +1,7 @@
 name = "cherrymusic"
 ecosystem = "pypi"
+source = "https://github.com/devsnd/cherrymusic"
+
 [[cpe_configurations]]
 vendor = "fomori"
 product = "cherrymusic"

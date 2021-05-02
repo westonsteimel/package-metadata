@@ -1,5 +1,6 @@
 name = "blackduck"
 ecosystem = "pypi"
+source = "https://github.com/blackducksoftware/hub-rest-api-python"
 
 [[cpe_configurations]]
 vendor = "synopsys"

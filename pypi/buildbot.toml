@@ -1,5 +1,7 @@
 name = "buildbot"
 ecosystem = "pypi"
+source = "https://github.com/buildbot/buildbot"
+
 [[cpe_configurations]]
 vendor = "buildbot"
 product = "buildbot"

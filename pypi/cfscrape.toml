@@ -1,5 +1,7 @@
 name = "cfscrape"
 ecosystem = "pypi"
+source = "https://github.com/Anorov/cloudflare-scrape"
+
 [[cpe_configurations]]
 vendor = "cloudflare-scrape_project"
 product = "cloudflare-scrape"

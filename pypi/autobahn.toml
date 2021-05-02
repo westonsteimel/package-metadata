@@ -1,5 +1,7 @@
 name = "autobahn"
 ecosystem = "pypi"
+source = "https://github.com/crossbario/autobahn-python"
+
 [[cpe_configurations]]
 vendor = "crossbar"
 product = "autobahn"

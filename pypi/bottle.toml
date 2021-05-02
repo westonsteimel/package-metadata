@@ -1,5 +1,7 @@
 name = "bottle"
 ecosystem = "pypi"
+source = "https://github.com/bottlepy/bottle"
+
 [[cpe_configurations]]
 vendor = "bottlepy"
 product = "bottle"

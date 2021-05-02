@@ -1,5 +1,7 @@
 name = "cabot"
 ecosystem = "pypi"
+source = "https://github.com/arachnys/cabot"
+
 [[cpe_configurations]]
 vendor = "arachnys"
 product = "cabot"

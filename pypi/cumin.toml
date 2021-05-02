@@ -1,5 +1,7 @@
 name = "cumin"
 ecosystem = "pypi"
+source = "https://github.com/wikimedia/cumin"
+
 [[cpe_configurations]]
 vendor = "trevor_mckay"
 product = "cumin"

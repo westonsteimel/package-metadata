@@ -1,5 +1,7 @@
 name = "bleach"
 ecosystem = "pypi"
+source = "https://github.com/mozilla/bleach"
+
 [[cpe_configurations]]
 vendor = "mozilla"
 product = "bleach"

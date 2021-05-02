@@ -1,5 +1,6 @@
 name = "cobbler"
 ecosystem = "pypi"
+source = "https://github.com/cobbler/cobbler"
 
 [[cpe_configurations]]
 vendor = "cobblerd"

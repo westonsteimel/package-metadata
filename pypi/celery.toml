@@ -1,5 +1,7 @@
 name = "celery"
 ecosystem = "pypi"
+source = "https://github.com/celery/celery"
+
 [[cpe_configurations]]
 vendor = "celeryproject"
 product = "celery"

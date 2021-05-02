@@ -1,5 +1,7 @@
 name = "apache-airflow"
 ecosystem = "pypi"
+source = "https://github.com/apache/airflow"
+
 [[cpe_configurations]]
 vendor = "apache"
 product = "airflow"

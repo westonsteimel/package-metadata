@@ -1,5 +1,6 @@
 name = "ansible-vault"
 ecosystem = "pypi"
+source = "https://github.com/tomoh1r/ansible-vault"
 
 [[cpe_configurations]]
 vendor = "ansible-vault_project"

@@ -1,5 +1,7 @@
 name = "apache-libcloud"
 ecosystem = "pypi"
+source = "https://github.com/apache/libcloud"
+
 [[cpe_configurations]]
 vendor = "apache"
 product = "libcloud"

@@ -1,5 +1,7 @@
 name = "colander"
 ecosystem = "pypi"
+source = "https://github.com/Pylons/colander"
+
 [[cpe_configurations]]
 vendor = "pylonsproject"
 product = "colander"

@@ -1,5 +1,7 @@
 name = "CairoSVG"
 ecosystem = "pypi"
+source = "https://github.com/Kozea/CairoSVG"
+
 [[cpe_configurations]]
 vendor = "courtbouillon"
 product = "cairosvg"

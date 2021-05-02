@@ -1,5 +1,7 @@
 name = "bodhi"
 ecosystem = "pypi"
+source = "https://github.com/fedora-infra/bodhi"
+
 [[cpe_configurations]]
 vendor = "redhat"
 product = "bodhi"

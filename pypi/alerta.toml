@@ -1,5 +1,7 @@
 name = "alerta"
 ecosystem = "pypi"
+source = "https://github.com/guardian/alerta"
+
 [[cpe_configurations]]
 vendor = "alerta_project"
 product = "alerta"

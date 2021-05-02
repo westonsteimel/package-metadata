@@ -1,5 +1,7 @@
 name = "confire"
 ecosystem = "pypi"
+source = "https://github.com/bbengfort/confire"
+
 [[cpe_configurations]]
 vendor = "confire_project"
 product = "confire"

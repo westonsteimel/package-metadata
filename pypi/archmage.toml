@@ -1,5 +1,7 @@
 name = "archmage"
 ecosystem = "pypi"
+source = "https://github.com/dottedmag/archmage"
+
 [[cpe_configurations]]
 vendor = "archmage_project"
 product = "archmage"

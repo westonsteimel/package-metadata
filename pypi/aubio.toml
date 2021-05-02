@@ -1,5 +1,7 @@
 name = "aubio"
 ecosystem = "pypi"
+source = "https://github.com/aubio/aubio"
+
 [[cpe_configurations]]
 vendor = "aubio"
 product = "aubio"

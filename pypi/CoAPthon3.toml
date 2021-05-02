@@ -1,5 +1,7 @@
 name = "CoAPthon3"
 ecosystem = "pypi"
+source = "https://github.com/Tanganelli/CoAPthon3"
+
 [[cpe_configurations]]
 vendor = "coapthon3_project"
 product = "coapthon3"
