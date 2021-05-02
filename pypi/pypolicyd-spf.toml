@@ -1,0 +1,8 @@
+name = "pypolicyd-spf"
+ecosystem = "pypi"
+source = "https://git.launchpad.net/pypolicyd-spf"
+
+[[cpe_configurations]]
+vendor = "pypolicyd-spf_project"
+product = "pypolicyd-spf"
+

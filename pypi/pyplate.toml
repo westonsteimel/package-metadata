@@ -1,0 +1,8 @@
+name = "pyplate"
+ecosystem = "pypi"
+source = "https://github.com/astrotuvi/pyplate"
+
+[[cpe_configurations]]
+vendor = "pyplate"
+product = "pyplate"
+

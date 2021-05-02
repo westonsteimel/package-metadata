@@ -1,0 +1,8 @@
+name = "fastecdsa"
+ecosystem = "pypi"
+source = "https://github.com/AntonKueltz/fastecdsa"
+
+[[cpe_configurations]]
+vendor = "fastecdsa_project"
+product = "fastecdsa"
+

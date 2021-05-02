@@ -1,0 +1,8 @@
+name = "pyrad"
+ecosystem = "pypi"
+source = "https://github.com/pyradius/pyrad"
+
+[[cpe_configurations]]
+vendor = "pyrad_project"
+product = "pyrad"
+
