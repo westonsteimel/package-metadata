@@ -1,5 +1,7 @@
 name = "feedgen"
 ecosystem = "pypi"
+source = "https://github.com/lkiesow/python-feedgen"
+
 [[cpe_configurations]]
 vendor = "feedgen_project"
 product = "feedgen"

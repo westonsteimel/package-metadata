@@ -1,5 +1,7 @@
 name = "django-user-sessions"
 ecosystem = "pypi"
+source = "http://github.com/Bouke/django-user-sessions"
+
 [[cpe_configurations]]
 vendor = "django-user-sessions_project"
 product = "django-user-sessions"

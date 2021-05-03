@@ -1,5 +1,7 @@
 name = "decorator"
 ecosystem = "pypi"
+source = "https://github.com/micheles/decorator"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "decorator"

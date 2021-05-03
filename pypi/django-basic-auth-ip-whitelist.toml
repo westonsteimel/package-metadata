@@ -1,5 +1,7 @@
 name = "django-basic-auth-ip-whitelist"
 ecosystem = "pypi"
+source = "https://github.com/tm-kn/django-basic-auth-ip-whitelist"
+
 [[cpe_configurations]]
 vendor = "django-basic-auth-ip-whitelist_project"
 product = "django-basic-auth-ip-whitelist"

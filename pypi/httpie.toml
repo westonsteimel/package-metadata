@@ -1,5 +1,7 @@
 name = "httpie"
 ecosystem = "pypi"
+source = "https://github.com/httpie/httpie"
+
 [[cpe_configurations]]
 vendor = "httpie"
 product = "httpie"

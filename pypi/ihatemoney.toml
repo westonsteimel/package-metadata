@@ -1,5 +1,7 @@
 name = "ihatemoney"
 ecosystem = "pypi"
+source = "https://github.com/spiral-project/ihatemoney"
+
 [[cpe_configurations]]
 vendor = "ihatemoney"
 product = "i_hate_money"

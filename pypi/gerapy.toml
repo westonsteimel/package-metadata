@@ -1,5 +1,7 @@
 name = "gerapy"
 ecosystem = "pypi"
+source = "https://github.com/Gerapy/Gerapy"
+
 [[cpe_configurations]]
 vendor = "gerapy"
 product = "gerapy"

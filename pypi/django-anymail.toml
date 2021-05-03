@@ -1,5 +1,7 @@
 name = "django-anymail"
 ecosystem = "pypi"
+source = "https://github.com/anymail/django-anymail"
+
 [[cpe_configurations]]
 vendor = "django-anymail_project"
 product = "django-anymail"

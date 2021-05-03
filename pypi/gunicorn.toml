@@ -1,5 +1,7 @@
 name = "gunicorn"
 ecosystem = "pypi"
+source = "https://github.com/benoitc/gunicorn"
+
 [[cpe_configurations]]
 vendor = "gunicorn"
 product = "gunicorn"

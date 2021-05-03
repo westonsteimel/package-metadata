@@ -1,5 +1,7 @@
 name = "horizon"
 ecosystem = "pypi"
+source = "https://opendev.org/openstack/horizon"
+
 [[cpe_configurations]]
 vendor = "openstack"
 product = "horizon"

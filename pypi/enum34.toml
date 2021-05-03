@@ -1,5 +1,7 @@
 name = "enum34"
 ecosystem = "pypi"
+source = "https://bitbucket.org/stoneleaf/enum34"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "enum34"

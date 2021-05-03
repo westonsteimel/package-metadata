@@ -1,5 +1,7 @@
 name = "Flask-Security-Too"
 ecosystem = "pypi"
+source = "https://github.com/Flask-Middleware/flask-security"
+
 [[cpe_configurations]]
 vendor = "flask-security-too_project"
 product = "flask-security-too"

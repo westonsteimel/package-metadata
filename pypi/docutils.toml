@@ -1,5 +1,7 @@
 name = "docutils"
 ecosystem = "pypi"
+source = "https://sourceforge.net/projects/docutils"
+
 [[cpe_configurations]]
 vendor = "python-docutils_project"
 product = "python-docutils"

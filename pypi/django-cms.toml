@@ -1,5 +1,7 @@
 name = "django-cms"
 ecosystem = "pypi"
+source = "https://github.com/django-cms/django-cms"
+
 [[cpe_configurations]]
 vendor = "django-cms"
 product = "django_cms"

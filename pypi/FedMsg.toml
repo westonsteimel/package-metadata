@@ -1,5 +1,7 @@
 name = "FedMsg"
 ecosystem = "pypi"
+source = "https://github.com/fedora-infra/fedmsg"
+
 [[cpe_configurations]]
 vendor = "fedoraproject"
 product = "fedmsg"

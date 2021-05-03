@@ -1,5 +1,7 @@
 name = "indy-node"
 ecosystem = "pypi"
+source = "https://github.com/hyperledger/indy-node"
+
 [[cpe_configurations]]
 vendor = "linuxfoundation"
 product = "indy-node"

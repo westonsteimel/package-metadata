@@ -1,5 +1,7 @@
-name = "formencode"
+name = "FormEncode"
 ecosystem = "pypi"
+source = "https://github.com/formencode/formencode"
+
 [[cpe_configurations]]
 vendor = "formencode"
 product = "formencode"

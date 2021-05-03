@@ -1,5 +1,7 @@
 name = "eyed3"
 ecosystem = "pypi"
+source = "https://github.com/nicfit/eyeD3"
+
 [[cpe_configurations]]
 vendor = "travis_shirk"
 product = "eyed3"

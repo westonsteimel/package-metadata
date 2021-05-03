@@ -1,5 +1,7 @@
 name = "invenio-records"
 ecosystem = "pypi"
+source = "https://github.com/inveniosoftware/invenio-records"
+
 [[cpe_configurations]]
 vendor = "inveniosoftware"
 product = "invenio-records"

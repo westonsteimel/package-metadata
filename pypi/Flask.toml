@@ -1,5 +1,7 @@
-name = "flask"
+name = "Flask"
 ecosystem = "pypi"
+source = "https://github.com/pallets/flask"
+
 [[cpe_configurations]]
 vendor = "palletsprojects"
 product = "flask"

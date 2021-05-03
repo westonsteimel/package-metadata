@@ -1,5 +1,7 @@
 name = "django-epiceditor"
 ecosystem = "pypi"
+source = "https://github.com/barraq/django-epiceditor"
+
 [[cpe_configurations]]
 vendor = "django-epiceditor_project"
 product = "django-epiceditor"

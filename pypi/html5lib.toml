@@ -1,5 +1,7 @@
 name = "html5lib"
 ecosystem = "pypi"
+source = "https://github.com/html5lib/html5lib-python"
+
 [[cpe_configurations]]
 vendor = "html5lib"
 product = "html5lib"

@@ -1,5 +1,7 @@
 name = "flask-oidc"
 ecosystem = "pypi"
+source = "https://github.com/puiterwijk/flask-oidc"
+
 [[cpe_configurations]]
 vendor = "flask-oidc_project"
 product = "flask-oidc"

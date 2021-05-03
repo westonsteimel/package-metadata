@@ -1,5 +1,7 @@
 name = "dulwich"
 ecosystem = "pypi"
+source = "https://github.com/dulwich/dulwich"
+
 [[cpe_configurations]]
 vendor = "dulwich_project"
 product = "dulwich"

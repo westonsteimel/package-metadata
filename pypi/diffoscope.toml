@@ -1,5 +1,7 @@
 name = "diffoscope"
 ecosystem = "pypi"
+source = "https://salsa.debian.org/reproducible-builds/diffoscope"
+
 [[cpe_configurations]]
 vendor = "reproducible_builds"
 product = "diffoscope"

@@ -1,5 +1,7 @@
 name = "django-markupfield"
 ecosystem = "pypi"
+source = "https://github.com/jamesturk/django-markupfield"
+
 [[cpe_configurations]]
 vendor = "django-markupfield_project"
 product = "django-markupfield"

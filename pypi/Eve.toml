@@ -1,5 +1,7 @@
-name = "eve"
+name = "Eve"
 ecosystem = "pypi"
+source = "https://github.com/pyeve/eve"
+
 [[cpe_configurations]]
 vendor = "python-eve"
 product = "eve"

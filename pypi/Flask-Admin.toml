@@ -1,5 +1,7 @@
-name = "flask-admin"
+name = "Flask-Admin"
 ecosystem = "pypi"
+source = "https://github.com/flask-admin/flask-admin/"
+
 [[cpe_configurations]]
 vendor = "flask-admin_project"
 product = "flask-admin"

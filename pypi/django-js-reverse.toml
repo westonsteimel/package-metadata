@@ -1,5 +1,7 @@
 name = "django-js-reverse"
 ecosystem = "pypi"
+source = "https://github.com/ierror/django-js-reverse"
+
 [[cpe_configurations]]
 vendor = "django_js_reverse_project"
 product = "django_js_reserve"

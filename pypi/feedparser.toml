@@ -1,5 +1,7 @@
 name = "feedparser"
 ecosystem = "pypi"
+source = "https://github.com/kurtmckee/feedparser"
+
 [[cpe_configurations]]
 vendor = "mark_pilgrim"
 product = "feedparser"

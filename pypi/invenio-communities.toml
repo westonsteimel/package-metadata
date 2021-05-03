@@ -1,5 +1,7 @@
 name = "invenio-communities"
 ecosystem = "pypi"
+source = "https://github.com/inveniosoftware/invenio-communities"
+
 [[cpe_configurations]]
 vendor = "inveniosoftware"
 product = "invenio-communities"

@@ -1,5 +1,7 @@
 name = "donfig"
 ecosystem = "pypi"
+source = "https://github.com/pytroll/donfig"
+
 [[cpe_configurations]]
 vendor = "pytroll"
 product = "donfig"

@@ -1,5 +1,6 @@
 name = "freewvs"
 ecosystem = "pypi"
+source = "https://git.schokokeks.org/git/freewvs.git"
 
 [[cpe_configurations]]
 vendor = "schokokeks"

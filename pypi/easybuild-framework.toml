@@ -1,5 +1,7 @@
 name = "easybuild-framework"
 ecosystem = "pypi"
+source = "https://github.com/easybuilders/easybuild-framework"
+
 [[cpe_configurations]]
 vendor = "easybuild_project"
 product = "easybuild"

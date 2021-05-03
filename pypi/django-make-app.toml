@@ -1,5 +1,7 @@
 name = "django-make-app"
 ecosystem = "pypi"
+source = "https://github.com/illagrenan/django-make-app"
+
 [[cpe_configurations]]
 vendor = "django_make_app_project"
 product = "django_make_app"

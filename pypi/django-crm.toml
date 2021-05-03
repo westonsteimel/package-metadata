@@ -1,5 +1,6 @@
 name = "django-crm"
 ecosystem = "pypi"
+source = "https://github.com/MicroPyramid/Django-CRM"
 
 [[cpe_configurations]]
 vendor = "micropyramid"
