@@ -1,0 +1,9 @@
+name = "pghero"
+ecosystem = "rubygems"
+source = "https://github.com/ankane/pghero"
+
+[[cpe_configurations]]
+vendor = "pghero_project"
+product = "pghero"
+target_software = "ruby"
+

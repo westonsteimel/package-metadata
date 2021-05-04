@@ -1,0 +1,9 @@
+name = "omniauth-facebook"
+ecosystem = "rubygems"
+source = "https://github.com/simi/omniauth-facebook"
+
+[[cpe_configurations]]
+vendor = "madeofcode"
+product = "omniauth-facebook"
+target_software = "ruby"
+

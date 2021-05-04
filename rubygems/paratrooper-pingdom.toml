@@ -1,0 +1,9 @@
+name = "paratrooper-pingdom"
+ecosystem = "rubygems"
+source = "https://github.com/tmaier/paratrooper-pingdom"
+
+[[cpe_configurations]]
+vendor = "tobias_maier"
+product = "paratrooper-pingdom"
+target_software = "ruby"
+

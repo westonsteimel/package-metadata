@@ -1,0 +1,9 @@
+name = "secure_headers"
+ecosystem = "rubygems"
+source = "https://github.com/twitter/secureheaders"
+
+[[cpe_configurations]]
+vendor = "twitter"
+product = "secure_headers"
+target_software = "ruby"
+

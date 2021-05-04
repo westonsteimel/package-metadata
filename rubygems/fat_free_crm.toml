@@ -1,0 +1,12 @@
+name = "fat_free_crm"
+ecosystem = "rubygems"
+source = "http://github.com/fatfreecrm/fat_free_crm"
+
+[[cpe_configurations]]
+vendor = "fatfreecrm"
+product = "fatfreecrm"
+
+[[cpe_configurations]]
+vendor = "fatfreecrm"
+product = "fat_free_crm"
+

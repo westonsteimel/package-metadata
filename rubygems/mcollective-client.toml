@@ -1,0 +1,7 @@
+name = "mcollective-client"
+ecosystem = "rubygems"
+
+[[cpe_configurations]]
+vendor = "puppet"
+product = "marionette_collective"
+

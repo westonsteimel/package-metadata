@@ -1,8 +1,7 @@
-name = "activestorage"
+name = "activemodel"
 ecosystem = "rubygems"
 source = "https://github.com/rails/rails"
 
 [[cpe_configurations]]
 vendor = "rubyonrails"
-product = "activestorage"
-
+product = "activemodel"

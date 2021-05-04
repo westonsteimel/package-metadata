@@ -1,0 +1,8 @@
+name = "web-console"
+ecosystem = "rubygems"
+source = "https://github.com/rails/web-console"
+
+[[cpe_configurations]]
+vendor = "rubyonrails"
+product = "web_console"
+

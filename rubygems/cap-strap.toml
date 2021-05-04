@@ -1,0 +1,9 @@
+name = "cap-strap"
+ecosystem = "rubygems"
+source = "http://github.com/substantial/cap-strap"
+
+[[cpe_configurations]]
+vendor = "cap-strap_project"
+product = "cap-strap"
+target_software = "ruby"
+

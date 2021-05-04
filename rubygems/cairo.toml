@@ -1,0 +1,8 @@
+name = "cairo"
+ecosystem = "rubygems"
+source = "https://github.com/rcairo/rcairo"
+
+[[cpe_configurations]]
+vendor = "cairographics"
+product = "cairo"
+

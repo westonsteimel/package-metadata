@@ -1,0 +1,9 @@
+name = "RedCloth"
+ecosystem = "rubygems"
+source = "http://github.com/jgarber/redcloth"
+
+[[cpe_configurations]]
+vendor = "redcloth"
+product = "redcloth_library"
+target_software = "ruby"
+

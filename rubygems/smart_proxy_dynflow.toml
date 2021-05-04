@@ -1,0 +1,8 @@
+name = "smart_proxy_dynflow"
+ecosystem = "rubygems"
+source = "https://github.com/theforeman/smart_proxy_dynflow"
+
+[[cpe_configurations]]
+vendor = "theforeman"
+product = "foreman"
+

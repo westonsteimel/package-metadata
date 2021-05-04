@@ -1,0 +1,12 @@
+name = "passenger"
+ecosystem = "rubygems"
+source = "https://github.com/phusion/passenger"
+
+[[cpe_configurations]]
+vendor = "phusionpassenger"
+product = "phusion_passenger"
+
+[[cpe_configurations]]
+vendor = "phusion"
+product = "passenger"
+

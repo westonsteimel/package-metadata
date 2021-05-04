@@ -1,0 +1,8 @@
+name = "ember-source"
+ecosystem = "rubygems"
+source = "https://github.com/emberjs/ember.js"
+
+[[cpe_configurations]]
+vendor = "emberjs"
+product = "ember.js"
+

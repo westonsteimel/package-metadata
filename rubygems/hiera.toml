@@ -1,0 +1,8 @@
+name = "hiera"
+ecosystem = "rubygems"
+source = "https://github.com/puppetlabs/hiera"
+
+[[cpe_configurations]]
+vendor = "puppet"
+product = "hiera"
+

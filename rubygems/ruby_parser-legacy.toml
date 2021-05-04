@@ -1,0 +1,9 @@
+name = "ruby_parser-legacy"
+ecosystem = "rubygems"
+source = "https://github.com/zenspider/ruby_parser-legacy"
+
+[[cpe_configurations]]
+vendor = "zenspider"
+product = "ruby_parser-legacy"
+target_software = "ruby"
+

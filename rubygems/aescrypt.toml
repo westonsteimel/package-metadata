@@ -1,0 +1,9 @@
+name = "aescrypt"
+ecosystem = "rubygems"
+source = "http://github.com/Gurpartap/aescrypt"
+
+[[cpe_configurations]]
+vendor = "aescrypt_project"
+product = "aescrypt"
+target_software = "ruby"
+

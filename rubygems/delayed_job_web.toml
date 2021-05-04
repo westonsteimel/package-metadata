@@ -1,0 +1,9 @@
+name = "delayed_job_web"
+ecosystem = "rubygems"
+source = "https://github.com/ejschmitt/delayed_job_web"
+
+[[cpe_configurations]]
+vendor = "delayed_job_web_project"
+product = "delayed_job_web"
+target_software = "ruby"
+

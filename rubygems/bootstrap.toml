@@ -1,0 +1,8 @@
+name = "bootstrap"
+ecosystem = "rubygems"
+source = "https://github.com/twbs/bootstrap-rubygem"
+
+[[cpe_configurations]]
+vendor = "getbootstrap"
+product = "bootstrap"
+

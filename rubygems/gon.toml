@@ -1,0 +1,9 @@
+name = "gon"
+ecosystem = "rubygems"
+source = "https://github.com/gazay/gon"
+
+[[cpe_configurations]]
+vendor = "gon_project"
+product = "gon"
+target_software = "ruby"
+

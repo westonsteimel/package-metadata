@@ -1,0 +1,9 @@
+name = "paratrooper-newrelic"
+ecosystem = "rubygems"
+source = "http://github.com/mattpolito/paratrooper-newrelic"
+
+[[cpe_configurations]]
+vendor = "paratrooper-newrelic_project"
+product = "paratrooper-newrelic"
+target_software = "ruby"
+

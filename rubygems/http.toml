@@ -1,0 +1,9 @@
+name = "http"
+ecosystem = "rubygems"
+source = "https://github.com/httprb/http"
+
+[[cpe_configurations]]
+vendor = "http.rb_project"
+product = "http.rb"
+target_software = "ruby"
+

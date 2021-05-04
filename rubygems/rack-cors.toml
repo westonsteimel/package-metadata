@@ -1,0 +1,9 @@
+name = "rack-cors"
+ecosystem = "rubygems"
+source = "https://github.com/cyu/rack-cors"
+
+[[cpe_configurations]]
+vendor = "rack-cors_project"
+product = "rack-cors"
+target_software = "ruby"
+

@@ -1,0 +1,8 @@
+name = "spina"
+ecosystem = "rubygems"
+source = "https://github.com/SpinaCMS/Spina"
+
+[[cpe_configurations]]
+vendor = "denkgroot"
+product = "spina"
+

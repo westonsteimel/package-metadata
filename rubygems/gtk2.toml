@@ -1,0 +1,8 @@
+name = "gtk2"
+ecosystem = "rubygems"
+source = "https://github.com/ruby-gnome2/ruby-gnome2"
+
+[[cpe_configurations]]
+vendor = "ruby_gnome2"
+product = "ruby_gnome2"
+

@@ -1,0 +1,12 @@
+name = "rdoc"
+ecosystem = "rubygems"
+source = "https://github.com/ruby/rdoc"
+
+[[cpe_configurations]]
+vendor = "dave_thomas"
+product = "rdoc"
+
+[[cpe_configurations]]
+vendor = "ruby-lang"
+product = "rdoc"
+

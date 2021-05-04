@@ -1,0 +1,11 @@
+name = "jquery-rails"
+ecosystem = "rubygems"
+source = "https://github.com/rails/jquery-rails"
+
+[[cpe_configurations]]
+vendor = "rubyonrails"
+product = "jquery-rails"
+
+[[cpe_configurations]]
+vendor = "rubyonrails"
+product = "jquery-ujs"

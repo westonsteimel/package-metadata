@@ -1,0 +1,6 @@
+name = "sensu"
+ecosystem = "rubygems"
+[[cpe_configurations]]
+vendor = "sensu"
+product = "sensu_core"
+

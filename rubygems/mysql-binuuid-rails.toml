@@ -1,0 +1,8 @@
+name = "mysql-binuuid-rails"
+ecosystem = "rubygems"
+source = "https://github.com/nedap/mysql-binuuid-rails"
+
+[[cpe_configurations]]
+vendor = "nedap"
+product = "mysql-binuuid-rails"
+

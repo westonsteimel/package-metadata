@@ -1,0 +1,9 @@
+name = "websocket-extensions"
+ecosystem = "rubygems"
+source = "https://github.com/faye/websocket-extensions-ruby"
+
+[[cpe_configurations]]
+vendor = "websocket-extensions_project"
+product = "websocket-extensions"
+target_software = "ruby"
+

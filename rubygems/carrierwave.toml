@@ -1,0 +1,9 @@
+name = "carrierwave"
+ecosystem = "rubygems"
+source = "https://github.com/carrierwaveuploader/carrierwave"
+
+[[cpe_configurations]]
+vendor = "carrierwave_project"
+product = "carrierwave"
+target_software = "ruby"
+

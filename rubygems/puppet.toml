@@ -10,3 +10,6 @@ product = "puppet"
 vendor = "puppetlabs"
 product = "puppet"
 
+[[cpe_configurations]]
+vendor = "puppet"
+product = "puppet_enterprise"

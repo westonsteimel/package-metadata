@@ -1,0 +1,9 @@
+name = "rails-html-sanitizer"
+ecosystem = "rubygems"
+source = "https://github.com/rails/rails-html-sanitizer"
+
+[[cpe_configurations]]
+vendor = "rubyonrails"
+product = "html_sanitizer"
+target_software = "ruby"
+

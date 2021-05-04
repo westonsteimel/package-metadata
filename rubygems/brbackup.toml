@@ -1,0 +1,9 @@
+name = "brbackup"
+ecosystem = "rubygems"
+source = "http://github.com/tongueroo/brbackup"
+
+[[cpe_configurations]]
+vendor = "brbackup_project"
+product = "brbackup"
+target_software = "ruby"
+
