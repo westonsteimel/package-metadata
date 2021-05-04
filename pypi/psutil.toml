@@ -1,5 +1,7 @@
 name = "psutil"
 ecosystem = "pypi"
+source = "https://github.com/giampaolo/psutil"
+
 [[cpe_configurations]]
 vendor = "psutil_project"
 product = "psutil"

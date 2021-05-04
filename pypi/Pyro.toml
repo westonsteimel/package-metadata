@@ -1,0 +1,9 @@
+name = "Pyro"
+ecosystem = "pypi"
+source = "https://github.com/irmen/Pyro3"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "pyro_project"
+product = "pyro"
+

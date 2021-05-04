@@ -1,5 +1,7 @@
 name = "tweepy"
 ecosystem = "pypi"
+source = "https://github.com/tweepy/tweepy"
+
 [[cpe_configurations]]
 vendor = "tweepy"
 product = "tweepy"

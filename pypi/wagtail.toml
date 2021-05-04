@@ -1,5 +1,7 @@
 name = "wagtail"
 ecosystem = "pypi"
+source = "https://github.com/wagtail/wagtail"
+
 [[cpe_configurations]]
 vendor = "torchbox"
 product = "wagtail"

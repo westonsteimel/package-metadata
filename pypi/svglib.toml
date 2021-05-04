@@ -1,5 +1,7 @@
 name = "svglib"
 ecosystem = "pypi"
+source = "https://github.com/deeplook/svglib"
+
 [[cpe_configurations]]
 vendor = "svglib_project"
 product = "svglib"

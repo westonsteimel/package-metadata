@@ -1,5 +1,7 @@
 name = "sqla-yaml-fixtures"
 ecosystem = "pypi"
+source = "https://github.com/schettino72/sqla_yaml_fixtures"
+
 [[cpe_configurations]]
 vendor = "sqla_yaml_fixtures_project"
 product = "sqla_yaml_fixtures"

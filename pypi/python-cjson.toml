@@ -1,5 +1,7 @@
 name = "python-cjson"
 ecosystem = "pypi"
+source = "https://github.com/AGProjects/python-cjson"
+
 [[cpe_configurations]]
 vendor = "dan_pascu"
 product = "python-cjson"

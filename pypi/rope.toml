@@ -1,5 +1,7 @@
 name = "rope"
 ecosystem = "pypi"
+source = "https://github.com/python-rope/rope"
+
 [[cpe_configurations]]
 vendor = "rope_project"
 product = "rope"

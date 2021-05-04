@@ -1,5 +1,7 @@
 name = "ymlref"
 ecosystem = "pypi"
+source = "https://github.com/dexter2206/ymlref"
+
 [[cpe_configurations]]
 vendor = "ymlref_project"
 product = "ymlref"

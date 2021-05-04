@@ -1,5 +1,7 @@
 name = "pykmip"
 ecosystem = "pypi"
+source = "https://github.com/OpenKMIP/PyKMIP"
+
 [[cpe_configurations]]
 vendor = "pykmip_project"
 product = "pykmip"

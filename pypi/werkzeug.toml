@@ -1,5 +1,7 @@
 name = "werkzeug"
 ecosystem = "pypi"
+source = "https://github.com/pallets/werkzeug"
+
 [[cpe_configurations]]
 vendor = "palletsprojects"
 product = "werkzeug"

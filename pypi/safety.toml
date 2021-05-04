@@ -1,5 +1,7 @@
 name = "safety"
 ecosystem = "pypi"
+source = "https://github.com/pyupio/safety"
+
 [[cpe_configurations]]
 vendor = "pyup"
 product = "safety"

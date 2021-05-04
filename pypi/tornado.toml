@@ -1,5 +1,6 @@
 name = "tornado"
 ecosystem = "pypi"
+source = "https://github.com/tornadoweb/tornado"
 
 [[cpe_configurations]]
 vendor = "tornadoweb"

@@ -1,5 +1,7 @@
 name = "pyxdg"
 ecosystem = "pypi"
+source = "http://cgit.freedesktop.org/xdg/pyxdg"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "pyxdg"

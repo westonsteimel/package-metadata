@@ -1,5 +1,6 @@
 name = "rsa"
 ecosystem = "pypi"
+source = "https://github.com/sybrenstuvel/python-rsa"
 
 [[cpe_configurations]]
 vendor = "python"

@@ -1,5 +1,7 @@
 name = "zulip"
 ecosystem = "pypi"
+source = "https://github.com/zulip/python-zulip-api"
+
 [[cpe_configurations]]
 vendor = "zulip"
 product = "zulip_server"

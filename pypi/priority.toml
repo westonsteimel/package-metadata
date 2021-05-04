@@ -1,5 +1,7 @@
 name = "priority"
 ecosystem = "pypi"
+source = "https://github.com/python-hyper/priority"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "python_priority_library"

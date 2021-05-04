@@ -1,5 +1,7 @@
 name = "uvicorn"
 ecosystem = "pypi"
+source = "https://github.com/encode/uvicorn"
+
 [[cpe_configurations]]
 vendor = "encode"
 product = "uvicorn"

@@ -1,5 +1,7 @@
 name = "virtualenv"
 ecosystem = "pypi"
+source = "https://github.com/pypa/virtualenv"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "virtualenv"

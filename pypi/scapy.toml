@@ -1,5 +1,7 @@
 name = "scapy"
 ecosystem = "pypi"
+source = "https://github.com/secdev/scapy"
+
 [[cpe_configurations]]
 vendor = "scapy"
 product = "scapy"

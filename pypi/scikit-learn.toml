@@ -1,5 +1,6 @@
 name = "scikit-learn"
 ecosystem = "pypi"
+source = "https://github.com/scikit-learn/scikit-learn"
 
 [[cpe_configurations]]
 vendor = "scikit-learn"

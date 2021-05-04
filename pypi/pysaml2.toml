@@ -1,5 +1,7 @@
 name = "pysaml2"
 ecosystem = "pypi"
+source = "https://github.com/IdentityPython/pysaml2"
+
 [[cpe_configurations]]
 vendor = "pysaml2_project"
 product = "pysaml2"

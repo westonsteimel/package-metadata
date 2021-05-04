@@ -1,5 +1,7 @@
 name = "py"
 ecosystem = "pypi"
+source = "https://github.com/pytest-dev/py"
+
 [[cpe_configurations]]
 vendor = "pytest"
 product = "py"

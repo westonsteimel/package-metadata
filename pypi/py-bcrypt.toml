@@ -1,5 +1,7 @@
 name = "py-bcrypt"
 ecosystem = "pypi"
+source = "https://code.google.com/p/py-bcrypt"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "py-bcrypt"

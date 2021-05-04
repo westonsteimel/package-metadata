@@ -1,5 +1,7 @@
 name = "rediswrapper"
 ecosystem = "pypi"
+source = "https://github.com/frostming/rediswrapper"
+
 [[cpe_configurations]]
 vendor = "redis_wrapper_project"
 product = "redis_wrapper"

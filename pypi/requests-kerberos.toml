@@ -1,5 +1,7 @@
 name = "requests-kerberos"
 ecosystem = "pypi"
+source = "https://github.com/requests/requests-kerberos"
+
 [[cpe_configurations]]
 vendor = "requests-kerberos_project"
 product = "requests-kerberos"

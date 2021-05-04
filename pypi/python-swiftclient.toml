@@ -1,0 +1,8 @@
+name = "python-swiftclient"
+ecosystem = "pypi"
+source = "https://github.com/openstack/python-swiftclient"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "swift"
+

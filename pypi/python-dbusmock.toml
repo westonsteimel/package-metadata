@@ -1,5 +1,7 @@
 name = "python-dbusmock"
 ecosystem = "pypi"
+source = "https://github.com/martinpitt/python-dbusmock"
+
 [[cpe_configurations]]
 vendor = "python-dbusmock_project"
 product = "python-dbusmock"

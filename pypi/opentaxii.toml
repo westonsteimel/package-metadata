@@ -1,0 +1,8 @@
+name = "opentaxii"
+ecosystem = "pypi"
+source = "https://github.com/EclecticIQ/OpenTAXII"
+
+[[cpe_configurations]]
+vendor = "eclecticiq"
+product = "opentaxii"
+

@@ -1,5 +1,7 @@
 name = "salt"
 ecosystem = "pypi"
+source = "https://github.com/saltstack/salt"
+
 [[cpe_configurations]]
 vendor = "saltstack"
 product = "salt"

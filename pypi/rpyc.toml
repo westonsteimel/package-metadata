@@ -1,5 +1,7 @@
 name = "rpyc"
 ecosystem = "pypi"
+source = "https://github.com/tomerfiliba-org/rpyc"
+
 [[cpe_configurations]]
 vendor = "rpyc_project"
 product = "rpyc"

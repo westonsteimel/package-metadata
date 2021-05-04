@@ -1,5 +1,7 @@
-name = "red-dashboard"
+name = "Red-Dashboard"
 ecosystem = "pypi"
+source = "https://github.com/Cog-Creators/Red-Dashboard"
+
 [[cpe_configurations]]
 vendor = "cogboard"
 product = "red-dashboard"

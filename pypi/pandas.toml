@@ -1,5 +1,6 @@
 name = "pandas"
 ecosystem = "pypi"
+source = "https://github.com/pandas-dev/pandas"
 
 [[cpe_configurations]]
 vendor = "numfocus"

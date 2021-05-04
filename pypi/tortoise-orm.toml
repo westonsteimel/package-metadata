@@ -1,5 +1,7 @@
 name = "tortoise-orm"
 ecosystem = "pypi"
+source = "https://github.com/tortoise/tortoise-orm"
+
 [[cpe_configurations]]
 vendor = "tortoise_orm_project"
 product = "tortoise_orm"

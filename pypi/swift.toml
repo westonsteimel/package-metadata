@@ -1,5 +1,7 @@
 name = "swift"
 ecosystem = "pypi"
+source = "https://opendev.org/openstack/swift"
+
 [[cpe_configurations]]
 vendor = "openstack"
 product = "swift"

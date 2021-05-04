@@ -1,5 +1,7 @@
 name = "xmpp-http-upload"
 ecosystem = "pypi"
+source = "https://github.com/horazont/xmpp-http-upload"
+
 [[cpe_configurations]]
 vendor = "xmpp-http-upload_project"
 product = "xmpp-http-upload"

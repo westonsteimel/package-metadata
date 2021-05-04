@@ -1,5 +1,7 @@
 name = "restkit"
 ecosystem = "pypi"
+source = "https://github.com/benoitc/restkit"
+
 [[cpe_configurations]]
 vendor = "restkit"
 product = "restkit"

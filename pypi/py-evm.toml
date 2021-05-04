@@ -1,5 +1,7 @@
 name = "py-evm"
 ecosystem = "pypi"
+source = "https://github.com/ethereum/py-evm"
+
 [[cpe_configurations]]
 vendor = "ethereum"
 product = "py-evm"

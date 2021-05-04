@@ -1,5 +1,7 @@
 name = "pycrypto"
 ecosystem = "pypi"
+source = "https://github.com/dlitz/pycrypto"
+
 [[cpe_configurations]]
 vendor = "dlitz"
 product = "pycrypto"

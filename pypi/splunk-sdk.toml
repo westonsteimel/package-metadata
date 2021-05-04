@@ -1,5 +1,7 @@
 name = "splunk-sdk"
 ecosystem = "pypi"
+source = "http://github.com/splunk/splunk-sdk-python"
+
 [[cpe_configurations]]
 vendor = "splunk"
 product = "software_development_kit"

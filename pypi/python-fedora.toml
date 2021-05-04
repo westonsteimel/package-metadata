@@ -1,5 +1,7 @@
 name = "python-fedora"
 ecosystem = "pypi"
+source = "https://github.com/fedora-infra/python-fedora"
+
 [[cpe_configurations]]
 vendor = "fedoraproject"
 product = "python-fedora"

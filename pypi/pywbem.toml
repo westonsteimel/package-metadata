@@ -1,5 +1,7 @@
 name = "pywbem"
 ecosystem = "pypi"
+source = "https://github.com/pywbem/pywbem"
+
 [[cpe_configurations]]
 vendor = "pywbem_project"
 product = "pywbem"

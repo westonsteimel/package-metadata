@@ -1,5 +1,7 @@
 name = "pyshop"
 ecosystem = "pypi"
+source = "https://github.com/mardiros/pyshop"
+
 [[cpe_configurations]]
 vendor = "guillaume_gauvrit"
 product = "pyshop"

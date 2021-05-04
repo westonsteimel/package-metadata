@@ -1,5 +1,7 @@
 name = "wagtail-2fa"
 ecosystem = "pypi"
+source = "https://github.com/LabD/wagtail-2fa"
+
 [[cpe_configurations]]
 vendor = "labdigital"
 product = "wagtail-2fa"

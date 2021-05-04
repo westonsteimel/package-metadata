@@ -1,5 +1,7 @@
 name = "roundup"
 ecosystem = "pypi"
+source = "http://hg.code.sf.net/p/roundup/code"
+
 [[cpe_configurations]]
 vendor = "roundup-tracker"
 product = "roundup"

@@ -1,5 +1,7 @@
 name = "pypiserver"
 ecosystem = "pypi"
+source = "https://github.com/pypiserver/pypiserver"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "pypiserver"

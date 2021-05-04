@@ -1,5 +1,7 @@
 name = "privacyIDEA"
 ecosystem = "pypi"
+source = "https://github.com/privacyidea/privacyidea"
+
 [[cpe_configurations]]
 vendor = "privacyidea"
 product = "privacyidea"

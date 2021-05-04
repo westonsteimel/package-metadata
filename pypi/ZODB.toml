@@ -1,5 +1,7 @@
-name = "zodb"
+name = "ZODB"
 ecosystem = "pypi"
+source = "https://github.com/zopefoundation/zodb"
+
 [[cpe_configurations]]
 vendor = "zope"
 product = "zodb"

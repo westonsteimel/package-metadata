@@ -1,6 +1,6 @@
 name = "python-gnupg"
 ecosystem = "pypi"
-source = "https://bitbucket.org/vinay.sajip/python-gnupg/"
+source = "https://bitbucket.org/vinay.sajip/python-gnupg"
 
 [[cpe_configurations]]
 vendor = "python"

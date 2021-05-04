@@ -1,5 +1,7 @@
 name = "postfix-mta-sts-resolver"
 ecosystem = "pypi"
+source = "https://github.com/Snawoot/postfix-mta-sts-resolver"
+
 [[cpe_configurations]]
 vendor = "postfix-mta-sts-resolver_project"
 product = "postfix-mta-sts-resolver"

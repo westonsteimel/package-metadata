@@ -1,5 +1,7 @@
 name = "rply"
 ecosystem = "pypi"
+source = "https://github.com/alex/rply"
+
 [[cpe_configurations]]
 vendor = "rply_project"
 product = "rply"

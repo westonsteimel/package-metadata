@@ -1,5 +1,7 @@
 name = "pyftpdlib"
 ecosystem = "pypi"
+source = "https://github.com/giampaolo/pyftpdlib"
+
 [[cpe_configurations]]
 vendor = "g.rodola"
 product = "pyftpdlib"

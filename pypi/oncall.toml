@@ -1,0 +1,8 @@
+name = "oncall"
+ecosystem = "pypi"
+source = "https://github.com/linkedin/oncall"
+
+[[cpe_configurations]]
+vendor = "linkedin"
+product = "oncall"
+

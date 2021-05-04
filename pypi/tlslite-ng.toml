@@ -1,5 +1,7 @@
 name = "tlslite-ng"
 ecosystem = "pypi"
+source = "https://github.com/tlsfuzzer/tlslite-ng"
+
 [[cpe_configurations]]
 vendor = "tlslite-ng_project"
 product = "tlslite-ng"

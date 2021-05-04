@@ -1,5 +1,7 @@
 name = "tablib"
 ecosystem = "pypi"
+source = "https://github.com/jazzband/tablib"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "tablib"

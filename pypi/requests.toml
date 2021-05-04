@@ -1,5 +1,6 @@
 name = "requests"
 ecosystem = "pypi"
+source = "https://github.com/psf/requests"
 
 [[cpe_configurations]]
 vendor = "python-requests"

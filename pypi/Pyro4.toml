@@ -1,5 +1,7 @@
-name = "pyro"
+name = "Pyro4"
 ecosystem = "pypi"
+source = "https://github.com/irmen/Pyro4"
+
 [[cpe_configurations]]
 vendor = "pyro_project"
 product = "pyro"

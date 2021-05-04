@@ -1,5 +1,7 @@
 name = "Red-DiscordBot"
 ecosystem = "pypi"
+source = "https://github.com/Cog-Creators/Red-DiscordBot"
+
 [[cpe_configurations]]
 vendor = "cogboard"
 product = "red_discord_bot"

@@ -1,5 +1,7 @@
 name = "parso"
 ecosystem = "pypi"
+source = "https://github.com/davidhalter/parso"
+
 [[cpe_configurations]]
 vendor = "parso_project"
 product = "parso"

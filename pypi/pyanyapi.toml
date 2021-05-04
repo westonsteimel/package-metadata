@@ -1,5 +1,7 @@
 name = "pyanyapi"
 ecosystem = "pypi"
+source = "https://github.com/Stranger6667/pyanyapi"
+
 [[cpe_configurations]]
 vendor = "pyanyapi_project"
 product = "pyanyapi"

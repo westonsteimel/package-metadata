@@ -1,5 +1,6 @@
 name = "pyspark"
 ecosystem = "pypi"
+source = "https://github.com/apache/spark/tree/master/python"
 
 [[cpe_configurations]]
 vendor = "apache"

@@ -1,5 +1,6 @@
 name = "pip"
 ecosystem = "pypi"
+source = "https://github.com/pypa/pip"
 
 [[cpe_configurations]]
 vendor = "python"

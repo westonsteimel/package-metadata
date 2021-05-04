@@ -1,5 +1,6 @@
 name = "scipy"
 ecosystem = "pypi"
+source = "https://github.com/scipy/scipy"
 
 [[cpe_configurations]]
 vendor = "scipy"

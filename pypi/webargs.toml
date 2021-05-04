@@ -1,5 +1,7 @@
 name = "webargs"
 ecosystem = "pypi"
+source = "https://github.com/marshmallow-code/webargs"
+
 [[cpe_configurations]]
 vendor = "webargs_project"
 product = "webargs"

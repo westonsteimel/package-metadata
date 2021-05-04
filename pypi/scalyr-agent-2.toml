@@ -1,5 +1,7 @@
 name = "scalyr-agent-2"
 ecosystem = "pypi"
+source = "https://github.com/scalyr/scalyr-agent-2"
+
 [[cpe_configurations]]
 vendor = "scalyr"
 product = "scalyr_agent"

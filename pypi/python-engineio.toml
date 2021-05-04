@@ -1,5 +1,7 @@
 name = "python-engineio"
 ecosystem = "pypi"
+source = "http://github.com/miguelgrinberg/python-engineio"
+
 [[cpe_configurations]]
 vendor = "python-engineio_project"
 product = "python-engineio"

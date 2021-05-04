@@ -1,5 +1,7 @@
 name = "SQLAlchemy"
 ecosystem = "pypi"
+source = "https://github.com/sqlalchemy/sqlalchemy"
+
 [[cpe_configurations]]
 vendor = "sqlalchemy"
 product = "sqlalchemy"

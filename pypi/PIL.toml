@@ -1,5 +1,6 @@
 name = "PIL"
 ecosystem = "pypi"
+
 [[cpe_configurations]]
 vendor = "python_imaging_project"
 product = "python_imaging"

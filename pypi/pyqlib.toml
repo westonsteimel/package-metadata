@@ -1,5 +1,7 @@
 name = "pyqlib"
 ecosystem = "pypi"
+source = "https://github.com/microsoft/qlib"
+
 [[cpe_configurations]]
 vendor = "microsoft"
 product = "qlib"

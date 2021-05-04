@@ -1,5 +1,7 @@
 name = "superset"
 ecosystem = "pypi"
+source = "https://github.com/apache/superset"
+
 [[cpe_configurations]]
 vendor = "apache"
 product = "superset"

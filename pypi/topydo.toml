@@ -1,5 +1,7 @@
 name = "topydo"
 ecosystem = "pypi"
+source = "https://github.com/topydo/topydo"
+
 [[cpe_configurations]]
 vendor = "topydo"
 product = "topydo"

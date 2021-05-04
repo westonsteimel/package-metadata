@@ -1,5 +1,7 @@
 name = "typed-ast"
 ecosystem = "pypi"
+source = "https://github.com/python/typed_ast"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "typed_ast"

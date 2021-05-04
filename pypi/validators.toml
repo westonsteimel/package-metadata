@@ -1,5 +1,7 @@
 name = "validators"
 ecosystem = "pypi"
+source = "https://github.com/kvesteri/validators"
+
 [[cpe_configurations]]
 vendor = "validators_project"
 product = "validators"

@@ -1,5 +1,7 @@
 name = "unoconv"
 ecosystem = "pypi"
+source = "https://github.com/dagwieers/unoconv"
+
 [[cpe_configurations]]
 vendor = "universal_office_converter_project"
 product = "universal_office_converter"

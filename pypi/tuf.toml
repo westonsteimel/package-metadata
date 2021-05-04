@@ -1,5 +1,7 @@
 name = "tuf"
 ecosystem = "pypi"
+source = "https://github.com/theupdateframework/tuf"
+
 [[cpe_configurations]]
 vendor = "linuxfoundation"
 product = "the_update_framework"

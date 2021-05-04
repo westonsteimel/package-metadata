@@ -1,5 +1,7 @@
 name = "pwntools"
 ecosystem = "pypi"
+source = "https://github.com/Gallopsled/pwntools"
+
 [[cpe_configurations]]
 vendor = "pwntools_project"
 product = "pwntools"
