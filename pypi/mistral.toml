@@ -1,5 +1,7 @@
 name = "mistral"
 ecosystem = "pypi"
+source = "https://github.com/stackforge/mistral"
+
 [[cpe_configurations]]
 vendor = "redhat"
 product = "openstack-mistral"

@@ -1,5 +1,7 @@
 name = "netius"
 ecosystem = "pypi"
+source = "https://github.com/hivesolutions/netius"
+
 [[cpe_configurations]]
 vendor = "hive"
 product = "netius"

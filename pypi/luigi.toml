@@ -1,5 +1,7 @@
 name = "luigi"
 ecosystem = "pypi"
+source = "https://github.com/spotify/luigi"
+
 [[cpe_configurations]]
 vendor = "spotify"
 product = "luigi"

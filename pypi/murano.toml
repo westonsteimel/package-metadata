@@ -1,5 +1,7 @@
 name = "murano"
 ecosystem = "pypi"
+source = "https://github.com/openstack/murano"
+
 [[cpe_configurations]]
 vendor = "openstack"
 product = "murano"

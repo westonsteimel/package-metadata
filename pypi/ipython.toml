@@ -1,5 +1,7 @@
 name = "ipython"
 ecosystem = "pypi"
+source = "https://github.com/ipython/ipython"
+
 [[cpe_configurations]]
 vendor = "ipython"
 product = "ipython"

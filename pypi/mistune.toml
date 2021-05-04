@@ -1,5 +1,7 @@
 name = "mistune"
 ecosystem = "pypi"
+source = "https://github.com/lepture/mistune"
+
 [[cpe_configurations]]
 vendor = "mistune_project"
 product = "mistune"

@@ -1,5 +1,7 @@
 name = "jupyterhub-systemdspawner"
 ecosystem = "pypi"
+source = "https://github.com/jupyterhub/systemdspawner"
+
 [[cpe_configurations]]
 vendor = "jupyterhub"
 product = "systemdspawner"

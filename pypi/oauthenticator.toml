@@ -1,5 +1,7 @@
 name = "oauthenticator"
 ecosystem = "pypi"
+source = "https://github.com/jupyterhub/oauthenticator"
+
 [[cpe_configurations]]
 vendor = "jupyter"
 product = "oauthenticator"

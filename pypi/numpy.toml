@@ -1,5 +1,6 @@
 name = "numpy"
 ecosystem = "pypi"
+source = "https://github.com/numpy/numpy"
 
 [[cpe_configurations]]
 vendor = "numpy"

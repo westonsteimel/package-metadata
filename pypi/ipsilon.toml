@@ -1,5 +1,6 @@
 name = "ipsilon"
 ecosystem = "pypi"
+source = "https://pagure.io/ipsilon"
 
 [[cpe_configurations]]
 vendor = "ipsilon-project"

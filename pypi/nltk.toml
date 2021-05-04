@@ -1,5 +1,7 @@
 name = "nltk"
 ecosystem = "pypi"
+source = "https://github.com/nltk/nltk"
+
 [[cpe_configurations]]
 vendor = "nltk"
 product = "nltk"

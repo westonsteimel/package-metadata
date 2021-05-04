@@ -1,5 +1,6 @@
 name = "Jinja2"
 ecosystem = "pypi"
+source = "https://github.com/pallets/jinja"
 
 [[cpe_configurations]]
 vendor = "palletsprojects"

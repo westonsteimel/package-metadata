@@ -1,5 +1,7 @@
 name = "networkx"
 ecosystem = "pypi"
+source = "https://github.com/networkx/networkx"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "networkx"

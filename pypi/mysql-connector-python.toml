@@ -1,6 +1,5 @@
 name = "mysql-connector"
 ecosystem = "pypi"
-deprecated = true
 
 [[cpe_configurations]]
 vendor = "oracle"

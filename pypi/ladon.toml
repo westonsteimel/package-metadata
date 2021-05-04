@@ -1,5 +1,7 @@
 name = "ladon"
 ecosystem = "pypi"
+source = "https://bitbucket.org/jakobsg/ladon"
+
 [[cpe_configurations]]
 vendor = "ladon_project"
 product = "ladon"

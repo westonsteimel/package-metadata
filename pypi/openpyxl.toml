@@ -1,5 +1,7 @@
 name = "openpyxl"
 ecosystem = "pypi"
+source = "https://foss.heptapod.net/openpyxl/openpyxl"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "openpyxl"

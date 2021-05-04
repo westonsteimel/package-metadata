@@ -1,5 +1,7 @@
 name = "mitogen"
 ecosystem = "pypi"
+source = "https://github.com/dw/mitogen"
+
 [[cpe_configurations]]
 vendor = "networkgenomics"
 product = "mitogen"

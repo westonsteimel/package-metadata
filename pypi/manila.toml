@@ -1,5 +1,7 @@
 name = "manila"
 ecosystem = "pypi"
+source = "https://opendev.org/openstack/manila"
+
 [[cpe_configurations]]
 vendor = "openstack"
 product = "manila"

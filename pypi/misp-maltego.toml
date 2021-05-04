@@ -1,5 +1,7 @@
 name = "misp-maltego"
 ecosystem = "pypi"
+source = "https://github.com/MISP/MISP-maltego"
+
 [[cpe_configurations]]
 vendor = "misp"
 product = "misp-maltego"

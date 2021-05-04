@@ -1,5 +1,7 @@
 name = "lookatme"
 ecosystem = "pypi"
+source = "https://github.com/d0c-s4vage/lookatme"
+
 [[cpe_configurations]]
 vendor = "lookatme_project"
 product = "lookatme"

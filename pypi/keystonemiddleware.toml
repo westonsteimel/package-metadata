@@ -1,9 +1,6 @@
 name = "keystonemiddleware"
 ecosystem = "pypi"
-
-[[cpe_configurations]]
-vendor = "openstack"
-product = "keystonemiddleware"
+source = "https://opendev.org/openstack/keystonemiddleware"
 
 [[cpe_configurations]]
 vendor = "openstack"

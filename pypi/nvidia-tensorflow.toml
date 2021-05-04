@@ -1,6 +1,6 @@
 name = "nvidia-tensorflow"
 ecosystem = "pypi"
-source = "https://github.com/tensorflow/tensorflow"
+source = "https://github.com/NVIDIA/tensorflow"
 
 [[cpe_configurations]]
 vendor = "tensorflow"

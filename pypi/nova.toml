@@ -1,5 +1,7 @@
 name = "nova"
 ecosystem = "pypi"
+source = "https://opendev.org/openstack/nova"
+
 [[cpe_configurations]]
 vendor = "openstack"
 product = "nova"

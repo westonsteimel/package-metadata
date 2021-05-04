@@ -1,5 +1,7 @@
 name = "limnoria"
 ecosystem = "pypi"
+source = "https://github.com/ProgVal/Limnoria"
+
 [[cpe_configurations]]
 vendor = "limnoria_project"
 product = "limnoria"

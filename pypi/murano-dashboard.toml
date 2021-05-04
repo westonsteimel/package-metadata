@@ -1,5 +1,7 @@
 name = "murano-dashboard"
 ecosystem = "pypi"
+source = "https://github.com/openstack/murano-dashboard"
+
 [[cpe_configurations]]
 vendor = "openstack"
 product = "murano-dashboard"

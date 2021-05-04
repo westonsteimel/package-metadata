@@ -1,5 +1,7 @@
 name = "jsonpickle"
 ecosystem = "pypi"
+source = "https://github.com/jsonpickle/jsonpickle"
+
 [[cpe_configurations]]
 vendor = "jsonpickle_project"
 product = "jsonpickle"

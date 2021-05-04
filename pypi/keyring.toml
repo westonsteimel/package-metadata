@@ -1,5 +1,7 @@
 name = "keyring"
 ecosystem = "pypi"
+source = "https://github.com/jaraco/keyring"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "keyring"

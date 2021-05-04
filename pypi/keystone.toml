@@ -1,5 +1,7 @@
 name = "keystone"
 ecosystem = "pypi"
+source = "https://opendev.org/openstack/python-keystoneclient"
+
 [[cpe_configurations]]
 vendor = "openstack"
 product = "keystone"

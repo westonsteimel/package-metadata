@@ -1,5 +1,7 @@
 name = "logilab-common"
 ecosystem = "pypi"
+source = "http://hg.logilab.org/review/logilab/common"
+
 [[cpe_configurations]]
 vendor = "logilab"
 product = "logilab-common"

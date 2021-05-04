@@ -1,5 +1,7 @@
 name = "modulemd"
 ecosystem = "pypi"
+source = "https://pagure.io/modulemd"
+
 [[cpe_configurations]]
 vendor = "redhat"
 product = "modulemd"

@@ -1,5 +1,6 @@
 name = "moin"
 ecosystem = "pypi"
+source = "https://github.com/moinwiki/moin"
 
 [[cpe_configurations]]
 vendor = "moinmo"

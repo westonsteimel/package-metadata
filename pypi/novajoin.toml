@@ -1,5 +1,7 @@
 name = "novajoin"
 ecosystem = "pypi"
+source = "https://github.com/openstack/novajoin"
+
 [[cpe_configurations]]
 vendor = "python"
 product = "novajoin"

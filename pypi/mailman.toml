@@ -1,5 +1,7 @@
 name = "mailman"
 ecosystem = "pypi"
+source = "https://gitlab.com/mailman/mailman"
+
 [[cpe_configurations]]
 vendor = "gnu"
 product = "mailman"

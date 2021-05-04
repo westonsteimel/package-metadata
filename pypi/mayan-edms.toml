@@ -1,5 +1,7 @@
 name = "mayan-edms"
 ecosystem = "pypi"
+source = "https://gitlab.com/mayan-edms/mayan-edms"
+
 [[cpe_configurations]]
 vendor = "mayan-edms"
 product = "mayan_edms"

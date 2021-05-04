@@ -1,5 +1,7 @@
 name = "oic"
 ecosystem = "pypi"
+source = "https://github.com/OpenIDC/pyoidc"
+
 [[cpe_configurations]]
 vendor = "python_openid_connect_project"
 product = "python_openid_connect"

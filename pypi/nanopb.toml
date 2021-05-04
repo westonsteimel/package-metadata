@@ -1,5 +1,7 @@
 name = "nanopb"
 ecosystem = "pypi"
+source = "https://github.com/nanopb/nanopb"
+
 [[cpe_configurations]]
 vendor = "nanopb_project"
 product = "nanopb"

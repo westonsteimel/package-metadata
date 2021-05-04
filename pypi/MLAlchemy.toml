@@ -1,5 +1,7 @@
 name = "MLAlchemy"
 ecosystem = "pypi"
+source = "https://github.com/thanethomson/MLAlchemy"
+
 [[cpe_configurations]]
 vendor = "mlalchemy_project"
 product = "mlalchemy"

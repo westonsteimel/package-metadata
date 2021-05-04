@@ -1,5 +1,7 @@
 name = "neutron"
 ecosystem = "pypi"
+source = "https://opendev.org/openstack/neutron"
+
 [[cpe_configurations]]
 vendor = "openstack"
 product = "neutron"

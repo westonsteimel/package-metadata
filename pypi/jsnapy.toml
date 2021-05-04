@@ -1,5 +1,7 @@
 name = "jsnapy"
 ecosystem = "pypi"
+source = "http://www.github.com/Juniper/jsnapy"
+
 [[cpe_configurations]]
 vendor = "juniper"
 product = "jsnapy"

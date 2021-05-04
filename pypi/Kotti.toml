@@ -1,5 +1,7 @@
 name = "Kotti"
 ecosystem = "pypi"
+source = "https://github.com/Kotti/Kotti"
+
 [[cpe_configurations]]
 vendor = "kotti_project"
 product = "kotti"

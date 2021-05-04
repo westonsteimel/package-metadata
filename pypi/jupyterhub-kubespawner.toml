@@ -1,5 +1,7 @@
 name = "jupyterhub-kubespawner"
 ecosystem = "pypi"
+source = "https://github.com/jupyterhub/kubespawner"
+
 [[cpe_configurations]]
 vendor = "jupyterhub"
 product = "kubespawner"

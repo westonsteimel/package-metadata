@@ -1,5 +1,7 @@
 name = "owlmixin"
 ecosystem = "pypi"
+source = "https://github.com/tadashi-aikawa/owlmixin"
+
 [[cpe_configurations]]
 vendor = "owlmixin_project"
 product = "owlmixin"

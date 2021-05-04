@@ -1,5 +1,7 @@
 name = "mode"
 ecosystem = "pypi"
+source = "http://github.com/ask/mode"
+
 [[cpe_configurations]]
 vendor = "python-mode_project"
 product = "python-mode"

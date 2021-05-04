@@ -1,5 +1,7 @@
 name = "jupyter-server"
 ecosystem = "pypi"
+source = "https://github.com/jupyter/jupyter_server"
+
 [[cpe_configurations]]
 vendor = "jupyter"
 product = "jupyter_server"

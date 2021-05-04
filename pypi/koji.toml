@@ -1,5 +1,7 @@
 name = "koji"
 ecosystem = "pypi"
+source = "https://pagure.io/koji"
+
 [[cpe_configurations]]
 vendor = "koji_project"
 product = "koji"

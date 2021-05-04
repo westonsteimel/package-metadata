@@ -1,5 +1,7 @@
 name = "mitmproxy"
 ecosystem = "pypi"
+source = "https://github.com/mitmproxy/mitmproxy"
+
 [[cpe_configurations]]
 vendor = "mitmproxy"
 product = "mitmproxy"

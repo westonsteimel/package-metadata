@@ -1,5 +1,7 @@
 name = "openapi-python-client"
 ecosystem = "pypi"
+source = "https://github.com/triaxtec/openapi-python-client"
+
 [[cpe_configurations]]
 vendor = "openapi-python-client_project"
 product = "openapi-python-client"
