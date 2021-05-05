@@ -1,0 +1,9 @@
+name = "marcwillmann/turn"
+ecosystem = "composer"
+source = "https://git.benchmarc.io/MarcWillmann/turn"
+
+[[cpe_configurations]]
+vendor = "turn\\!_project"
+product = "turn\\!"
+target_software = "typo3"
+

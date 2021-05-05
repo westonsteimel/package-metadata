@@ -1,0 +1,9 @@
+name = "getkirby/panel"
+ecosystem = "composer"
+source = "https://github.com/getkirby-v2/panel"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "getkirby"
+product = "panel"
+

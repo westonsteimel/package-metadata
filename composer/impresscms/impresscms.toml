@@ -1,0 +1,8 @@
+name = "impresscms/impresscms"
+ecosystem = "composer"
+source = "https://github.com/ImpressCMS/impresscms"
+
+[[cpe_configurations]]
+vendor = "impresscms"
+product = "impresscms"
+

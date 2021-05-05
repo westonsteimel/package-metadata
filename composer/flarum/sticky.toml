@@ -1,0 +1,8 @@
+name = "flarum/sticky"
+ecosystem = "composer"
+source = "https://github.com/flarum/sticky"
+
+[[cpe_configurations]]
+vendor = "flarum"
+product = "sticky"
+

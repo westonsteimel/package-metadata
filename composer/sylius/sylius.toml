@@ -1,0 +1,8 @@
+name = "sylius/sylius"
+ecosystem = "composer"
+source = "https://github.com/Sylius/Sylius"
+
+[[cpe_configurations]]
+vendor = "sylius"
+product = "sylius"
+

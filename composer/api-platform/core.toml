@@ -1,0 +1,8 @@
+name = "api-platform/core"
+ecosystem = "composer"
+source = "https://github.com/api-platform/core"
+
+[[cpe_configurations]]
+vendor = "api-platform"
+product = "core"
+

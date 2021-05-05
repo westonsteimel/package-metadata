@@ -1,0 +1,8 @@
+name = "enshrined/svg-sanitize"
+ecosystem = "composer"
+source = "https://github.com/darylldoyle/svg-sanitizer"
+
+[[cpe_configurations]]
+vendor = "svg-sanitizer_project"
+product = "svg-sanitizer"
+

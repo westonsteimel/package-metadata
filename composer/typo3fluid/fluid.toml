@@ -1,0 +1,12 @@
+name = "typo3fluid/fluid"
+ecosystem = "composer"
+source = "https://github.com/TYPO3/Fluid"
+
+[[cpe_configurations]]
+vendor = "typo3"
+product = "fluid"
+
+[[cpe_configurations]]
+vendor = "typo3"
+product = "fluid_engine"
+

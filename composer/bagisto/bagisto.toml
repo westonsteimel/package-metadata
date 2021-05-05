@@ -1,0 +1,8 @@
+name = "bagisto/bagisto"
+ecosystem = "composer"
+source = "https://github.com/bagisto/bagisto"
+
+[[cpe_configurations]]
+vendor = "webkul"
+product = "bagisto"
+

@@ -1,0 +1,8 @@
+name = "nette/application"
+ecosystem = "composer"
+source = "https://github.com/nette/application"
+
+[[cpe_configurations]]
+vendor = "nette"
+product = "application"
+

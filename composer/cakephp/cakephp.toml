@@ -1,0 +1,11 @@
+name = "cakephp/cakephp"
+ecosystem = "composer"
+source = "https://github.com/cakephp/cakephp"
+
+[[cpe_configurations]]
+vendor = "cakefoundation"
+product = "cakephp"
+
+[[cpe_configurations]]
+vendor = "cakephp"
+product = "cakephp"

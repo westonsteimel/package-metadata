@@ -6,3 +6,6 @@ source = "https://github.com/getgrav/grav"
 vendor = "getgrav"
 product = "grav"
 
+[[cpe_configurations]]
+vendor = "getgrav"
+product = "grav_cms"

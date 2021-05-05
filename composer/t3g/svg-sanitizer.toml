@@ -1,0 +1,8 @@
+name = "t3g/svg-sanitizer"
+ecosystem = "composer"
+source = "https://github.com/TYPO3GmbH/svg_sanitizer"
+
+[[cpe_configurations]]
+vendor = "typo3"
+product = "svg_sanitizer"
+

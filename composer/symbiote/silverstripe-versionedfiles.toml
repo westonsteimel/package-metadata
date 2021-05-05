@@ -1,0 +1,9 @@
+name = "symbiote/silverstripe-versionedfiles"
+ecosystem = "composer"
+source = "https://github.com/symbiote/silverstripe-versionedfiles"
+
+[[cpe_configurations]]
+vendor = "symbiote"
+product = "versionedfiles"
+target_software = "silverstripe"
+

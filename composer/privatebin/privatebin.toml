@@ -1,0 +1,8 @@
+name = "privatebin/privatebin"
+ecosystem = "composer"
+source = "https://github.com/PrivateBin/PrivateBin"
+
+[[cpe_configurations]]
+vendor = "privatebin"
+product = "privatebin"
+

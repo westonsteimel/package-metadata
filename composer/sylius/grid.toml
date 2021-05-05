@@ -1,0 +1,8 @@
+name = "sylius/grid"
+ecosystem = "composer"
+source = "https://github.com/Sylius/Grid"
+
+[[cpe_configurations]]
+vendor = "sylius"
+product = "grid"
+

@@ -1,0 +1,9 @@
+name = "kitodo/presentation"
+ecosystem = "composer"
+source = "https://github.com/kitodo/kitodo-presentation"
+
+[[cpe_configurations]]
+vendor = "kitodo"
+product = "kitodo.presentation"
+target_software = "typo3"
+

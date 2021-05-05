@@ -1,0 +1,8 @@
+name = "simplito/elliptic-php"
+ecosystem = "composer"
+source = "https://github.com/simplito/elliptic-php"
+
+[[cpe_configurations]]
+vendor = "simplito"
+product = "elliptic-php"
+

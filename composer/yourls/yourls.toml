@@ -1,0 +1,8 @@
+name = "yourls/yourls"
+ecosystem = "composer"
+source = "https://github.com/YOURLS/YOURLS"
+
+[[cpe_configurations]]
+vendor = "yourls"
+product = "yourls"
+
