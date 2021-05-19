@@ -1,0 +1,8 @@
+name = "django-filter"
+ecosystem = "pypi"
+source = "https://github.com/carltongibson/django-filter"
+
+[[cpe_configurations]]
+vendor = "django-filter_project"
+product = "django-filter"
+

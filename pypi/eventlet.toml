@@ -1,0 +1,8 @@
+name = "eventlet"
+ecosystem = "pypi"
+source = "https://github.com/eventlet/eventlet"
+
+[[cpe_configurations]]
+vendor = "eventlet"
+product = "eventlet"
+
