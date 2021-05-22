@@ -1,0 +1,8 @@
+name = "trim"
+ecosystem = "npm"
+source = "https://github.com/Trott/trim"
+
+[[cpe_configurations]]
+vendor = "trim_project"
+product = "trim"
+

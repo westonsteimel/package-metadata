@@ -1,0 +1,9 @@
+name = "pulverizr"
+ecosystem = "npm"
+source = "https://github.com/bentruyman/pulverizr"
+
+[[cpe_configurations]]
+vendor = "pulverizr_project"
+product = "pulverizr"
+target_software = "node.js"
+

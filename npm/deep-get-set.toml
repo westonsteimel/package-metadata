@@ -1,0 +1,9 @@
+name = "deep-get-set"
+ecosystem = "npm"
+source = "https://github.com/acstll/deep-get-set"
+
+[[cpe_configurations]]
+vendor = "deep-get-set_project"
+product = "deep-get-set"
+target_software = "node.js"
+

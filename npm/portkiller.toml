@@ -1,0 +1,9 @@
+name = "portkiller"
+ecosystem = "npm"
+source = "https://github.com/indatawetrust/portkiller"
+
+[[cpe_configurations]]
+vendor = "portkiller_project"
+product = "portkiller"
+target_software = "node.js"
+

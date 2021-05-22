@@ -1,0 +1,8 @@
+name = "get-git-data"
+ecosystem = "npm"
+source = "https://github.com/chardos/get-git-data"
+
+[[cpe_configurations]]
+vendor = "get-git-data_project"
+product = "get-git-data"
+

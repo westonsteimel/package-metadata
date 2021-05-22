@@ -1,0 +1,9 @@
+name = "cd-messenger"
+ecosystem = "npm"
+source = "https://github.com/mikeerickson/cd-messenger"
+
+[[cpe_configurations]]
+vendor = "cd-messenger_project"
+product = "cd-messenger"
+target_software = "node.js"
+

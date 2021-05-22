@@ -1,0 +1,9 @@
+name = "chrono-node"
+ecosystem = "npm"
+source = "http://github.com/wanasit/chrono"
+
+[[cpe_configurations]]
+vendor = "chrono-node_project"
+product = "chrono-node"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "servey"
+ecosystem = "npm"
+source = "https://github.com/AlexanderElias/servey"
+
+[[cpe_configurations]]
+vendor = "servey_project"
+product = "servey"
+target_software = "node.js"
+

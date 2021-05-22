@@ -1,0 +1,9 @@
+name = "blamer"
+ecosystem = "npm"
+source = "https://github.com/kucherenko/blamer"
+
+[[cpe_configurations]]
+vendor = "blamer_project"
+product = "blamer"
+target_software = "node.js"
+

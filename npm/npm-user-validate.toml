@@ -1,0 +1,9 @@
+name = "npm-user-validate"
+ecosystem = "npm"
+source = "https://github.com/npm/npm-user-validate"
+
+[[cpe_configurations]]
+vendor = "npmjs"
+product = "npm-user-validate"
+target_software = "node.js"
+

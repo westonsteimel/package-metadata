@@ -1,0 +1,9 @@
+name = "@prisma/sdk"
+ecosystem = "npm"
+source = "https://github.com/prisma/prisma"
+
+[[cpe_configurations]]
+vendor = "prisma"
+product = "prisma"
+target_software = "node.js"
+

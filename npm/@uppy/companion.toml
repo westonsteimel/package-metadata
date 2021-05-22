@@ -7,3 +7,7 @@ vendor = "transloadit"
 product = "uppy"
 target_software = "node.js"
 
+[[cpe_configurations]]
+vendor = "uppy"
+product = "uppy"
+target_software = "node.js"

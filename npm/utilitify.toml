@@ -1,0 +1,9 @@
+name = "utilitify"
+ecosystem = "npm"
+source = "https://github.com/xcritical-software/utilitify"
+
+[[cpe_configurations]]
+vendor = "xcritical.software"
+product = "utilitify"
+target_software = "node.js"
+

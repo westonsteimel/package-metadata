@@ -1,0 +1,9 @@
+name = "mixme"
+ecosystem = "npm"
+source = "https://github.com/adaltas/node-mixme"
+
+[[cpe_configurations]]
+vendor = "mixme_project"
+product = "mixme"
+target_software = "node.js"
+

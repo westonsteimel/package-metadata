@@ -1,0 +1,9 @@
+name = "psnode"
+ecosystem = "npm"
+source = "https://github.com/nrako/psnode"
+
+[[cpe_configurations]]
+vendor = "psnode_project"
+product = "psnode"
+target_software = "node.js"
+

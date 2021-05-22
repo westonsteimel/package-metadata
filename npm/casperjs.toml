@@ -1,0 +1,8 @@
+name = "casperjs"
+ecosystem = "npm"
+source = "https://github.com/casperjs/casperjs"
+
+[[cpe_configurations]]
+vendor = "casperjs"
+product = "casperjs"
+

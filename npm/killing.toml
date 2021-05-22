@@ -1,0 +1,9 @@
+name = "killing"
+ecosystem = "npm"
+source = "https://github.com/xudafeng/killing"
+
+[[cpe_configurations]]
+vendor = "killing_project"
+product = "killing"
+target_software = "node.js"
+

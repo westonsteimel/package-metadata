@@ -1,0 +1,8 @@
+name = "shiba"
+ecosystem = "npm"
+source = "https://github.com/rhysd/Shiba"
+
+[[cpe_configurations]]
+vendor = "shiba_project"
+product = "shiba"
+

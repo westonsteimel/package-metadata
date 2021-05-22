@@ -1,0 +1,8 @@
+name = "bmoor"
+ecosystem = "npm"
+source = "https://github.com/b-heilman/bmoor"
+
+[[cpe_configurations]]
+vendor = "bmoor_project"
+product = "bmoor"
+

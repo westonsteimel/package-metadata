@@ -1,0 +1,8 @@
+name = "json-ptr"
+ecosystem = "npm"
+source = "https://github.com/flitbit/json-ptr"
+
+[[cpe_configurations]]
+vendor = "json-ptr_project"
+product = "json-ptr"
+

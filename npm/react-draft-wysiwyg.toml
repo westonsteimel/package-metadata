@@ -1,0 +1,8 @@
+name = "react-draft-wysiwyg"
+ecosystem = "npm"
+source = "https://github.com/jpuri/react-draft-wysiwyg"
+
+[[cpe_configurations]]
+vendor = "react_draft_wysiwyg_project"
+product = "react_draft_wysiwyg"
+

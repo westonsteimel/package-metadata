@@ -1,0 +1,9 @@
+name = "cumulative-distribution-function"
+ecosystem = "npm"
+source = "https://github.com/drpaulbrewer/cumulative-distribution-function"
+
+[[cpe_configurations]]
+vendor = "cumulative-distribution-function_project"
+product = "cumulative-distribution-function"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "underscore"
+ecosystem = "npm"
+source = "https://github.com/jashkenas/underscore"
+
+[[cpe_configurations]]
+vendor = "underscorejs"
+product = "underscore"
+target_software = "node.js"
+

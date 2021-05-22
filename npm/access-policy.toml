@@ -1,0 +1,9 @@
+name = "access-policy"
+ecosystem = "npm"
+source = "https://github.com/TupleAustin/access-policy"
+
+[[cpe_configurations]]
+vendor = "access-policy_project"
+product = "access-policy"
+target_software = "node.js"
+

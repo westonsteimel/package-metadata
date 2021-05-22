@@ -1,0 +1,9 @@
+name = "canvas"
+ecosystem = "npm"
+source = "https://github.com/Automattic/node-canvas"
+
+[[cpe_configurations]]
+vendor = "automattic"
+product = "canvas"
+target_software = "node.js"
+

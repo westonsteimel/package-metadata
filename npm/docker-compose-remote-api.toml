@@ -1,0 +1,9 @@
+name = "docker-compose-remote-api"
+ecosystem = "npm"
+source = "https://github.com/jsrun/docker-compose-remote-api"
+
+[[cpe_configurations]]
+vendor = "docker-compose-remote-api_project"
+product = "docker-compose-remote-api"
+target_software = "node.js"
+

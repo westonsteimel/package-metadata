@@ -1,0 +1,9 @@
+name = "json-bigint"
+ecosystem = "npm"
+source = "https://github.com/sidorares/json-bigint"
+
+[[cpe_configurations]]
+vendor = "json-bigint_project"
+product = "json-bigint"
+target_software = "node.js"
+

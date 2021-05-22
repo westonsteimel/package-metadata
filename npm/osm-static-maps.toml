@@ -1,0 +1,9 @@
+name = "osm-static-maps"
+ecosystem = "npm"
+source = "https://github.com/jperelli/osm-static-maps"
+
+[[cpe_configurations]]
+vendor = "osm-static-maps_project"
+product = "osm-static-maps"
+target_software = "node.js"
+

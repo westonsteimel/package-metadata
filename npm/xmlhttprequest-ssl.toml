@@ -1,0 +1,9 @@
+name = "xmlhttprequest-ssl"
+ecosystem = "npm"
+source = "https://github.com/mjwwit/node-XMLHttpRequest"
+
+[[cpe_configurations]]
+vendor = "xmlhttprequest-ssl_project"
+product = "xmlhttprequest-ssl"
+target_software = "node.js"
+

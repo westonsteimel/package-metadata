@@ -1,0 +1,14 @@
+name = "@grpc/grpc-js"
+ecosystem = "npm"
+source = "https://github.com/grpc/grpc-node/tree/master/packages/grpc-js"
+
+[[cpe_configurations]]
+vendor = "grpc"
+product = "grpc"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "grpc"
+product = "grpc"
+target_software = "-"
+

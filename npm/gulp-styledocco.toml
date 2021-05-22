@@ -1,0 +1,9 @@
+name = "gulp-styledocco"
+ecosystem = "npm"
+source = "https://github.com/konitter/gulp-styledocco"
+
+[[cpe_configurations]]
+vendor = "gulp-styledocco_project"
+product = "gulp-styledocco"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "marscode"
+ecosystem = "npm"
+source = "https://github.com/moorthi07/marscode"
+
+[[cpe_configurations]]
+vendor = "indo-mars"
+product = "marscode"
+target_software = "node.js"
+

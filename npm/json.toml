@@ -1,0 +1,9 @@
+name = "json"
+ecosystem = "npm"
+source = "https://github.com/trentm/json"
+
+[[cpe_configurations]]
+vendor = "joyent"
+product = "json"
+target_software = "node.js"
+

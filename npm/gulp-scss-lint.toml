@@ -1,0 +1,9 @@
+name = "gulp-scss-lint"
+ecosystem = "npm"
+source = "https://github.com/juanfran/gulp-scss-lint"
+
+[[cpe_configurations]]
+vendor = "gulp-scss-lint_project"
+product = "gulp-scss-lint"
+target_software = "node.js"
+

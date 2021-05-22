@@ -1,0 +1,8 @@
+name = "simpl-schema"
+ecosystem = "npm"
+source = "https://github.com/aldeed/simpl-schema"
+
+[[cpe_configurations]]
+vendor = "simpl-schema_project"
+product = "simpl-schema"
+

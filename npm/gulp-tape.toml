@@ -1,0 +1,9 @@
+name = "gulp-tape"
+ecosystem = "npm"
+source = "https://github.com/yuanqing/gulp-tape"
+
+[[cpe_configurations]]
+vendor = "gulp-tape_project"
+product = "gulp-tape"
+target_software = "node.js"
+

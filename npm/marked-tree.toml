@@ -1,0 +1,7 @@
+name = "marked-tree"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "marked-tree_project"
+product = "marked-tree"
+target_software = "node.js"
+

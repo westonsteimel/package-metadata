@@ -1,0 +1,9 @@
+name = "chart.js"
+ecosystem = "npm"
+source = "https://github.com/chartjs/Chart.js"
+
+[[cpe_configurations]]
+vendor = "chartjs"
+product = "chart.js"
+target_software = "node.js"
+

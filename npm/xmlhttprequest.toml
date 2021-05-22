@@ -1,0 +1,9 @@
+name = "xmlhttprequest"
+ecosystem = "npm"
+source = "https://github.com/driverdan/node-XMLHttpRequest"
+
+[[cpe_configurations]]
+vendor = "xmlhttprequest_project"
+product = "xmlhttprequest"
+target_software = "node.js"
+

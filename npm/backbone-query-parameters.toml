@@ -1,0 +1,8 @@
+name = "backbone-query-parameters"
+ecosystem = "npm"
+source = "https://github.com/jhudson8/backbone-query-parameters"
+
+[[cpe_configurations]]
+vendor = "backbone-query-parameters_project"
+product = "backbone-query-parameters"
+

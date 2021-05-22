@@ -1,0 +1,9 @@
+name = "property-expr"
+ecosystem = "npm"
+source = "https://github.com/jquense/expr"
+
+[[cpe_configurations]]
+vendor = "property-expr_project"
+product = "property-expr"
+target_software = "node.js"
+

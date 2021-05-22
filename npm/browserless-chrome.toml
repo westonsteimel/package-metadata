@@ -1,0 +1,9 @@
+name = "browserless-chrome"
+ecosystem = "npm"
+source = "https://github.com/browserless/chrome"
+
+[[cpe_configurations]]
+vendor = "browserless"
+product = "chrome"
+target_software = "node.js"
+

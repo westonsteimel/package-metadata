@@ -1,0 +1,8 @@
+name = "dat.gui"
+ecosystem = "npm"
+source = "https://github.com/dataarts/dat.gui"
+
+[[cpe_configurations]]
+vendor = "dat.gui_project"
+product = "dat.gui"
+

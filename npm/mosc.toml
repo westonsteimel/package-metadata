@@ -1,0 +1,9 @@
+name = "mosc"
+ecosystem = "npm"
+source = "https://github.com/4y0/mosc"
+
+[[cpe_configurations]]
+vendor = "mosc_project"
+product = "mosc"
+target_software = "node.js"
+

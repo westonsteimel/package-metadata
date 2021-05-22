@@ -1,0 +1,9 @@
+name = "closure-compiler-stream"
+ecosystem = "npm"
+source = "https://github.com/davidrekow/closure-compiler-stream"
+
+[[cpe_configurations]]
+vendor = "closure-compiler-stream_project"
+product = "closure-compiler-stream"
+target_software = "node.js"
+

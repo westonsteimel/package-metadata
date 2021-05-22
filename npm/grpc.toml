@@ -1,0 +1,15 @@
+name = "grpc"
+ecosystem = "npm"
+source = "https://github.com/grpc/grpc-node"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "grpc"
+product = "grpc"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "grpc"
+product = "grpc"
+target_software = "-"
+

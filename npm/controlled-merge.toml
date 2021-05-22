@@ -1,0 +1,7 @@
+name = "controlled-merge"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "controlled-merge_project"
+product = "controlled-merge"
+target_software = "node.js"
+

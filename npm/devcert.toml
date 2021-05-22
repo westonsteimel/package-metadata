@@ -1,0 +1,9 @@
+name = "devcert"
+ecosystem = "npm"
+source = "https://github.com/davewasmer/devcert"
+
+[[cpe_configurations]]
+vendor = "devcert_project"
+product = "devcert"
+target_software = "node.js"
+

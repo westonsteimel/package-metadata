@@ -1,0 +1,7 @@
+name = "wifiscanner"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "thingssdk"
+product = "wifiscanner"
+target_software = "node.js"
+
