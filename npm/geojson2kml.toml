@@ -1,0 +1,7 @@
+name = "geojson2kml"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "geojson2kml_project"
+product = "geojson2kml"
+target_software = "node.js"
+

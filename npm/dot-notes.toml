@@ -1,0 +1,7 @@
+name = "dot-notes"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "dot-notes_project"
+product = "dot-notes"
+target_software = "node.js"
+

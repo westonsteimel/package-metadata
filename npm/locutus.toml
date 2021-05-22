@@ -1,0 +1,9 @@
+name = "locutus"
+ecosystem = "npm"
+source = "https://github.com/locutusjs/locutus"
+
+[[cpe_configurations]]
+vendor = "locutus_project"
+product = "locutus"
+target_software = "node.js"
+

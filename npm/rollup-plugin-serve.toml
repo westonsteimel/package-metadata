@@ -1,0 +1,9 @@
+name = "rollup-plugin-serve"
+ecosystem = "npm"
+source = "https://github.com/thgh/rollup-plugin-serve"
+
+[[cpe_configurations]]
+vendor = "rollup-plugin-serve_project"
+product = "rollup-plugin-serve"
+target_software = "node.js"
+

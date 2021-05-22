@@ -1,0 +1,9 @@
+name = "tiny-conf"
+ecosystem = "npm"
+source = "https://github.com/tiny-conf/tiny-conf"
+
+[[cpe_configurations]]
+vendor = "tiny-conf_project"
+product = "tiny-conf"
+target_software = "node.js"
+

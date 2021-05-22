@@ -1,0 +1,6 @@
+name = "connie-lang"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "connie-lang_project"
+product = "connie-lang"
+

@@ -1,0 +1,6 @@
+name = "doc-path"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "doc-path_project"
+product = "doc-path"
+

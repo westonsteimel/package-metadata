@@ -1,0 +1,7 @@
+name = "deeps"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "invertase"
+product = "deeps"
+target_software = "node.js"
+

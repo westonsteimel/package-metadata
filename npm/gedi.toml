@@ -1,0 +1,7 @@
+name = "gedi"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "gedi_project"
+product = "gedi"
+target_software = "node.js"
+

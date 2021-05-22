@@ -1,0 +1,7 @@
+name = "bestzip"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "bestzip_project"
+product = "bestzip"
+target_software = "node.js"
+

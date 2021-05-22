@@ -1,0 +1,9 @@
+name = "node-oojs"
+ecosystem = "npm"
+source = "https://github.com/zhangziqiu/oojs"
+
+[[cpe_configurations]]
+vendor = "node-oojs_project"
+product = "node-oojs"
+target_software = "node.js"
+

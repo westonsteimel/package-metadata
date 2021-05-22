@@ -1,0 +1,9 @@
+name = "onion-oled-js"
+ecosystem = "npm"
+source = "https://github.com/naddeoa/onion-oled-js"
+
+[[cpe_configurations]]
+vendor = "onion-oled-js_project"
+product = "onion-oled-js"
+target_software = "node.js"
+

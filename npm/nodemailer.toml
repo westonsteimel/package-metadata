@@ -1,0 +1,9 @@
+name = "nodemailer"
+ecosystem = "npm"
+source = "https://github.com/nodemailer/nodemailer"
+
+[[cpe_configurations]]
+vendor = "nodemailer"
+product = "nodemailer"
+target_software = "node.js"
+

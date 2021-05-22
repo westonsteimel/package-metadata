@@ -1,0 +1,14 @@
+name = "@irrelon/path"
+ecosystem = "npm"
+source = "https://github.com/irrelon/irrelon-path"
+
+[[cpe_configurations]]
+vendor = "irrelon"
+product = "\\@irrelon\\/path"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "irrelon"
+product = "irrelon-path"
+target_software = "node.js"
+

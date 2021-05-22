@@ -1,0 +1,9 @@
+name = "typeorm"
+ecosystem = "npm"
+source = "https://github.com/typeorm/typeorm"
+
+[[cpe_configurations]]
+vendor = "typeorm"
+product = "typeorm"
+target_software = "node.js"
+

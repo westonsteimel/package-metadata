@@ -1,0 +1,7 @@
+name = "mock2easy"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "mock2easy_project"
+product = "mock2easy"
+target_software = "node.js"
+

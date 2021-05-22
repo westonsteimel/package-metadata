@@ -1,0 +1,9 @@
+name = "swiper"
+ecosystem = "npm"
+source = "https://github.com/nolimits4web/Swiper"
+
+[[cpe_configurations]]
+vendor = "swiperjs"
+product = "swiper"
+target_software = "node.js"
+

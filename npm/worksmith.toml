@@ -1,0 +1,9 @@
+name = "worksmith"
+ecosystem = "npm"
+source = "https://github.com/guidesmiths/worksmith"
+
+[[cpe_configurations]]
+vendor = "guidesmiths"
+product = "worksmith"
+target_software = "node.js"
+

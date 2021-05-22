@@ -1,0 +1,9 @@
+name = "templ8"
+ecosystem = "npm"
+source = "https://github.com/pabloLagioia/templ8"
+
+[[cpe_configurations]]
+vendor = "templ8_project"
+product = "templ8"
+target_software = "node.js"
+

@@ -1,0 +1,7 @@
+name = "arr-flatten-unflatten"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "arr-flatten-unflatten_project"
+product = "arr-flatten-unflatten"
+target_software = "node.js"
+

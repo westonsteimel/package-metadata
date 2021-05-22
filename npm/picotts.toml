@@ -1,0 +1,9 @@
+name = "picotts"
+ecosystem = "npm"
+source = "https://github.com/luisivan/node-picotts"
+
+[[cpe_configurations]]
+vendor = "picotts_project"
+product = "picotts"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "nodee-utils"
+ecosystem = "npm"
+source = "https://github.com/nodee-apps/utils"
+
+[[cpe_configurations]]
+vendor = "nodee-utils_project"
+product = "nodee-utils"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "static-eval"
+ecosystem = "npm"
+source = "https://github.com/browserify/static-eval"
+
+[[cpe_configurations]]
+vendor = "static-eval_project"
+product = "static-eval"
+target_software = "node.js"
+

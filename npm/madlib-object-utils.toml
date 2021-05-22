@@ -1,0 +1,9 @@
+name = "madlib-object-utils"
+ecosystem = "npm"
+source = "https://github.com/Qwerios/madlib-object-utils"
+
+[[cpe_configurations]]
+vendor = "springtree"
+product = "madlib-object-utils"
+target_software = "node.js"
+

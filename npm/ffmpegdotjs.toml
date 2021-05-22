@@ -1,0 +1,7 @@
+name = "ffmpegdotjs"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "ffmpegdotjs_project"
+product = "ffmpegdotjs"
+target_software = "node.js"
+

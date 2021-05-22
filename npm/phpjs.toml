@@ -1,0 +1,9 @@
+name = "phpjs"
+ecosystem = "npm"
+source = "https://github.com/kvz/phpjs"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "php.js_project"
+product = "php.js"
+

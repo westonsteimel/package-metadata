@@ -1,0 +1,9 @@
+name = "ps-visitor"
+ecosystem = "npm"
+source = "https://github.com/WisdomKwan/ps-visitor"
+
+[[cpe_configurations]]
+vendor = "ps-visitor_project"
+product = "ps-visitor"
+target_software = "node.js"
+

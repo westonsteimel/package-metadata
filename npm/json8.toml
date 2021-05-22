@@ -1,0 +1,8 @@
+name = "json8"
+ecosystem = "npm"
+source = "https://github.com/JSON8/JSON8"
+
+[[cpe_configurations]]
+vendor = "json8_project"
+product = "json8"
+

@@ -1,0 +1,9 @@
+name = "safe-object2"
+ecosystem = "npm"
+source = "https://github.com/jiameng123/safe-object"
+
+[[cpe_configurations]]
+vendor = "safe-object2_project"
+product = "safe-object2"
+target_software = "node.js"
+

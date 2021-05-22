@@ -1,0 +1,9 @@
+name = "nis-utils"
+ecosystem = "npm"
+source = "https://github.com/nowitssimple/utils"
+
+[[cpe_configurations]]
+vendor = "nis-utils_project"
+product = "nis-utils"
+target_software = "node.js"
+

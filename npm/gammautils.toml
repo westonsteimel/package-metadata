@@ -1,0 +1,7 @@
+name = "gammautils"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "gammautils_project"
+product = "gammautils"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "promisehelpers"
+ecosystem = "npm"
+source = "https://github.com/yola/promisehelpers"
+
+[[cpe_configurations]]
+vendor = "yola"
+product = "promisehelpers"
+target_software = "node.js"
+
