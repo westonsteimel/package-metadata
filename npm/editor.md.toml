@@ -6,3 +6,6 @@ source = "https://github.com/pandao/editor.md"
 vendor = "ipandao"
 product = "editor.md"
 
+[[cpe_configurations]]
+vendor = "editor.md_project"
+product = "editor.md"

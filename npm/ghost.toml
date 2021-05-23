@@ -1,0 +1,10 @@
+name = "ghost"
+ecosystem = "npm"
+source = "https://github.com/TryGhost/Ghost"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "ghost"
+product = "ghost"
+target_software = "node.js"
+

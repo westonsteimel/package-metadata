@@ -1,0 +1,8 @@
+name = "@absolunet/kafe"
+ecosystem = "npm"
+source = "https://github.com/absolunet/kafe"
+
+[[cpe_configurations]]
+vendor = "absolunet"
+product = "kafe"
+

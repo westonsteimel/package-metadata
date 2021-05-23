@@ -1,0 +1,9 @@
+name = "@thi.ng/egf"
+ecosystem = "npm"
+source = "https://github.com/thi-ng/umbrella"
+
+[[cpe_configurations]]
+vendor = "\\@thi.ng\\/egf_project"
+product = "\\@thi.ng\\/egf"
+target_software = "node.js"
+

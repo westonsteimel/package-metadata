@@ -1,0 +1,9 @@
+name = "@ckeditor/ckeditor5-image"
+ecosystem = "npm"
+source = "https://github.com/ckeditor/ckeditor5"
+
+[[cpe_configurations]]
+vendor = "ckeditor"
+product = "ckeditor5-image"
+target_software = "node.js"
+

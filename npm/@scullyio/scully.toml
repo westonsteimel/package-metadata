@@ -1,0 +1,8 @@
+name = "@scullyio/scully"
+ecosystem = "npm"
+source = "https://github.com/scullyio/scully/tree/main/libs/scully"
+
+[[cpe_configurations]]
+vendor = "scully"
+product = "scully"
+

@@ -1,0 +1,8 @@
+name = "@ckeditor/ckeditor5-media-embed"
+ecosystem = "npm"
+source="https://github.com/ckeditor/ckeditor5"
+
+[[cpe_configurations]]
+vendor = "ckeditor"
+product = "ckeditor5-media-embed"
+target_software = "node.js"

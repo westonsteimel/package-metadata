@@ -1,0 +1,9 @@
+name = "es6-crawler-detect"
+ecosystem = "npm"
+source = "https://github.com/JefferyHus/es6-crawler-detect"
+
+[[cpe_configurations]]
+vendor = "crawlerdetect_project"
+product = "crawlerdetect"
+target_software = "node.js"
+

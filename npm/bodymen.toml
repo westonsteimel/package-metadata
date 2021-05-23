@@ -1,0 +1,9 @@
+name = "bodymen"
+ecosystem = "npm"
+source = "https://github.com/diegohaz/bodymen"
+
+[[cpe_configurations]]
+vendor = "bodymen_project"
+product = "bodymen"
+target_software = "node.js"
+

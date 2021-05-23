@@ -1,0 +1,9 @@
+name = "@tsed/core"
+ecosystem = "npm"
+source = "https://github.com/tsedio/tsed"
+
+[[cpe_configurations]]
+vendor = "ts.ed_project"
+product = "ts.ed"
+target_software = "node.js"
+

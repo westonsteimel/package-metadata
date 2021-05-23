@@ -10,3 +10,8 @@ target_software = "ckeditor_5"
 [[cpe_configurations]]
 vendor = "ckeditor"
 product = "ckeditor_5"
+
+[[cpe_configurations]]
+vendor = "ckeditor"
+product = "ckeditor5-link"
+target_software = "node.js"

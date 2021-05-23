@@ -1,0 +1,8 @@
+name = "@theia/console"
+ecosystem = "npm"
+source = "https://github.com/eclipse-theia/theia"
+
+[[cpe_configurations]]
+vendor = "eclipse"
+product = "theia"
+

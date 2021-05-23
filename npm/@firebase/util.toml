@@ -1,0 +1,9 @@
+name = "@firebase/util"
+ecosystem = "npm"
+source = "https://github.com/firebase/firebase-js-sdk"
+
+[[cpe_configurations]]
+vendor = "google"
+product = "firebase\\/util"
+target_software = "node.js"
+

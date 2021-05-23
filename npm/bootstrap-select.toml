@@ -1,0 +1,9 @@
+name = "bootstrap-select"
+ecosystem = "npm"
+source = "https://github.com/snapappointments/bootstrap-select"
+
+[[cpe_configurations]]
+vendor = "snapappointments"
+product = "bootstrap-select"
+target_software = "node.js"
+

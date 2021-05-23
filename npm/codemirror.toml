@@ -1,0 +1,8 @@
+name = "codemirror"
+ecosystem = "npm"
+source = "https://github.com/codemirror/CodeMirror"
+
+[[cpe_configurations]]
+vendor = "codemirror"
+product = "codemirror"
+

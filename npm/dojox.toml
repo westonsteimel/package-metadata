@@ -9,3 +9,8 @@ product = "dojo"
 [[cpe_configurations]]
 vendor = "openjsf"
 product = "dojox"
+
+[[cpe_configurations]]
+vendor = "linuxfoundation"
+product = "dojox"
+target_software = "node.js"

@@ -1,0 +1,9 @@
+name = "@nextcloud/dialogs"
+ecosystem = "npm"
+source = "https://github.com/nextcloud/nextcloud-dialogs"
+
+[[cpe_configurations]]
+vendor = "nextcloud\\/dialogs_project"
+product = "nextcloud\\/dialogs"
+target_software = "node.js"
+

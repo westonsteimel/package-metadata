@@ -1,0 +1,9 @@
+name = "config-shield"
+ecosystem = "npm"
+source = "https://github.com/godaddy/node-config-shield"
+
+[[cpe_configurations]]
+vendor = "godaddy"
+product = "node-config-shield"
+target_software = "node.js"
+

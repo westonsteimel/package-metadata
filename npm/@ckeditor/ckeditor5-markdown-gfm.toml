@@ -6,3 +6,7 @@ source="https://github.com/ckeditor/ckeditor5"
 vendor = "ckeditor"
 product = "ckeditor_5"
 
+[[cpe_configurations]]
+vendor = "ckeditor"
+product = "ckeditor5-markdown-gfm"
+target_software = "node.js"

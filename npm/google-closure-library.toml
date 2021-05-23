@@ -1,0 +1,8 @@
+name = "google-closure-library"
+ecosystem = "npm"
+source = "https://github.com/google/closure-library"
+
+[[cpe_configurations]]
+vendor = "google"
+product = "closure_library"
+

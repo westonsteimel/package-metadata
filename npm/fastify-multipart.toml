@@ -7,3 +7,7 @@ vendor = "fastify"
 product = "fastify-multipart"
 target_software = "node.js"
 
+[[cpe_configurations]]
+vendor = "fastify"
+product = "fastify-multipart"
+target_software = "fastify"
