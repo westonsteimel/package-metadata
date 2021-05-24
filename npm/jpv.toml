@@ -5,4 +5,5 @@ source = "https://github.com/manvel-khnkoyan/jpv"
 [[cpe_configurations]]
 vendor = "json_pattern_validator_project"
 product = "json_pattern_validator"
+target_software = "node.js"
 

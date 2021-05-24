@@ -1,0 +1,9 @@
+name = "json-pointer"
+ecosystem = "npm"
+source = "https://github.com/manuelstofer/json-pointer"
+
+[[cpe_configurations]]
+vendor = "smallpdf"
+product = "json-pointer"
+target_software = "node.js"
+

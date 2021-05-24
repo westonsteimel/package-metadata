@@ -1,0 +1,9 @@
+name = "lightning-server"
+ecosystem = "npm"
+source = "https://github.com/lightning-viz/lightning"
+
+[[cpe_configurations]]
+vendor = "lightning-viz"
+product = "lightning"
+target_software = "node.js"
+

@@ -1,0 +1,8 @@
+name = "@shopify/koa-shopify-auth"
+ecosystem = "npm"
+source = "https://github.com/Shopify/koa-shopify-auth"
+
+[[cpe_configurations]]
+vendor = "shopify"
+product = "koa-shopify-auth"
+

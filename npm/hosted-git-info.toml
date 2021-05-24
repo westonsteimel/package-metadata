@@ -1,0 +1,8 @@
+name = "hosted-git-info"
+ecosystem = "npm"
+source = "https://github.com/npm/hosted-git-info"
+
+[[cpe_configurations]]
+vendor = "npmjs"
+product = "hosted-git-info"
+

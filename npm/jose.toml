@@ -1,0 +1,9 @@
+name = "jose"
+ecosystem = "npm"
+source = "https://github.com/panva/jose"
+
+[[cpe_configurations]]
+vendor = "jose_project"
+product = "jose"
+target_software = "node.js"
+

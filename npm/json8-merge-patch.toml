@@ -5,4 +5,5 @@ source = "https://github.com/JSON8/merge-patch"
 [[cpe_configurations]]
 vendor = "json8-merge-patch_project"
 product = "json8-merge-patch"
+target_software = "node.js"
 

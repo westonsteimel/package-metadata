@@ -1,0 +1,9 @@
+name = "mongodb-client-encryption"
+ecosystem = "npm"
+source = "https://github.com/mongodb/libmongocrypt"
+
+[[cpe_configurations]]
+vendor = "mongodb"
+product = "libmongocrypt"
+target_software = "node.js"
+

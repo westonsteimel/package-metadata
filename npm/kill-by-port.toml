@@ -1,0 +1,9 @@
+name = "kill-by-port"
+ecosystem = "npm"
+source = "https://github.com/GuyMograbi/kill-by-port"
+
+[[cpe_configurations]]
+vendor = "kill-by-port_project"
+product = "kill-by-port"
+target_software = "node.js"
+

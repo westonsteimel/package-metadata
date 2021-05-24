@@ -1,0 +1,9 @@
+name = "iniparserjs"
+ecosystem = "npm"
+source = "https://github.com/tensoar/IniParser.js"
+
+[[cpe_configurations]]
+vendor = "iniparserjs_project"
+product = "iniparserjs"
+target_software = "node.js"
+
