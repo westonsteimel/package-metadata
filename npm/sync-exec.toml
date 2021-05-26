@@ -1,0 +1,8 @@
+name = "sync-exec"
+ecosystem = "npm"
+source = "https://github.com/gvarsanyi/sync-exec"
+
+[[cpe_configurations]]
+vendor = "sync-exec_project"
+product = "sync-exec"
+target_software = "node.js"

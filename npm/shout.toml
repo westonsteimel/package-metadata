@@ -1,0 +1,9 @@
+name = "shout"
+ecosystem = "npm"
+source = "https://github.com/erming/shout"
+
+[[cpe_configurations]]
+vendor = "shout_project"
+product = "shout"
+target_software = "node.js"
+

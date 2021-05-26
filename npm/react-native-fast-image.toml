@@ -1,0 +1,8 @@
+name = "react-native-fast-image"
+ecosystem = "npm"
+source = "https://github.com/DylanVann/react-native-fast-image"
+
+[[cpe_configurations]]
+vendor = "react-native-fast-image_project"
+product = "react-native-fast-image"
+

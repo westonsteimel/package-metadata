@@ -1,0 +1,8 @@
+name = "tileserver-gl"
+ecosystem = "npm"
+source = "https://github.com/maptiler/tileserver-gl"
+
+[[cpe_configurations]]
+vendor = "tileserver"
+product = "tileservergl"
+

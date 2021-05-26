@@ -1,0 +1,9 @@
+name = "portprocesses"
+ecosystem = "npm"
+source = "https://github.com/rrainn/PortProcesses"
+
+[[cpe_configurations]]
+vendor = "portprocesses_project"
+product = "portprocesses"
+target_software = "node.js"
+

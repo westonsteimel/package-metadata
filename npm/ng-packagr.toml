@@ -1,0 +1,8 @@
+name = "ng-packagr"
+ecosystem = "npm"
+source = "https://github.com/ng-packagr/ng-packagr"
+
+[[cpe_configurations]]
+vendor = "ng-packagr_project"
+product = "ng-packagr"
+

@@ -1,0 +1,9 @@
+name = "rpi"
+ecosystem = "npm"
+source = "https://github.com/xseignard/rpi"
+
+[[cpe_configurations]]
+vendor = "rpi_project"
+product = "rpi"
+target_software = "node.js"
+

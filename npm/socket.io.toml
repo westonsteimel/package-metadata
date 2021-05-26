@@ -1,0 +1,9 @@
+name = "socket.io"
+ecosystem = "npm"
+source = "https://github.com/socketio/socket.io"
+
+[[cpe_configurations]]
+vendor = "socket"
+product = "socket.io"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "timespan"
+ecosystem = "npm"
+source = "https://github.com/indexzero/TimeSpan.js"
+
+[[cpe_configurations]]
+vendor = "timespan_project"
+product = "timespan"
+target_software = "node.js"
+

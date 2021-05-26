@@ -1,0 +1,8 @@
+name = "sexstatic"
+ecosystem = "npm"
+source = "https://github.com/gstack/node-sexstatic"
+
+[[cpe_configurations]]
+vendor = "sexstatic_project"
+product = "sexstatic"
+

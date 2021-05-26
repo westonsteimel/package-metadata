@@ -1,0 +1,9 @@
+name = "slug"
+ecosystem = "npm"
+source = "https://github.com/Trott/slug"
+
+[[cpe_configurations]]
+vendor = "slug_project"
+product = "slug"
+target_software = "node.js"
+

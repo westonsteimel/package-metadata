@@ -1,0 +1,8 @@
+name = "snyk-broker"
+ecosystem = "npm"
+source = "https://github.com/snyk/broker"
+
+[[cpe_configurations]]
+vendor = "synk"
+product = "broker"
+

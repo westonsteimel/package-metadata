@@ -1,0 +1,7 @@
+name = "summit"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "summit_project"
+product = "summit"
+target_software = "node.js"
+

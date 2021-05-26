@@ -1,0 +1,8 @@
+name = "simplemde"
+ecosystem = "npm"
+source = "https://github.com/NextStepWebs/simplemde-markdown-editor"
+
+[[cpe_configurations]]
+vendor = "sparksuite"
+product = "simplemde"
+

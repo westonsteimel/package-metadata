@@ -1,0 +1,9 @@
+name = "reveal.js"
+ecosystem = "npm"
+source = "https://github.com/hakimel/reveal.js"
+
+[[cpe_configurations]]
+vendor = "revealjs"
+product = "reveal.js"
+target_software = "node.js"
+

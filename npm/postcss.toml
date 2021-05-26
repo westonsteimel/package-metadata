@@ -1,0 +1,9 @@
+name = "postcss"
+ecosystem = "npm"
+source = "https://github.com/postcss/postcss"
+
+[[cpe_configurations]]
+vendor = "postcss"
+product = "postcss"
+target_software = "node.js"
+

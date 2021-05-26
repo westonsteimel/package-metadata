@@ -1,0 +1,9 @@
+name = "sockjs"
+ecosystem = "npm"
+source = "https://github.com/sockjs/sockjs-node"
+
+[[cpe_configurations]]
+vendor = "sockjs_project"
+product = "sockjs"
+target_software = "node.js"
+

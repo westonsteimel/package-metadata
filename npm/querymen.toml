@@ -1,0 +1,8 @@
+name = "querymen"
+ecosystem = "npm"
+source = "https://github.com/diegohaz/querymen"
+
+[[cpe_configurations]]
+vendor = "querymen_project"
+product = "querymen"
+

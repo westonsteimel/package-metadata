@@ -1,0 +1,10 @@
+name = "rdf-graph-array"
+ecosystem = "npm"
+source = "https://github.com/rdf-ext/rdf-graph-array"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "rdf-graph-array_project"
+product = "rdf-graph-array"
+target_software = "node.js"
+

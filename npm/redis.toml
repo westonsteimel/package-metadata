@@ -1,0 +1,9 @@
+name = "redis"
+ecosystem = "npm"
+source = "https://github.com/NodeRedis/node-redis"
+
+[[cpe_configurations]]
+vendor = "redis.js"
+product = "redis"
+target_software = "node.js"
+

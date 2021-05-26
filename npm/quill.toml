@@ -1,0 +1,9 @@
+name = "quill"
+ecosystem = "npm"
+source = "https://github.com/quilljs/quill"
+
+[[cpe_configurations]]
+vendor = "slab"
+product = "quill"
+target_software = "node.js"
+

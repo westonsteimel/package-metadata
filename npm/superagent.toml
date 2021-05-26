@@ -1,0 +1,9 @@
+name = "superagent"
+ecosystem = "npm"
+source = "https://github.com/visionmedia/superagent"
+
+[[cpe_configurations]]
+vendor = "superagent_project"
+product = "superagent"
+target_software = "node.js"
+

@@ -1,0 +1,7 @@
+name = "statics-server"
+ecosystem = "npm"
+[[cpe_configurations]]
+vendor = "statics-server_project"
+product = "statics-server"
+target_software = "node.js"
+

@@ -1,0 +1,9 @@
+name = "roar-pidusage"
+ecosystem = "npm"
+source = "https://github.com/Svjard/pidusage"
+
+[[cpe_configurations]]
+vendor = "roar-pidusage_project"
+product = "roar-pidusage"
+target_software = "node.js"
+

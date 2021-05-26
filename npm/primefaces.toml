@@ -1,0 +1,8 @@
+name = "primefaces"
+ecosystem = "npm"
+source = "https://github.com/primefaces/primefaces"
+
+[[cpe_configurations]]
+vendor = "primetek"
+product = "primefaces"
+
