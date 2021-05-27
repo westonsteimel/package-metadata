@@ -6,3 +6,7 @@ source = "https://github.com/ua-parser/uap-core"
 vendor = "uap-core_project"
 product = "uap-core"
 
+[[cpe_configurations]]
+vendor = "uaparser"
+product = "user_agent_parser-core"
+

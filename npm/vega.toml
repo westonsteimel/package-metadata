@@ -1,0 +1,9 @@
+name = "vega"
+ecosystem = "npm"
+source = "https://github.com/vega/vega"
+
+[[cpe_configurations]]
+vendor = "vega_project"
+product = "vega"
+target_software = "node.js"
+

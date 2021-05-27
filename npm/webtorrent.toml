@@ -1,0 +1,8 @@
+name = "webtorrent"
+ecosystem = "npm"
+source = "https://github.com/webtorrent/webtorrent"
+
+[[cpe_configurations]]
+vendor = "webtorrent"
+product = "webtorrent"
+

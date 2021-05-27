@@ -1,0 +1,8 @@
+name = "tinymce"
+ecosystem = "npm"
+source = "https://www.npmjs.com/package/tinymce"
+
+[[cpe_configurations]]
+vendor = "tiny"
+product = "tinymce"
+

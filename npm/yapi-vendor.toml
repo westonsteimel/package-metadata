@@ -1,0 +1,8 @@
+name = "yapi-vendor"
+ecosystem = "npm"
+source = "https://github.com/YMFE/yapi"
+
+[[cpe_configurations]]
+vendor = "ymfe"
+product = "yapi"
+

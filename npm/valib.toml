@@ -1,0 +1,9 @@
+name = "valib"
+ecosystem = "npm"
+source = "https://github.com/riquito/valib"
+
+[[cpe_configurations]]
+vendor = "sideralis"
+product = "valib.js"
+target_software = "node.js"
+

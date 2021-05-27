@@ -1,0 +1,8 @@
+name = "yui"
+ecosystem = "npm"
+source = "https://github.com/yui/yui3"
+
+[[cpe_configurations]]
+vendor = "yahoo"
+product = "yui"
+

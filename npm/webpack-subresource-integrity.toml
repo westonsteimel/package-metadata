@@ -1,0 +1,9 @@
+name = "webpack-subresource-integrity"
+ecosystem = "npm"
+source = "https://github.com/waysact/webpack-subresource-integrity"
+
+[[cpe_configurations]]
+vendor = "webpack-subresource-integrity_project"
+product = "webpack-subresource-integrity"
+target_software = "node.js"
+

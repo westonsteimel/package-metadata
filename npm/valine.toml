@@ -1,0 +1,8 @@
+name = "valine"
+ecosystem = "npm"
+source = "https://github.com/xcss/Valine"
+
+[[cpe_configurations]]
+vendor = "valine.js"
+product = "valine"
+

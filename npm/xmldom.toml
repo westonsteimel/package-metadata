@@ -1,0 +1,9 @@
+name = "xmldom"
+ecosystem = "npm"
+source = "https://github.com/xmldom/xmldom"
+
+[[cpe_configurations]]
+vendor = "xmldom_project"
+product = "xmldom"
+target_software = "node.js"
+

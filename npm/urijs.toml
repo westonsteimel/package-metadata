@@ -1,0 +1,9 @@
+name = "urijs"
+ecosystem = "npm"
+source = "https://github.com/medialize/URI.js"
+
+[[cpe_configurations]]
+vendor = "urijs_project"
+product = "urijs"
+target_software = "node.js"
+

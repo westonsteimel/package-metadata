@@ -1,0 +1,9 @@
+name = "vis-timeline"
+ecosystem = "npm"
+source = "https://github.com/visjs/vis-timeline"
+
+[[cpe_configurations]]
+vendor = "visjs"
+product = "vis-timeline"
+target_software = "node.js"
+

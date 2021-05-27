@@ -1,6 +1,6 @@
-name = "total.js"
+name = "total4"
 ecosystem = "npm"
-source = "https://github.com/totaljs/framework"
+source = "https://github.com/totaljs/framework4"
 
 [[cpe_configurations]]
 vendor = "totaljs"
