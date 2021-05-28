@@ -1,0 +1,8 @@
+name = "dweeves/magmi"
+ecosystem = "composer"
+source = "https://github.com/dweeves/magmi-git"
+
+[[cpe_configurations]]
+vendor = "magmi_project"
+product = "magmi"
+

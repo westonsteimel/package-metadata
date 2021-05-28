@@ -1,0 +1,8 @@
+name = "francoisjacquet/rosariosis"
+ecosystem = "composer"
+source = "https://gitlab.com/francoisjacquet/rosariosis/"
+
+[[cpe_configurations]]
+vendor = "rosariosis"
+product = "student_information_system"
+

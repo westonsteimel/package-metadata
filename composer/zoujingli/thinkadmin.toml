@@ -1,0 +1,8 @@
+name = "zoujingli/thinkadmin"
+ecosystem = "composer"
+source = "https://gitee.com/zoujingli/ThinkAdmin"
+
+[[cpe_configurations]]
+vendor = "ctolog"
+product = "thinkadmin"
+
