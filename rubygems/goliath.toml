@@ -1,0 +1,7 @@
+name = "goliath"
+ecosystem = "rubygems"
+[[cpe_configurations]]
+vendor = "goliath_project"
+product = "goliath"
+target_software = "ruby"
+

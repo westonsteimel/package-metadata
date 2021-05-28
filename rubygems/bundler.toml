@@ -1,0 +1,9 @@
+name = "bundler"
+ecosystem = "rubygems"
+source = "https://github.com/rubygems/rubygems"
+
+[[cpe_configurations]]
+vendor = "bundler"
+product = "bundler"
+target_software = "ruby"
+
