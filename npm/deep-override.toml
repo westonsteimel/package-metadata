@@ -1,0 +1,8 @@
+name = "deep-override"
+ecosystem = "npm"
+source = "https://github.com/ASaiAnudeep/deep-override"
+
+[[cpe_configurations]]
+vendor = "deep-override_project"
+product = "deep-override"
+

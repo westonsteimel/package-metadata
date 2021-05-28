@@ -1,0 +1,9 @@
+name = "express-hbs"
+ecosystem = "npm"
+source = "https://github.com/TryGhost/express-hbs"
+
+[[cpe_configurations]]
+vendor = "express_handlebars_project"
+product = "express_handlebars"
+target_software = "node.js"
+

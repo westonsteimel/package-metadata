@@ -1,0 +1,9 @@
+name = "browserslist"
+ecosystem = "npm"
+source = "https://github.com/browserslist/browserslist"
+
+[[cpe_configurations]]
+vendor = "browserslist_project"
+product = "browserslist"
+target_software = "node.js"
+

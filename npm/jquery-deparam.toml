@@ -1,0 +1,8 @@
+name = "jquery-deparam"
+ecosystem = "npm"
+source = "https://github.com/AceMetrix/jquery-deparam"
+
+[[cpe_configurations]]
+vendor = "acemetrix"
+product = "jquery-deparam"
+

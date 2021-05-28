@@ -1,0 +1,9 @@
+name = "dns-packet"
+ecosystem = "npm"
+source = "https://github.com/mafintosh/dns-packet"
+
+[[cpe_configurations]]
+vendor = "dns-packet_project"
+product = "dns-packet"
+target_software = "node.js"
+

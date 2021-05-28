@@ -1,0 +1,9 @@
+name = "101"
+ecosystem = "npm"
+source = "https://github.com/tjmehta/101"
+
+[[cpe_configurations]]
+vendor = "101_project"
+product = "101"
+target_software = "node.js"
+

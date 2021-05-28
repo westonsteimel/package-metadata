@@ -1,0 +1,8 @@
+name = "jquery-bbq"
+ecosystem = "npm"
+source = "https://github.com/cowboy/jquery-bbq"
+
+[[cpe_configurations]]
+vendor = "jquery-bbq_project"
+product = "jquery-bbq"
+

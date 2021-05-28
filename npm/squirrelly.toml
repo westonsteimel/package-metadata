@@ -1,0 +1,8 @@
+name = "squirrelly"
+ecosystem = "npm"
+source = "https://github.com/squirrellyjs/squirrelly"
+
+[[cpe_configurations]]
+vendor = "squirrelly"
+product = "squirrelly"
+

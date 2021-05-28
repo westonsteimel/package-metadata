@@ -1,0 +1,8 @@
+name = "haml-coffee"
+ecosystem = "npm"
+source = "https://github.com/netzpirat/haml-coffee"
+
+[[cpe_configurations]]
+vendor = "haml-coffee_project"
+product = "haml-coffee"
+
