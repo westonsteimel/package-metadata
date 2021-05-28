@@ -1,0 +1,8 @@
+name = "UmbracoCms"
+ecosystem = "nuget"
+source = "https://github.com/umbraco/umbraco-cms"
+
+[[cpe_configurations]]
+vendor = "umbraco"
+product = "umbraco_cms"
+

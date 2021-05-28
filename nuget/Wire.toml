@@ -1,0 +1,9 @@
+name = "Wire"
+ecosystem = "nuget"
+source = "https://github.com/rogeralsing/Wire"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "asynkron"
+product = "wire"
+
