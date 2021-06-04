@@ -1,0 +1,8 @@
+name = "pydantic"
+ecosystem = "pypi"
+source = "https://github.com/samuelcolvin/pydantic"
+
+[[cpe_configurations]]
+vendor = "pydantic_project"
+product = "pydantic"
+
