@@ -1,0 +1,13 @@
+name = "fastapi"
+ecosystem = "pypi"
+source = "https://github.com/tiangolo/fastapi"
+
+[[cpe_configurations]]
+vendor = "tiangolo"
+product = "fastapi"
+
+[[cpe_configurations]]
+vendor = "fastapi_project"
+product = "fastapi"
+
+
