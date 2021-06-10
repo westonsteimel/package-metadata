@@ -1,0 +1,9 @@
+name = "Flask-Security"
+ecosystem = "pypi"
+source = "https://github.com/mattupstate/flask-security"
+deprecated = true
+
+[[cpe_configurations]]
+vendor = "flask-security_project"
+product = "flask-security"
+

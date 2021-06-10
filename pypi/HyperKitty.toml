@@ -1,0 +1,8 @@
+name = "HyperKitty"
+ecosystem = "pypi"
+source = "https://gitlab.com/mailman/hyperkitty"
+
+[[cpe_configurations]]
+vendor = "hyperkitty_project"
+product = "hyperkitty"
+
