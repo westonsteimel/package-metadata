@@ -1,0 +1,9 @@
+name = "normalize-url"
+ecosystem = "npm"
+source = "https://github.com/sindresorhus/normalize-url"
+
+[[cpe_configurations]]
+vendor = "normalize-url_project"
+product = "normalize-url"
+target_software = "node.js"
+

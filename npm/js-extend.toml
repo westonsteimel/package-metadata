@@ -1,0 +1,9 @@
+name = "js-extend"
+ecosystem = "npm"
+source = "https://github.com/vmattos/js-extend"
+
+[[cpe_configurations]]
+vendor = "js-extend_project"
+product = "js-extend"
+target_software = "node.js"
+

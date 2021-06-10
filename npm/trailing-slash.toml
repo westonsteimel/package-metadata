@@ -1,0 +1,9 @@
+name = "trailing-slash"
+ecosystem = "npm"
+source = "https://github.com/fardog/trailing-slash"
+
+[[cpe_configurations]]
+vendor = "trailing-slash_project"
+product = "trailing-slash"
+target_software = "node.js"
+

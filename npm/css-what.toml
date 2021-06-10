@@ -1,0 +1,9 @@
+name = "css-what"
+ecosystem = "npm"
+source = "https://github.com/fb55/css-what"
+
+[[cpe_configurations]]
+vendor = "css-what_project"
+product = "css-what"
+target_software = "node.js"
+

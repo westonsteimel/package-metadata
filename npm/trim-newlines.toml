@@ -1,0 +1,9 @@
+name = "trim-newlines"
+ecosystem = "npm"
+source = "https://github.com/sindresorhus/trim-newlines"
+
+[[cpe_configurations]]
+vendor = "trim-newlines_project"
+product = "trim-newlines"
+target_software = "node.js"
+

@@ -10,3 +10,8 @@ product = "mysql_node_module"
 vendor = "mysql_project"
 product = "mysql"
 target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "mysqljs"
+product = "mysql"
+target_software = "node.js"
