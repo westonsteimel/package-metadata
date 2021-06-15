@@ -1,0 +1,9 @@
+name = "thefuck"
+ecosystem = "pypi"
+source = "https://github.com/nvbn/thefuck"
+
+[[cpe_configurations]]
+vendor = "the_fuck_project"
+product = "the_fuck"
+target_software = "python"
+

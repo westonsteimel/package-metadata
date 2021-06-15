@@ -1,0 +1,8 @@
+name = "Flask-AppBuilder"
+ecosystem = "pypi"
+source = "https://github.com/dpgaspar/flask-appbuilder"
+
+[[cpe_configurations]]
+vendor = "flask-appbuilder_project"
+product = "flask-appbuilder"
+

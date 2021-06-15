@@ -1,0 +1,8 @@
+name = "datasette"
+ecosystem = "pypi"
+source = "https://github.com/simonw/datasette"
+
+[[cpe_configurations]]
+vendor = "datasette"
+product = "datasette"
+
