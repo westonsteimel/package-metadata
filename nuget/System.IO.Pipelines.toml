@@ -1,7 +1,6 @@
-name = "System.Net.Http"
+name = "System.IO.Pipelines"
 ecosystem = "nuget"
 
 [[cpe_configurations]]
 vendor = "microsoft"
-product = "system.net.http"
-
+product = "system.io.pipelines"

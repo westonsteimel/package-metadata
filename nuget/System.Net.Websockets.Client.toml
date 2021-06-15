@@ -1,7 +1,6 @@
-name = "System.Net.Security"
+name = "System.Net.Websockets.Client"
 ecosystem = "nuget"
 
 [[cpe_configurations]]
 vendor = "microsoft"
-product = "system.net.security"
-
+product = "system.net.websockets.client"
