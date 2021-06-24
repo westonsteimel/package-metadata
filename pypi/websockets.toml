@@ -6,3 +6,6 @@ source = "https://github.com/aaugustin/websockets"
 vendor = "myks"
 product = "websockets"
 
+[[cpe_configurations]]
+vendor = "websockets_project"
+product = "websockets"

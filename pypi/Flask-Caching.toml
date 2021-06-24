@@ -1,0 +1,9 @@
+name = "Flask-Caching"
+ecosystem = "pypi"
+source = "https://github.com/sh4nks/flask-caching"
+
+[[cpe_configurations]]
+vendor = "flask-caching_project"
+product = "flask-caching"
+target_software = "flask"
+

@@ -1,0 +1,8 @@
+name = "localstack"
+ecosystem = "pypi"
+source = "https://github.com/localstack/localstack"
+
+[[cpe_configurations]]
+vendor = "localstack"
+product = "localstack"
+

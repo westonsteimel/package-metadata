@@ -1,0 +1,8 @@
+name = "Flask-Unchained"
+ecosystem = "pypi"
+source = "https://github.com/briancappello/flask-unchained"
+
+[[cpe_configurations]]
+vendor = "flask_unchained_project"
+product = "flask_unchained"
+

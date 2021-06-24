@@ -1,0 +1,8 @@
+name = "tendenci"
+ecosystem = "pypi"
+source = "https://github.com/tendenci/tendenci"
+
+[[cpe_configurations]]
+vendor = "tendenci"
+product = "tendenci"
+

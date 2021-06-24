@@ -1,0 +1,8 @@
+name = "impacket"
+ecosystem = "pypi"
+source = "https://github.com/SecureAuthCorp/impacket"
+
+[[cpe_configurations]]
+vendor = "secureauth"
+product = "impacket"
+
