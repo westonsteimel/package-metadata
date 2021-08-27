@@ -1,0 +1,8 @@
+name = "Glances"
+ecosystem = "pypi"
+source = "https://github.com/nicolargo/glances"
+
+[[cpe_configurations]]
+vendor = "glances_project"
+product = "glances"
+

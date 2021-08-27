@@ -1,0 +1,9 @@
+name = "XML2Dict"
+ecosystem = "pypi"
+source = "https://github.com/mcspring/XML2Dict"
+
+[[cpe_configurations]]
+vendor = "xml2dict_project"
+product = "xml2dict"
+target_software = "python"
+

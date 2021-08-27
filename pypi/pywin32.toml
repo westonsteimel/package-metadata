@@ -1,0 +1,8 @@
+name = "pywin32"
+ecosystem = "pypi"
+source = "https://github.com/mhammond/pywin32"
+
+[[cpe_configurations]]
+vendor = "pywin32_project"
+product = "pywin32"
+

@@ -1,0 +1,7 @@
+name = "jupyterlab"
+ecosystem = "pypi"
+source = "https://github.com/jupyterlab/jupyterlab"
+[[cpe_configurations]]
+vendor = "jupyter"
+product = "jupyterlab"
+

@@ -1,0 +1,8 @@
+name = "mpmath"
+ecosystem = "pypi"
+source = "https://github.com/fredrik-johansson/mpmath"
+
+[[cpe_configurations]]
+vendor = "mpmath"
+product = "mpmath"
+

@@ -1,0 +1,8 @@
+name = "Flask-User"
+ecosystem = "pypi"
+source = "https://github.com/lingthio/Flask-User"
+
+[[cpe_configurations]]
+vendor = "flask-user_project"
+product = "flask-user"
+

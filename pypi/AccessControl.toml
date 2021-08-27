@@ -1,0 +1,8 @@
+name = "AccessControl"
+ecosystem = "pypi"
+source = "https://github.com/zopefoundation/AccessControl"
+
+[[cpe_configurations]]
+vendor = "zope"
+product = "accesscontrol"
+
