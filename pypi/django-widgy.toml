@@ -1,0 +1,9 @@
+name = "django-widgy"
+ecosystem = "pypi"
+source = "https://github.com/fusionbox/django-widgy"
+
+[[cpe_configurations]]
+vendor = "fusionbox"
+product = "widgy"
+target_software = "django"
+

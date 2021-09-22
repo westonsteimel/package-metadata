@@ -1,0 +1,8 @@
+name = "quokka"
+ecosystem = "pypi"
+source = "https://github.com/rochacbruno/quokka"
+
+[[cpe_configurations]]
+vendor = "quokka_project"
+product = "quokka"
+

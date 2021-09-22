@@ -1,0 +1,8 @@
+name = "simiki"
+ecosystem = "pypi"
+source = "https://github.com/tankywoo/simiki"
+
+[[cpe_configurations]]
+vendor = "simiki_project"
+product = "simiki"
+

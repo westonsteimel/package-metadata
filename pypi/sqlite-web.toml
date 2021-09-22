@@ -1,0 +1,8 @@
+name = "sqlite-web"
+ecosystem = "pypi"
+source = "https://github.com/coleifer/sqlite-web"
+
+[[cpe_configurations]]
+vendor = "sqlite-web_project"
+product = "sqlite-web"
+

@@ -1,0 +1,8 @@
+name = "onefuzz"
+ecosystem = "pypi"
+source = "https://github.com/microsoft/onefuzz"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "onefuzz"
+

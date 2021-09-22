@@ -1,0 +1,8 @@
+name = "pywb"
+ecosystem = "pypi"
+source = "https://github.com/webrecorder/pywb"
+
+[[cpe_configurations]]
+vendor = "webrecorder"
+product = "pywb"
+

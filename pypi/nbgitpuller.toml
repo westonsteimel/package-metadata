@@ -1,0 +1,8 @@
+name = "nbgitpuller"
+ecosystem = "pypi"
+source = "https://github.com/jupyterhub/nbgitpuller"
+
+[[cpe_configurations]]
+vendor = "jupyterhub"
+product = "nbgitpuller"
+
