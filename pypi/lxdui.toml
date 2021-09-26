@@ -1,0 +1,8 @@
+name = "lxdui"
+ecosystem = "pypi"
+source = "https://github.com/AdaptiveScale/lxdui"
+
+[[cpe_configurations]]
+vendor = "adaptivescale"
+product = "lxdui"
+
