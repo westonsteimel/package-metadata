@@ -1,0 +1,8 @@
+name = "lin-cms"
+ecosystem = "pypi"
+source = "https://github.com/TaleLin/lin-cms-flask"
+
+[[cpe_configurations]]
+vendor = "talelin"
+product = "lin-cms-flask"
+
