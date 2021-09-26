@@ -1,0 +1,8 @@
+name = "aws-encryption-sdk"
+ecosystem = "pypi"
+source = "https://github.com/aws/aws-encryption-sdk-python"
+
+[[cpe_configurations]]
+vendor = "amazon"
+product = "aws_encryption_sdk"
+
