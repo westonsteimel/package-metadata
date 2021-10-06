@@ -1,0 +1,9 @@
+name = "flask-restx"
+ecosystem = "pypi"
+source = "https://github.com/python-restx/flask-restx"
+
+[[cpe_configurations]]
+vendor = "flask-restx_project"
+product = "flask-restx"
+target_software = "python"
+

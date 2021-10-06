@@ -1,0 +1,8 @@
+name = "leo"
+ecosystem = "pypi"
+source = "https://github.com/leo-editor/leo-editor"
+
+[[cpe_configurations]]
+vendor = "leoeditor"
+product = "leo"
+

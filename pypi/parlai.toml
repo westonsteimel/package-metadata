@@ -1,0 +1,8 @@
+name = "parlai"
+ecosystem = "pypi"
+source = "https://github.com/facebookresearch/ParlAI"
+
+[[cpe_configurations]]
+vendor = "facebook"
+product = "parlai"
+

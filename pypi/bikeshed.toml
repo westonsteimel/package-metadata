@@ -1,0 +1,8 @@
+name = "bikeshed"
+ecosystem = "pypi"
+source = "https://github.com/tabatkins/bikeshed"
+
+[[cpe_configurations]]
+vendor = "bikeshed_project"
+product = "bikeshed"
+

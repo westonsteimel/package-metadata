@@ -1,0 +1,8 @@
+name = "binderhub"
+ecosystem = "pypi"
+source = "https://github.com/jupyterhub/binderhub"
+
+[[cpe_configurations]]
+vendor = "jupyter"
+product = "binderhub"
+

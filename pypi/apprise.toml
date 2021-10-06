@@ -1,0 +1,8 @@
+name = "apprise"
+ecosystem = "pypi"
+source = "https://github.com/caronc/apprise"
+
+[[cpe_configurations]]
+vendor = "nuxref"
+product = "apprise"
+

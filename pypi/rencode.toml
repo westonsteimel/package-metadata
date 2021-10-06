@@ -1,0 +1,9 @@
+name = "rencode"
+ecosystem = "pypi"
+source = "https://github.com/aresch/rencode"
+
+[[cpe_configurations]]
+vendor = "rencode_project"
+product = "rencode"
+target_software = "python"
+
