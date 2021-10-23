@@ -1,0 +1,8 @@
+name = "django-unicorn"
+ecosystem = "pypi"
+source = "https://github.com/adamghill/django-unicorn"
+
+[[cpe_configurations]]
+vendor = "django-unicorn"
+product = "unicorn"
+
