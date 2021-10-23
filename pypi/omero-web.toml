@@ -6,3 +6,6 @@ source = "https://github.com/ome/omero-web"
 vendor = "openmicroscopy"
 product = "omero.web"
 
+[[cpe_configurations]]
+vendor = "openmicroscopy"
+product = "omero-web"
