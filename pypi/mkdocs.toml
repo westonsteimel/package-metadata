@@ -1,0 +1,8 @@
+name = "mkdocs"
+ecosystem = "pypi"
+source = "https://github.com/mkdocs/mkdocs"
+
+[[cpe_configurations]]
+vendor = "mkdocs"
+product = "mkdocs"
+
