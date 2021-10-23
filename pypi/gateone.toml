@@ -1,0 +1,8 @@
+name = "gateone"
+ecosystem = "pypi"
+source = "https://github.com/jperelli/GateOne"
+
+[[cpe_configurations]]
+vendor = "liftoffsoftware"
+product = "gate_one"
+
