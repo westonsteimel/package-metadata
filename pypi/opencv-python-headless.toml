@@ -1,0 +1,8 @@
+name = "opencv-python-headless"
+ecosystem = "pypi"
+source = "https://github.com/skvark/opencv-python"
+
+[[cpe_configurations]]
+vendor = "opencv"
+product = "opencv"
+
