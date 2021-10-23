@@ -1,0 +1,8 @@
+name = "vyper"
+ecosystem = "pypi"
+source = "https://github.com/vyperlang/vyper"
+
+[[cpe_configurations]]
+vendor = "vyper_project"
+product = "vyper"
+
