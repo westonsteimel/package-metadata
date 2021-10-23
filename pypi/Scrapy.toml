@@ -1,0 +1,8 @@
+name = "Scrapy"
+ecosystem = "pypi"
+source = "https://github.com/scrapy/scrapy"
+
+[[cpe_configurations]]
+vendor = "scrapy"
+product = "scrapy"
+
