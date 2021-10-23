@@ -1,0 +1,8 @@
+name = "slo-generator"
+ecosystem = "pypi"
+source = "https://github.com/google/slo-generator"
+
+[[cpe_configurations]]
+vendor = "google"
+product = "slo_generator"
+
