@@ -1,0 +1,8 @@
+name = "shuup"
+ecosystem = "pypi"
+source = "https://github.com/shuup/shuup"
+
+[[cpe_configurations]]
+vendor = "shuup"
+product = "shuup"
+
