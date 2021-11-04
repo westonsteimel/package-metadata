@@ -1,0 +1,8 @@
+name = "jupyterhub-firstuseauthenticator"
+ecosystem = "pypi"
+source = "https://github.com/jupyterhub/firstuseauthenticator"
+
+[[cpe_configurations]]
+vendor = "jupyterhub"
+product = "first_use_authenticator"
+
