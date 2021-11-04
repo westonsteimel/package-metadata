@@ -1,0 +1,8 @@
+name = "rasa"
+ecosystem = "pypi"
+source = "https://github.com/rasahq/rasa"
+
+[[cpe_configurations]]
+vendor = "rasa"
+product = "rasa"
+
