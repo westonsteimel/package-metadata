@@ -1,0 +1,9 @@
+name = "dask"
+ecosystem = "pypi"
+source = "https://github.com/dask/dask/"
+
+[[cpe_configurations]]
+vendor = "anaconda"
+product = "dask"
+target_software = "python"
+
