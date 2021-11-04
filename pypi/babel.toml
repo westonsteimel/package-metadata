@@ -1,0 +1,8 @@
+name = "babel"
+ecosystem = "pypi"
+source = "https://github.com/python-babel/babel"
+
+[[cpe_configurations]]
+vendor = "pocoo"
+product = "babel"
+
