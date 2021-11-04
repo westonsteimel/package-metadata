@@ -1,0 +1,8 @@
+name = "easy-xml"
+ecosystem = "pypi"
+home = "https://github.com/darkfoxprime/python-easy_xml"
+
+[[cpe_configurations]]
+vendor = "pypi"
+product = "easyxml"
+
