@@ -1,0 +1,8 @@
+name = "enrocrypt"
+ecosystem = "pypi"
+source = "https://github.com/Morgan-Phoenix/EnroCrypt"
+
+[[cpe_configurations]]
+vendor = "enrocrypt_project"
+product = "enrocrypt"
+
