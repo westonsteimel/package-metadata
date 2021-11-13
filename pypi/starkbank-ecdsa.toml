@@ -1,0 +1,8 @@
+name = "starkbank-ecdsa"
+ecosystem = "pypi"
+source = "https://github.com/starkbank/ecdsa-python"
+
+[[cpe_configurations]]
+vendor = "starkbank"
+product = "ecdsa-python"
+
