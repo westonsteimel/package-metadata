@@ -1,0 +1,6 @@
+name = "antilles-tools"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "lenovo"
+product = "antilles"
+

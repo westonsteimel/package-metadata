@@ -1,0 +1,6 @@
+name = "onionshare-cli"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "onionshare"
+product = "onionshare"
+

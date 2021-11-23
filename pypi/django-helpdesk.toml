@@ -1,0 +1,8 @@
+name = "django-helpdesk"
+ecosystem = "pypi"
+source = "https://github.com/django-helpdesk/django-helpdesk"
+
+[[cpe_configurations]]
+vendor = "django-helpdesk_project"
+product = "django-helpdesk"
+
