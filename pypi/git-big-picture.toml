@@ -1,0 +1,8 @@
+name = "git-big-picture"
+ecosystem = "pypi"
+source = "https://github.com/git-big-picture/git-big-picture"
+
+[[cpe_configurations]]
+vendor = "git-big-picture_project"
+product = "git-big-picture"
+

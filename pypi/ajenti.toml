@@ -1,0 +1,10 @@
+name = "ajenti"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "ajenti"
+product = "ajenti"
+
+[[cpe_configurations]]
+vendor = "ajenti"
+product = "ajenticp"
+

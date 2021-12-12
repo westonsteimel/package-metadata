@@ -1,0 +1,6 @@
+name = "aptdaemon"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "aptdaemon_project"
+product = "aptdaemon"
+

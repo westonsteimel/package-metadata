@@ -1,0 +1,8 @@
+name = "asyncssh"
+ecosystem = "pypi"
+source = "https://github.com/ronf/asyncssh"
+
+[[cpe_configurations]]
+vendor = "asyncssh_project"
+product = "asyncssh"
+

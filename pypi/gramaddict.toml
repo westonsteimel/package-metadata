@@ -1,0 +1,8 @@
+name = "gramaddict"
+ecosystem = "pypi"
+source = "https://github.com/GramAddict/bot/"
+
+[[cpe_configurations]]
+vendor = "gramaddict"
+product = "gramaddict"
+

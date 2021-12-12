@@ -1,0 +1,8 @@
+name = "ckan"
+ecosystem = "pypi"
+source = "https://github.com/ckan/ckan"
+
+[[cpe_configurations]]
+vendor = "okfn"
+product = "ckan"
+

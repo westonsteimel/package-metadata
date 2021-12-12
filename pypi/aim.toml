@@ -1,0 +1,9 @@
+name = "aim"
+ecosystem = "pypi"
+source = "https://github.com/aimhubio/aim"
+
+[[cpe_configurations]]
+vendor = "aimstack"
+product = "aim"
+target_software = "python"
+

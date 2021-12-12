@@ -1,0 +1,12 @@
+name = "gps"
+ecosystem = "pypi"
+source = "https://gitlab.com/gpsd/gpsd"
+
+[[cpe_configurations]]
+vendor = "gpsd_project"
+product = "gpsd"
+
+[[cpe_configurations]]
+vendor = "microjson_project"
+product = "microjson"
+
