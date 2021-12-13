@@ -1,0 +1,6 @@
+name = "web2py"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "web2py"
+product = "web2py"
+

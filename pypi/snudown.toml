@@ -1,0 +1,6 @@
+name = "snudown"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "reddit"
+product = "snudown"
+

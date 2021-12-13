@@ -1,0 +1,8 @@
+name = "SOAPpy"
+ecosystem = "pypi"
+source = "https://github.com/kiorky/SOAPpy"
+
+[[cpe_configurations]]
+vendor = "makina-corpus"
+product = "soappy"
+

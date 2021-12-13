@@ -1,0 +1,6 @@
+name = "PyAMF"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "pyamf"
+product = "pyamf"
+

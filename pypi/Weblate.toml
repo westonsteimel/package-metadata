@@ -1,0 +1,8 @@
+name = "Weblate"
+ecosystem = "pypi"
+source = "https://github.com/WeblateOrg/weblate"
+
+[[cpe_configurations]]
+vendor = "weblate"
+product = "weblate"
+

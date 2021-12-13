@@ -1,0 +1,8 @@
+name = "snapcraft"
+ecosystem = "pypi"
+source = "https://github.com/snapcore/snapcraft"
+
+[[cpe_configurations]]
+vendor = "canonical"
+product = "snapcraft"
+

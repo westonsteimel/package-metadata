@@ -1,0 +1,8 @@
+name = "security_monkey"
+ecosystem = "pypi"
+source = "https://github.com/netflix/security_monkey"
+
+[[cpe_configurations]]
+vendor = "netflix"
+product = "security_monkey"
+

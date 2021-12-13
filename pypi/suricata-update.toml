@@ -1,0 +1,8 @@
+name = "suricata-update"
+ecosystem = "pypi"
+source = "https://github.com/OISF/suricata-update"
+
+[[cpe_configurations]]
+vendor = "oisf"
+product = "suricata-update"
+

@@ -1,0 +1,8 @@
+name = "pritunl"
+ecosystem = "pypi"
+source = "https://github.com/pritunl/pritunl"
+
+[[cpe_configurations]]
+vendor = "pritunl"
+product = "pritunl"
+

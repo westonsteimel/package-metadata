@@ -1,0 +1,8 @@
+name = "sanic"
+ecosystem = "pypi"
+source = "http://github.com/sanic-org/sanic/"
+
+[[cpe_configurations]]
+vendor = "sanic_project"
+product = "sanic"
+

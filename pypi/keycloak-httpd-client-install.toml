@@ -1,0 +1,8 @@
+name = "keycloak-httpd-client-install"
+ecosystem = "pypi"
+source = "https://github.com/latchset/keycloak-httpd-client-install"
+
+[[cpe_configurations]]
+vendor = "keycloak-httpd-client-install_project"
+product = "keycloak-httpd-client-install"
+

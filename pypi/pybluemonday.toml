@@ -6,3 +6,6 @@ source = "https://github.com/ColdHeat/pybluemonday"
 vendor = "pybluemonday_project"
 product = "pybluemonday"
 
+[[cpe_configurations]]
+vendor = "python"
+product = "pybluemonday"

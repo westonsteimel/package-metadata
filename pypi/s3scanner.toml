@@ -1,0 +1,8 @@
+name = "s3scanner"
+ecosystem = "pypi"
+source = "https://github.com/sa7mon/S3Scanner"
+
+[[cpe_configurations]]
+vendor = "s3scanner_project"
+product = "s3scanner"
+

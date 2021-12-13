@@ -1,0 +1,8 @@
+name = "glance"
+ecosystem = "pypi"
+source = "https://opendev.org/openstack/glance"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "glance"
+

@@ -1,0 +1,8 @@
+name = "Radicale"
+ecosystem = "pypi"
+source = "https://github.com/Kozea/Radicale"
+
+[[cpe_configurations]]
+vendor = "radicale"
+product = "radicale"
+

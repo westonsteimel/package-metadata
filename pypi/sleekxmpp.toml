@@ -1,0 +1,7 @@
+name = "sleekxmpp"
+ecosystem = "pypi"
+source = "https://github.com/fritzy/SleekXMPP"
+
+[[cpe_configurations]]
+vendor = "sleekxmpp_project"
+product = "sleekxmpp"

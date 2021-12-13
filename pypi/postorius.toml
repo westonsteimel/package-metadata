@@ -1,0 +1,8 @@
+name = "postorius"
+ecosystem = "pypi"
+source = "https://gitlab.com/mailman/postorius"
+
+[[cpe_configurations]]
+vendor = "postorius_project"
+product = "postorius"
+

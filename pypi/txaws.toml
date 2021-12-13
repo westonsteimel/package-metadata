@@ -1,0 +1,8 @@
+name = "txaws"
+ecosystem = "pypi"
+source = "https://github.com/twisted/txaws"
+
+[[cpe_configurations]]
+vendor = "twistedmatrix"
+product = "txaws"
+

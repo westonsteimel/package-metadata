@@ -1,0 +1,8 @@
+name = "lmdb"
+ecosystem = "pypi"
+source = "https://github.com/jnwatson/py-lmdb"
+
+[[cpe_configurations]]
+vendor = "py-lmdb_project"
+product = "py-lmdb"
+

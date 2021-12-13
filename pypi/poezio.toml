@@ -1,0 +1,8 @@
+name = "poezio"
+ecosystem = "pypi"
+source = "https://lab.louiz.org/poezio/poezio"
+
+[[cpe_configurations]]
+vendor = "poezio"
+product = "poezio"
+

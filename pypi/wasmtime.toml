@@ -1,0 +1,7 @@
+name = "wasmtime"
+ecosystem = "pypi"
+source = "https://github.com/bytecodealliance/wasmtime-py"
+
+[[cpe_configurations]]
+vendor = "bytecodealliance"
+product = "wasmtime"

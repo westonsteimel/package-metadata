@@ -1,0 +1,7 @@
+name = "Products.kupu"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "kupu_project"
+product = "kupu"
+

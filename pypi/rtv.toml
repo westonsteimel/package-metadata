@@ -1,0 +1,8 @@
+name = "rtv"
+ecosystem = "pypi"
+source = "https://github.com/michael-lazar/rtv"
+
+[[cpe_configurations]]
+vendor = "reddit_terminal_viewer_project"
+product = "reddit_terminal_viewer"
+

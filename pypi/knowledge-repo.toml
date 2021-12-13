@@ -1,0 +1,8 @@
+name = "knowledge-repo"
+ecosystem = "pypi"
+source = "https://github.com/airbnb/knowledge-repo"
+
+[[cpe_configurations]]
+vendor = "airbnb"
+product = "knowledge_repo"
+

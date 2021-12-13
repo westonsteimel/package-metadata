@@ -1,0 +1,8 @@
+name = "jubatus"
+ecosystem = "pypi"
+source = "https://github.com/jubatus/jubatus"
+
+[[cpe_configurations]]
+vendor = "jubat"
+product = "jubatus"
+

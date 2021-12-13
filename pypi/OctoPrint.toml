@@ -1,0 +1,8 @@
+name = "OctoPrint"
+ecosystem = "pypi"
+source = "https://github.com/OctoPrint/OctoPrint"
+
+[[cpe_configurations]]
+vendor = "octoprint"
+product = "octoprint"
+

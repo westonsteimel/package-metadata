@@ -1,0 +1,8 @@
+name = "kerberos"
+ecosystem = "pypi"
+source = "https://github.com/apple/ccs-pykerberos"
+
+[[cpe_configurations]]
+vendor = "apple"
+product = "pykerberos"
+

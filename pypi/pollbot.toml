@@ -1,0 +1,8 @@
+name = "pollbot"
+ecosystem = "pypi"
+source = "https://github.com/mozilla/PollBot"
+
+[[cpe_configurations]]
+vendor = "mozilla"
+product = "pollbot"
+

@@ -1,0 +1,9 @@
+name = "nbdime"
+ecosystem = "pypi"
+source = "https://github.com/jupyter/nbdime"
+
+[[cpe_configurations]]
+vendor = "jupyter"
+product = "nbdime"
+target_software = "python"
+

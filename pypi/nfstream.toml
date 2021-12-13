@@ -1,0 +1,8 @@
+name = "nfstream"
+ecosystem = "pypi"
+source = "https://github.com/nfstream/nfstream"
+
+[[cpe_configurations]]
+vendor = "nfstream"
+product = "nfstream"
+

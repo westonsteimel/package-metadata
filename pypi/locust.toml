@@ -1,0 +1,8 @@
+name = "locust"
+ecosystem = "pypi"
+source = "https://github.com/locustio/locust"
+
+[[cpe_configurations]]
+vendor = "locust"
+product = "locust"
+

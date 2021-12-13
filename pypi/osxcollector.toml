@@ -1,0 +1,8 @@
+name = "osxcollector"
+ecosystem = "pypi"
+source = "https://github.com/Yelp/osxcollector"
+
+[[cpe_configurations]]
+vendor = "yelp"
+product = "osxcollector"
+

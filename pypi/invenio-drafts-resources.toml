@@ -1,0 +1,8 @@
+name = "invenio-drafts-resources"
+ecosystem = "pypi"
+source = "https://github.com/inveniosoftware/Invenio-Drafts-Resources"
+
+[[cpe_configurations]]
+vendor = "inveniosoftware"
+product = "invenio-drafts-resources"
+

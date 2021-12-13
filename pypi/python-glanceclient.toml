@@ -1,0 +1,8 @@
+name = "python-glanceclient"
+ecosystem = "pypi"
+source = "https://opendev.org/openstack/python-glanceclient"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "python_glanceclient"
+

@@ -1,0 +1,8 @@
+name = "nnabla"
+ecosystem = "pypi"
+source = "https://github.com/sony/nnabla"
+
+[[cpe_configurations]]
+vendor = "sony"
+product = "neural_network_libraries"
+
