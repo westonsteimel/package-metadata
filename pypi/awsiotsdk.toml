@@ -1,0 +1,9 @@
+name = "awsiotsdk"
+ecosystem = "pypi"
+source = "https://github.com/aws/aws-iot-device-sdk-python-v2"
+
+[[cpe_configurations]]
+vendor = "amazon"
+product = "amazon_web_services_internet_of_things_device_software_development_kit_v2"
+target_software = "python"
+
