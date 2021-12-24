@@ -1,5 +1,7 @@
 name = "tlslite"
 ecosystem = "pypi"
+source = "https://github.com/trevp/tlslite"
+
 [[cpe_configurations]]
 vendor = "tlslite_project"
 product = "tlslite"

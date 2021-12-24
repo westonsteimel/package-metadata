@@ -1,0 +1,9 @@
+name = "sockeye"
+ecosystem = "pypi"
+source = "https://github.com/awslabs/sockeye"
+
+[[cpe_configurations]]
+vendor = "amazon"
+product = "sockeye"
+target_software = "python"
+

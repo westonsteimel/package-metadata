@@ -1,0 +1,8 @@
+name = "asterix-decoder"
+ecosystem = "pypi"
+source = "https://github.com/CroatiaControlLtd/asterix"
+
+[[cpe_configurations]]
+vendor = "crocontrol"
+product = "asterix"
+
