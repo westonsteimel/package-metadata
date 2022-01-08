@@ -1,0 +1,9 @@
+name = "html-to-csv"
+ecosystem = "pypi"
+source = "https://github.com/hanwentao/html2csv"
+
+[[cpe_configurations]]
+vendor = "html-to-csv_project"
+product = "html-to-csv"
+target_software = "python"
+

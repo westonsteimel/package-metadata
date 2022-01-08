@@ -1,0 +1,8 @@
+name = "django-wiki"
+ecosystem = "pypi"
+source = "https://github.com/tmitchell/django-wiki"
+
+[[cpe_configurations]]
+vendor = "django-wiki_project"
+product = "django-wiki"
+

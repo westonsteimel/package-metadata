@@ -1,0 +1,8 @@
+name = "djangorestframework-jwt"
+ecosystem = "pypi"
+source = "https://github.com/GetBlimp/django-rest-framework-jwt"
+
+[[cpe_configurations]]
+vendor = "styria"
+product = "django-rest-framework-json_web_tokens"
+
