@@ -1,9 +1,0 @@
-name = "oauth"
-ecosystem = "rubygems"
-source = "https://github.com/oauth-xx/oauth-ruby"
-
-[[cpe_configurations]]
-vendor = "oauth-ruby_project"
-product = "oauth-ruby"
-target_software = "ruby"
-

@@ -1,9 +1,0 @@
-name = "openssl"
-ecosystem = "rubygems"
-source = "https://github.com/ruby/openssl"
-
-[[cpe_configurations]]
-vendor = "ruby-lang"
-product = "openssl"
-target_software = "ruby"
-

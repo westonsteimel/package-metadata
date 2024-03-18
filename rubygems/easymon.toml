@@ -1,9 +1,0 @@
-name = "easymon"
-ecosystem = "rubygems"
-source = "https://github.com/basecamp/easymon"
-
-[[cpe_configurations]]
-vendor = "basecamp"
-product = "easymon"
-target_software = "ruby"
-

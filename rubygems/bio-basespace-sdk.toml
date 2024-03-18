@@ -1,9 +1,0 @@
-name = "bio-basespace-sdk"
-ecosystem = "rubygems"
-source = "https://github.com/basespace/basespace-ruby-sdk"
-
-[[cpe_configurations]]
-vendor = "basespace_ruby_sdk_project"
-product = "basespace_ruby_sdk"
-target_software = "ruby"
-

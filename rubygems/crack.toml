@@ -1,8 +1,0 @@
-name = "crack"
-ecosystem = "rubygems"
-source = "https://github.com/jnunemaker/crack"
-
-[[cpe_configurations]]
-vendor = "john_nunemaker"
-product = "crack"
-

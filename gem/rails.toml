@@ -1,0 +1,19 @@
+name = "rails"
+ecosystem = "gem"
+source = "https://github.com/rails/rails"
+
+[[cpe_configurations]]
+vendor = "david_hansson"
+product = "ruby_on_rails"
+
+[[cpe_configurations]]
+vendor = "rubyonrails"
+product = "rails"
+
+[[cpe_configurations]]
+vendor = "rubyonrails"
+product = "ruby_on_rails"
+
+[[cpe_configurations]]
+vendor = "ruby_on_rails"
+product = "ruby_on_rails"

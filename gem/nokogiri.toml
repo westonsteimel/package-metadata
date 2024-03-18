@@ -1,0 +1,8 @@
+name = "nokogiri"
+ecosystem = "gem"
+source = "https://github.com/sparklemotion/nokogiri"
+
+[[cpe_configurations]]
+vendor = "nokogiri"
+product = "nokogiri"
+target_software = "ruby"

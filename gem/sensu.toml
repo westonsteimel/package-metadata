@@ -1,0 +1,6 @@
+name = "sensu"
+ecosystem = "gem"
+[[cpe_configurations]]
+vendor = "sensu"
+product = "sensu_core"
+

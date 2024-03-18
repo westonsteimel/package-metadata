@@ -1,9 +1,0 @@
-name = "faye"
-ecosystem = "rubygems"
-source = "https://github.com/faye/faye"
-
-[[cpe_configurations]]
-vendor = "faye_project"
-product = "faye"
-target_software = "ruby"
-

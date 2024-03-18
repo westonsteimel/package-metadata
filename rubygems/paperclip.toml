@@ -1,9 +1,0 @@
-name = "paperclip"
-ecosystem = "rubygems"
-source = "https://github.com/thoughtbot/paperclip"
-
-[[cpe_configurations]]
-vendor = "thoughtbot"
-product = "paperclip"
-target_software = "ruby"
-

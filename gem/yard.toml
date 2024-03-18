@@ -1,0 +1,8 @@
+name = "yard"
+ecosystem = "gem"
+source = "http://github.com/lsegal/yard"
+
+[[cpe_configurations]]
+vendor = "yardoc"
+product = "yard"
+

@@ -1,0 +1,9 @@
+name = "sanitize"
+ecosystem = "gem"
+source = "http://github.com/rgrove/sanitize"
+
+[[cpe_configurations]]
+vendor = "sanitize_project"
+product = "sanitize"
+target_software = "ruby"
+

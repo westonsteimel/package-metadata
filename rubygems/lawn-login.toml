@@ -1,9 +1,0 @@
-name = "lawn-login"
-ecosystem = "rubygems"
-source = "http://github.com/Oompa/lawn-login"
-
-[[cpe_configurations]]
-vendor = "lawn-login_project"
-product = "lawn-login"
-target_software = "ruby"
-

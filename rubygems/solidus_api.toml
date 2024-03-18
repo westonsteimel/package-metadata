@@ -1,8 +1,0 @@
-name = "solidus_api"
-ecosystem = "rubygems"
-source = "https://github.com/solidusio/solidus"
-
-[[cpe_configurations]]
-vendor = "nebulab"
-product = "solidus"
-

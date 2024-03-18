@@ -1,0 +1,8 @@
+name = "devise-two-factor"
+ecosystem = "gem"
+source = "https://github.com/tinfoil/devise-two-factor"
+
+[[cpe_configurations]]
+vendor = "tinfoilsecurity"
+product = "devise-two-factor"
+

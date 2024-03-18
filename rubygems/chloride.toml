@@ -1,8 +1,0 @@
-name = "chloride"
-ecosystem = "rubygems"
-source = "https://github.com/puppetlabs/chloride"
-
-[[cpe_configurations]]
-vendor = "puppet"
-product = "chloride"
-

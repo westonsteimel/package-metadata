@@ -1,9 +1,0 @@
-name = "sfpagent"
-ecosystem = "rubygems"
-source = "https://github.com/herry13/sfpagent"
-
-[[cpe_configurations]]
-vendor = "herry"
-product = "sfpagent"
-target_software = "ruby"
-

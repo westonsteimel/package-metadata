@@ -1,8 +1,0 @@
-name = "yard"
-ecosystem = "rubygems"
-source = "http://github.com/lsegal/yard"
-
-[[cpe_configurations]]
-vendor = "yardoc"
-product = "yard"
-

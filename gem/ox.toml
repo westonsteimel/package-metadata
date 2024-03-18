@@ -1,0 +1,9 @@
+name = "ox"
+ecosystem = "gem"
+source = "https://github.com/ohler55/ox"
+
+[[cpe_configurations]]
+vendor = "ox_project"
+product = "ox"
+target_software = "ruby"
+

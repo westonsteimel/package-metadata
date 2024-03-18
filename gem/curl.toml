@@ -1,0 +1,9 @@
+name = "curl"
+ecosystem = "gem"
+source = "http://github.com/tg0/curl"
+
+[[cpe_configurations]]
+vendor = "curl_project"
+product = "curl"
+target_software = "ruby"
+

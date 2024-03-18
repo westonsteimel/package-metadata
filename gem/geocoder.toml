@@ -1,0 +1,8 @@
+name = "geocoder"
+ecosystem = "gem"
+source = "https://github.com/alexreisner/geocoder"
+
+[[cpe_configurations]]
+vendor = "rubygeocoder"
+product = "geocoder"
+

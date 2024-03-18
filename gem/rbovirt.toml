@@ -1,0 +1,9 @@
+name = "rbovirt"
+ecosystem = "gem"
+source = "http://github.com/abenari/rbovirt"
+
+[[cpe_configurations]]
+vendor = "amos_benari"
+product = "rbovirt"
+target_software = "ruby"
+

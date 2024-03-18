@@ -1,9 +1,0 @@
-name = "moped"
-ecosystem = "rubygems"
-source = "https://github.com/mongoid/moped"
-
-[[cpe_configurations]]
-vendor = "moped_project"
-product = "moped"
-target_software = "ruby"
-

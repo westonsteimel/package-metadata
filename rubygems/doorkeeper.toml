@@ -1,8 +1,0 @@
-name = "doorkeeper"
-ecosystem = "rubygems"
-source = "https://github.com/doorkeeper-gem/doorkeeper"
-
-[[cpe_configurations]]
-vendor = "doorkeeper_project"
-product = "doorkeeper"
-

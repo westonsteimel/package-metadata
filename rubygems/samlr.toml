@@ -1,8 +1,0 @@
-name = "samlr"
-ecosystem = "rubygems"
-source = "https://github.com/zendesk/samlr"
-
-[[cpe_configurations]]
-vendor = "zendesk"
-product = "samlr"
-

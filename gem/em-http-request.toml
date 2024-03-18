@@ -1,0 +1,8 @@
+name = "em-http-request"
+ecosystem = "gem"
+source = "http://github.com/igrigorik/em-http-request"
+
+[[cpe_configurations]]
+vendor = "em-http-request_project"
+product = "em-http-request"
+

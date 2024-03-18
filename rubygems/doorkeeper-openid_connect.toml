@@ -1,9 +1,0 @@
-name = "doorkeeper-openid_connect"
-ecosystem = "rubygems"
-source = "https://github.com/doorkeeper-gem/doorkeeper-openid_connect"
-
-[[cpe_configurations]]
-vendor = "openid"
-product = "openid_connect"
-target_software = "doorkeeper"
-

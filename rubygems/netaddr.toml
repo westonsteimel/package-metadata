@@ -1,9 +1,0 @@
-name = "netaddr"
-ecosystem = "rubygems"
-source = "https://github.com/dspinhirne/netaddr-rb"
-
-[[cpe_configurations]]
-vendor = "netaddr_project"
-product = "netaddr"
-target_software = "ruby"
-

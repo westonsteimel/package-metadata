@@ -1,8 +1,0 @@
-name = "extlib"
-ecosystem = "rubygems"
-source = "http://github.com/datamapper/extlib"
-
-[[cpe_configurations]]
-vendor = "dan_kubb"
-product = "extlib"
-

@@ -1,9 +1,0 @@
-name = "rack-mini-profiler"
-ecosystem = "rubygems"
-source = "https://github.com/MiniProfiler/rack-mini-profiler"
-
-[[cpe_configurations]]
-vendor = "miniprofiler"
-product = "rack-mini-profiler"
-target_software = "ruby"
-

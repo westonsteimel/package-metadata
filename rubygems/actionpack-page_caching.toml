@@ -1,9 +1,0 @@
-name = "actionpack-page_caching"
-ecosystem = "rubygems"
-source = "https://github.com/rails/actionpack-page_caching"
-
-[[cpe_configurations]]
-vendor = "rubyonrails"
-product = "actionpack_page-caching"
-target_software = "ruby"
-

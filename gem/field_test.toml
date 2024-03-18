@@ -1,0 +1,9 @@
+name = "field_test"
+ecosystem = "gem"
+source = "https://github.com/ankane/field_test"
+
+[[cpe_configurations]]
+vendor = "field_test_project"
+product = "field_test"
+target_software = "ruby"
+

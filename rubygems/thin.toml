@@ -1,8 +1,0 @@
-name = "thin"
-ecosystem = "rubygems"
-source = "https://github.com/macournoyer/thin"
-
-[[cpe_configurations]]
-vendor = "macournoyer"
-product = "thin"
-

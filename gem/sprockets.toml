@@ -1,0 +1,8 @@
+name = "sprockets"
+ecosystem = "gem"
+source = "https://github.com/rails/sprockets"
+
+[[cpe_configurations]]
+vendor = "sprockets_project"
+product = "sprockets"
+

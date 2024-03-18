@@ -1,0 +1,8 @@
+name = "actionmailer"
+ecosystem = "gem"
+source = "https://github.com/rails/rails"
+
+[[cpe_configurations]]
+vendor = "rubyonrails"
+product = "actionmailer"
+

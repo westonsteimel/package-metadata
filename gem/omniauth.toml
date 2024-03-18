@@ -1,0 +1,9 @@
+name = "omniauth"
+ecosystem = "gem"
+source = "https://github.com/omniauth/omniauth"
+
+[[cpe_configurations]]
+vendor = "omniauth"
+product = "omniauth"
+target_software = "ruby"
+

@@ -1,9 +1,0 @@
-name = "sorcery"
-ecosystem = "rubygems"
-source = "https://github.com/Sorcery/sorcery"
-
-[[cpe_configurations]]
-vendor = "sorcery_project"
-product = "sorcery"
-target_software = "ruby"
-

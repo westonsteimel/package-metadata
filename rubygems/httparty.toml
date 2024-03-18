@@ -1,8 +1,0 @@
-name = "httparty"
-ecosystem = "rubygems"
-source = "http://github.com/jnunemaker/httparty"
-
-[[cpe_configurations]]
-vendor = "john_nunemaker"
-product = "httparty"
-

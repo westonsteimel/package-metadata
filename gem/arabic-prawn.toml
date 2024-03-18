@@ -1,0 +1,7 @@
+name = "arabic-prawn"
+ecosystem = "gem"
+[[cpe_configurations]]
+vendor = "dynamixsolutions"
+product = "arabic_prawn"
+target_software = "ruby"
+

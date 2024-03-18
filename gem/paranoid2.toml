@@ -1,0 +1,9 @@
+name = "paranoid2"
+ecosystem = "gem"
+source = "https://github.com/anjlab/paranoid2"
+
+[[cpe_configurations]]
+vendor = "anjlab"
+product = "paranoid2"
+target_software = "ruby"
+

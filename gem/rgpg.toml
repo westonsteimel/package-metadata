@@ -1,0 +1,9 @@
+name = "rgpg"
+ecosystem = "gem"
+source = "https://github.com/rcook/rgpg/"
+
+[[cpe_configurations]]
+vendor = "richard_cook"
+product = "rgpg"
+target_software = "ruby"
+

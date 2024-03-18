@@ -1,0 +1,7 @@
+name = "festivaltts4r"
+ecosystem = "gem"
+[[cpe_configurations]]
+vendor = "festivaltts4r_project"
+product = "festivaltts4r"
+target_software = "ruby"
+

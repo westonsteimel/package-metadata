@@ -1,9 +1,0 @@
-name = "net-ldap"
-ecosystem = "rubygems"
-source = "http://github.com/ruby-ldap/ruby-net-ldap"
-
-[[cpe_configurations]]
-vendor = "net-ldap_project"
-product = "net-ldap"
-target_software = "ruby"
-

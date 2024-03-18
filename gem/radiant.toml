@@ -1,0 +1,8 @@
+name = "radiant"
+ecosystem = "gem"
+source = "http://github.com/radiant/radiant"
+
+[[cpe_configurations]]
+vendor = "radiantcms"
+product = "radiant_cms"
+

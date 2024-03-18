@@ -1,0 +1,9 @@
+name = "gemirro"
+ecosystem = "gem"
+source = "https://github.com/PierreRambaud/gemirro"
+
+[[cpe_configurations]]
+vendor = "gemirro_project"
+product = "gemirro"
+target_software = "ruby"
+

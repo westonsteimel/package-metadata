@@ -1,0 +1,9 @@
+name = "json-jwt"
+ecosystem = "gem"
+source = "https://github.com/nov/json-jwt"
+
+[[cpe_configurations]]
+vendor = "json-jwt_project"
+product = "json-jwt"
+target_software = "ruby"
+

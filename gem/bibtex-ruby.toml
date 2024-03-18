@@ -1,0 +1,8 @@
+name = "bibtex-ruby"
+ecosystem = "gem"
+source = "https://github.com/inukshuk/bibtex-ruby"
+
+[[cpe_configurations]]
+vendor = "bibtex-ruby_project"
+product = "bibtex-ruby"
+

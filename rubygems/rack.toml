@@ -1,8 +1,0 @@
-name = "rack"
-ecosystem = "rubygems"
-source = "https://github.com/rack/rack"
-
-[[cpe_configurations]]
-vendor = "rack_project"
-product = "rack"
-

@@ -1,0 +1,9 @@
+name = "i18n"
+ecosystem = "gem"
+source = "https://github.com/ruby-i18n/i18n"
+
+[[cpe_configurations]]
+vendor = "i18n_project"
+product = "i18n"
+target_software = "ruby"
+

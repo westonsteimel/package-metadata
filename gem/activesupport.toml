@@ -1,0 +1,12 @@
+name = "activesupport"
+ecosystem = "gem"
+source = "https://github.com/rails/rails"
+
+[[cpe_configurations]]
+vendor = "rubyonrails"
+product = "activesupport"
+
+[[cpe_configurations]]
+vendor = "activesupport_project"
+product = "activesupport"
+target_software = "ruby"

@@ -1,8 +1,0 @@
-name = "nori"
-ecosystem = "rubygems"
-source = "https://github.com/savonrb/nori"
-
-[[cpe_configurations]]
-vendor = "nori_gem_project"
-product = "nori_gem"
-

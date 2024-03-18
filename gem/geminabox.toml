@@ -1,0 +1,9 @@
+name = "geminabox"
+ecosystem = "gem"
+source = "https://github.com/geminabox/geminabox"
+
+[[cpe_configurations]]
+vendor = "geminabox_project"
+product = "geminabox"
+target_software = "ruby"
+

@@ -1,9 +1,0 @@
-name = "ciborg"
-ecosystem = "rubygems"
-source = "https://github.com/pivotal/ciborg"
-
-[[cpe_configurations]]
-vendor = "ciborg_project"
-product = "ciborg"
-target_software = "ruby"
-

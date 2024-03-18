@@ -1,0 +1,9 @@
+name = "show_in_browser"
+ecosystem = "gem"
+source = "https://github.com/jonleung/show_in_browser"
+
+[[cpe_configurations]]
+vendor = "jonathan_leung"
+product = "show_in_browser"
+target_software = "ruby"
+

@@ -1,9 +1,0 @@
-name = "matestack-ui-core"
-ecosystem = "rubygems"
-source = "https://github.com/matestack/matestack-ui-core"
-
-[[cpe_configurations]]
-vendor = "matestack"
-product = "ui-core"
-target_software = "ruby"
-

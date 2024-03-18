@@ -1,0 +1,8 @@
+name = "rubocop"
+ecosystem = "gem"
+source = "https://github.com/rubocop/rubocop"
+
+[[cpe_configurations]]
+vendor = "rubocop_project"
+product = "rubocop"
+

@@ -1,8 +1,0 @@
-name = "omniauth-saml"
-ecosystem = "rubygems"
-source = "https://github.com/omniauth/omniauth-saml"
-
-[[cpe_configurations]]
-vendor = "omnitauth-saml_project"
-product = "omnitauth-saml"
-

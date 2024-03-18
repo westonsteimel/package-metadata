@@ -1,8 +1,0 @@
-name = "reel"
-ecosystem = "rubygems"
-source = "https://github.com/celluloid/reel"
-
-[[cpe_configurations]]
-vendor = "celluloid"
-product = "reel"
-

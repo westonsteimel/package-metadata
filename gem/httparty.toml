@@ -1,0 +1,8 @@
+name = "httparty"
+ecosystem = "gem"
+source = "http://github.com/jnunemaker/httparty"
+
+[[cpe_configurations]]
+vendor = "john_nunemaker"
+product = "httparty"
+

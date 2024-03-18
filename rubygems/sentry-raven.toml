@@ -1,9 +1,0 @@
-name = "sentry-raven"
-ecosystem = "rubygems"
-source = "https://github.com/getsentry/raven-ruby"
-
-[[cpe_configurations]]
-vendor = "getsentry"
-product = "raven-ruby"
-target_software = "ruby"
-

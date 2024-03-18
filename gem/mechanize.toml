@@ -1,0 +1,9 @@
+name = "mechanize"
+ecosystem = "gem"
+source = "https://github.com/sparklemotion/mechanize"
+
+[[cpe_configurations]]
+vendor = "mechanize_project"
+product = "mechanize"
+target_software = "ruby"
+

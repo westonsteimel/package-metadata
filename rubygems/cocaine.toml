@@ -1,9 +1,0 @@
-name = "cocaine"
-ecosystem = "rubygems"
-source = "https://github.com/thoughtbot/cocaine"
-
-[[cpe_configurations]]
-vendor = "thoughtbot"
-product = "cocaine"
-target_software = "ruby"
-

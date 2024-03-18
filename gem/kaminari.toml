@@ -1,0 +1,8 @@
+name = "kaminari"
+ecosystem = "gem"
+source = "https://github.com/kaminari/kaminari"
+
+[[cpe_configurations]]
+vendor = "kaminari_project"
+product = "kaminari"
+

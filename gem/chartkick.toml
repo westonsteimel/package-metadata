@@ -1,0 +1,12 @@
+name = "chartkick"
+ecosystem = "gem"
+source = "https://github.com/ankane/chartkick"
+
+[[cpe_configurations]]
+vendor = "chartkick"
+product = "chartkick.js"
+
+[[cpe_configurations]]
+vendor = "chartkick_project"
+product = "chartkick"
+target_software = "ruby"

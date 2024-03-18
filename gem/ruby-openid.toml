@@ -1,0 +1,13 @@
+name = "ruby-openid"
+ecosystem = "gem"
+source = "https://github.com/openid/ruby-openid"
+
+[[cpe_configurations]]
+vendor = "janrain"
+product = "ruby-openid"
+target_software = "ruby"
+
+[[cpe_configurations]]
+vendor = "openid"
+product = "ruby-openid"
+

@@ -1,9 +1,0 @@
-name = "rack-protection"
-ecosystem = "rubygems"
-source = "https://github.com/sinatra/sinatra"
-
-[[cpe_configurations]]
-vendor = "sinatrarb"
-product = "rack-protection"
-
-

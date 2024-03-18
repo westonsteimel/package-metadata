@@ -1,0 +1,15 @@
+name = "puppet"
+ecosystem = "gem"
+source = "https://github.com/puppetlabs/puppet"
+
+[[cpe_configurations]]
+vendor = "puppet"
+product = "puppet"
+
+[[cpe_configurations]]
+vendor = "puppetlabs"
+product = "puppet"
+
+[[cpe_configurations]]
+vendor = "puppet"
+product = "puppet_enterprise"

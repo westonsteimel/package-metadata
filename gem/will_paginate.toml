@@ -1,0 +1,9 @@
+name = "will_paginate"
+ecosystem = "gem"
+source = "https://github.com/mislav/will_paginate"
+
+[[cpe_configurations]]
+vendor = "mislav_marohnic"
+product = "will_paginate"
+target_software = "ruby"
+

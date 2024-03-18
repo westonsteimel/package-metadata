@@ -1,9 +1,0 @@
-name = "rack-ssl"
-ecosystem = "rubygems"
-source = "https://github.com/josh/rack-ssl"
-
-[[cpe_configurations]]
-vendor = "joshua_peek"
-product = "rack-ssl"
-target_software = "ruby"
-

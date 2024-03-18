@@ -1,0 +1,8 @@
+name = "gollum-grit_adapter"
+ecosystem = "gem"
+source = "https://github.com/gollum/grit_adapter"
+
+[[cpe_configurations]]
+vendor = "gollum_project"
+product = "grit_adapter"
+

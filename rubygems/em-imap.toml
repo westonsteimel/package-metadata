@@ -1,8 +1,0 @@
-name = "em-imap"
-ecosystem = "rubygems"
-source = "http://github.com/rapportive-oss/em-imap"
-
-[[cpe_configurations]]
-vendor = "em-imap_project"
-product = "em-imap"
-

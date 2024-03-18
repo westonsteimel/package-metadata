@@ -1,9 +1,0 @@
-name = "bootstrap-sass"
-ecosystem = "rubygems"
-source = "https://github.com/twbs/bootstrap-sass"
-
-[[cpe_configurations]]
-vendor = "getbootstrap"
-product = "bootstrap-sass"
-target_software = "ruby"
-

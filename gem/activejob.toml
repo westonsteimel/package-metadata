@@ -1,0 +1,7 @@
+name = "activejob"
+ecosystem = "gem"
+source = "https://github.com/rails/rails"
+
+[[cpe_configurations]]
+vendor = "rubyonrails"
+product = "activejob"

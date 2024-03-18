@@ -1,8 +1,0 @@
-name = "gollum-lib"
-ecosystem = "rubygems"
-source = "http://github.com/gollum/gollum-lib"
-
-[[cpe_configurations]]
-vendor = "gollum_project"
-product = "gollum-lib"
-

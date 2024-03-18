@@ -1,0 +1,8 @@
+name = "ruby-saml"
+ecosystem = "gem"
+source = "https://github.com/onelogin/ruby-saml"
+
+[[cpe_configurations]]
+vendor = "onelogin"
+product = "ruby-saml"
+

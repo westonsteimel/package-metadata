@@ -1,0 +1,9 @@
+name = "tweetstream"
+ecosystem = "gem"
+source = "https://github.com/tweetstream/tweetstream"
+
+[[cpe_configurations]]
+vendor = "tweetstream_project"
+product = "tweetstream"
+target_software = "ruby"
+

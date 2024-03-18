@@ -1,0 +1,9 @@
+name = "shrine"
+ecosystem = "gem"
+source = "https://github.com/shrinerb/shrine"
+
+[[cpe_configurations]]
+vendor = "shrinerb"
+product = "shrine"
+target_software = "ruby"
+

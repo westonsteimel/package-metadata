@@ -1,9 +1,0 @@
-name = "activerecord-session_store"
-ecosystem = "rubygems"
-source = "https://github.com/rails/activerecord-session_store"
-
-[[cpe_configurations]]
-vendor = "rubyonrails"
-product = "active_record_session_store"
-target_software = "ruby_on_rails"
-

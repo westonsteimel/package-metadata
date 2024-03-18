@@ -1,0 +1,9 @@
+name = "sinatra"
+ecosystem = "gem"
+source = "https://github.com/sinatra/sinatra"
+
+[[cpe_configurations]]
+vendor = "sinatrarb"
+product = "sinatra"
+
+

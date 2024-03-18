@@ -1,0 +1,9 @@
+name = "private_address_check"
+ecosystem = "gem"
+source = "https://github.com/jtdowney/private_address_check"
+
+[[cpe_configurations]]
+vendor = "private_address_check_project"
+product = "private_address_check"
+target_software = "ruby"
+

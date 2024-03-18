@@ -1,0 +1,8 @@
+name = "redcarpet"
+ecosystem = "gem"
+source = "http://github.com/vmg/redcarpet"
+
+[[cpe_configurations]]
+vendor = "redcarpet_project"
+product = "redcarpet"
+

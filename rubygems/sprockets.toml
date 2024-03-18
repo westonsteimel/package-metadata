@@ -1,8 +1,0 @@
-name = "sprockets"
-ecosystem = "rubygems"
-source = "https://github.com/rails/sprockets"
-
-[[cpe_configurations]]
-vendor = "sprockets_project"
-product = "sprockets"
-

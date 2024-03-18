@@ -1,9 +1,0 @@
-name = "omniauth-apple"
-ecosystem = "rubygems"
-source = "https://github.com/nhosoya/omniauth-apple"
-
-[[cpe_configurations]]
-vendor = "omniauth-apple_project"
-product = "omniauth-apple"
-target_software = "ruby"
-

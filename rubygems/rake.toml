@@ -1,8 +1,0 @@
-name = "rake"
-ecosystem = "rubygems"
-source = "https://github.com/ruby/rake"
-
-[[cpe_configurations]]
-vendor = "ruby-lang"
-product = "rake"
-

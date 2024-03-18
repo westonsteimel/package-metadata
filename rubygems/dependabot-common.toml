@@ -1,8 +1,0 @@
-name = "dependabot-common"
-ecosystem = "rubygems"
-source = "https://github.com/dependabot/dependabot-core"
-
-[[cpe_configurations]]
-vendor = "dependabot_project"
-product = "dependabot"
-

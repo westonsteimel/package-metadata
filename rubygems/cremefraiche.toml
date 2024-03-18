@@ -1,7 +1,0 @@
-name = "cremefraiche"
-ecosystem = "rubygems"
-[[cpe_configurations]]
-vendor = "uplawski"
-product = "creme_fraiche"
-target_software = "ruby"
-

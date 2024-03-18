@@ -1,0 +1,9 @@
+name = "administrate"
+ecosystem = "gem"
+source = "https://github.com/thoughtbot/administrate"
+
+[[cpe_configurations]]
+vendor = "thoughtbot"
+product = "administrate"
+target_software = "ruby"
+

@@ -1,8 +1,0 @@
-name = "marginalia"
-ecosystem = "rubygems"
-source = "https://github.com/basecamp/marginalia"
-
-[[cpe_configurations]]
-vendor = "marginalia_project"
-product = "marginalia"
-

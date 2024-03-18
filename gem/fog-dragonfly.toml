@@ -1,0 +1,8 @@
+name = "dragonfly"
+ecosystem = "gem"
+source = "http://github.com/markevans/dragonfly"
+
+[[cpe_configurations]]
+vendor = "mark_evans"
+product = "fog-dragonfly"
+target_software = "ruby"

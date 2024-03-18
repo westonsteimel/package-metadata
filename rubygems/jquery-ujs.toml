@@ -1,8 +1,0 @@
-name = "jquery-ujs"
-ecosystem = "rubygems"
-source = "https://github.com/rails/jquery-ujs"
-
-[[cpe_configurations]]
-vendor = "rubyonrails"
-product = "jquery-ujs"
-

@@ -1,0 +1,12 @@
+name = "json"
+ecosystem = "gem"
+source = "https://github.com/flori/json"
+
+[[cpe_configurations]]
+vendor = "rubygems"
+product = "json_gem"
+
+[[cpe_configurations]]
+vendor = "json_project"
+product = "json"
+target_software = "ruby"

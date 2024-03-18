@@ -1,0 +1,9 @@
+name = "lynx"
+ecosystem = "gem"
+source = "https://www.github.com/panthomakos/lynx"
+
+[[cpe_configurations]]
+vendor = "lynx_project"
+product = "lynx"
+target_software = "ruby"
+

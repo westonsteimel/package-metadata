@@ -1,0 +1,8 @@
+name = "pgsync"
+ecosystem = "gem"
+source = "https://github.com/ankane/pgsync"
+
+[[cpe_configurations]]
+vendor = "pgsync_project"
+product = "pgsync"
+

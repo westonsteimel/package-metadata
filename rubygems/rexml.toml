@@ -1,9 +1,0 @@
-name = "rexml"
-ecosystem = "rubygems"
-source = "https://github.com/ruby/rexml"
-
-[[cpe_configurations]]
-vendor = "ruby-lang"
-product = "rexml"
-target_software = "ruby"
-

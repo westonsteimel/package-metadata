@@ -1,0 +1,11 @@
+name = "grape"
+ecosystem = "gem"
+source = "https://github.com/ruby-grape/grape"
+
+[[cpe_configurations]]
+vendor = "grape_project"
+product = "grape"
+
+[[cpe_configurations]]
+vendor = "ruby-grape"
+product = "grape"

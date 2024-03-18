@@ -1,9 +1,0 @@
-name = "gyazo"
-ecosystem = "rubygems"
-source = "http://github.com/gyazo/gyazo-ruby"
-
-[[cpe_configurations]]
-vendor = "gyazo_project"
-product = "gyazo"
-target_software = "ruby"
-

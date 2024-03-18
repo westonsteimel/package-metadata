@@ -1,0 +1,8 @@
+name = "foreman_fog_proxmox"
+ecosystem = "gem"
+source = "https://github.com/theforeman/foreman_fog_proxmox"
+
+[[cpe_configurations]]
+vendor = "theforeman"
+product = "foremanfogproxmox"
+

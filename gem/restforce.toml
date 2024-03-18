@@ -1,0 +1,9 @@
+name = "restforce"
+ecosystem = "gem"
+source = "https://github.com/restforce/restforce"
+
+[[cpe_configurations]]
+vendor = "restforce"
+product = "restforce"
+target_software = "ruby"
+

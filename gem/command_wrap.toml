@@ -1,0 +1,6 @@
+name = "command_wrap"
+ecosystem = "gem"
+[[cpe_configurations]]
+vendor = "rubygems"
+product = "command_wrap"
+

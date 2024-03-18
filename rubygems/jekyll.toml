@@ -1,8 +1,0 @@
-name = "jekyll"
-ecosystem = "rubygems"
-source = "https://github.com/jekyll/jekyll"
-
-[[cpe_configurations]]
-vendor = "jekyllrb"
-product = "jekyll"
-

@@ -1,0 +1,8 @@
+name = "simple_form"
+ecosystem = "gem"
+source = "https://github.com/herry13/sfpagent"
+
+[[cpe_configurations]]
+vendor = "plataformatec"
+product = "simple_form"
+

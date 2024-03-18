@@ -1,9 +1,0 @@
-name = "twitter-stream"
-ecosystem = "rubygems"
-source = "http://github.com/voloko/twitter-stream"
-
-[[cpe_configurations]]
-vendor = "twitter-stream_project"
-product = "twitter-stream"
-target_software = "ruby"
-

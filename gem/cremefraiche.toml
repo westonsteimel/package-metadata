@@ -1,0 +1,7 @@
+name = "cremefraiche"
+ecosystem = "gem"
+[[cpe_configurations]]
+vendor = "uplawski"
+product = "creme_fraiche"
+target_software = "ruby"
+

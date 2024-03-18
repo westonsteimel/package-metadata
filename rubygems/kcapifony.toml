@@ -1,9 +1,0 @@
-name = "kcapifony"
-ecosystem = "rubygems"
-source = "https://github.com/Kunstmaan/kCapifony"
-
-[[cpe_configurations]]
-vendor = "kcapifony_project"
-product = "kcapifony"
-target_software = "ruby"
-

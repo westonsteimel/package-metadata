@@ -1,0 +1,9 @@
+name = "agoo"
+ecosystem = "gem"
+source = "https://github.com/ohler55/agoo"
+
+[[cpe_configurations]]
+vendor = "ohler"
+product = "agoo"
+target_software = "ruby"
+

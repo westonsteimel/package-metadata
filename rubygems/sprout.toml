@@ -1,9 +1,0 @@
-name = "sprout"
-ecosystem = "rubygems"
-source = "http://github.com/lukebayes/project-sprouts"
-
-[[cpe_configurations]]
-vendor = "projectsprouts"
-product = "sprout"
-target_software = "ruby"
-

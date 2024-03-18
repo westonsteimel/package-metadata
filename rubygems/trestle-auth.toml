@@ -1,9 +1,0 @@
-name = "trestle-auth"
-ecosystem = "rubygems"
-source = "https://github.com/TrestleAdmin/trestle-auth"
-
-[[cpe_configurations]]
-vendor = "trestle-auth_project"
-product = "trestle-auth"
-target_software = "ruby"
-

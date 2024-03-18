@@ -1,0 +1,8 @@
+name = "omniauth-saml"
+ecosystem = "gem"
+source = "https://github.com/omniauth/omniauth-saml"
+
+[[cpe_configurations]]
+vendor = "omnitauth-saml_project"
+product = "omnitauth-saml"
+

@@ -1,8 +1,0 @@
-name = "excon"
-ecosystem = "rubygems"
-source = "https://github.com/excon/excon"
-
-[[cpe_configurations]]
-vendor = "excon_project"
-product = "excon"
-

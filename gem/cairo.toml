@@ -1,0 +1,8 @@
+name = "cairo"
+ecosystem = "gem"
+source = "https://github.com/rcairo/rcairo"
+
+[[cpe_configurations]]
+vendor = "cairographics"
+product = "cairo"
+

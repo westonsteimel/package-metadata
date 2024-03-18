@@ -1,0 +1,9 @@
+name = "rest-client"
+ecosystem = "gem"
+source = "https://github.com/rest-client/rest-client"
+
+[[cpe_configurations]]
+vendor = "rest-client_project"
+product = "rest-client"
+target_software = "ruby"
+

@@ -1,0 +1,8 @@
+name = "newrelic_rpm"
+ecosystem = "gem"
+source = "https://github.com/newrelic/newrelic-ruby-agent"
+
+[[cpe_configurations]]
+vendor = "newrelic"
+product = "ruby_agent"
+

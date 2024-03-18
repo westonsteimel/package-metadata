@@ -1,0 +1,8 @@
+name = "crack"
+ecosystem = "gem"
+source = "https://github.com/jnunemaker/crack"
+
+[[cpe_configurations]]
+vendor = "john_nunemaker"
+product = "crack"
+

@@ -1,0 +1,12 @@
+name = "multi_xml"
+ecosystem = "gem"
+source = "https://github.com/sferik/multi_xml"
+
+[[cpe_configurations]]
+vendor = "erik_michaels-ober"
+product = "multi_xml"
+
+[[cpe_configurations]]
+vendor = "grape_project"
+product = "grape"
+

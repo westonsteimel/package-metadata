@@ -1,0 +1,9 @@
+name = "haml"
+ecosystem = "gem"
+source = "https://github.com/haml/haml"
+
+[[cpe_configurations]]
+vendor = "haml"
+product = "haml"
+target_software = "ruby"
+

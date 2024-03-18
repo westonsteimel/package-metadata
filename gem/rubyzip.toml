@@ -1,0 +1,13 @@
+name = "rubyzip"
+ecosystem = "gem"
+source = "http://github.com/rubyzip/rubyzip"
+
+[[cpe_configurations]]
+vendor = "rubyzip"
+product = "rubyzip"
+
+[[cpe_configurations]]
+vendor = "rubyzip_project"
+product = "rubyzip"
+target_software = "ruby"
+

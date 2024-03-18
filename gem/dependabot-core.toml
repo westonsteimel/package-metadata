@@ -1,0 +1,8 @@
+name = "dependabot-core"
+ecosystem = "gem"
+source = "https://github.com/dependabot/dependabot-core"
+
+[[cpe_configurations]]
+vendor = "dependabot_project"
+product = "dependabot"
+

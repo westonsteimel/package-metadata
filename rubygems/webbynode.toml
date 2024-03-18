@@ -1,9 +1,0 @@
-name = "webbynode"
-ecosystem = "rubygems"
-source = "http://github.com/webbynode/webbynode"
-
-[[cpe_configurations]]
-vendor = "webbynode"
-product = "webbynode"
-target_software = "ruby"
-

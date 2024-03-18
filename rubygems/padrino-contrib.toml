@@ -1,8 +1,0 @@
-name = "padrino-contrib"
-ecosystem = "rubygems"
-source = "https://github.com/padrino/padrino-contrib"
-
-[[cpe_configurations]]
-vendor = "padrinorb"
-product = "padrino-contrib"
-

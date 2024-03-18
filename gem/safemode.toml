@@ -1,0 +1,9 @@
+name = "safemode"
+ecosystem = "gem"
+source = "http://github.com/svenfuchs/safemode"
+
+[[cpe_configurations]]
+vendor = "safemode_project"
+product = "safemode"
+target_software = "ruby"
+

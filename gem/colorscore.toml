@@ -1,0 +1,9 @@
+name = "colorscore"
+ecosystem = "gem"
+source = "http://github.com/quadule/colorscore"
+
+[[cpe_configurations]]
+vendor = "colorscore_project"
+product = "colorscore"
+target_software = "ruby"
+

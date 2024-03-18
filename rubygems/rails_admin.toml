@@ -1,9 +1,0 @@
-name = "rails_admin"
-ecosystem = "rubygems"
-source = "https://github.com/sferik/rails_admin"
-
-[[cpe_configurations]]
-vendor = "rails_admin_project"
-product = "rails_admin"
-target_software = "ruby"
-

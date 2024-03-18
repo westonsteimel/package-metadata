@@ -1,0 +1,11 @@
+name = "facter"
+ecosystem = "gem"
+source = "https://github.com/puppetlabs/facter"
+
+[[cpe_configurations]]
+vendor = "puppet"
+product = "facter"
+
+[[cpe_configurations]]
+vendor = "puppetlabs"
+product = "facter"

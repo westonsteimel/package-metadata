@@ -1,0 +1,9 @@
+name = "kramdown"
+ecosystem = "gem"
+source = "http://github.com/gettalong/kramdown"
+
+[[cpe_configurations]]
+vendor = "kramdown_project"
+product = "kramdown"
+target_software = "ruby"
+

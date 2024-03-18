@@ -1,0 +1,9 @@
+name = "loofah"
+ecosystem = "gem"
+source = "https://github.com/flavorjones/loofah"
+
+[[cpe_configurations]]
+vendor = "loofah_project"
+product = "loofah"
+target_software = "ruby"
+
