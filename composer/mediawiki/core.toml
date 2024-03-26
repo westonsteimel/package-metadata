@@ -1,0 +1,6 @@
+name = "mediawiki/core"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "mediawiki"
+product = "mediawiki"

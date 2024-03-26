@@ -1,0 +1,6 @@
+name = "tastyigniter/tastyigniter"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "tastyigniter"
+product = "tastyigniter"

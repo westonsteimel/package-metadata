@@ -1,0 +1,6 @@
+name = "hyn/multi-tenant"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "tenancy"
+product = "multi-tenant"

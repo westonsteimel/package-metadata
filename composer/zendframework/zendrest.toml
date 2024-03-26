@@ -1,0 +1,6 @@
+name = "zendframework/zendrest"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "zend"
+product = "zendrest"

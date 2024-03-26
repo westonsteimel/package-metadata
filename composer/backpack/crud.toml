@@ -1,0 +1,6 @@
+name = "backpack/crud"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "backpackforlaravel"
+product = "backpack\\\\crud"

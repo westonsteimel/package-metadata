@@ -1,0 +1,7 @@
+name = "mongodb/mongodb"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "mongodb"
+product = "php_driver"
+target_software = "mongodb"

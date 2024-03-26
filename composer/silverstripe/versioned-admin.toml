@@ -1,0 +1,6 @@
+name = "silverstripe/versioned-admin"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "silverstripe"
+product = "versioned-admin"

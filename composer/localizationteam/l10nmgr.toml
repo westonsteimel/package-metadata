@@ -1,0 +1,7 @@
+name = "localizationteam/l10nmgr"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "localization_manager_project"
+product = "localization_manager"
+target_software = "typo3"

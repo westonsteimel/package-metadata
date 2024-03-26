@@ -1,0 +1,6 @@
+name = "dbrisinajumi/d2files"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "weberp"
+product = "d2files"

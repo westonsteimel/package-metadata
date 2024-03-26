@@ -1,0 +1,7 @@
+name = "craftcms/cms"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "craftcms"
+product = "craft_cms"
+

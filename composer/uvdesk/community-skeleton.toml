@@ -1,0 +1,6 @@
+name = "uvdesk/community-skeleton"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "uvdesk"
+product = "community-skeleton"

@@ -1,0 +1,6 @@
+name = "james-heinrich/phpthumb"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "phpthumb_project"
+product = "phpthumb"

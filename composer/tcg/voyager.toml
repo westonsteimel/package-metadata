@@ -1,0 +1,7 @@
+name = "tcg/voyager"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "thecontrolgroup"
+product = "voyager"
+target_software = "laravel"

@@ -1,0 +1,6 @@
+name = "cockpit-hq/cockpit"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "agentejo"
+product = "cockpit"

@@ -1,0 +1,6 @@
+name = "appwrite/server-ce"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "appwrite"
+product = "appwrite"

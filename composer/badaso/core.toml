@@ -1,0 +1,6 @@
+name = "badaso/core"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "uatech"
+product = "badaso"

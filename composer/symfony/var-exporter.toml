@@ -1,0 +1,6 @@
+name = "symfony/var-exporter"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sensiolabs"
+product = "symfony"

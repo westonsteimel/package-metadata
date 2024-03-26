@@ -1,0 +1,7 @@
+name = "bmarshall511/wordpress_zero_spam"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "highfivery"
+product = "zero-spam"
+target_software = "wordpress"

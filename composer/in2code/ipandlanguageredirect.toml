@@ -1,0 +1,7 @@
+name = "in2code/ipandlanguageredirect"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "ipandlanguageredirect_project"
+product = "ipandlanguageredirect"
+target_software = "typo3"

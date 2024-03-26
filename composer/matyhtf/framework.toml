@@ -1,0 +1,6 @@
+name = "matyhtf/framework"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "swoole"
+product = "swoole_php_framework"

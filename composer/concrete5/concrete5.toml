@@ -1,0 +1,6 @@
+name = "concrete5/concrete5"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "concretecms"
+product = "concrete_cms"

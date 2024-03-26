@@ -1,0 +1,6 @@
+name = "yeswiki/yeswiki"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "yeswiki"
+product = "yeswiki"

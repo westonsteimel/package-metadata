@@ -1,0 +1,6 @@
+name = "codeigniter4/shield"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "codeigniter"
+product = "shield"

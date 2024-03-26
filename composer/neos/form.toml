@@ -1,0 +1,6 @@
+name = "neos/form"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "neos"
+product = "form"

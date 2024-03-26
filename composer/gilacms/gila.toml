@@ -1,0 +1,6 @@
+name = "gilacms/gila"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "gilacms"
+product = "gila_cms"

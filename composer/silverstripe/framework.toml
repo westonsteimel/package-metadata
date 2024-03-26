@@ -6,3 +6,6 @@ source = "https://github.com/silverstripe/silverstripe-framework"
 vendor = "silverstripe"
 product = "silverstripe"
 
+[[cpe_configurations]]
+vendor = "silverstripe"
+product = "framework"

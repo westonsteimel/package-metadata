@@ -1,0 +1,6 @@
+name = "xpressengine/xpressengine"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "xpressengine"
+product = "xpressengine"

@@ -1,0 +1,6 @@
+name = "foodcoopshop/foodcoopshop"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "foodcoopshop"
+product = "foodcoopshop"

@@ -1,0 +1,6 @@
+name = "october/system"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "octobercms"
+product = "october"

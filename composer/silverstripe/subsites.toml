@@ -1,0 +1,6 @@
+name = "silverstripe/subsites"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "silverstripe"
+product = "subsites"

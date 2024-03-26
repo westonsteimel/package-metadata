@@ -1,0 +1,6 @@
+name = "froxlor/froxlor"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "froxlor"
+product = "froxlor"

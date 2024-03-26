@@ -1,0 +1,6 @@
+name = "oro/crm-call-bundle"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "oroinc"
+product = "client_relationship_management"

@@ -1,0 +1,6 @@
+name = "wintercms/winter"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "wintercms"
+product = "winter"

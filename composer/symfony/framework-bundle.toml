@@ -1,0 +1,6 @@
+name = "symfony/framework-bundle"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sensiolabs"
+product = "symfony"

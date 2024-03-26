@@ -1,0 +1,6 @@
+name = "laravel/fortify"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "laravel"
+product = "fortify"

@@ -6,3 +6,6 @@ source = "https://github.com/pimcore/pimcore"
 vendor = "pimcore"
 product = "pimcore"
 
+[[cpe_configurations]]
+vendor = "pimcore"
+product = "core"

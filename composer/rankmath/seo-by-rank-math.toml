@@ -1,0 +1,7 @@
+name = "rankmath/seo-by-rank-math"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "rankmath"
+product = "seo"
+target_software = "wordpress"

@@ -1,0 +1,6 @@
+name = "openid/php-openid"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "janrain"
+product = "php-openid"

@@ -1,0 +1,10 @@
+name = "remdex/livehelperchat"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "livehelperchat"
+product = "live_helper_chat"
+
+[[cpe_configurations]]
+vendor = "livehelperchat"
+product = "livehelperchat"

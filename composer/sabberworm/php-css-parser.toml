@@ -1,0 +1,6 @@
+name = "sabberworm/php-css-parser"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sabberworm"
+product = "php_css_parser"

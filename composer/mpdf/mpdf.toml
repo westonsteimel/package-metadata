@@ -1,0 +1,6 @@
+name = "mpdf/mpdf"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "mpdf_project"
+product = "mpdf"

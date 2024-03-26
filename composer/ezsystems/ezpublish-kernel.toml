@@ -1,0 +1,6 @@
+name = "ezsystems/ezpublish-kernel"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "ibexa"
+product = "ez_publish_kernel"

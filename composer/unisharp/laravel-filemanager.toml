@@ -1,0 +1,10 @@
+name = "unisharp/laravel-filemanager"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "unisharp"
+product = "laravel_filemanager"
+
+[[cpe_configurations]]
+vendor = "unisharp"
+product = "laravel-filemanager"

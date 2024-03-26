@@ -1,0 +1,6 @@
+name = "spoon/library"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "spoon-library"
+product = "spoon_library"

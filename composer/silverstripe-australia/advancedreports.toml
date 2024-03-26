@@ -1,0 +1,7 @@
+name = "silverstripe-australia/advancedreports"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "advanced_reports_project"
+product = "advanced_reports"
+target_software = "silverstripe"

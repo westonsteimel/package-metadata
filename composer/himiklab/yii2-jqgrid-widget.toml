@@ -1,0 +1,6 @@
+name = "himiklab/yii2-jqgrid-widget"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "yii2-jqgrid-widget_project"
+product = "yii2-jqgrid-widget"

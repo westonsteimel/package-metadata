@@ -1,0 +1,7 @@
+name = "amazing/media2click"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "media2click_project"
+product = "media2click"
+target_software = "typo3"

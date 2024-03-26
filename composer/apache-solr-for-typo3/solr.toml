@@ -1,0 +1,10 @@
+name = "apache-solr-for-typo3/solr"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "ingo_renner"
+product = "apache_solr"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "solr"

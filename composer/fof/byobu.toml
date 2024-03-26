@@ -1,0 +1,6 @@
+name = "fof/byobu"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "friendsofflarum"
+product = "byobu"

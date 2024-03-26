@@ -1,0 +1,6 @@
+name = "kelvinmo/simplexrd"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "simplexrd_project"
+product = "simplexrd"

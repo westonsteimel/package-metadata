@@ -1,0 +1,6 @@
+name = "notrinos/notrinos-erp"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "notrinos"
+product = "notrinoserp"

@@ -1,0 +1,6 @@
+name = "athlon1600/php-proxy"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "php-proxy"
+product = "php-proxy"

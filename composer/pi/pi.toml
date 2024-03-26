@@ -1,0 +1,6 @@
+name = "pi/pi"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "piengine"
+product = "pi"

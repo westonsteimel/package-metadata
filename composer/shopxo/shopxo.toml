@@ -1,0 +1,6 @@
+name = "shopxo/shopxo"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "shopxo"
+product = "shopxo"

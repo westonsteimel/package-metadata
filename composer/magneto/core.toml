@@ -1,0 +1,6 @@
+name = "magneto/core"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "magneto"
+product = "core"

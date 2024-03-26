@@ -1,0 +1,6 @@
+name = "bottelet/flarepoint"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "bottelet"
+product = "flarepoint"

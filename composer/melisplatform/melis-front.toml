@@ -1,0 +1,6 @@
+name = "melisplatform/melis-front"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "melistechnology"
+product = "meliscms"

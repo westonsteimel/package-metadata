@@ -1,0 +1,6 @@
+name = "civicrm/civicrm-core"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "civicrm"
+product = "civicrm"

@@ -1,0 +1,6 @@
+name = "ectouch/ectouch"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "ectouch"
+product = "ectouch"

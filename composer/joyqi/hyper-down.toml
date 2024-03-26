@@ -1,0 +1,7 @@
+name = "joyqi/hyper-down"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "hyperdown_project"
+product = "hyperdown"
+target_software = "node.js"

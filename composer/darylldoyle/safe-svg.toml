@@ -1,0 +1,7 @@
+name = "darylldoyle/safe-svg"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "10up"
+product = "safe_svg"
+target_software = "wordpress"

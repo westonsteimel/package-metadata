@@ -1,0 +1,6 @@
+name = "melisplatform/melis-asset-manager"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "melistechnology"
+product = "melis-asset-manager"

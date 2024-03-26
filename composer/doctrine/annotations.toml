@@ -1,0 +1,6 @@
+name = "doctrine/annotations"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "doctrine-project"
+product = "annotations"

@@ -1,0 +1,6 @@
+name = "barzahlen/barzahlen-php"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "paysafe"
+product = "barzahlen_payment_module_php_sdk"

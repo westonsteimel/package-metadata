@@ -1,0 +1,6 @@
+name = "userfrosting/userfrosting"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "userfrosting"
+product = "userfrosting"

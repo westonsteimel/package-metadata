@@ -1,0 +1,6 @@
+name = "admidio/admidio"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "admidio"
+product = "admidio"

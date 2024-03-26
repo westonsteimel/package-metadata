@@ -1,0 +1,6 @@
+name = "tribalsystems/zenario"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "tribalsystems"
+product = "zenario"

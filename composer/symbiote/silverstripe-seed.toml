@@ -1,0 +1,7 @@
+name = "symbiote/silverstripe-seed"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "symbiote"
+product = "seed"
+target_software = "silverstripe"

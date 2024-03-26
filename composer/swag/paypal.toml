@@ -1,0 +1,6 @@
+name = "swag/paypal"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "shopware"
+product = "swagpaypal"

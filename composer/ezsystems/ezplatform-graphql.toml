@@ -1,0 +1,6 @@
+name = "ezsystems/ezplatform-graphql"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "ibexa"
+product = "ezplatform-graphql"

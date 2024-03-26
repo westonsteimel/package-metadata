@@ -1,0 +1,6 @@
+name = "illuminate/view"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "illuminate"
+product = "view"

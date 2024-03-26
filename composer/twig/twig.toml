@@ -1,0 +1,6 @@
+name = "twig/twig"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "symfony"
+product = "twig"

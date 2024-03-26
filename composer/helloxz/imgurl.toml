@@ -1,0 +1,6 @@
+name = "helloxz/imgurl"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "imgurl_project"
+product = "imgurl"

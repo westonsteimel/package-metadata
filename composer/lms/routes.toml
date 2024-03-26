@@ -1,0 +1,7 @@
+name = "lms/routes"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "routes_project"
+product = "routes"
+target_software = "typo3"

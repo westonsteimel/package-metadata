@@ -1,0 +1,6 @@
+name = "doctrine/common"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "doctrine-project"
+product = "common"

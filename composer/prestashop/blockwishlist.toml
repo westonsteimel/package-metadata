@@ -1,0 +1,6 @@
+name = "prestashop/blockwishlist"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "prestashop"
+product = "blockwishlist"

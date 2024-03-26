@@ -1,0 +1,14 @@
+name = "intelliants/subrion"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "intelliants"
+product = "subrion"
+
+[[cpe_configurations]]
+vendor = "intelliants"
+product = "subrion_cms"
+
+[[cpe_configurations]]
+vendor = "subrion"
+product = "subrion_cms"

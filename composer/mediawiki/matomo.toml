@@ -1,0 +1,7 @@
+name = "mediawiki/matomo"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "mediawiki"
+product = "matomo"
+target_software = "mediawiki"

@@ -1,0 +1,6 @@
+name = "james-heinrich/getid3"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "getid3"
+product = "getid3"

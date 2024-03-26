@@ -1,0 +1,6 @@
+name = "filegator/filegator"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "filegator"
+product = "filegator"

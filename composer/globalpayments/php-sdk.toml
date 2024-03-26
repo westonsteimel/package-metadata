@@ -1,0 +1,6 @@
+name = "globalpayments/php-sdk"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "globalpayments"
+product = "php_sdk"

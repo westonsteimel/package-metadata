@@ -1,0 +1,6 @@
+name = "yuan1994/tpadmin"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "tpadmin_project"
+product = "tpadmin"

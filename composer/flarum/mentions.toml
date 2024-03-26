@@ -1,0 +1,6 @@
+name = "flarum/mentions"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "flarum"
+product = "mentions"

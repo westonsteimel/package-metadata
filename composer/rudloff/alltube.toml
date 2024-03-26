@@ -1,0 +1,10 @@
+name = "rudloff/alltube"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "alltubedownload"
+product = "alltube"
+
+[[cpe_configurations]]
+vendor = "alltube_project"
+product = "alltube"

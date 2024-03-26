@@ -1,0 +1,7 @@
+name = "ecodev/newsletter"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "newsletter_project"
+product = "newsletter"
+target_software = "typo3"

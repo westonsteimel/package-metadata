@@ -1,0 +1,6 @@
+name = "codeigniter/framework"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "codeigniter"
+product = "codeigniter"

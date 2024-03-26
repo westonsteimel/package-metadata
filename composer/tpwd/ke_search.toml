@@ -1,0 +1,7 @@
+name = "tpwd/ke_search"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "faceted_search_project"
+product = "faceted_search"
+target_software = "typo3"

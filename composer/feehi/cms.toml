@@ -1,0 +1,10 @@
+name = "feehi/cms"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "feehi"
+product = "feehi_cms"
+
+[[cpe_configurations]]
+vendor = "feehi"
+product = "feehicms"

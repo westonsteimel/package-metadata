@@ -1,0 +1,6 @@
+name = "slim/psr7"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "slimframework"
+product = "slim_psr-7"

@@ -1,0 +1,6 @@
+name = "impresspages/impresspages"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "impresspages"
+product = "impresspages_cms"

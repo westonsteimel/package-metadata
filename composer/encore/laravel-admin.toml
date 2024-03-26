@@ -1,0 +1,6 @@
+name = "encore/laravel-admin"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "laravel-admin"
+product = "laravel-admin"

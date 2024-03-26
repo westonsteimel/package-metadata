@@ -1,0 +1,6 @@
+name = "hhxsv5/laravel-s"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "laravels_project"
+product = "laravels"

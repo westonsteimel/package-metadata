@@ -1,0 +1,6 @@
+name = "omeka/omeka-s"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "omeka"
+product = "omeka_s"

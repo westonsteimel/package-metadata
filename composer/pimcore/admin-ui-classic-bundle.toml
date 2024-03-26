@@ -1,0 +1,7 @@
+name = "pimcore/admin-ui-classic-bundle"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "pimcore"
+product = "admin_classic_bundle"
+target_software = "pimcore"

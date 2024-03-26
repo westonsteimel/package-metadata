@@ -1,0 +1,6 @@
+name = "symfony/ux-autocomplete"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "symfony"
+product = "ux_autocomplete"

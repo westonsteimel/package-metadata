@@ -1,0 +1,6 @@
+name = "oro/calendar-bundle"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "oroinc"
+product = "oroplatform"

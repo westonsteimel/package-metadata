@@ -1,0 +1,6 @@
+name = "evolutioncms/evolution"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "evo"
+product = "evolution_cms"

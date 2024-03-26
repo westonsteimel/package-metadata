@@ -1,0 +1,6 @@
+name = "andreapollastri/cipi"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "cipi"
+product = "cipi"

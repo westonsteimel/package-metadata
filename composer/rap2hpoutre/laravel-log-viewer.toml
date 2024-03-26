@@ -1,0 +1,6 @@
+name = "rap2hpoutre/laravel-log-viewer"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "laravel_log_viewer_project"
+product = "laravel_log_viewer"

@@ -1,0 +1,6 @@
+name = "snipe/snipe-it"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "snipeitapp"
+product = "snipe-it"

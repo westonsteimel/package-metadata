@@ -1,0 +1,6 @@
+name = "pear/crypt_gpg"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "pear"
+product = "crypt_gpg"

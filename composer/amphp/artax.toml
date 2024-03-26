@@ -1,0 +1,6 @@
+name = "amphp/artax"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "amphp"
+product = "artax"

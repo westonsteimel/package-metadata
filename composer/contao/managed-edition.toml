@@ -1,0 +1,6 @@
+name = "contao/managed-edition"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "contao"
+product = "contao"

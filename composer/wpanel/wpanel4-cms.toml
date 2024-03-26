@@ -1,0 +1,6 @@
+name = "wpanel/wpanel4-cms"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "wpanel_cms_project"
+product = "wpanel_cms"

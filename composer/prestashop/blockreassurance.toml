@@ -1,0 +1,7 @@
+name = "prestashop/blockreassurance"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "prestashop"
+product = "customer_reassurance_block"
+target_software = "prestashop"

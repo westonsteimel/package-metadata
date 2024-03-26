@@ -1,0 +1,7 @@
+name = "tinymighty/wiki-seo"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "tinymighty"
+product = "wikiseo"
+target_software = "mediawiki"

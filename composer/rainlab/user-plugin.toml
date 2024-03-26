@@ -1,0 +1,7 @@
+name = "rainlab/user-plugin"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "user_project"
+product = "user"
+target_software = "octobercms"

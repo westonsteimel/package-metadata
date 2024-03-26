@@ -1,0 +1,6 @@
+name = "gaoming13/wechat-php-sdk"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "wechat-php-sdk_project"
+product = "wechat-php-sdk"

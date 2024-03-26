@@ -1,0 +1,6 @@
+name = "reportico-web/reportico"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "reportico"
+product = "reportico"

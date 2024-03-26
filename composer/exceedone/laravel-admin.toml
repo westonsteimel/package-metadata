@@ -1,0 +1,6 @@
+name = "exceedone/laravel-admin"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "exceedone"
+product = "laravel-admin"

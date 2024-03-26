@@ -1,0 +1,6 @@
+name = "symfony/intl"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sensiolabs"
+product = "symfony"

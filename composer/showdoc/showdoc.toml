@@ -1,0 +1,6 @@
+name = "showdoc/showdoc"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "showdoc"
+product = "showdoc"

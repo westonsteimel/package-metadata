@@ -1,0 +1,6 @@
+name = "doctrine/dbal"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "doctrine-project"
+product = "database_abstraction_layer"

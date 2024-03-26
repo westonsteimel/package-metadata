@@ -1,0 +1,6 @@
+name = "league/flysystem"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "thephpleague"
+product = "flysystem"

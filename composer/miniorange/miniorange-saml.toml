@@ -1,0 +1,7 @@
+name = "miniorange/miniorange-saml"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "miniorange"
+product = "saml"
+target_software = "typo3"

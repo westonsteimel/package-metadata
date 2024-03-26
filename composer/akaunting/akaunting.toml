@@ -1,0 +1,6 @@
+name = "akaunting/akaunting"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "akaunting"
+product = "akaunting"

@@ -1,0 +1,6 @@
+name = "guzzlehttp/psr7"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "guzzlephp"
+product = "psr-7"

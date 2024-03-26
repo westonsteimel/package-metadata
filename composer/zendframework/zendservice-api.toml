@@ -1,0 +1,6 @@
+name = "zendframework/zendservice-api"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "zend"
+product = "zendservice_api"

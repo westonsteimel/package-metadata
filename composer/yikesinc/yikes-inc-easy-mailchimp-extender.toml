@@ -1,0 +1,7 @@
+name = "yikesinc/yikes-inc-easy-mailchimp-extender"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "yikesplugins"
+product = "easy_forms_for_mailchimp"
+target_software = "wordpress"

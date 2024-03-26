@@ -1,0 +1,7 @@
+name = "in2code/lux"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "in2code"
+product = "living_user_experience"
+target_software = "typo3"

@@ -1,0 +1,10 @@
+name = "symfony/twig-bridge"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sensiolabs"
+product = "symfony"
+
+[[cpe_configurations]]
+vendor = "sensiolabs"
+product = "twig"

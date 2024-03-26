@@ -1,0 +1,6 @@
+name = "wp-cli/wp-cli"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "wp-cli"
+product = "wp-cli"

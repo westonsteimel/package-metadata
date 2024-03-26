@@ -1,0 +1,6 @@
+name = "cakephp/database"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "cakephp"
+product = "database"

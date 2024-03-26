@@ -1,0 +1,6 @@
+name = "typo3/cms-form"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "typo3"
+product = "typo3"

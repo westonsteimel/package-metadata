@@ -1,0 +1,6 @@
+name = "processwire/processwire"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "processwire"
+product = "processwire"

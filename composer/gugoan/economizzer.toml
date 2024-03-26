@@ -1,0 +1,7 @@
+name = "gugoan/economizzer"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "economizzer"
+product = "economizzer"
+target_software = "wordpress"

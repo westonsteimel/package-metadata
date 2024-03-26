@@ -1,0 +1,7 @@
+name = "datatables/datatables"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sprymedia"
+product = "datatables"
+target_software = "jquery"

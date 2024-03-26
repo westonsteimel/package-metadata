@@ -1,0 +1,6 @@
+name = "pagekit/pagekit"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "pagekit"
+product = "pagekit"

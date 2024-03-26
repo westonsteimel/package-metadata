@@ -1,0 +1,6 @@
+name = "doublethreedigital/guest-entries"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "duncanmcclean"
+product = "guest_entries"

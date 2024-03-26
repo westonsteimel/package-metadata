@@ -1,0 +1,6 @@
+name = "croogo/croogo"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "croogo"
+product = "croogo"

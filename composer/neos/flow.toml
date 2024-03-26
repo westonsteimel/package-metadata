@@ -1,0 +1,6 @@
+name = "neos/flow"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "typo3"
+product = "flow"

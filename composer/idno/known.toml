@@ -1,0 +1,6 @@
+name = "idno/known"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "withknown"
+product = "known"

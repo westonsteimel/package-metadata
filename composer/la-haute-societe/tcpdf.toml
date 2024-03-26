@@ -1,0 +1,6 @@
+name = "la-haute-societe/tcpdf"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "tecnick"
+product = "tcpdf"

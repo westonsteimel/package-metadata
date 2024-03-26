@@ -1,0 +1,6 @@
+name = "pterodactyl/panel"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "pterodactyl"
+product = "panel"

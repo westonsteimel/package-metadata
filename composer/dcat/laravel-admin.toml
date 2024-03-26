@@ -1,0 +1,6 @@
+name = "dcat/laravel-admin"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "dcatadmin"
+product = "dcat_admin"

@@ -1,0 +1,7 @@
+name = "sylius/paypal-plugin"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sylius"
+product = "paypal"
+target_software = "sylius"

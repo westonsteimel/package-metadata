@@ -1,0 +1,6 @@
+name = "latte/latte"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "nette"
+product = "latte"

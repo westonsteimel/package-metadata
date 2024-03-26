@@ -1,0 +1,6 @@
+name = "symfony/dependency-injection"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sensiolabs"
+product = "symfony"

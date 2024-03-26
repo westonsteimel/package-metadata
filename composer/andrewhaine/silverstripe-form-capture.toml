@@ -1,0 +1,6 @@
+name = "andrewhaine/silverstripe-form-capture"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "bigfork"
+product = "silverstripe_form_capture"

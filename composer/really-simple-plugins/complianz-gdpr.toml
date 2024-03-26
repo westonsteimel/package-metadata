@@ -1,0 +1,7 @@
+name = "really-simple-plugins/complianz-gdpr"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "really-simple-plugins"
+product = "complianz"
+target_software = "wordpress"

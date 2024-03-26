@@ -1,0 +1,7 @@
+name = "haffner/jh_captcha"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "jh_captcha_project"
+product = "jh_captcha"
+target_software = "typo3"

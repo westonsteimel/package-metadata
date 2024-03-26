@@ -1,0 +1,6 @@
+name = "cecil/cecil"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "cecil"
+product = "cecil"

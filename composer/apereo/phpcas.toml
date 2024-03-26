@@ -1,0 +1,6 @@
+name = "apereo/phpcas"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "apereo"
+product = "phpcas"

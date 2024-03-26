@@ -1,0 +1,6 @@
+name = "mos/cimage"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "cimage"
+product = "cimage"

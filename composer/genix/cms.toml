@@ -1,0 +1,10 @@
+name = "genix/cms"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "genixcms"
+product = "genixcms"
+
+[[cpe_configurations]]
+vendor = "metalgenix"
+product = "genixcms"

@@ -1,0 +1,6 @@
+name = "ptheofan/yii2-statemachine"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "yii2-statemachine"
+product = "yii2-statemachine"

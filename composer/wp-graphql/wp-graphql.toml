@@ -1,0 +1,12 @@
+name = "wp-graphql/wp-graphql"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "wpengine"
+product = "wpgraphql"
+target_software = "wordpress"
+
+[[cpe_configurations]]
+vendor = "wpgraphql"
+product = "wpgraphql"
+target_software = "wordpress"

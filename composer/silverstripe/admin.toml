@@ -1,0 +1,7 @@
+name = "silverstripe/admin"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "silverstripe"
+product = "admin"
+target_software = "silverstripe"

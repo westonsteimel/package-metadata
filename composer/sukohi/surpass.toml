@@ -1,0 +1,6 @@
+name = "sukohi/surpass"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "surpass_project"
+product = "surpass"

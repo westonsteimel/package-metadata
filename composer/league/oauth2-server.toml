@@ -1,0 +1,6 @@
+name = "league/oauth2-server"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "thephpleague"
+product = "oauth2-server"

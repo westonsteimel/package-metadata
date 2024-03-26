@@ -1,0 +1,6 @@
+name = "lavalite/cms"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "lavalite"
+product = "lavalite"

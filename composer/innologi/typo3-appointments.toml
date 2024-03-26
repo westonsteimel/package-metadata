@@ -1,0 +1,7 @@
+name = "innologi/typo3-appointments"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "innologi"
+product = "appointment_scheduler"
+target_software = "typo3"

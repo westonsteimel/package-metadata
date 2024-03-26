@@ -1,0 +1,6 @@
+name = "area17/twill"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "area17"
+product = "twill"

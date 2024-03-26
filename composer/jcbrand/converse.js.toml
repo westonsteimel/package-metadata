@@ -1,0 +1,6 @@
+name = "jcbrand/converse.js"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "conversejs"
+product = "converse.js"

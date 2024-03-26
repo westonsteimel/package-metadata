@@ -1,0 +1,7 @@
+name = "awesome-support/awesome-support"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "getawesomesupport"
+product = "awesome_support"
+target_software = "wordpress"

@@ -1,0 +1,6 @@
+name = "czproject/git-php"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "git-php_project"
+product = "git-php"

@@ -1,0 +1,6 @@
+name = "pixelfed/pixelfed"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "pixelfed"
+product = "pixelfed"

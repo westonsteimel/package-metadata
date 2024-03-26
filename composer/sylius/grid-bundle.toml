@@ -1,0 +1,6 @@
+name = "sylius/grid-bundle"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sylius"
+product = "syliusgridbundle"

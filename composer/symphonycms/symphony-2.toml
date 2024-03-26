@@ -1,0 +1,6 @@
+name = "symphonycms/symphony-2"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "getsymphony"
+product = "symphony"

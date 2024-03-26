@@ -1,0 +1,10 @@
+name = "joomla/framework"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "joomla"
+product = "joomla\\!"
+
+[[cpe_configurations]]
+vendor = "joomla"
+product = "joomla"

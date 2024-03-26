@@ -1,0 +1,6 @@
+name = "pear/auth"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "pear"
+product = "auth"

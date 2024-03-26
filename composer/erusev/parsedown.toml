@@ -1,0 +1,6 @@
+name = "erusev/parsedown"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "parsedown"
+product = "parsedown"

@@ -1,0 +1,6 @@
+name = "maikuolan/phpmussel"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "phpmussel_project"
+product = "phpmussel"

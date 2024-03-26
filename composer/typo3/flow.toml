@@ -1,0 +1,6 @@
+name = "typo3/flow"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "typo3"
+product = "flow"

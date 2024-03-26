@@ -1,0 +1,10 @@
+name = "juzaweb/cms"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "juzaweb"
+product = "cms"
+
+[[cpe_configurations]]
+vendor = "juzaweb"
+product = "juzaweb_cms"

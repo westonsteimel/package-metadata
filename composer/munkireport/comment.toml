@@ -1,0 +1,7 @@
+name = "munkireport/comment"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "munkireport_project"
+product = "comment"
+target_software = "munkireport"

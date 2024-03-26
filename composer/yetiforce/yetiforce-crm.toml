@@ -1,0 +1,6 @@
+name = "yetiforce/yetiforce-crm"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "yetiforce"
+product = "yetiforce_customer_relationship_management"

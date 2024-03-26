@@ -1,0 +1,6 @@
+name = "magento/magento1ce"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "magento"
+product = "magento"

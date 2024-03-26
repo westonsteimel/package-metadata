@@ -1,0 +1,6 @@
+name = "mgallegos/laravel-jqgrid"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "laravel_jqgrid_project"
+product = "laravel_jqgrid"

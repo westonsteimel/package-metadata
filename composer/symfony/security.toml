@@ -1,0 +1,6 @@
+name = "symfony/security"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sensiolabs"
+product = "symfony"

@@ -1,0 +1,7 @@
+name = "mustache/mustache"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "mustache_project"
+product = "mustache"
+target_software = "php"

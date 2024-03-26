@@ -1,0 +1,7 @@
+name = "frappant/frp-form-answers"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "frappant"
+product = "forms_export"
+target_software = "typo3"

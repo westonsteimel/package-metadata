@@ -1,0 +1,6 @@
+name = "akeneo/pim-community-dev"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "akeneo"
+product = "product_information_management"

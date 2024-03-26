@@ -1,0 +1,7 @@
+name = "roots/soil"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "roots"
+product = "soil"
+target_software = "wordpress"

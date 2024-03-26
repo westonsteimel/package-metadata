@@ -1,0 +1,6 @@
+name = "zendframework/zend-http"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "zend"
+product = "zend-http"

@@ -1,0 +1,7 @@
+name = "artesaos/seotools"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "seotool_project"
+product = "seotool"
+target_software = "laravel"

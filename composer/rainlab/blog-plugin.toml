@@ -1,0 +1,6 @@
+name = "rainlab/blog-plugin"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "octobercms"
+product = "october"

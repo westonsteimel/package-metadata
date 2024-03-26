@@ -1,0 +1,6 @@
+name = "phpoffice/phpexcel"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "phpexcel_project"
+product = "phpexcel"

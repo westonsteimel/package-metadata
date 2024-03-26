@@ -1,0 +1,10 @@
+name = "cardgate/magento2"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "cardgate"
+product = "magento2"
+
+[[cpe_configurations]]
+vendor = "adobe"
+product = "magento"

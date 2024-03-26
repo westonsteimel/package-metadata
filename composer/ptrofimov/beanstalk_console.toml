@@ -1,0 +1,6 @@
+name = "ptrofimov/beanstalk_console"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "beanstalk_console_project"
+product = "beanstalk_console"

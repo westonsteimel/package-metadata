@@ -1,0 +1,6 @@
+name = "oro/customer-portal"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "oroinc"
+product = "orocommerce"

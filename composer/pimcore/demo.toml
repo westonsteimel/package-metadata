@@ -1,0 +1,6 @@
+name = "pimcore/demo"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "pimcore"
+product = "demo"

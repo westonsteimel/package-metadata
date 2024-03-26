@@ -1,0 +1,6 @@
+name = "php-mod/curl"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "php_curl_class_project"
+product = "php_curl_class"

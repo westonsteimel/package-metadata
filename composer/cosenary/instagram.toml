@@ -1,0 +1,7 @@
+name = "cosenary/instagram"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "instagram-php-api_project"
+product = "instagram-php-api"
+

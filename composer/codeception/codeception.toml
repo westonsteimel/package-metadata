@@ -1,0 +1,6 @@
+name = "codeception/codeception"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "codeception"
+product = "codeception"

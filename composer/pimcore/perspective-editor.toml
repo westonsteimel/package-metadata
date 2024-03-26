@@ -1,0 +1,6 @@
+name = "pimcore/perspective-editor"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "pimcore"
+product = "perspective_editor"

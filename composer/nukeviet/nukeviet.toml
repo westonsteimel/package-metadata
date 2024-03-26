@@ -1,0 +1,6 @@
+name = "nukeviet/nukeviet"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "nukeviet"
+product = "nukeviet"

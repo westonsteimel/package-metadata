@@ -1,0 +1,6 @@
+name = "friendsoftypo3/openid"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "friendsoftypo3"
+product = "openid"

@@ -1,0 +1,6 @@
+name = "funadmin/funadmin"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "funadmin"
+product = "funadmin"

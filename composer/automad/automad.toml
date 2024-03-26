@@ -1,0 +1,6 @@
+name = "automad/automad"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "automad"
+product = "automad"

@@ -1,0 +1,6 @@
+name = "desperado/xml-bundle"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "xmlbundle_project"
+product = "xmlbundle"

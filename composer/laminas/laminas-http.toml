@@ -1,0 +1,6 @@
+name = "laminas/laminas-http"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "getlaminas"
+product = "laminas-http"

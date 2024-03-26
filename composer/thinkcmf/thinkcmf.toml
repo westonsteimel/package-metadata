@@ -1,0 +1,6 @@
+name = "thinkcmf/thinkcmf"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "thinkcmf"
+product = "thinkcmf"

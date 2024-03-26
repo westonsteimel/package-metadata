@@ -1,0 +1,7 @@
+name = "mediawiki/semantic-media-wiki"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "semantic-mediawiki"
+product = "semantic_mediawiki"
+target_software = "mediawiki"

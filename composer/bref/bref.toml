@@ -1,0 +1,6 @@
+name = "bref/bref"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "mnapoli"
+product = "bref"

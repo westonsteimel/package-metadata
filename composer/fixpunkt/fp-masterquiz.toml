@@ -1,0 +1,7 @@
+name = "fixpunkt/fp-masterquiz"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "master-quiz_project"
+product = "master-quiz"
+target_software = "typo3"

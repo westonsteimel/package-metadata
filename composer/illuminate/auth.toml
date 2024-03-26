@@ -1,0 +1,6 @@
+name = "illuminate/auth"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "illuminate"
+product = "auth"

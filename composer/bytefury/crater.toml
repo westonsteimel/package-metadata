@@ -1,0 +1,6 @@
+name = "bytefury/crater"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "craterapp"
+product = "crater"

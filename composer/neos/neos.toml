@@ -1,0 +1,6 @@
+name = "neos/neos"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "neos"
+product = "neos_cms"

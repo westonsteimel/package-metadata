@@ -1,0 +1,6 @@
+name = "shopware/core"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "shopware"
+product = "shopware"

@@ -1,0 +1,6 @@
+name = "laminas/laminas-diactoros"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "getlaminas"
+product = "laminas-diactoros"

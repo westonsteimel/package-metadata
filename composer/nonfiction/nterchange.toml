@@ -1,0 +1,6 @@
+name = "nonfiction/nterchange"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "nonfiction"
+product = "nterchange"

@@ -1,0 +1,7 @@
+name = "sitegeist/fluid-components"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sitegeist"
+product = "fluid_components"
+target_software = "typo3"

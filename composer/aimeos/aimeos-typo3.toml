@@ -1,0 +1,7 @@
+name = "aimeos/aimeos-typo3"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "aimeos_project"
+product = "aimeos"
+target_software = "typo3"

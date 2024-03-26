@@ -1,0 +1,6 @@
+name = "zendframework/zendxml"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "zend"
+product = "zendxml"

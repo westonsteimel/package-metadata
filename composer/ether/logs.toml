@@ -1,0 +1,11 @@
+name = "ether/logs"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "ethercreative"
+product = "logs"
+
+[[cpe_configurations]]
+vendor = "ethercreative"
+product = "logs"
+target_software = "craft_cms"

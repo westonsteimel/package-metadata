@@ -1,0 +1,6 @@
+name = "icecoder/icecoder"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "icecoder"
+product = "icecoder"

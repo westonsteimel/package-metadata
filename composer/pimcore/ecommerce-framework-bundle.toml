@@ -1,0 +1,6 @@
+name = "pimcore/ecommerce-framework-bundle"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "pimcore"
+product = "e-commerce_framework"

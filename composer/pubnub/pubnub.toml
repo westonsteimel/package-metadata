@@ -1,0 +1,6 @@
+name = "pubnub/pubnub"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "pubnub"
+product = "php"

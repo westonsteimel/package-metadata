@@ -1,0 +1,6 @@
+name = "movim/moxl"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "movim"
+product = "movim"

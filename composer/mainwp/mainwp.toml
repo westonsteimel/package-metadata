@@ -1,0 +1,7 @@
+name = "mainwp/mainwp"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "mainwp"
+product = "mainwp_dashboard"
+target_software = "wordpress"

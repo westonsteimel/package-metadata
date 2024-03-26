@@ -1,0 +1,6 @@
+name = "codiad/codiad"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "codiad"
+product = "codiad"

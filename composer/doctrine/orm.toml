@@ -1,0 +1,6 @@
+name = "doctrine/orm"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "doctrine-project"
+product = "object_relational_mapper"

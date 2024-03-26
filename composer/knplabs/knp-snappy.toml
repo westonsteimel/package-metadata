@@ -1,0 +1,6 @@
+name = "knplabs/knp-snappy"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "knplabs"
+product = "snappy"

@@ -1,0 +1,6 @@
+name = "xataface/xataface"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "xataface_project"
+product = "xataface"

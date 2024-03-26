@@ -1,0 +1,6 @@
+name = "limesurvey/limesurvey"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "limesurvey"
+product = "limesurvey"

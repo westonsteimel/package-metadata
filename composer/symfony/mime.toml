@@ -1,0 +1,6 @@
+name = "symfony/mime"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sensiolabs"
+product = "symfony"

@@ -1,0 +1,6 @@
+name = "bugsnag/bugsnag-laravel"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "bugsnag"
+product = "bugsnag-laravel"

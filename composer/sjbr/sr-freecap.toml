@@ -1,0 +1,6 @@
+name = "sjbr/sr-freecap"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sr_freecap_project"
+product = "sr_freecap"

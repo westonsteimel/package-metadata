@@ -1,0 +1,6 @@
+name = "vova07/yii2-fileapi-widget"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "yii2_fileapi_widget_project"
+product = "yii2_fileapi_widget"

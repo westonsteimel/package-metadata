@@ -1,0 +1,11 @@
+name = "alextselegidis/easyappointments"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "easyappointments"
+product = "easyappointments"
+
+[[cpe_configurations]]
+vendor = "easyappointments"
+product = "easyappointments"
+target_software = "wordpress"

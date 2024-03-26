@@ -1,0 +1,6 @@
+name = "billz/raspap-webgui"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "raspap"
+product = "raspap"

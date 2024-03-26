@@ -1,0 +1,6 @@
+name = "mobiledetect/mobiledetectlib"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "mobiledetect"
+product = "mobiledetect"

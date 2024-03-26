@@ -1,0 +1,6 @@
+name = "pyrocms/pyrocms"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "pyrocms"
+product = "pyrocms"

@@ -1,0 +1,7 @@
+name = "fixpunkt/fp-newsletter"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "fp_newsletter_project"
+product = "fp_newsletter"
+target_software = "typo3"

@@ -1,0 +1,6 @@
+name = "noumo/easyii"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "easyiicms"
+product = "easyiicms"

@@ -1,0 +1,6 @@
+name = "ezsystems/ezplatform-kernel"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "ibexa"
+product = "ez_platform_kernel"

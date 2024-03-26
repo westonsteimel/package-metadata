@@ -1,0 +1,6 @@
+name = "spipu/html2pdf"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "html2pdf_project"
+product = "html2pdf"

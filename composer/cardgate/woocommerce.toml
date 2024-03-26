@@ -1,0 +1,7 @@
+name = "cardgate/woocommerce"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "cardgate"
+product = "cardgate_payments"
+target_software = "woocommerce"

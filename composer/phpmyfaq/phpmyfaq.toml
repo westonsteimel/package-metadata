@@ -1,0 +1,6 @@
+name = "phpmyfaq/phpmyfaq"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "phpmyfaq"
+product = "phpmyfaq"

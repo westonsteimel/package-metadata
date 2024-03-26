@@ -1,0 +1,6 @@
+name = "dompdf/dompdf"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "dompdf_project"
+product = "dompdf"

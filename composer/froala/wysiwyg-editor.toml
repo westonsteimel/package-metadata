@@ -1,0 +1,6 @@
+name = "froala/wysiwyg-editor"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "froala"
+product = "froala_editor"

@@ -1,0 +1,6 @@
+name = "phpunit/phpunit"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "phpunit_project"
+product = "phpunit"

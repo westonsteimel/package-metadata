@@ -1,0 +1,6 @@
+name = "krayin/laravel-crm"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "webkul"
+product = "krayin"

@@ -1,0 +1,15 @@
+name = "pimcore/customer-management-framework-bundle"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "pimcore"
+product = "customer_data_framework"
+
+[[cpe_configurations]]
+vendor = "pimcore"
+product = "customer_management_framework"
+target_software = "pimcore"
+
+[[cpe_configurations]]
+vendor = "pimcore"
+product = "customer-data-framework"

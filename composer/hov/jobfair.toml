@@ -1,0 +1,7 @@
+name = "hov/jobfair"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "job_fair_project"
+product = "job_fair"
+target_software = "typo3"

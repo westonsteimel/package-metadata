@@ -1,0 +1,6 @@
+name = "catfan/medoo"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "medoo"
+product = "medoo"

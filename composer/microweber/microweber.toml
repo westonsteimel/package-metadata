@@ -1,0 +1,6 @@
+name = "microweber/microweber"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "microweber"
+product = "microweber"

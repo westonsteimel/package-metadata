@@ -1,0 +1,6 @@
+name = "elgg/elgg"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "elgg"
+product = "elgg"

@@ -1,0 +1,6 @@
+name = "hillelcoren/invoice-ninja"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "invoiceninja"
+product = "invoice_ninja"

@@ -1,0 +1,6 @@
+name = "sheng/yiicms"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "yiicms_project"
+product = "yiicms"

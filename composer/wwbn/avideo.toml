@@ -1,0 +1,6 @@
+name = "wwbn/avideo"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "wwbn"
+product = "avideo"

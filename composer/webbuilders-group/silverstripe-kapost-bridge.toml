@@ -1,0 +1,6 @@
+name = "webbuilders-group/silverstripe-kapost-bridge"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "webbuildersgroup"
+product = "silverstripe-kapost-bridge"

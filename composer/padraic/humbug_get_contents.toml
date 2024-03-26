@@ -1,0 +1,6 @@
+name = "padraic/humbug_get_contents"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "padraic"
+product = "humbug_get_contents"

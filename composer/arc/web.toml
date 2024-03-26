@@ -1,0 +1,6 @@
+name = "arc/web"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "ariadne-cms"
+product = "ariadne_component_library"

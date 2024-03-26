@@ -1,0 +1,6 @@
+name = "doctrine/mongodb-odm"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "doctrine-project"
+product = "mongodb-odm"

@@ -1,0 +1,7 @@
+name = "slub/slub-events"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "slub-dresden"
+product = "slub_events"
+target_software = "typo3"

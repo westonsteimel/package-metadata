@@ -1,0 +1,6 @@
+name = "webpa/webpa"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "lboro"
+product = "webpa"

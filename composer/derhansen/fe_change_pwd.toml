@@ -1,0 +1,7 @@
+name = "derhansen/fe_change_pwd"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "change_password_for_frontend_users_project"
+product = "change_password_for_frontend_users"
+target_software = "typo3"

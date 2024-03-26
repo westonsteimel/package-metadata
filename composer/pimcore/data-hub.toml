@@ -1,0 +1,6 @@
+name = "pimcore/data-hub"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "pimcore"
+product = "data-hub"

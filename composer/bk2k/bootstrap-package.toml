@@ -1,0 +1,6 @@
+name = "bk2k/bootstrap-package"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "bk2k"
+product = "bootstrap-package"

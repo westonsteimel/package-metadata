@@ -1,0 +1,6 @@
+name = "wanglelecc/laracms"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "laracms_project"
+product = "laracms"

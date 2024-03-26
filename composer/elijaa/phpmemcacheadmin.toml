@@ -1,0 +1,6 @@
+name = "elijaa/phpmemcacheadmin"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "elijaa"
+product = "phpmemcachedadmin"

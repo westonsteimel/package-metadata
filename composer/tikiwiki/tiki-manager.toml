@@ -1,0 +1,10 @@
+name = "tikiwiki/tiki-manager"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "tiki"
+product = "tiki"
+
+[[cpe_configurations]]
+vendor = "tiki"
+product = "tikiwiki_cms\\/groupware"

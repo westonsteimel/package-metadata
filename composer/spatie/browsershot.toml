@@ -1,0 +1,6 @@
+name = "spatie/browsershot"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "spatie"
+product = "browsershot"

@@ -1,0 +1,6 @@
+name = "ec-cube/ec-cube"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "lockon"
+product = "ec-cube"

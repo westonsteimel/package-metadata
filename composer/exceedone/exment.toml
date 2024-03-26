@@ -1,0 +1,6 @@
+name = "exceedone/exment"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "exceedone"
+product = "exment"

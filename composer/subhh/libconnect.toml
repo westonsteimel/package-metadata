@@ -1,0 +1,7 @@
+name = "subhh/libconnect"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "libconnect_project"
+product = "libconnect"
+target_software = "typo3"

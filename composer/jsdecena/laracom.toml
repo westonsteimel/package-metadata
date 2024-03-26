@@ -1,0 +1,6 @@
+name = "jsdecena/laracom"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "laracom_project"
+product = "laracom"

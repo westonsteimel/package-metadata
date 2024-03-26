@@ -1,0 +1,6 @@
+name = "topthink/think"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "thinkphp"
+product = "thinkphp"

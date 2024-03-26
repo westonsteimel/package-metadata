@@ -1,0 +1,6 @@
+name = "phenx/php-svg-lib"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "dompdf"
+product = "php-svg-lib"

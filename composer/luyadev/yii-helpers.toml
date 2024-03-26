@@ -1,0 +1,6 @@
+name = "luyadev/yii-helpers"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "luya"
+product = "yii-helpers"

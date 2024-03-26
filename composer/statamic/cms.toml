@@ -1,0 +1,6 @@
+name = "statamic/cms"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "statamic"
+product = "statamic"

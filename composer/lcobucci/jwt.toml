@@ -1,0 +1,6 @@
+name = "lcobucci/jwt"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "jwt_project"
+product = "jwt"

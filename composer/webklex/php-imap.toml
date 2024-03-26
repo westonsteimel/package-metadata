@@ -1,0 +1,6 @@
+name = "webklex/php-imap"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "webklex"
+product = "php-imap"

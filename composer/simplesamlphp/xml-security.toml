@@ -1,0 +1,6 @@
+name = "simplesamlphp/xml-security"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "simplesamlphp"
+product = "xml-security"

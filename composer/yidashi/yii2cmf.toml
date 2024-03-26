@@ -1,0 +1,6 @@
+name = "yidashi/yii2cmf"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "yii2cmf_project"
+product = "yii2cmf"

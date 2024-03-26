@@ -1,0 +1,6 @@
+name = "symfony/cache"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sensiolabs"
+product = "symfony"

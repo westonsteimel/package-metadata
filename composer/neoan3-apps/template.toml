@@ -1,0 +1,6 @@
+name = "neoan3-apps/template"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "neoan"
+product = "neoan3-template"

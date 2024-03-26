@@ -1,0 +1,6 @@
+name = "gogentooss/samlbase"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "wizkunde"
+product = "samlbase"

@@ -1,0 +1,10 @@
+name = "modx/revolution"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "modx"
+product = "modx_revolution"
+
+[[cpe_configurations]]
+vendor = "modx"
+product = "revolution"

@@ -1,0 +1,6 @@
+name = "typo3/cms-rte-ckeditor"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "typo3"
+product = "typo3"

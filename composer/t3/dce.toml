@@ -1,0 +1,7 @@
+name = "t3/dce"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "dynamic_content_elements_project"
+product = "dynamic_content_elements"
+target_software = "typo3"

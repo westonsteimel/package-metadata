@@ -1,0 +1,6 @@
+name = "joomla/joomla-cms"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "joomla"
+product = "joomla\\!"

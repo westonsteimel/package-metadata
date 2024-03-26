@@ -1,0 +1,6 @@
+name = "mojo42/jirafeau"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "jirafeau"
+product = "jirafeau"

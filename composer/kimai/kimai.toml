@@ -1,0 +1,6 @@
+name = "kimai/kimai"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "kimai"
+product = "kimai"

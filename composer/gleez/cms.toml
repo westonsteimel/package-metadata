@@ -1,0 +1,6 @@
+name = "gleez/cms"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "gleezcms"
+product = "gleez_cms"

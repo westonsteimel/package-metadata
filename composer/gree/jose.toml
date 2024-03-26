@@ -1,0 +1,6 @@
+name = "gree/jose"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "php_jose_project"
+product = "php_jose"

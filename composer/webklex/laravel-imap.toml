@@ -1,0 +1,6 @@
+name = "webklex/laravel-imap"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "webklex"
+product = "laravel-imap"

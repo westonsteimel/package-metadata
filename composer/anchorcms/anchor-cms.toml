@@ -1,0 +1,10 @@
+name = "anchorcms/anchor-cms"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "anchorcms"
+product = "anchor_cms"
+
+[[cpe_configurations]]
+vendor = "anchorcms"
+product = "anchor"

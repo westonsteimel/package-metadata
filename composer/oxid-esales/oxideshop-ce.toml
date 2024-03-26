@@ -1,0 +1,6 @@
+name = "oxid-esales/oxideshop-ce"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "oxid-esales"
+product = "eshop"

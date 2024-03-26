@@ -1,0 +1,6 @@
+name = "duncanmcclean/guest-entries"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "duncanmcclean"
+product = "guest_entries"

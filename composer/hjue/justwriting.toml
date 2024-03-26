@@ -1,0 +1,6 @@
+name = "hjue/justwriting"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "justwriting_project"
+product = "justwriting"

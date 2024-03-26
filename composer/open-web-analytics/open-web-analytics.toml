@@ -1,0 +1,6 @@
+name = "open-web-analytics/open-web-analytics"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "openwebanalytics"
+product = "open_web_analytics"

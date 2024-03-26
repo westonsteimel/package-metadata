@@ -1,0 +1,6 @@
+name = "nilsteampassnet/teampass"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "teampass"
+product = "teampass"

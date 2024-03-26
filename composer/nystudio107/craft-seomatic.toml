@@ -1,0 +1,7 @@
+name = "nystudio107/craft-seomatic"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "nystudio107"
+product = "seomatic"
+target_software = "craft_cms"

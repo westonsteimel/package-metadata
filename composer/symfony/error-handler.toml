@@ -1,0 +1,6 @@
+name = "symfony/error-handler"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sensiolabs"
+product = "symfony"

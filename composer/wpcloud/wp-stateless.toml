@@ -1,0 +1,7 @@
+name = "wpcloud/wp-stateless"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "udx"
+product = "stateless_media_plugin"
+target_software = "wordpress"

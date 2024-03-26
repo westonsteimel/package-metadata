@@ -1,0 +1,7 @@
+name = "brotkrueml/typo3-matomo-integration"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "matomo"
+product = "integration"
+target_software = "typo3"

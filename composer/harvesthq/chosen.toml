@@ -1,0 +1,6 @@
+name = "harvesthq/chosen"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "getharvest"
+product = "chosen"

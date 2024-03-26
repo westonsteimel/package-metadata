@@ -1,0 +1,6 @@
+name = "grumpydictator/firefly-iii"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "firefly-iii"
+product = "firefly_iii"

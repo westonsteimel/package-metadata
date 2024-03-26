@@ -1,0 +1,6 @@
+name = "zenstruck/collection"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "zenstruck"
+product = "collection"

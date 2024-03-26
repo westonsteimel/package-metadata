@@ -1,0 +1,6 @@
+name = "silverstripe/hybridsessions"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "silverstripe"
+product = "hybridsessions"

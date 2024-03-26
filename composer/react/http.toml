@@ -1,0 +1,6 @@
+name = "react/http"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "reactphp"
+product = "http"

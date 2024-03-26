@@ -1,0 +1,6 @@
+name = "wikibase/wikibase"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "mediawiki"
+product = "mediawiki"

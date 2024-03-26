@@ -1,0 +1,6 @@
+name = "fenom/fenom"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "fenom_project"
+product = "fenom"

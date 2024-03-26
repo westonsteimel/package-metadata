@@ -1,0 +1,18 @@
+name = "kevinpapst/kimai2"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "kimai"
+product = "kimai_2"
+
+[[cpe_configurations]]
+vendor = "kimai2_project"
+product = "kimai2"
+
+[[cpe_configurations]]
+vendor = "kimai"
+product = "kimai2"
+
+[[cpe_configurations]]
+vendor = "kimai"
+product = "kimai"

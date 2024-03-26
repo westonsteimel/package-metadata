@@ -1,0 +1,6 @@
+name = "ttskch/pagination-service-provider"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "paginationserviceprovider_project"
+product = "paginationserviceprovider"

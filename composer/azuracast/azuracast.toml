@@ -1,0 +1,6 @@
+name = "azuracast/azuracast"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "azuracast"
+product = "azuracast"

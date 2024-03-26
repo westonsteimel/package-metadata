@@ -1,0 +1,6 @@
+name = "cuyz/valinor"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "cuyz"
+product = "valinor"

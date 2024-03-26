@@ -1,0 +1,6 @@
+name = "adodb/adodb-php"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "adodb_project"
+product = "adodb"

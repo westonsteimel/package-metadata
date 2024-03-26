@@ -1,0 +1,7 @@
+name = "zendframework/zendservice-technorati"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "zend"
+product = "zendservice_technorati"
+

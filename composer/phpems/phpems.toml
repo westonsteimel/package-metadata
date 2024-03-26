@@ -1,0 +1,6 @@
+name = "phpems/phpems"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "phpems"
+product = "phpems"

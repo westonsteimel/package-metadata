@@ -1,0 +1,6 @@
+name = "phpbb/phpbb"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "phpbb"
+product = "phpbb"

@@ -1,0 +1,6 @@
+name = "symfony/security-csrf"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sensiolabs"
+product = "symfony"

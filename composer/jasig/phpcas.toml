@@ -1,0 +1,6 @@
+name = "jasig/phpcas"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "apereo"
+product = "phpcas"

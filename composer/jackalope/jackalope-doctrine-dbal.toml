@@ -1,0 +1,6 @@
+name = "jackalope/jackalope-doctrine-dbal"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "jackalope_doctrine-dbal_project"
+product = "jackalope_doctrine-dbal"

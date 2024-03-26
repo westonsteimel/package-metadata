@@ -1,0 +1,6 @@
+name = "illuminate/database"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "illuminate"
+product = "database"

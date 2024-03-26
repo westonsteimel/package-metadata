@@ -1,0 +1,6 @@
+name = "vanilla/safecurl"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "safecurl_project"
+product = "safecurl"

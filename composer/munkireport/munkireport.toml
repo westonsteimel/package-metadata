@@ -1,0 +1,12 @@
+name = "munkireport/munkireport"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "managedinstalls_project"
+product = "managedinstalls"
+target_software = "munkireport"
+
+[[cpe_configurations]]
+vendor = "munkireport_project"
+product = "munkireport"
+target_software = "munkireport"

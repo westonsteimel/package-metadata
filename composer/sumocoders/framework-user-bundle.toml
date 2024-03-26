@@ -1,0 +1,6 @@
+name = "sumocoders/framework-user-bundle"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sumocoders"
+product = "frameworkuserbundle"

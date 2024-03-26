@@ -1,0 +1,6 @@
+name = "wallabag/wallabag"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "wallabag"
+product = "wallabag"

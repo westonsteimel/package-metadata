@@ -1,0 +1,10 @@
+name = "silverstripe/assets"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "silverstripe"
+product = "assets"
+
+[[cpe_configurations]]
+vendor = "silverstripe"
+product = "asset_admin"

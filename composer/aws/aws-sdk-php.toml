@@ -1,0 +1,7 @@
+name = "aws/aws-sdk-php"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "amazon"
+product = "aws_software_development_kit"
+target_software = "php"

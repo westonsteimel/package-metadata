@@ -1,0 +1,6 @@
+name = "getkirby/starterkit"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "getkirby"
+product = "starterkit"

@@ -1,0 +1,6 @@
+name = "chriskacerguis/codeigniter-restserver"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "codeigniter-restserver_project"
+product = "codeigniter-restserver"

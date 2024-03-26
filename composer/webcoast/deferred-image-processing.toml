@@ -1,0 +1,7 @@
+name = "webcoast/deferred-image-processing"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "deferred_image_processing_project"
+product = "deferred_image_processing"
+target_software = "typo3"

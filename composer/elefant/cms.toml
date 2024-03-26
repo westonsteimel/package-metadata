@@ -1,0 +1,14 @@
+name = "elefant/cms"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "elefantcms"
+product = "elefantcms"
+
+[[cpe_configurations]]
+vendor = "elefantcms"
+product = "elefant_cms"
+
+[[cpe_configurations]]
+vendor = "elefantcms"
+product = "elefant"

@@ -1,0 +1,6 @@
+name = "swiftyedit/swiftyedit"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "swiftyedit"
+product = "swiftyedit"

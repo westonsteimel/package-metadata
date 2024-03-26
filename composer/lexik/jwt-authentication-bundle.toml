@@ -1,0 +1,6 @@
+name = "lexik/jwt-authentication-bundle"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "lexik"
+product = "jwt-authentication-bundle"

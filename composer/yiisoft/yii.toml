@@ -1,0 +1,6 @@
+name = "yiisoft/yii"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "yiiframework"
+product = "yii"

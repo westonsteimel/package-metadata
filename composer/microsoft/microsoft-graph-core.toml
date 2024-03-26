@@ -1,0 +1,6 @@
+name = "microsoft/microsoft-graph-core"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "graph"

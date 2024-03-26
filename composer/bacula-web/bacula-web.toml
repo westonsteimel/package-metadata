@@ -1,0 +1,6 @@
+name = "bacula-web/bacula-web"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "bacula"
+product = "bacula-web"

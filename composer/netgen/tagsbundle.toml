@@ -1,0 +1,6 @@
+name = "netgen/tagsbundle"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "netgen"
+product = "tags_bundle"

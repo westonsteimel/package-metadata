@@ -1,0 +1,6 @@
+name = "ckeditor/ckeditor"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "ckeditor"
+product = "ckeditor"

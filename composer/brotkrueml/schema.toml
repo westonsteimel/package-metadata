@@ -1,0 +1,7 @@
+name = "brotkrueml/schema"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "schema_project"
+product = "schema"
+target_software = "typo3"

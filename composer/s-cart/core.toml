@@ -1,0 +1,6 @@
+name = "s-cart/core"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "s-cart"
+product = "s-cart"

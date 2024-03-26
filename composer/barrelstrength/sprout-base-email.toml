@@ -1,0 +1,6 @@
+name = "barrelstrength/sprout-base-email"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "barrelstrengthdesign"
+product = "sprout_base_email"

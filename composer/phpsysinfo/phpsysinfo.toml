@@ -1,0 +1,6 @@
+name = "phpsysinfo/phpsysinfo"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "phpsysinfo"
+product = "phpsysinfo"

@@ -1,0 +1,6 @@
+name = "web-auth/webauthn-framework"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "spomky-labs"
+product = "webauthn_framwork"

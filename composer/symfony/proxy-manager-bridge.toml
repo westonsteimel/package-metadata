@@ -1,0 +1,6 @@
+name = "symfony/proxy-manager-bridge"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "sensiolabs"
+product = "symfony"

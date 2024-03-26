@@ -1,0 +1,7 @@
+name = "airesvsg/acf-to-rest-api"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "acf_to_rest_api_project"
+product = "acf_to_rest_api"
+target_software = "wordpress"

@@ -1,0 +1,6 @@
+name = "austintoddj/canvas"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "cnvs"
+product = "canvas"

@@ -1,0 +1,6 @@
+name = "aheinze/cockpit"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "agentejo"
+product = "cockpit"

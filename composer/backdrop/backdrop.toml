@@ -1,0 +1,10 @@
+name = "backdrop/backdrop"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "backdropcms"
+product = "backdrop"
+
+[[cpe_configurations]]
+vendor = "backdropcms"
+product = "backdrop_cms"

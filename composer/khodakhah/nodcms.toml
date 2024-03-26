@@ -1,0 +1,6 @@
+name = "khodakhah/nodcms"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "nodcms"
+product = "nodcms"

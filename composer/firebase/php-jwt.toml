@@ -1,0 +1,6 @@
+name = "firebase/php-jwt"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "google"
+product = "firebase_php-jwt"

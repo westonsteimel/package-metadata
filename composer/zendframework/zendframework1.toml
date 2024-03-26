@@ -1,0 +1,10 @@
+name = "zendframework/zendframework1"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "zend"
+product = "zend_framework"
+
+[[cpe_configurations]]
+vendor = "zend"
+product = "framework"

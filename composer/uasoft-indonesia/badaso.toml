@@ -1,0 +1,6 @@
+name = "uasoft-indonesia/badaso"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "uatech"
+product = "badaso"

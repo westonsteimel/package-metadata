@@ -1,0 +1,6 @@
+name = "zfcampus/zf-apigility-doctrine"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "zend"
+product = "zf-apigility-doctrine"

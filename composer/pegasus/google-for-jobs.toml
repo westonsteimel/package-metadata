@@ -1,0 +1,7 @@
+name = "pegasus/google-for-jobs"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "pega-sus"
+product = "google_for_jobs"
+target_software = "typo3"

@@ -1,0 +1,6 @@
+name = "zencart/zencart"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "zen-cart"
+product = "zen_cart"

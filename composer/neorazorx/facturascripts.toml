@@ -1,0 +1,6 @@
+name = "neorazorx/facturascripts"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "facturascripts"
+product = "facturascripts"

@@ -1,0 +1,6 @@
+name = "simplesamlphp/simplesamlphp-module-openid"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "simplesamlphp"
+product = "simplesamlphp-module-openid"

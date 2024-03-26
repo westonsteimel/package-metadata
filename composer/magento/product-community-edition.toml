@@ -1,0 +1,6 @@
+name = "magento/product-community-edition"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "magento"
+product = "magento"

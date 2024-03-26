@@ -1,0 +1,6 @@
+name = "phanan/koel"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "koel"
+product = "koel"

@@ -1,0 +1,6 @@
+name = "mantisbt/mantisbt"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "mantisbt"
+product = "mantisbt"

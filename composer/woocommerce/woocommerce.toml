@@ -1,0 +1,7 @@
+name = "woocommerce/woocommerce"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "woocommerce"
+product = "woocommerce"
+target_software = "wordpress"

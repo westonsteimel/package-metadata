@@ -1,0 +1,6 @@
+name = "packbackbooks/lti-1-3-php-library"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "packback"
+product = "lti_1.3_tool_library"

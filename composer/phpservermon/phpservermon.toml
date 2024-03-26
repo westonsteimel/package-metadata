@@ -1,0 +1,6 @@
+name = "phpservermon/phpservermon"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "phpservermonitor"
+product = "php_server_monitor"

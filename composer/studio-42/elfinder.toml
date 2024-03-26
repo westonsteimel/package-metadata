@@ -1,0 +1,6 @@
+name = "studio-42/elfinder"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "std42"
+product = "elfinder"

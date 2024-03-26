@@ -1,0 +1,6 @@
+name = "liftkit/database"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "liftkit_database_library_project"
+product = "liftkit_database_library"

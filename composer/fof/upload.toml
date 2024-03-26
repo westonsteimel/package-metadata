@@ -1,0 +1,6 @@
+name = "fof/upload"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "friendsofflarum"
+product = "upload"

@@ -1,0 +1,6 @@
+name = "zendframework/zend-cache"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "zend"
+product = "zend-cache"

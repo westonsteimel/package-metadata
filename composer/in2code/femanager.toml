@@ -1,0 +1,7 @@
+name = "in2code/femanager"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "in2code"
+product = "femanager"
+target_software = "typo3"

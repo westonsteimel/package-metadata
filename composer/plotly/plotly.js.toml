@@ -1,0 +1,6 @@
+name = "plotly/plotly.js"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "plotly"
+product = "plotly.js"

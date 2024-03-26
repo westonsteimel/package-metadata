@@ -1,0 +1,6 @@
+name = "silverstripe/recipe-cms"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "silverstripe"
+product = "recipe-cms"

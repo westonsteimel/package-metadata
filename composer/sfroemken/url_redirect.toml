@@ -1,0 +1,7 @@
+name = "sfroemken/url_redirect"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "url_redirect_project"
+product = "url_redirect"
+target_software = "typo3"

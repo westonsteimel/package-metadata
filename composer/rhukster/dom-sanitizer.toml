@@ -1,0 +1,6 @@
+name = "rhukster/dom-sanitizer"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "getgrav"
+product = "dom-sanitizer"

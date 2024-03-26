@@ -1,0 +1,10 @@
+name = "cachethq/cachet"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "catchethq"
+product = "catchet"
+
+[[cpe_configurations]]
+vendor = "chachethq"
+product = "cachet"

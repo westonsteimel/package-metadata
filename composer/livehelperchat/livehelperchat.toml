@@ -1,0 +1,6 @@
+name = "livehelperchat/livehelperchat"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "livehelperchat"
+product = "livehelperchat"

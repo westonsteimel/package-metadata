@@ -1,0 +1,6 @@
+name = "oro/commerce"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "oroinc"
+product = "orocommerce"

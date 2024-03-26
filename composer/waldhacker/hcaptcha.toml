@@ -1,0 +1,7 @@
+name = "waldhacker/hcaptcha"
+ecosystem = "composer"
+
+[[cpe_configurations]]
+vendor = "hcaptcha_for_ext\\"
+product = "form_project"
+target_software = "typo3"
