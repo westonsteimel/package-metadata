@@ -1,0 +1,8 @@
+name = "pyload-ng"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pyload-ng_project"
+product = "pyload-ng"
+target_software = "python"
+

@@ -1,0 +1,7 @@
+name = "dirac"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "diracgrid"
+product = "dirac"
+

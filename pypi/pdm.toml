@@ -1,0 +1,8 @@
+name = "pdm"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "frostming"
+product = "pdm"
+target_software = "python"
+

@@ -1,0 +1,7 @@
+name = "shinken"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "shinken-monitoring"
+product = "shinken_monitoring"
+

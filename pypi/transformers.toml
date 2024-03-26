@@ -1,0 +1,7 @@
+name = "transformers"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "huggingface"
+product = "transformers"
+

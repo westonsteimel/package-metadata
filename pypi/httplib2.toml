@@ -5,3 +5,5 @@ source = "https://github.com/httplib2/httplib2"
 [[cpe_configurations]]
 vendor = "httplib2_project"
 product = "httplib2"
+target_software = "python"
+

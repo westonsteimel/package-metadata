@@ -1,0 +1,8 @@
+name = "poetry"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "python-poetry"
+product = "poetry"
+target_software = "python"
+

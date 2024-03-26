@@ -1,8 +1,23 @@
 name = "swift"
 ecosystem = "pypi"
 source = "https://opendev.org/openstack/swift"
-
 [[cpe_configurations]]
 vendor = "openstack"
 product = "swift"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "gluster_storage_management_console"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "gluster_storage_server_for_on-premise"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "storage"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "storage_for_public_cloud"
 

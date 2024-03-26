@@ -1,0 +1,7 @@
+name = "wolfcrypt"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "wolfssl"
+product = "wolfssl"
+

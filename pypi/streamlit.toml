@@ -1,0 +1,7 @@
+name = "streamlit"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "streamlit"
+product = "streamlit"
+

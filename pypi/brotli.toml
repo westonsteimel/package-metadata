@@ -1,0 +1,7 @@
+name = "brotli"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "google"
+product = "brotli"
+

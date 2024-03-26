@@ -1,0 +1,7 @@
+name = "ray"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "ray_project"
+product = "ray"
+

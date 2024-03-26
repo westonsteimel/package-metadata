@@ -1,0 +1,7 @@
+name = "xblock-drag-and-drop-v2"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "openedx"
+product = "xblock-drag-and-drop-v2"
+

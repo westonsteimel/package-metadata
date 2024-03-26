@@ -1,0 +1,7 @@
+name = "vantage6-server"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "vantage6"
+product = "vantage6"
+

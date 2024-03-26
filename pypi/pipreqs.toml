@@ -1,0 +1,8 @@
+name = "pipreqs"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pipreqs_project"
+product = "pipreqs"
+target_software = "python"
+

@@ -1,0 +1,11 @@
+name = "python-apt"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "ubuntu"
+product = "python-apt"
+
+[[cpe_configurations]]
+vendor = "debian"
+product = "python-apt"
+

@@ -1,0 +1,7 @@
+name = "cookiecutter"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "cookiecutter_project"
+product = "cookiecutter"
+

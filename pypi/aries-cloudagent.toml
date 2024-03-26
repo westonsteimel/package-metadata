@@ -1,0 +1,8 @@
+name = "aries-cloudagent"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "hyperledger"
+product = "aries_cloud_agent"
+target_software = "python"
+

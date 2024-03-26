@@ -1,0 +1,7 @@
+name = "in-toto"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "in-toto_project"
+product = "in-toto"
+

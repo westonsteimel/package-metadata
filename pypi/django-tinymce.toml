@@ -1,0 +1,7 @@
+name = "django-tinymce"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "tiny"
+product = "tinymce"
+

@@ -9,3 +9,4 @@ product = "django-rest-framework"
 [[cpe_configurations]]
 vendor = "encode"
 product = "django_rest_framework"
+

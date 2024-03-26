@@ -1,0 +1,7 @@
+name = "dpaste"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "darrennathanael"
+product = "dpaste"
+

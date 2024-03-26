@@ -1,0 +1,8 @@
+name = "sap-xssec"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "sap"
+product = "sap-xssec"
+target_software = "python"
+

@@ -1,4 +1,4 @@
-name = "Eve"
+name = "eve"
 ecosystem = "pypi"
 source = "https://github.com/pyeve/eve"
 

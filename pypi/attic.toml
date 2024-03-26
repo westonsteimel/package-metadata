@@ -1,0 +1,7 @@
+name = "attic"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "attic_project"
+product = "attic"
+

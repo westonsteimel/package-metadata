@@ -1,7 +1,6 @@
 name = "reviewboard"
 ecosystem = "pypi"
 source = "https://github.com/reviewboard/reviewboard"
-
 [[cpe_configurations]]
 vendor = "reviewboard"
 product = "reviewboard"
@@ -9,4 +8,8 @@ product = "reviewboard"
 [[cpe_configurations]]
 vendor = "reviewboard"
 product = "review_board"
+
+[[cpe_configurations]]
+vendor = "reviewboard"
+product = "djblets"
 

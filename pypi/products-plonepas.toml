@@ -1,0 +1,7 @@
+name = "products-plonepas"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "plone"
+product = "plonepas"
+

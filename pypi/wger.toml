@@ -1,0 +1,12 @@
+name = "wger"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "wger"
+product = "workout_manager"
+target_software = "android"
+
+[[cpe_configurations]]
+vendor = "wger"
+product = "wger"
+

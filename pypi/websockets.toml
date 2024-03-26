@@ -1,7 +1,6 @@
 name = "websockets"
 ecosystem = "pypi"
 source = "https://github.com/aaugustin/websockets"
-
 [[cpe_configurations]]
 vendor = "myks"
 product = "websockets"
@@ -9,3 +8,25 @@ product = "websockets"
 [[cpe_configurations]]
 vendor = "websockets_project"
 product = "websockets"
+
+[[cpe_configurations]]
+vendor = "websockets_project"
+product = "websockets"
+target_software = "python"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "communications_cloud_native_core_policy"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "communications_cloud_native_core_security_edge_protection_proxy"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "communications_cloud_native_core_service_communication_proxy"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "communications_cloud_native_core_unified_data_repository"
+

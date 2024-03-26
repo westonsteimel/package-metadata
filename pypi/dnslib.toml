@@ -1,0 +1,8 @@
+name = "dnslib"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "dnslib_project"
+product = "dnslib"
+target_software = "python"
+

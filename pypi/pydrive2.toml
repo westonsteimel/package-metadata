@@ -1,0 +1,7 @@
+name = "pydrive2"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "iterative"
+product = "pydrive2"
+

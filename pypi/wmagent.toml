@@ -1,0 +1,8 @@
+name = "wmagent"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "wmagent_project"
+product = "wmagent"
+target_software = "python"
+

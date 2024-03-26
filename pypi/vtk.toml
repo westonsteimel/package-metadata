@@ -1,0 +1,7 @@
+name = "vtk"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "vtk"
+product = "vtk"
+

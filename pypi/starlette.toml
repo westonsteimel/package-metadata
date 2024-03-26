@@ -1,0 +1,8 @@
+name = "starlette"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "encode"
+product = "starlette"
+target_software = "python"
+

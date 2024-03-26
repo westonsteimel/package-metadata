@@ -1,0 +1,7 @@
+name = "chainerrl-visualizer"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "chainer"
+product = "chainerrl-visualizer"
+

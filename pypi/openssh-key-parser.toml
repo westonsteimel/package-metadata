@@ -1,0 +1,8 @@
+name = "openssh-key-parser"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "openssh_key_parser_project"
+product = "openssh_key_parser"
+target_software = "python"
+

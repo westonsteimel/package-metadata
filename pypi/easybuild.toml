@@ -1,0 +1,7 @@
+name = "easybuild"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "easybuild_project"
+product = "easybuild"
+

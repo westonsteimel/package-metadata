@@ -1,0 +1,7 @@
+name = "scancodeio"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "nexb"
+product = "scancode.io"
+

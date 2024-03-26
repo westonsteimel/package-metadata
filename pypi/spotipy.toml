@@ -1,0 +1,7 @@
+name = "spotipy"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "spotipy_project"
+product = "spotipy"
+

@@ -1,0 +1,7 @@
+name = "admesh"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "admesh_project"
+product = "admesh"
+

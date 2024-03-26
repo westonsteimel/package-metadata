@@ -1,0 +1,7 @@
+name = "mat2"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "0xacab"
+product = "mat2"
+

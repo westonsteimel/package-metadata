@@ -1,0 +1,7 @@
+name = "opencc"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "byvoid"
+product = "open_chinese_convert"
+

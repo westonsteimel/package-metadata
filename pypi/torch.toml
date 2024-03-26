@@ -1,0 +1,8 @@
+name = "torch"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "linuxfoundation"
+product = "pytorch"
+target_software = "python"
+

@@ -1,4 +1,4 @@
-name = "CairoSVG"
+name = "cairosvg"
 ecosystem = "pypi"
 source = "https://github.com/Kozea/CairoSVG"
 

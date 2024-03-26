@@ -1,0 +1,7 @@
+name = "django-termsandconditions"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "django_terms_and_conditions_project"
+product = "django_terms_and_conditions"
+

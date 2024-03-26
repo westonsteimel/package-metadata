@@ -1,0 +1,8 @@
+name = "plone-app-contenttypes"
+ecosystem = "pypi"
+source = "https://github.com/plone/plone.app.contenttypes"
+
+[[cpe_configurations]]
+vendor = "plone"
+product = "plone"
+

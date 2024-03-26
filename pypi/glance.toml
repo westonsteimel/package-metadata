@@ -6,3 +6,7 @@ source = "https://opendev.org/openstack/glance"
 vendor = "openstack"
 product = "glance"
 
+[[cpe_configurations]]
+vendor = "openstack"
+product = "image_registry_and_delivery_service_\\(glance\\)"
+

@@ -1,0 +1,8 @@
+name = "mei2volpiano"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "ddmal"
+product = "mei2volpiano"
+target_software = "python"
+

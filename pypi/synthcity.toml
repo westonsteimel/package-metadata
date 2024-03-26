@@ -1,0 +1,7 @@
+name = "synthcity"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "vanderschaarlab"
+product = "temporai"
+

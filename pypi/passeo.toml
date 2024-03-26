@@ -1,0 +1,8 @@
+name = "passeo"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "passeo_project"
+product = "passeo"
+target_software = "python"
+

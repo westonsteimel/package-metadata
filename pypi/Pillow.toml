@@ -1,4 +1,4 @@
-name = "Pillow"
+name = "pillow"
 ecosystem = "pypi"
 source = "https://github.com/python-pillow/Pillow"
 

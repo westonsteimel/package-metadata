@@ -1,0 +1,7 @@
+name = "vcspull"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "libvcs_project"
+product = "libvcs"
+

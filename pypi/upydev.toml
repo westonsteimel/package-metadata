@@ -1,0 +1,7 @@
+name = "upydev"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "carglglz"
+product = "upydev"
+

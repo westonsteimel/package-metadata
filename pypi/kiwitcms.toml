@@ -1,0 +1,7 @@
+name = "kiwitcms"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "kiwitcms"
+product = "kiwi_tcms"
+

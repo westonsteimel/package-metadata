@@ -1,0 +1,8 @@
+name = "langchain-experimental"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "langchain"
+product = "langchain_experimental"
+target_software = "python"
+

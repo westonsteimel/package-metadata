@@ -1,0 +1,8 @@
+name = "py-cord"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pycord_development"
+product = "pycord"
+target_software = "discord"
+

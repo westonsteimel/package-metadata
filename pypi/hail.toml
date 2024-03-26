@@ -1,0 +1,8 @@
+name = "hail"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "hail"
+product = "hail"
+target_software = "python"
+

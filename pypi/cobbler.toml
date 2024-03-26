@@ -10,3 +10,7 @@ product = "cobbler"
 vendor = "cobbler_project"
 product = "cobbler"
 
+[[cpe_configurations]]
+vendor = "michael_dehaan"
+product = "cobbler"
+

@@ -1,0 +1,7 @@
+name = "llama-hub"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "llamahub"
+product = "llamahub"
+

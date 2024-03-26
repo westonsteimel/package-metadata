@@ -1,7 +1,15 @@
 name = "pyspark"
 ecosystem = "pypi"
 source = "https://github.com/apache/spark/tree/master/python"
-
 [[cpe_configurations]]
 vendor = "apache"
 product = "spark"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "business_intelligence"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "financial_services_crime_and_compliance_management_studio"
+

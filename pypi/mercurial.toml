@@ -1,7 +1,6 @@
 name = "mercurial"
 ecosystem = "pypi"
 source = "https://www.mercurial-scm.org/repo/hg/"
-
 [[cpe_configurations]]
 vendor = "mercurial"
 product = "mercurial"
@@ -9,3 +8,28 @@ product = "mercurial"
 [[cpe_configurations]]
 vendor = "mercurial-scm"
 product = "mercurial"
+
+[[cpe_configurations]]
+vendor = "suse"
+product = "linux_enterprise_debuginfo"
+
+[[cpe_configurations]]
+vendor = "git-scm"
+product = "git"
+
+[[cpe_configurations]]
+vendor = "apple"
+product = "xcode"
+
+[[cpe_configurations]]
+vendor = "eclipse"
+product = "egit"
+
+[[cpe_configurations]]
+vendor = "eclipse"
+product = "jgit"
+
+[[cpe_configurations]]
+vendor = "libgit2"
+product = "libgit2"
+

@@ -1,0 +1,7 @@
+name = "mobsf"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "opensecurity"
+product = "mobile_security_framework"
+

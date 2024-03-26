@@ -1,0 +1,7 @@
+name = "prefect"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "prefect"
+product = "prefect"
+

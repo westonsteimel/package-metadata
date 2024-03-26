@@ -1,0 +1,7 @@
+name = "selenium"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "selenium"
+product = "selenium"
+

@@ -1,0 +1,7 @@
+name = "pysha3"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pysha3_project"
+product = "pysha3"
+

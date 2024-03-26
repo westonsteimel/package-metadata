@@ -1,0 +1,7 @@
+name = "portage"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "gentoo"
+product = "portage"
+

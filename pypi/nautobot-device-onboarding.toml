@@ -1,0 +1,7 @@
+name = "nautobot-device-onboarding"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "nautobot"
+product = "nautobot-plugin-device-onboarding"
+

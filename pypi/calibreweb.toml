@@ -1,0 +1,7 @@
+name = "calibreweb"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "calibre-web_project"
+product = "calibre-web"
+

@@ -1,0 +1,8 @@
+name = "modoboa-dmarc"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "modoboa"
+product = "modoboa-dmarc"
+target_software = "modoboa"
+

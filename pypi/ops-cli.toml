@@ -1,0 +1,7 @@
+name = "ops-cli"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "adobe"
+product = "ops-cli"
+

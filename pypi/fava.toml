@@ -1,0 +1,7 @@
+name = "fava"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "fava_project"
+product = "fava"
+

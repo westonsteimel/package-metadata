@@ -1,0 +1,7 @@
+name = "sosreport"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "sos_project"
+product = "sos"
+

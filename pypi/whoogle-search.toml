@@ -1,0 +1,11 @@
+name = "whoogle-search"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "whoogle-search_project"
+product = "whoogle-search"
+
+[[cpe_configurations]]
+vendor = "benbusby"
+product = "whoogle_search"
+

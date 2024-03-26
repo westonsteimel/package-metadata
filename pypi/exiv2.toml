@@ -1,0 +1,7 @@
+name = "exiv2"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "exiv2"
+product = "exiv2"
+

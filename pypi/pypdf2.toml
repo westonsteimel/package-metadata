@@ -1,0 +1,11 @@
+name = "pypdf2"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pypdf_project"
+product = "pypdf"
+
+[[cpe_configurations]]
+vendor = "pypdf2_project"
+product = "pypdf2"
+

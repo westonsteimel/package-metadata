@@ -1,0 +1,7 @@
+name = "django-ses"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "django-ses_project"
+product = "django-ses"
+

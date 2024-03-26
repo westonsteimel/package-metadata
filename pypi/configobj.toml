@@ -1,0 +1,7 @@
+name = "configobj"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "configobj_project"
+product = "configobj"
+

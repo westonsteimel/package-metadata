@@ -1,0 +1,7 @@
+name = "collective-task"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "collective.task_project"
+product = "collective.task"
+

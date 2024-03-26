@@ -1,0 +1,7 @@
+name = "suds-py3"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "jeff_ortel"
+product = "suds"
+

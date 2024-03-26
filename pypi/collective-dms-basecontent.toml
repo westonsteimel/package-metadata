@@ -1,0 +1,7 @@
+name = "collective-dms-basecontent"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "collective.dms.basecontent_project"
+product = "collective.dms.basecontent"
+

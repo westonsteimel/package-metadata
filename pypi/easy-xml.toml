@@ -6,3 +6,8 @@ home = "https://github.com/darkfoxprime/python-easy_xml"
 vendor = "pypi"
 product = "easyxml"
 
+[[cpe_configurations]]
+vendor = "easyxml_project"
+product = "easyxml"
+target_software = "python"
+

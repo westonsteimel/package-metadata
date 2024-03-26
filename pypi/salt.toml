@@ -1,8 +1,27 @@
 name = "salt"
 ecosystem = "pypi"
 source = "https://github.com/saltstack/salt"
-
 [[cpe_configurations]]
 vendor = "saltstack"
 product = "salt"
+
+[[cpe_configurations]]
+vendor = "saltstack"
+product = "salt_2015"
+
+[[cpe_configurations]]
+vendor = "vmware"
+product = "application_remote_collector"
+
+[[cpe_configurations]]
+vendor = "blackberry"
+product = "workspaces_server"
+
+[[cpe_configurations]]
+vendor = "saltstack"
+product = "salt_2018"
+
+[[cpe_configurations]]
+vendor = "saltstack"
+product = "salt_2019"
 

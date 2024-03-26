@@ -1,0 +1,8 @@
+name = "catly-translate"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "catly_translate_project"
+product = "catly_translate"
+target_software = "pypi"
+

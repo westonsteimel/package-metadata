@@ -1,0 +1,7 @@
+name = "postgraas-server"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "blueyonder"
+product = "postgraas_server"
+

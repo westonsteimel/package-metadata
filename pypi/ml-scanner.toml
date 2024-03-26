@@ -1,0 +1,8 @@
+name = "ml-scanner"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pypi"
+product = "ml-scanner"
+target_software = "pypi"
+

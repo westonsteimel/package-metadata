@@ -1,0 +1,7 @@
+name = "nuitka"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "nuitka"
+product = "nuitka"
+

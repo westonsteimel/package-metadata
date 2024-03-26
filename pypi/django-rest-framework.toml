@@ -1,0 +1,7 @@
+name = "django-rest-framework"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "django-rest-framework"
+product = "django_rest_framework"
+

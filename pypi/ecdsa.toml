@@ -6,3 +6,8 @@ source = "http://github.com/warner/python-ecdsa"
 vendor = "python-ecdsa_project"
 product = "python-ecdsa"
 
+[[cpe_configurations]]
+vendor = "tlsfuzzer"
+product = "ecdsa"
+target_software = "python"
+

@@ -1,0 +1,7 @@
+name = "esptool"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "espressif"
+product = "esptool"
+

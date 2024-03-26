@@ -1,0 +1,7 @@
+name = "keylime"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "keylime"
+product = "keylime"
+

@@ -1,0 +1,15 @@
+name = "trac"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "edgewall_software"
+product = "trac"
+
+[[cpe_configurations]]
+vendor = "edgewall"
+product = "trac"
+
+[[cpe_configurations]]
+vendor = "trac"
+product = "trac"
+

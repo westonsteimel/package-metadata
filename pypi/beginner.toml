@@ -1,0 +1,8 @@
+name = "beginner"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pypi"
+product = "beginner"
+target_software = "pypi"
+

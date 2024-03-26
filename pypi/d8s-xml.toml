@@ -1,0 +1,8 @@
+name = "d8s-xml"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "democritus"
+product = "d8s-xml"
+target_software = "python"
+

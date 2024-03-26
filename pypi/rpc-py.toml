@@ -1,0 +1,7 @@
+name = "rpc-py"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "rpc.py_project"
+product = "rpc.py"
+

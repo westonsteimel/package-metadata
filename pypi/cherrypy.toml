@@ -1,0 +1,7 @@
+name = "cherrypy"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "cherrypy"
+product = "cherrypy"
+

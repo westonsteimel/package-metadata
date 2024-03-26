@@ -1,0 +1,7 @@
+name = "loggerhead"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "michael_hudson-doyle"
+product = "loggerhead"
+

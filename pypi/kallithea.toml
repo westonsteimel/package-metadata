@@ -1,0 +1,7 @@
+name = "kallithea"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "kallithea-scm"
+product = "kallithea"
+

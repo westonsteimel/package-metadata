@@ -1,0 +1,7 @@
+name = "products-cmfcore"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "zope"
+product = "products.cmfcore"
+

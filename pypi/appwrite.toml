@@ -1,0 +1,7 @@
+name = "appwrite"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "appwrite"
+product = "command_line_interface"
+

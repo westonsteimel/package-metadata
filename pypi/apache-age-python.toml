@@ -1,0 +1,8 @@
+name = "apache-age-python"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "age"
+target_software = "postgresql"
+

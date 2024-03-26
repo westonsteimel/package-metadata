@@ -1,0 +1,7 @@
+name = "url-regex"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "url-regex_project"
+product = "url-regex"
+

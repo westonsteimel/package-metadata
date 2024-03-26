@@ -1,0 +1,8 @@
+name = "loguru"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "loguru_project"
+product = "loguru"
+target_software = "python"
+

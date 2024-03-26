@@ -1,0 +1,8 @@
+name = "pytorch-lightning"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pytorchlightning"
+product = "pytorch_lightning"
+target_software = "python"
+

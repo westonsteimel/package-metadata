@@ -1,0 +1,7 @@
+name = "openslides"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "openslides"
+product = "openslides"
+

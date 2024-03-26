@@ -1,0 +1,7 @@
+name = "irrd"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "internet_routing_registry_daemon_project"
+product = "internet_routing_registry_daemon"
+

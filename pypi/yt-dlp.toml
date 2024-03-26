@@ -1,0 +1,7 @@
+name = "yt-dlp"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "yt-dlp_project"
+product = "yt-dlp"
+

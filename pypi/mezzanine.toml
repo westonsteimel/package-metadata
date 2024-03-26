@@ -1,0 +1,7 @@
+name = "mezzanine"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "jupo"
+product = "mezzanine"
+

@@ -1,0 +1,8 @@
+name = "case-utils"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "lfprojects"
+product = "case_python_utilities"
+target_software = "python"
+

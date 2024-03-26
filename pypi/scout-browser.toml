@@ -1,0 +1,7 @@
+name = "scout-browser"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "clinical-genomics"
+product = "scout"
+

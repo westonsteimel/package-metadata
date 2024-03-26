@@ -1,0 +1,7 @@
+name = "ai-flow"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "flink-extended"
+product = "aiflow"
+

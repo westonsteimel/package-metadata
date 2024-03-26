@@ -1,0 +1,7 @@
+name = "arrayfire"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "arrayfire"
+product = "arrayfire"
+

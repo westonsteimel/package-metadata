@@ -1,0 +1,8 @@
+name = "jw-util"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "python"
+product = "jw.util"
+target_software = "python"
+

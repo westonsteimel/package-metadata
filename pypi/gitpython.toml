@@ -1,0 +1,8 @@
+name = "gitpython"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "gitpython_project"
+product = "gitpython"
+target_software = "python"
+

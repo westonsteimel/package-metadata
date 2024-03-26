@@ -1,4 +1,4 @@
-name = "Jinja2"
+name = "jinja2"
 ecosystem = "pypi"
 source = "https://github.com/pallets/jinja"
 
@@ -9,3 +9,4 @@ product = "jinja"
 [[cpe_configurations]]
 vendor = "pocoo"
 product = "jinja2"
+

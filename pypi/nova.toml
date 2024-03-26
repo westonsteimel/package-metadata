@@ -1,8 +1,43 @@
 name = "nova"
 ecosystem = "pypi"
 source = "https://opendev.org/openstack/nova"
-
 [[cpe_configurations]]
 vendor = "openstack"
 product = "nova"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "havana"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "compute"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "essex"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "folsom"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "cinder"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "glance"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openstack"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "icehouse"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openstack_platform"
 

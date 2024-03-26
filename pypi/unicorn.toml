@@ -1,0 +1,7 @@
+name = "unicorn"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "unicorn-engine"
+product = "unicorn_engine"
+

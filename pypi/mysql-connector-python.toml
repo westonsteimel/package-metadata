@@ -1,7 +1,24 @@
-name = "mysql-connector"
+name = "mysql-connector-python"
 ecosystem = "pypi"
-
 [[cpe_configurations]]
 vendor = "oracle"
-product = "mysql_connector\\/python"
+product = "mysql_connectors"
+
+[[cpe_configurations]]
+vendor = "netapp"
+product = "active_iq_unified_manager"
+target_software = "windows"
+
+[[cpe_configurations]]
+vendor = "netapp"
+product = "active_iq_unified_manager"
+target_software = "vsphere"
+
+[[cpe_configurations]]
+vendor = "netapp"
+product = "oncommand_workflow_automation"
+
+[[cpe_configurations]]
+vendor = "netapp"
+product = "snapcenter"
 

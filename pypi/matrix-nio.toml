@@ -1,0 +1,7 @@
+name = "matrix-nio"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "matrix-nio_project"
+product = "matrix-nio"
+

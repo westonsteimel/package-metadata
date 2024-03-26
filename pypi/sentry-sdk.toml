@@ -1,0 +1,8 @@
+name = "sentry-sdk"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "sentry"
+product = "sentry_software_development_kit"
+target_software = "python"
+

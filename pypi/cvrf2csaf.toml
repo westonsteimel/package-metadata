@@ -1,0 +1,7 @@
+name = "cvrf2csaf"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "cvrf-csaf-converter_project"
+product = "cvrf-csaf-converter"
+

@@ -1,0 +1,7 @@
+name = "azure-cli"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "azure_command-line_interface"
+

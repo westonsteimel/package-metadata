@@ -1,0 +1,7 @@
+name = "mangadex-downloader"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "mangadex-downloader_project"
+product = "mangadex-downloader"
+

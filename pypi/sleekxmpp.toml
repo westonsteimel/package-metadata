@@ -1,7 +1,15 @@
 name = "sleekxmpp"
 ecosystem = "pypi"
 source = "https://github.com/fritzy/SleekXMPP"
-
 [[cpe_configurations]]
 vendor = "sleekxmpp_project"
 product = "sleekxmpp"
+
+[[cpe_configurations]]
+vendor = "slixmpp_project"
+product = "slixmpp"
+
+[[cpe_configurations]]
+vendor = "poezio"
+product = "poezio"
+

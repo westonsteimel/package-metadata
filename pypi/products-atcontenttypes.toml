@@ -1,0 +1,7 @@
+name = "products-atcontenttypes"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "plone"
+product = "plone"
+

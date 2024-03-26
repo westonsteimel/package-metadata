@@ -1,0 +1,7 @@
+name = "git-url-parse"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "coala"
+product = "git-url-parse"
+

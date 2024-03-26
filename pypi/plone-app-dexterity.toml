@@ -1,0 +1,11 @@
+name = "plone-app-dexterity"
+ecosystem = "pypi"
+source = "https://github.com/plone/plone.app.dexterity"
+
+[[cpe_configurations]]
+vendor = "plone"
+product = "plone"
+
+[[cpe_configurations]]
+vendor = "plone"
+product = "plone_cms"

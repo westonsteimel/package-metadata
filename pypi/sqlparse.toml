@@ -1,8 +1,12 @@
 name = "sqlparse"
 ecosystem = "pypi"
 source = "https://github.com/andialbrecht/sqlparse"
+[[cpe_configurations]]
+vendor = "sqlparse_project"
+product = "sqlparse"
 
 [[cpe_configurations]]
 vendor = "sqlparse_project"
 product = "sqlparse"
+target_software = "python"
 

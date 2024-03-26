@@ -1,0 +1,7 @@
+name = "ganga"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "ganga_project"
+product = "ganga"
+

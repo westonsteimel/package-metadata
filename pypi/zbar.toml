@@ -1,0 +1,7 @@
+name = "zbar"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "zbar_project"
+product = "zbar"
+

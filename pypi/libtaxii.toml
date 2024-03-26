@@ -1,8 +1,11 @@
 name = "libtaxii"
 ecosystem = "pypi"
 source = "https://github.com/TAXIIProject/libtaxii/"
-
 [[cpe_configurations]]
 vendor = "libtaxii_project"
 product = "libtaxii"
+
+[[cpe_configurations]]
+vendor = "eclecticiq"
+product = "opentaxii"
 

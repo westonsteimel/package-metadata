@@ -1,0 +1,7 @@
+name = "pymdown-extensions"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pymdown_extensions_project"
+product = "pymdown_extensions"
+

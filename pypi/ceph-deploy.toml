@@ -1,0 +1,7 @@
+name = "ceph-deploy"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "ceph"
+product = "ceph-deploy"
+

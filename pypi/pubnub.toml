@@ -1,0 +1,7 @@
+name = "pubnub"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pubnub"
+product = "python"
+

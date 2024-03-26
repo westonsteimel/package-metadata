@@ -1,0 +1,8 @@
+name = "cryptoasset-data-downloader"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pypi"
+product = "cryptoasset-data-downloader"
+target_software = "pypi"
+

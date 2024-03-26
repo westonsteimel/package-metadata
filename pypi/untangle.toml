@@ -1,0 +1,8 @@
+name = "untangle"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "untangle_project"
+product = "untangle"
+target_software = "python"
+

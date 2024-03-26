@@ -1,0 +1,8 @@
+name = "mechanize"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "mechanize_project"
+product = "mechanize"
+target_software = "python"
+

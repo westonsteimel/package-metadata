@@ -1,7 +1,6 @@
 name = "rsa"
 ecosystem = "pypi"
 source = "https://github.com/sybrenstuvel/python-rsa"
-
 [[cpe_configurations]]
 vendor = "python"
 product = "rsa"
@@ -9,4 +8,13 @@ product = "rsa"
 [[cpe_configurations]]
 vendor = "python-rsa_project"
 product = "python-rsa"
+
+[[cpe_configurations]]
+vendor = "python"
+product = "rsa"
+target_software = "python"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openstack_platform"
 

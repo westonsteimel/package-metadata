@@ -1,0 +1,7 @@
+name = "micropython-os"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "micropython"
+product = "micropython"
+

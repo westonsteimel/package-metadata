@@ -1,4 +1,4 @@
-name = "Twisted"
+name = "twisted"
 ecosystem = "pypi"
 source = "https://github.com/twisted/twisted"
 

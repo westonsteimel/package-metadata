@@ -1,0 +1,7 @@
+name = "mapproxy"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "omniscale"
+product = "mapproxy"
+

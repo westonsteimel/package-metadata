@@ -1,0 +1,8 @@
+name = "pyesasky"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "esa"
+product = "pyesasky"
+target_software = "python"
+

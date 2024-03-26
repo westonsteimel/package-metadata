@@ -1,0 +1,8 @@
+name = "cdo-local-uuid"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "lfprojects"
+product = "cdo_local_uuid_utility"
+target_software = "python"
+

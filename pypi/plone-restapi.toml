@@ -1,0 +1,8 @@
+name = "plone-restapi"
+ecosystem = "pypi"
+source = "https://github.com/plone/plone.restapi"
+
+[[cpe_configurations]]
+vendor = "plone"
+product = "plone"
+

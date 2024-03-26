@@ -1,0 +1,7 @@
+name = "mltable"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "azure_machine_learning_software_development_kit"
+

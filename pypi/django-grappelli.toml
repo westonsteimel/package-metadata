@@ -1,0 +1,7 @@
+name = "django-grappelli"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "vonautomatisch"
+product = "django_grappelli"
+

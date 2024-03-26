@@ -1,0 +1,7 @@
+name = "clearml"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "clear"
+product = "clearml"
+

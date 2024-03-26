@@ -1,8 +1,16 @@
 name = "tripleo-heat-templates"
 ecosystem = "pypi"
 source = "https://opendev.org/openstack/tripleo-heat-templates"
-
 [[cpe_configurations]]
 vendor = "openstack"
 product = "tripleo_heat_templates"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openstack"
+
+[[cpe_configurations]]
+vendor = "ceph"
+product = "ceph"
+target_software = "openstack"
 

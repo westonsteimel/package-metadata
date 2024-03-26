@@ -1,0 +1,8 @@
+name = "exotel"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "exotel_project"
+product = "exotel"
+target_software = "python"
+

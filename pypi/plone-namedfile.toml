@@ -1,0 +1,8 @@
+name = "plone-namedfile"
+ecosystem = "pypi"
+source = "https://github.com/plone/plone.namedfile"
+
+[[cpe_configurations]]
+vendor = "plone"
+product = "namedfile"
+

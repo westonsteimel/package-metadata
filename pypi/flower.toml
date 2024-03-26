@@ -1,0 +1,7 @@
+name = "flower"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "flower_project"
+product = "flower"
+

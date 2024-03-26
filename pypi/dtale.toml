@@ -1,0 +1,7 @@
+name = "dtale"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "man"
+product = "d-tale"
+

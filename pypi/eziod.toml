@@ -1,0 +1,8 @@
+name = "eziod"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "eziod_project"
+product = "eziod"
+target_software = "pypi"
+

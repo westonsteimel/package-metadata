@@ -1,0 +1,11 @@
+name = "plone-supermodel"
+ecosystem = "pypi"
+source = "https://github.com/plone/plone.supermodel"
+
+[[cpe_configurations]]
+vendor = "plone"
+product = "plone"
+
+[[cpe_configurations]]
+vendor = "plone"
+product = "plone_cms"

@@ -1,0 +1,7 @@
+name = "safeurl-python"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "includesecurity"
+product = "safeurl-python"
+

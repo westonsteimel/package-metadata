@@ -1,0 +1,8 @@
+name = "json2xml"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "vinitkumar"
+product = "json2xml"
+target_software = "python"
+

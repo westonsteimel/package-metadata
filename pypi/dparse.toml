@@ -1,0 +1,7 @@
+name = "dparse"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pyup"
+product = "dependency_parser"
+

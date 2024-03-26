@@ -1,4 +1,4 @@
-name = "Beaker"
+name = "beaker"
 ecosystem = "pypi"
 source = "https://github.com/bbangert/beaker"
 

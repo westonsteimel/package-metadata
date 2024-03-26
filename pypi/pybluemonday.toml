@@ -1,7 +1,6 @@
 name = "pybluemonday"
 ecosystem = "pypi"
 source = "https://github.com/ColdHeat/pybluemonday"
-
 [[cpe_configurations]]
 vendor = "pybluemonday_project"
 product = "pybluemonday"
@@ -9,3 +8,9 @@ product = "pybluemonday"
 [[cpe_configurations]]
 vendor = "python"
 product = "pybluemonday"
+
+[[cpe_configurations]]
+vendor = "microco"
+product = "bluemonday"
+target_software = "go"
+

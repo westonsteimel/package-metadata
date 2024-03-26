@@ -1,0 +1,7 @@
+name = "tink"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "google"
+product = "tink"
+

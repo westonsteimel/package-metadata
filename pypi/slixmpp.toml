@@ -1,8 +1,15 @@
 name = "slixmpp"
 ecosystem = "pypi"
 source = "https://lab.louiz.org/poezio/slixmpp"
-
 [[cpe_configurations]]
 vendor = "slixmpp_project"
 product = "slixmpp"
+
+[[cpe_configurations]]
+vendor = "sleekxmpp_project"
+product = "sleekxmpp"
+
+[[cpe_configurations]]
+vendor = "poezio"
+product = "poezio"
 

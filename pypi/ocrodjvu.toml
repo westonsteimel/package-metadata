@@ -1,0 +1,7 @@
+name = "ocrodjvu"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "jwilk"
+product = "ocrodjvu"
+

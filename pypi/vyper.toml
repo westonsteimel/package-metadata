@@ -1,8 +1,16 @@
 name = "vyper"
 ecosystem = "pypi"
 source = "https://github.com/vyperlang/vyper"
-
 [[cpe_configurations]]
 vendor = "vyper_project"
 product = "vyper"
+
+[[cpe_configurations]]
+vendor = "vyperlang"
+product = "vyper"
+
+[[cpe_configurations]]
+vendor = "vyperlang"
+product = "vyper"
+target_software = "python"
 

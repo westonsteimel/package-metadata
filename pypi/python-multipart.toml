@@ -1,0 +1,7 @@
+name = "python-multipart"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "andrew-d"
+product = "python-multipart"
+

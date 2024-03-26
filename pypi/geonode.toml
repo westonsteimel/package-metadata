@@ -1,0 +1,7 @@
+name = "geonode"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "geosolutionsgroup"
+product = "geonode"
+

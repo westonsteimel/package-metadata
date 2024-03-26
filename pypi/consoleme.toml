@@ -1,0 +1,7 @@
+name = "consoleme"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "netflix"
+product = "consoleme"
+

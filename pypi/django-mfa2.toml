@@ -1,0 +1,7 @@
+name = "django-mfa2"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "django-mfa2_project"
+product = "django-mfa2"
+

@@ -1,0 +1,7 @@
+name = "pyarchery"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "archerysec"
+product = "archery"
+

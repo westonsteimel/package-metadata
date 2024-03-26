@@ -1,0 +1,7 @@
+name = "openstack-magnum"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "magnum"
+

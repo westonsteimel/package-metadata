@@ -1,0 +1,7 @@
+name = "codechecker"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "ericsson"
+product = "codechecker"
+

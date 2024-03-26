@@ -1,0 +1,8 @@
+name = "global-workqueue"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "global-workqueue_project"
+product = "global-workqueue"
+target_software = "python"
+

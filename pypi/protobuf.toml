@@ -1,8 +1,41 @@
 name = "protobuf"
 ecosystem = "pypi"
 source = "https://github.com/protocolbuffers/protobuf"
-
 [[cpe_configurations]]
 vendor = "google"
 product = "protobuf"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "mysql"
+
+[[cpe_configurations]]
+vendor = "netapp"
+product = "active_iq_unified_manager"
+target_software = "vmware_vsphere"
+
+[[cpe_configurations]]
+vendor = "netapp"
+product = "active_iq_unified_manager"
+target_software = "windows"
+
+[[cpe_configurations]]
+vendor = "netapp"
+product = "oncommand_insight"
+
+[[cpe_configurations]]
+vendor = "netapp"
+product = "oncommand_workflow_automation"
+
+[[cpe_configurations]]
+vendor = "netapp"
+product = "snapcenter"
+
+[[cpe_configurations]]
+vendor = "google"
+product = "protobuf-cpp"
+
+[[cpe_configurations]]
+vendor = "google"
+product = "protobuf-python"
 

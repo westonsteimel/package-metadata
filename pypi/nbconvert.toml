@@ -1,0 +1,8 @@
+name = "nbconvert"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "jupyter"
+product = "nbconvert"
+target_software = "python"
+

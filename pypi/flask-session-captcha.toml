@@ -1,0 +1,6 @@
+name = "flask-session-captcha"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "flask-session-captcha_project"
+product = "flask-session-captcha"
+

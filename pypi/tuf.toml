@@ -1,8 +1,12 @@
 name = "tuf"
 ecosystem = "pypi"
 source = "https://github.com/theupdateframework/tuf"
-
 [[cpe_configurations]]
 vendor = "linuxfoundation"
 product = "the_update_framework"
+
+[[cpe_configurations]]
+vendor = "amazon"
+product = "tough"
+target_software = "rust"
 

@@ -1,0 +1,7 @@
+name = "dash-core-components"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "plotly"
+product = "dash"
+

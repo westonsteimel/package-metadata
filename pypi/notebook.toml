@@ -1,7 +1,6 @@
 name = "notebook"
 ecosystem = "pypi"
 source = "https://github.com/jupyter/notebook"
-
 [[cpe_configurations]]
 vendor = "jupyter"
 product = "notebook"
@@ -13,4 +12,12 @@ product = "ipython_notebook"
 [[cpe_configurations]]
 vendor = "ipython"
 product = "notebook"
+
+[[cpe_configurations]]
+vendor = "jupyter"
+product = "jupyterlab"
+
+[[cpe_configurations]]
+vendor = "jupyter"
+product = "jupyterhub"
 

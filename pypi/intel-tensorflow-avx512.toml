@@ -1,0 +1,7 @@
+name = "intel-tensorflow-avx512"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "intel"
+product = "optimization_for_tensorflow"
+

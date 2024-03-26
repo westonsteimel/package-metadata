@@ -1,0 +1,7 @@
+name = "mindsdb"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "mindsdb"
+product = "mindsdb"
+

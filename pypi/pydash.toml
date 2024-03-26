@@ -1,0 +1,7 @@
+name = "pydash"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "derrickgilland"
+product = "pydash"
+

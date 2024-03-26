@@ -9,3 +9,8 @@ product = "aiohttp"
 [[cpe_configurations]]
 vendor = "aio-libs_project"
 product = "aiohttp"
+
+[[cpe_configurations]]
+vendor = "aiohttp"
+product = "aiohttp"
+

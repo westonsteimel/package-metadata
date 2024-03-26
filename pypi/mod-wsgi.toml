@@ -1,0 +1,7 @@
+name = "mod-wsgi"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "modwsgi"
+product = "mod_wsgi"
+

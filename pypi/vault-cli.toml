@@ -1,0 +1,8 @@
+name = "vault-cli"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "vault-cli_project"
+product = "vault-cli"
+target_software = "python"
+

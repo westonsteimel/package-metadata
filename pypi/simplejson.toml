@@ -1,8 +1,16 @@
 name = "simplejson"
 ecosystem = "pypi"
 source = "https://github.com/simplejson/simplejson"
+[[cpe_configurations]]
+vendor = "simplejson_project"
+product = "simplejson"
+
+[[cpe_configurations]]
+vendor = "python"
+product = "python"
 
 [[cpe_configurations]]
 vendor = "simplejson_project"
 product = "simplejson"
+target_software = "python"
 

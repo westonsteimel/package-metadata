@@ -1,0 +1,7 @@
+name = "django-s3file"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "django-s3file_project"
+product = "django-s3file"
+

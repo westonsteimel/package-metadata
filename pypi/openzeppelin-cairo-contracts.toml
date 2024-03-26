@@ -1,0 +1,8 @@
+name = "openzeppelin-cairo-contracts"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "openzeppelin"
+product = "contracts"
+target_software = "cairo"
+

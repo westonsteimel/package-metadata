@@ -1,8 +1,11 @@
 name = "mako"
 ecosystem = "pypi"
 source = "https://github.com/sqlalchemy/mako"
-
 [[cpe_configurations]]
 vendor = "makotemplates"
+product = "mako"
+
+[[cpe_configurations]]
+vendor = "sqlalchemy"
 product = "mako"
 

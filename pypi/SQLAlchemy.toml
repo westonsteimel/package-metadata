@@ -1,4 +1,4 @@
-name = "SQLAlchemy"
+name = "sqlalchemy"
 ecosystem = "pypi"
 source = "https://github.com/sqlalchemy/sqlalchemy"
 

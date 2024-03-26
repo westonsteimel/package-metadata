@@ -1,0 +1,7 @@
+name = "piccolo"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "piccolo-orm"
+product = "piccolo"
+

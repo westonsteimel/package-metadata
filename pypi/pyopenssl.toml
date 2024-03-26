@@ -1,7 +1,6 @@
 name = "pyopenssl"
 ecosystem = "pypi"
 source = "https://github.com/pyca/pyopenssl"
-
 [[cpe_configurations]]
 vendor = "pyopenssl"
 product = "pyopenssl"
@@ -13,3 +12,12 @@ product = "pyopenssl"
 [[cpe_configurations]]
 vendor = "jean-paul_calderone"
 product = "pyopenssl"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openstack"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "gluster_storage"
+

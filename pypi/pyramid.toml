@@ -1,0 +1,8 @@
+name = "pyramid"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "agendaless"
+product = "pyramid"
+target_software = "python"
+

@@ -1,0 +1,7 @@
+name = "srp"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pysrp_project"
+product = "pysrp"
+

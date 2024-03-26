@@ -1,0 +1,8 @@
+name = "pycrowdtangle"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pycrowdtangle_project"
+product = "pycrowdtangle"
+target_software = "pypi"
+

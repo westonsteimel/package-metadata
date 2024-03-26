@@ -1,4 +1,4 @@
-name = "Zope"
+name = "zope"
 ecosystem = "pypi"
 source = "https://github.com/zopefoundation/Zope"
 

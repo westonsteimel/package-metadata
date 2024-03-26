@@ -1,0 +1,7 @@
+name = "cleo"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "python-poetry"
+product = "cleo"
+

@@ -1,8 +1,19 @@
 name = "opencv-python"
 ecosystem = "pypi"
 source = "https://github.com/skvark/opencv-python"
-
 [[cpe_configurations]]
 vendor = "opencv"
 product = "opencv"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "application_testing_suite"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "big_data_spatial_and_graph"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "enterprise_manager_base_platform"
 

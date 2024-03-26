@@ -1,0 +1,8 @@
+name = "requests-xml"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "requests-xml_project"
+product = "requests-xml"
+target_software = "python"
+

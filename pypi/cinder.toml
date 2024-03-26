@@ -9,3 +9,4 @@ product = "openstack-cinder"
 [[cpe_configurations]]
 vendor = "openstack"
 product = "cinder"
+

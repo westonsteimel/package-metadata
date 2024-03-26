@@ -1,0 +1,7 @@
+name = "mlflow"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "lfprojects"
+product = "mlflow"
+

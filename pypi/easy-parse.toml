@@ -1,0 +1,8 @@
+name = "easy-parse"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "easy-parse_project"
+product = "easy-parse"
+target_software = "python"
+

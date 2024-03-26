@@ -1,8 +1,11 @@
 name = "saleor"
 ecosystem = "pypi"
 source = "https://github.com/mirumee/saleor"
-
 [[cpe_configurations]]
 vendor = "mirumee"
+product = "saleor"
+
+[[cpe_configurations]]
+vendor = "saleor"
 product = "saleor"
 

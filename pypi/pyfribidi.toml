@@ -1,0 +1,7 @@
+name = "pyfribidi"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "fribidi"
+product = "pyfribidi"
+

@@ -1,0 +1,7 @@
+name = "pyminizip"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "zlib"
+product = "zlib"
+

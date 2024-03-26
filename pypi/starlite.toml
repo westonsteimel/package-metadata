@@ -1,0 +1,7 @@
+name = "starlite"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "starliteproject"
+product = "starlite"
+

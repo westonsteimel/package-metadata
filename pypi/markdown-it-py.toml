@@ -1,0 +1,7 @@
+name = "markdown-it-py"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "executablebooks"
+product = "markdown-it-py"
+

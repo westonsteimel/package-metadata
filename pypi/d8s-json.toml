@@ -1,0 +1,8 @@
+name = "d8s-json"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "democritus"
+product = "d8s-json"
+target_software = "python"
+

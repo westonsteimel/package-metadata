@@ -1,0 +1,7 @@
+name = "django-photologue"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "django-photologue_project"
+product = "django-photologue"
+

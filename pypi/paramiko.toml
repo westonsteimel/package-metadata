@@ -1,7 +1,6 @@
 name = "paramiko"
 ecosystem = "pypi"
 source = "https://github.com/paramiko/paramiko/"
-
 [[cpe_configurations]]
 vendor = "paramiko"
 product = "paramiko"
@@ -9,4 +8,255 @@ product = "paramiko"
 [[cpe_configurations]]
 vendor = "python_software_foundation"
 product = "paramiko"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "ansible_engine"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "cloudforms"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "virtualization"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "ansible_tower"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "virtualization_host"
+
+[[cpe_configurations]]
+vendor = "openbsd"
+product = "openssh"
+
+[[cpe_configurations]]
+vendor = "putty"
+product = "putty"
+
+[[cpe_configurations]]
+vendor = "filezilla-project"
+product = "filezilla_client"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "powershell"
+
+[[cpe_configurations]]
+vendor = "panic"
+product = "transmit_5"
+
+[[cpe_configurations]]
+vendor = "panic"
+product = "nova"
+
+[[cpe_configurations]]
+vendor = "roumenpetrov"
+product = "pkixssh"
+
+[[cpe_configurations]]
+vendor = "winscp"
+product = "winscp"
+
+[[cpe_configurations]]
+vendor = "bitvise"
+product = "ssh_client"
+
+[[cpe_configurations]]
+vendor = "bitvise"
+product = "ssh_server"
+
+[[cpe_configurations]]
+vendor = "vandyke"
+product = "securecrt"
+
+[[cpe_configurations]]
+vendor = "libssh"
+product = "libssh"
+
+[[cpe_configurations]]
+vendor = "net-ssh"
+product = "net-ssh"
+target_software = "ruby"
+
+[[cpe_configurations]]
+vendor = "ssh2_project"
+product = "ssh2"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "proftpd"
+product = "proftpd"
+
+[[cpe_configurations]]
+vendor = "crates"
+product = "thrussh"
+
+[[cpe_configurations]]
+vendor = "tera_term_project"
+product = "tera_term"
+
+[[cpe_configurations]]
+vendor = "oryx-embedded"
+product = "cyclone_ssh"
+
+[[cpe_configurations]]
+vendor = "crushftp"
+product = "crushftp"
+
+[[cpe_configurations]]
+vendor = "netsarang"
+product = "xshell_7"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openshift_container_platform"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openstack_platform"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "ceph_storage"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openshift_serverless"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openshift_gitops"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openshift_pipelines"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openshift_developer_tools_and_services"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openshift_data_foundation"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openshift_api_for_data_protection"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openshift_virtualization"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "storage"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "discovery"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openshift_dev_spaces"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "cert-manager_operator_for_red_hat_openshift"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "keycloak"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "jboss_enterprise_application_platform"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "single_sign-on"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "advanced_cluster_security"
+
+[[cpe_configurations]]
+vendor = "golang"
+product = "crypto"
+
+[[cpe_configurations]]
+vendor = "russh_project"
+product = "russh"
+target_software = "rust"
+
+[[cpe_configurations]]
+vendor = "sftpgo_project"
+product = "sftpgo"
+
+[[cpe_configurations]]
+vendor = "erlang"
+product = "erlang\\/otp"
+
+[[cpe_configurations]]
+vendor = "matez"
+product = "jsch"
+
+[[cpe_configurations]]
+vendor = "libssh2"
+product = "libssh2"
+
+[[cpe_configurations]]
+vendor = "asyncssh_project"
+product = "asyncssh"
+
+[[cpe_configurations]]
+vendor = "dropbear_ssh_project"
+product = "dropbear_ssh"
+
+[[cpe_configurations]]
+vendor = "jadaptive"
+product = "maverick_synergy_java_ssh_api"
+
+[[cpe_configurations]]
+vendor = "ssh"
+product = "ssh"
+
+[[cpe_configurations]]
+vendor = "netgate"
+product = "pfsense_plus"
+
+[[cpe_configurations]]
+vendor = "netgate"
+product = "pfsense_ce"
+
+[[cpe_configurations]]
+vendor = "connectbot"
+product = "sshlib"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "sshd"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "sshj"
+
+[[cpe_configurations]]
+vendor = "tinyssh"
+product = "tinyssh"
+
+[[cpe_configurations]]
+vendor = "trilead"
+product = "ssh2"
+
+[[cpe_configurations]]
+vendor = "kitty_project"
+product = "kitty"
+
+[[cpe_configurations]]
+vendor = "gentoo"
+product = "security"
 

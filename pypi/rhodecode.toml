@@ -1,0 +1,7 @@
+name = "rhodecode"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "rhodecode"
+product = "rhodecode_enterprise"
+

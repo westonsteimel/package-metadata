@@ -1,0 +1,7 @@
+name = "vncauthproxy"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "osuosl"
+product = "twisted_vnc_authentication_proxy"
+

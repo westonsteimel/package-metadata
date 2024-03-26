@@ -1,0 +1,7 @@
+name = "guake"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "guake-project"
+product = "guake"
+

@@ -1,0 +1,7 @@
+name = "jupyter-server-proxy"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "jupyter"
+product = "jupyter_server_proxy"
+

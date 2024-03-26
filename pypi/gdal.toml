@@ -1,0 +1,7 @@
+name = "gdal"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "osgeo"
+product = "gdal"
+

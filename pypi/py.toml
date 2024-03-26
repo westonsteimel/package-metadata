@@ -1,8 +1,11 @@
 name = "py"
 ecosystem = "pypi"
 source = "https://github.com/pytest-dev/py"
-
 [[cpe_configurations]]
 vendor = "pytest"
 product = "py"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "zfs_storage_appliance_kit"
 

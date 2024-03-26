@@ -1,9 +1,18 @@
 name = "nbdime"
 ecosystem = "pypi"
 source = "https://github.com/jupyter/nbdime"
-
 [[cpe_configurations]]
 vendor = "jupyter"
 product = "nbdime"
 target_software = "python"
+
+[[cpe_configurations]]
+vendor = "jupyter"
+product = "nbdime"
+target_software = "node.js"
+
+[[cpe_configurations]]
+vendor = "jupyter"
+product = "nbdime-jupyterlab"
+target_software = "node.js"
 

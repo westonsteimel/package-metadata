@@ -1,0 +1,7 @@
+name = "apache-submarine"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "submarine"
+

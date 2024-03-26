@@ -1,8 +1,11 @@
 name = "supervisor"
 ecosystem = "pypi"
 source = "https://github.com/Supervisor/supervisor"
-
 [[cpe_configurations]]
 vendor = "supervisord"
 product = "supervisor"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "cloudforms"
 

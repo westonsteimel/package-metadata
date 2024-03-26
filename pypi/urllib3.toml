@@ -1,8 +1,27 @@
 name = "urllib3"
 ecosystem = "pypi"
 source = "https://github.com/urllib3/urllib3"
-
 [[cpe_configurations]]
 vendor = "python"
 product = "urllib3"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "peoplesoft_enterprise_peopletools"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "communications_cloud_native_core_network_function_cloud_native_environment"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "zfs_storage_appliance_kit"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "enterprise_manager_ops_center"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "instantis_enterprisetrack"
 

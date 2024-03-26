@@ -1,4 +1,4 @@
-name = "Plone"
+name = "plone"
 ecosystem = "pypi"
 source = "https://github.com/plone/plone"
 
@@ -9,3 +9,4 @@ product = "plone"
 [[cpe_configurations]]
 vendor = "plone"
 product = "plone_cms"
+

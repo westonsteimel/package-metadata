@@ -4,5 +4,8 @@ source = "https://opendev.org/openstack/python-keystoneclient"
 
 [[cpe_configurations]]
 vendor = "openstack"
-product = "keystone"
+product = "python-keystoneclient"
 
+[[cpe_configurations]]
+vendor = "openstack"
+product = "keystone"

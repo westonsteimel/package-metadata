@@ -1,4 +1,4 @@
-name = "Flask"
+name = "flask"
 ecosystem = "pypi"
 source = "https://github.com/pallets/flask"
 

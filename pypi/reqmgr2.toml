@@ -1,0 +1,8 @@
+name = "reqmgr2"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "reqmgr2_project"
+product = "reqmgr2"
+target_software = "python"
+

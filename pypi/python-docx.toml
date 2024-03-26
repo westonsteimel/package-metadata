@@ -1,8 +1,11 @@
 name = "python-docx"
 ecosystem = "pypi"
 source = "https://github.com/python-openxml/python-docx"
-
 [[cpe_configurations]]
 vendor = "python-openxml"
+product = "python-docx"
+
+[[cpe_configurations]]
+vendor = "python-openxml_project"
 product = "python-docx"
 

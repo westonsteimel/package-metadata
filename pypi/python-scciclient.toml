@@ -1,0 +1,8 @@
+name = "python-scciclient"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "python-scciclient_project"
+product = "python-scciclient"
+target_software = "python"
+

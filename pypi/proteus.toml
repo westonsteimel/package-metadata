@@ -1,0 +1,10 @@
+name = "proteus"
+ecosystem = "pypi"
+[[cpe_configurations]]
+vendor = "tryton"
+product = "proteus"
+
+[[cpe_configurations]]
+vendor = "tryton"
+product = "trytond"
+

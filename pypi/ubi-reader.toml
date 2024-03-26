@@ -1,0 +1,7 @@
+name = "ubi-reader"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "ubi_reader_project"
+product = "ubi_reader"
+

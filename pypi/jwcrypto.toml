@@ -1,0 +1,7 @@
+name = "jwcrypto"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "jwcrypto_project"
+product = "jwcrypto"
+

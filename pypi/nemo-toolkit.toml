@@ -1,0 +1,7 @@
+name = "nemo-toolkit"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "nvidia"
+product = "nemo"
+

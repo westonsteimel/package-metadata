@@ -1,0 +1,7 @@
+name = "pretix"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "rami"
+product = "pretix"
+

@@ -1,0 +1,7 @@
+name = "marcador"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "joajfreitas"
+product = "marcador"
+

@@ -1,0 +1,7 @@
+name = "pykerberos"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "apple"
+product = "pykerberos"
+

@@ -1,8 +1,11 @@
 name = "numpy"
 ecosystem = "pypi"
 source = "https://github.com/numpy/numpy"
-
 [[cpe_configurations]]
 vendor = "numpy"
 product = "numpy"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "communications_cloud_native_core_policy"
 

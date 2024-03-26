@@ -1,0 +1,8 @@
+name = "opcua"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "opcua_project"
+product = "opcua"
+target_software = "python"
+

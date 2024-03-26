@@ -9,4 +9,3 @@ product = "ironic_inspector"
 [[cpe_configurations]]
 vendor = "openstack"
 product = "ironic-inspector"
-

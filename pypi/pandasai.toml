@@ -1,0 +1,8 @@
+name = "pandasai"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "gabrieleventuri"
+product = "pandasai"
+target_software = "python"
+

@@ -1,0 +1,7 @@
+name = "binwalk"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "binwalk"
+

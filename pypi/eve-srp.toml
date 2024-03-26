@@ -1,0 +1,7 @@
+name = "eve-srp"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "eve_ship_replacement_program_project"
+product = "eve_ship_replacement_program"
+

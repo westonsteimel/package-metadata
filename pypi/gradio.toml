@@ -1,0 +1,8 @@
+name = "gradio"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "gradio_project"
+product = "gradio"
+target_software = "python"
+

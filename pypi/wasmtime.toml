@@ -1,7 +1,12 @@
 name = "wasmtime"
 ecosystem = "pypi"
 source = "https://github.com/bytecodealliance/wasmtime-py"
-
 [[cpe_configurations]]
 vendor = "bytecodealliance"
 product = "wasmtime"
+
+[[cpe_configurations]]
+vendor = "bytecodealliance"
+product = "cranelift-codegen"
+target_software = "rust"
+

@@ -1,0 +1,7 @@
+name = "collective-contact-widget"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "collective.contact.widget_project"
+product = "collective.contact.widget"
+

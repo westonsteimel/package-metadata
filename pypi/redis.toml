@@ -1,0 +1,7 @@
+name = "redis"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "redis"
+product = "redis-py"
+

@@ -1,0 +1,7 @@
+name = "psiturk"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "psiturk"
+product = "psiturk"
+

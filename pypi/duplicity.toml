@@ -1,0 +1,7 @@
+name = "duplicity"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "duplicity_project"
+product = "duplicity"
+

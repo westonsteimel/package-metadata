@@ -1,7 +1,6 @@
 name = "tensorflow-cpu"
 ecosystem = "pypi"
 source = "https://github.com/tensorflow/tensorflow"
-
 [[cpe_configurations]]
 vendor = "tensorflow"
 product = "tensorflow"
@@ -9,3 +8,8 @@ product = "tensorflow"
 [[cpe_configurations]]
 vendor = "google"
 product = "tensorflow"
+
+[[cpe_configurations]]
+vendor = "google"
+product = "snappy"
+

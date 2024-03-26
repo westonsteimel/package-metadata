@@ -1,8 +1,15 @@
 name = "trytond"
 ecosystem = "pypi"
 source = "https://hg.tryton.org/trytond"
-
 [[cpe_configurations]]
 vendor = "tryton"
 product = "trytond"
+
+[[cpe_configurations]]
+vendor = "tryton"
+product = "proteus"
+
+[[cpe_configurations]]
+vendor = "tryton"
+product = "tryton"
 

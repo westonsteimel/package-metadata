@@ -1,0 +1,13 @@
+name = "b2"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "backblaze"
+product = "b2_command_line_tool"
+target_software = "linux"
+
+[[cpe_configurations]]
+vendor = "backblaze"
+product = "b2_command_line_tool"
+target_software = "mac"
+

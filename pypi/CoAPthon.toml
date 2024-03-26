@@ -1,4 +1,4 @@
-name = "CoAPthon"
+name = "coapthon"
 ecosystem = "pypi"
 source = "https://github.com/Tanganelli/CoAPthon"
 

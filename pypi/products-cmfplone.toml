@@ -1,0 +1,8 @@
+name = "products-cmfplone"
+ecosystem = "pypi"
+source = "https://github.com/plone/Products.CMFPlone"
+
+[[cpe_configurations]]
+vendor = "plone"
+product = "plone"
+

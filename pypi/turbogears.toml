@@ -1,0 +1,7 @@
+name = "turbogears"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "turbogears_project"
+product = "turbogears"
+

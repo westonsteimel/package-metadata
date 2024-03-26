@@ -1,8 +1,21 @@
 name = "pycryptodome"
 ecosystem = "pypi"
 source = "https://github.com/Legrandin/pycryptodome"
-
 [[cpe_configurations]]
 vendor = "python"
 product = "pycryptodome"
+
+[[cpe_configurations]]
+vendor = "pycryptodome"
+product = "pycryptodome"
+
+[[cpe_configurations]]
+vendor = "pycryptodome"
+product = "pycryptodome"
+target_software = "python"
+
+[[cpe_configurations]]
+vendor = "pycryptodome"
+product = "pycryptodomex"
+target_software = "python"
 

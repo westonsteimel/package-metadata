@@ -1,0 +1,11 @@
+name = "sentry"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "functional"
+product = "sentry"
+
+[[cpe_configurations]]
+vendor = "sentry"
+product = "sentry"
+

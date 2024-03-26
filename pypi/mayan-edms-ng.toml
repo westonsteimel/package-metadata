@@ -1,0 +1,7 @@
+name = "mayan-edms-ng"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "mayan-edms"
+product = "mayan_edms"
+

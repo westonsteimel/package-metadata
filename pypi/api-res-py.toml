@@ -1,0 +1,7 @@
+name = "api-res-py"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "api-res-py_project"
+product = "api-res-py"
+

@@ -1,0 +1,7 @@
+name = "nova-lxd"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "nova-lxd"
+

@@ -1,8 +1,12 @@
-name = "Zope2"
+name = "zope2"
 ecosystem = "pypi"
 source = "https://github.com/zopefoundation/Zope"
 
 [[cpe_configurations]]
 vendor = "zope"
 product = "zope"
+
+[[cpe_configurations]]
+vendor = "plone"
+product = "plone"
 

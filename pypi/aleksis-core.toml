@@ -1,0 +1,7 @@
+name = "aleksis-core"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "aleksis"
+product = "aleksis"
+

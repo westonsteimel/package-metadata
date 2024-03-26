@@ -1,0 +1,8 @@
+name = "guarddog"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "datadoghq"
+product = "guarddog"
+target_software = "python"
+

@@ -1,0 +1,8 @@
+name = "wheel"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "wheel_project"
+product = "wheel"
+target_software = "python"
+

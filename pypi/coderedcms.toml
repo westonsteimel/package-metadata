@@ -1,0 +1,7 @@
+name = "coderedcms"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "wagtailcrx"
+product = "codered_extensions"
+

@@ -1,0 +1,7 @@
+name = "ryu"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "facuet"
+product = "ryu"
+

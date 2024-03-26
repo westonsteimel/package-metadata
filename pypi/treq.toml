@@ -1,0 +1,7 @@
+name = "treq"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "twistedmatrix"
+product = "treq"
+

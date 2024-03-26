@@ -1,0 +1,8 @@
+name = "rootinteractive"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pypi"
+product = "rootinteractive"
+target_software = "pypi"
+

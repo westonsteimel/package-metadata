@@ -1,0 +1,8 @@
+name = "flaskcode"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "sujeetkv"
+product = "flaskcode"
+target_software = "python"
+

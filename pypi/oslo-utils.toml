@@ -1,0 +1,7 @@
+name = "oslo-utils"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "oslo.utils"
+

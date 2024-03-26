@@ -1,0 +1,7 @@
+name = "python-jwt"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "python-jwt_project"
+product = "python-jwt"
+

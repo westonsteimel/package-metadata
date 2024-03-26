@@ -1,0 +1,7 @@
+name = "django-ajax-utilities"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "mobilevikings"
+product = "django_ajax_utilities"
+

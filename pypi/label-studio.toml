@@ -1,0 +1,11 @@
+name = "label-studio"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "heartex"
+product = "label_studio"
+
+[[cpe_configurations]]
+vendor = "humansignal"
+product = "label_studio"
+

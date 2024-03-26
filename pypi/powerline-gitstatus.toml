@@ -1,0 +1,7 @@
+name = "powerline-gitstatus"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "powerline_gitstatus_project"
+product = "powerline_gitstatus"
+

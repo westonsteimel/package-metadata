@@ -1,0 +1,8 @@
+name = "reqmon"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "reqmon_project"
+product = "reqmon"
+target_software = "python"
+

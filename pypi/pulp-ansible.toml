@@ -1,0 +1,7 @@
+name = "pulp-ansible"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pulpproject"
+product = "pulp_ansible"
+

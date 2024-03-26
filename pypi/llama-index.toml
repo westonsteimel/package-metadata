@@ -1,0 +1,12 @@
+name = "llama-index"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "llamaindex"
+product = "llamaindex"
+
+[[cpe_configurations]]
+vendor = "llamaindex_project"
+product = "llamaindex"
+target_software = "python"
+

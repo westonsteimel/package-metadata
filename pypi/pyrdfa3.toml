@@ -1,0 +1,8 @@
+name = "pyrdfa3"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pyrdfa3_project"
+product = "pyrdfa3"
+target_software = "python"
+

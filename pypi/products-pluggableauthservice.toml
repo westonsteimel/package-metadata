@@ -1,0 +1,8 @@
+name = "products-pluggableauthservice"
+ecosystem = "pypi"
+source = "https://github.com/zopefoundation/Products.PluggableAuthService"
+
+[[cpe_configurations]]
+vendor = "zope"
+product = "products.pluggableauthservice"
+

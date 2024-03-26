@@ -1,0 +1,7 @@
+name = "tuitse-tsusin"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "ithuan"
+product = "tuitse-tsusin"
+

@@ -1,0 +1,8 @@
+name = "plone-rest"
+ecosystem = "pypi"
+source = "https://github.com/plone/plone.rest"
+
+[[cpe_configurations]]
+vendor = "plone"
+product = "rest"
+

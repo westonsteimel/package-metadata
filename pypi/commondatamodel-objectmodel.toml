@@ -1,0 +1,8 @@
+name = "commondatamodel-objectmodel"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "microsoft"
+product = "common_data_model_sdk"
+target_software = "python"
+

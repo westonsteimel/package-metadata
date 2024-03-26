@@ -1,0 +1,8 @@
+name = "mage-ai"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "mage"
+product = "mage-ai"
+target_software = "python"
+

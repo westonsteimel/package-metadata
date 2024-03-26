@@ -1,0 +1,7 @@
+name = "deluge"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "deluge-torrent"
+product = "deluge"
+

@@ -1,0 +1,7 @@
+name = "mycli"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "dbcli"
+product = "mycli"
+

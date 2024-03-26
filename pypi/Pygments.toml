@@ -1,4 +1,4 @@
-name = "Pygments"
+name = "pygments"
 ecosystem = "pypi"
 source = "https://github.com/pygments/pygments"
 

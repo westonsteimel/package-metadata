@@ -1,0 +1,7 @@
+name = "weixin-python"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "wechat_sdk_python_project"
+product = "wechat_sdk_python"
+

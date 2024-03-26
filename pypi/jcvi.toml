@@ -1,0 +1,7 @@
+name = "jcvi"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "jcvi_project"
+product = "jcvi"
+

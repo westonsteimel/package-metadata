@@ -1,0 +1,7 @@
+name = "torbot"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "torbot_project"
+product = "torbot"
+

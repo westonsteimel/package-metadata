@@ -1,0 +1,7 @@
+name = "copyparty"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "copyparty_project"
+product = "copyparty"
+

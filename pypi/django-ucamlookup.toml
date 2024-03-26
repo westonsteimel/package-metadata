@@ -1,0 +1,7 @@
+name = "django-ucamlookup"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "django-ucamlookup_project"
+product = "django-ucamlookup"
+

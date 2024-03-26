@@ -1,0 +1,7 @@
+name = "fabric"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "fabfile"
+product = "fabric"
+

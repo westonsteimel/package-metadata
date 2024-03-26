@@ -1,0 +1,12 @@
+name = "certifi"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "kennethreitz"
+product = "certifi"
+target_software = "python"
+
+[[cpe_configurations]]
+vendor = "certifi_project"
+product = "certifi"
+

@@ -1,0 +1,11 @@
+name = "apache-airflow-providers-apache-sqoop"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "apache-airflow-providers-apache-sqoop"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "airflow_sqoop_provider"
+

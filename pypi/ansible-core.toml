@@ -1,0 +1,15 @@
+name = "ansible-core"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "ansible"
+product = "ansible"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "ansible"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "ansible_engine"
+

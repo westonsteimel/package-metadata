@@ -1,0 +1,11 @@
+name = "apache-iotdb"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "iotdb"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "iotdb_web_workbench"
+

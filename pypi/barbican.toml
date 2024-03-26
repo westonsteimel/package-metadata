@@ -1,0 +1,7 @@
+name = "barbican"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "barbican"
+

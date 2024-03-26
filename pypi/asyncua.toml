@@ -1,0 +1,13 @@
+name = "asyncua"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "freeopcua"
+product = "opcua-asyncio"
+target_software = "python"
+
+[[cpe_configurations]]
+vendor = "asyncua_project"
+product = "asyncua"
+target_software = "python"
+

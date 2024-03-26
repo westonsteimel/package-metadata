@@ -1,0 +1,7 @@
+name = "freetakserver"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "freetakserver-ui_project"
+product = "freetakserver-ui"
+

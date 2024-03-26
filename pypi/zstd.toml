@@ -1,0 +1,7 @@
+name = "zstd"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "facebook"
+product = "zstandard"
+

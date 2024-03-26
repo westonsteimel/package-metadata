@@ -1,0 +1,7 @@
+name = "apache-airflow-providers-amazon"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "apache-airflow-providers-amazon"
+

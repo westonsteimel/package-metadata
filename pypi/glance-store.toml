@@ -1,0 +1,7 @@
+name = "glance-store"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "openstack"
+product = "glacne_store"
+

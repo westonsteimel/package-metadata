@@ -1,0 +1,12 @@
+name = "snowflake-connector-python"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "snowflake"
+product = "snowflake_connector"
+target_software = "python"
+
+[[cpe_configurations]]
+vendor = "snowflake"
+product = "snowflake-connector-python"
+

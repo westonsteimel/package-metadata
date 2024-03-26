@@ -1,0 +1,7 @@
+name = "contentful"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "contentful"
+product = "python_example"
+

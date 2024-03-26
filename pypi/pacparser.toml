@@ -1,0 +1,7 @@
+name = "pacparser"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pacparser_project"
+product = "pacparser"
+

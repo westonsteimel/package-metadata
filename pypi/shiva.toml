@@ -1,0 +1,7 @@
+name = "shiva"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "shiva-server_project"
+product = "shiva-server"
+

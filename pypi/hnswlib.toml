@@ -1,0 +1,7 @@
+name = "hnswlib"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "hnswlib_project"
+product = "hnswlib"
+

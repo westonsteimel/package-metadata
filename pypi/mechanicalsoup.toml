@@ -1,0 +1,8 @@
+name = "mechanicalsoup"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "mechanicalsoup_project"
+product = "mechanicalsoup"
+target_software = "python"
+

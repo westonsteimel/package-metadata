@@ -1,0 +1,7 @@
+name = "jefferson"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "jefferson_project"
+product = "jefferson"
+

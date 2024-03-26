@@ -1,0 +1,8 @@
+name = "projen"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "projen_project"
+product = "projen"
+target_software = "python"
+

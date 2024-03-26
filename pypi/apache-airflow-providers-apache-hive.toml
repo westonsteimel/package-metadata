@@ -1,0 +1,11 @@
+name = "apache-airflow-providers-apache-hive"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "apache-airflow-providers-apache-hive"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "airflow_hive_provider"
+

@@ -1,0 +1,8 @@
+name = "future"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pythoncharmers"
+product = "python-future"
+target_software = "python"
+

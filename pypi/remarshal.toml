@@ -1,0 +1,7 @@
+name = "remarshal"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "remarshal_project"
+product = "remarshal"
+

@@ -1,0 +1,7 @@
+name = "onnx"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "linuxfoundation"
+product = "onnx"
+

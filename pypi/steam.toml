@@ -1,0 +1,7 @@
+name = "steam"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "valvesoftware"
+product = "steam_client"
+

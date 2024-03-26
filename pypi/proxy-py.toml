@@ -1,0 +1,7 @@
+name = "proxy-py"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "proxy.py_project"
+product = "proxy.py"
+

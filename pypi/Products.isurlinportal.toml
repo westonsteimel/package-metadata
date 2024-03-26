@@ -1,9 +1,0 @@
-name = "Products.isurlinportal"
-ecosystem = "pypi"
-source = "https://github.org/plone/Products.isurlinportal"
-
-[[cpe_configurations]]
-vendor = "plone"
-product = "isurlinportal"
-target_software = "plone"
-

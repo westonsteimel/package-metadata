@@ -2,8 +2,11 @@ name = "pyarrow"
 ecosystem = "pypi"
 homepage = "https://arrow.apache.org/"
 source = "https://github.com/apache/arrow"
-
 [[cpe_configurations]]
 vendor = "apache"
 product = "arrow"
+
+[[cpe_configurations]]
+vendor = "apache"
+product = "pyarrow"
 

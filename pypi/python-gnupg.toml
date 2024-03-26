@@ -1,7 +1,6 @@
 name = "python-gnupg"
 ecosystem = "pypi"
 source = "https://bitbucket.org/vinay.sajip/python-gnupg"
-
 [[cpe_configurations]]
 vendor = "python"
 product = "python-gnupg"
@@ -13,3 +12,8 @@ product = "python-gnupg"
 [[cpe_configurations]]
 vendor = "vinay_sajip"
 product = "python-gnupg"
+
+[[cpe_configurations]]
+vendor = "suse"
+product = "backports"
+

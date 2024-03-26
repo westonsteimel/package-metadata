@@ -1,4 +1,4 @@
-name = "FedMsg"
+name = "fedmsg"
 ecosystem = "pypi"
 source = "https://github.com/fedora-infra/fedmsg"
 

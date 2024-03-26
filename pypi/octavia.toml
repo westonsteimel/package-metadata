@@ -1,7 +1,6 @@
 name = "octavia"
 ecosystem = "pypi"
 source = "https://opendev.org/openstack/octavia"
-
 [[cpe_configurations]]
 vendor = "opendev"
 product = "octavia"
@@ -9,3 +8,8 @@ product = "octavia"
 [[cpe_configurations]]
 vendor = "openstack"
 product = "octavia"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "openstack"
+

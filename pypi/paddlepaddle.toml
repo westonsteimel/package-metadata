@@ -1,0 +1,11 @@
+name = "paddlepaddle"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "paddlepaddle"
+product = "paddlepaddle"
+
+[[cpe_configurations]]
+vendor = "paddlepaddle"
+product = "paddle"
+

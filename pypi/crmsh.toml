@@ -1,0 +1,7 @@
+name = "crmsh"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "clusterlabs"
+product = "crmsh"
+

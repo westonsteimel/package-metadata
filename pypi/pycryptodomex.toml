@@ -1,0 +1,8 @@
+name = "pycryptodomex"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pycryptodome"
+product = "pycryptodomex"
+target_software = "python"
+

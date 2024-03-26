@@ -1,7 +1,6 @@
-name = "pywps"
+name = "owslib"
 ecosystem = "pypi"
-source = "https://github.com/geopython/OWSLib"
-
 [[cpe_configurations]]
-vendor = "github"
+vendor = "osgeo"
 product = "owslib"
+

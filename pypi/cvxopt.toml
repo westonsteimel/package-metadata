@@ -1,0 +1,8 @@
+name = "cvxopt"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "cvxopt_project"
+product = "cvxopt"
+target_software = "python"
+

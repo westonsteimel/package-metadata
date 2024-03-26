@@ -1,0 +1,7 @@
+name = "h2o"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "h2o"
+product = "h2o"
+

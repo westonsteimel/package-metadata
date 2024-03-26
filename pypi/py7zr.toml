@@ -1,0 +1,8 @@
+name = "py7zr"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "py7zr_project"
+product = "py7zr"
+target_software = "python"
+

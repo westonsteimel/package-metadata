@@ -1,8 +1,47 @@
 name = "lxml"
 ecosystem = "pypi"
 source = "https://github.com/lxml/lxml"
-
 [[cpe_configurations]]
 vendor = "lxml"
 product = "lxml"
+
+[[cpe_configurations]]
+vendor = "redhat"
+product = "software_collections"
+
+[[cpe_configurations]]
+vendor = "netapp"
+product = "snapcenter"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "communications_offline_mediation_controller"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "zfs_storage_appliance_kit"
+
+[[cpe_configurations]]
+vendor = "netapp"
+product = "solidfire"
+
+[[cpe_configurations]]
+vendor = "netapp"
+product = "solidfire_enterprise_sds"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "communications_cloud_native_core_binding_support_function"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "communications_cloud_native_core_network_exposure_function"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "communications_cloud_native_core_policy"
+
+[[cpe_configurations]]
+vendor = "oracle"
+product = "http_server"
 

@@ -1,0 +1,7 @@
+name = "py2play"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "py2play"
+product = "py2play"
+

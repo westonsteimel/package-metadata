@@ -1,0 +1,7 @@
+name = "borgbackup"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "borgbackup"
+product = "borg"
+

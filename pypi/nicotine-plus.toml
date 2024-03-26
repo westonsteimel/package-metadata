@@ -1,0 +1,7 @@
+name = "nicotine-plus"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "nicotine-plus"
+product = "nicotine\\+"
+

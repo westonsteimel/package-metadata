@@ -1,0 +1,8 @@
+name = "joblib"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "joblib_project"
+product = "joblib"
+target_software = "python"
+

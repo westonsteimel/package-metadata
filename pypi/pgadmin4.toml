@@ -1,0 +1,16 @@
+name = "pgadmin4"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "postgresql"
+product = "pgadmin_4"
+
+[[cpe_configurations]]
+vendor = "pgadmin"
+product = "pgadmin"
+target_software = "postgresql"
+
+[[cpe_configurations]]
+vendor = "postgresql"
+product = "pgadmin"
+

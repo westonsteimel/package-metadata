@@ -1,0 +1,8 @@
+name = "py-xml"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "py-xml_project"
+product = "py-xml"
+target_software = "python"
+

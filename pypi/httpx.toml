@@ -1,0 +1,8 @@
+name = "httpx"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "encode"
+product = "httpx"
+target_software = "python"
+

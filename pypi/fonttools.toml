@@ -1,0 +1,8 @@
+name = "fonttools"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "fonttools"
+product = "fonttools"
+target_software = "python"
+

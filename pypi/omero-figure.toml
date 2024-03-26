@@ -1,7 +1,11 @@
 name = "omero-figure"
 ecosystem = "pypi"
 source = "https://github.com/ome/omero-figure"
-
 [[cpe_configurations]]
 vendor = "openmicroscopy"
 product = "omero-figure"
+
+[[cpe_configurations]]
+vendor = "openmicroscopy"
+product = "omero-web"
+

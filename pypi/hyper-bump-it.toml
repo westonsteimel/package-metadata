@@ -1,0 +1,8 @@
+name = "hyper-bump-it"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "plannigan"
+product = "hyper_bump_it"
+target_software = "python"
+

@@ -1,0 +1,8 @@
+name = "ujson"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "ultrajson_project"
+product = "ultrajson"
+target_software = "python"
+

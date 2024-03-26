@@ -1,0 +1,7 @@
+name = "lti-consumer-xblock"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "openedx"
+product = "xblock-lti-consumer"
+

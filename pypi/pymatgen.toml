@@ -1,0 +1,7 @@
+name = "pymatgen"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "pymatgen"
+product = "pymatgen"
+

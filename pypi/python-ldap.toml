@@ -1,0 +1,7 @@
+name = "python-ldap"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "python-ldap"
+product = "python-ldap"
+

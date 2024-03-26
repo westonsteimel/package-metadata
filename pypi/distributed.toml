@@ -1,0 +1,8 @@
+name = "distributed"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "anaconda"
+product = "dask"
+target_software = "python"
+

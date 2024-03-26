@@ -1,0 +1,7 @@
+name = "nvflare"
+ecosystem = "pypi"
+
+[[cpe_configurations]]
+vendor = "nvidia"
+product = "nvflare"
+
